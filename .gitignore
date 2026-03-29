@@ -14,7 +14,7 @@ last_run.json
 config.json
 
 # Output Files
-perplexity_discover_content.txt
+# perplexity_discover_content.txt (Un-ignored to allow Gemini Web access)
 
 # IDE & Gemini
 .gemini/
