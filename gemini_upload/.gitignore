@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# User Data & Session
+user_data/
+last_run.json
+config.json
+
+# Output Files
+# perplexity_discover_content.txt (Un-ignored to allow Gemini Web access)
+
+# IDE & Gemini
+.gemini/
+.vscode/
+.idea/
+brain/
+
+# OS Files
+.DS_Store
+Thumbs.db
