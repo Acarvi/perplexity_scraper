@@ -1,0 +1,4 @@
+flet
+playwright
+playwright-stealth
+beautifulsoup4
