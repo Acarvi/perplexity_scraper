@@ -1,4 +1,4 @@
-flet
+rich
 playwright
 playwright-stealth
 beautifulsoup4

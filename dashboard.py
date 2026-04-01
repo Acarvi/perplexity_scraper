@@ -6,7 +6,7 @@ import scraper # Our refactored scraper
 
 # Try to disable GPU for Flet to prevent hardware issues reported by user
 os.environ["FLET_FORCE_SOFTWARE_RENDERER"] = "1"
-os.environ["WGPU_BACKEND"] = "gl" 
+# os.environ["WGPU_BACKEND"] = "gl" # Remove to avoid driver crashes
 
 class Dashboard:
     def __init__(self, page: ft.Page):
@@ -141,13 +141,12 @@ async def main(page: ft.Page):
     asyncio.create_task(dashboard.monitor_logs())
 
 if __name__ == "__main__":
-    print("--- Initializing Dashboard ---")
-    # Setting environment variables again just to be sure
+    print("--- Initializing Dashboard (Fixed) ---")
+    # Setting environment variables for stability
     os.environ["FLET_FORCE_SOFTWARE_RENDERER"] = "1"
-    os.environ["WGPU_BACKEND"] = "gl"
     
-    # Use standard view but with software renderer forced above
     try:
-        ft.app(target=main)
+        # Fixed: DeprecationWarning: app() is deprecated since version 0.80.0. Use run() instead.
+        ft.run(main)
     except Exception as e:
         print(f"Error launching Dashboard: {e}")
