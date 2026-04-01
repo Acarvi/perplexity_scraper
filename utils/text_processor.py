@@ -29,8 +29,8 @@ def parse_any_date(date_text):
             except Exception: pass
             break
 
-    # 2. Handle Relative Dates - Improved Regex (\d+)\s*(m|h|d)
-    match = re.search(r'(\d+)\s*(m|h|d|min|hour|day|seg|sec|hora|día)', text)
+    # 2. Handle Relative Dates - Improved Regex
+    match = re.search(r'(\d+)\s*(m|min|mins|h|hr|d|day|hour|hours|day|days|seg|sec|hora|día)', text)
     if not match:
         if "yesterday" in text or "ayer" in text:
             return now - timedelta(days=1)

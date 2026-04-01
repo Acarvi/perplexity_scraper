@@ -18,13 +18,11 @@ CONFIG_FILE = "config.json"
 
 async def process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, task_id):
     async with semaphore:
-        # Use the Magic Command to open the tab
+        # Mandatory Comet Navigation protocol: open via Magic Command
         open_url_in_comet(link)
-        # Wait a bit for the tab to appear and stabilize
-        await asyncio.sleep(2)
+        await asyncio.sleep(3) # Wait for tab activation
         
-        # Connect to the new page in the context
-        # We find the page by its URL
+        # Find the page in the context
         page = None
         for p in context.pages:
             if link in p.url:
@@ -32,34 +30,32 @@ async def process_article(context, link, last_run_time, mode, custom_hours, logg
                 break
         
         if not page:
-            # Fallback: if not found via magic command, use standard navigation
+            # Fallback for robustness
             page = await context.new_page()
+            await page.goto(link, wait_until="domcontentloaded")
             
         try:
             article_data = await scrape_article(page, link, last_run_time, mode, custom_hours, logger)
             if article_data:
-                # Extract entities
+                # Entity Extraction (Data Enrichment)
                 article_data["entities"] = extract_entities(article_data["content"])
                 return article_data
         finally:
-            # Close the page immediately to save resources
             if page: await page.close()
             progress.update(task_id, advance=1)
         return None
 
 async def run_scraper():
-    # Handle --set-path
+    # Flag --set-path handled here
     if "--set-path" in sys.argv:
         try:
             path_idx = sys.argv.index("--set-path") + 1
             new_path = sys.argv[path_idx]
             with open(CONFIG_FILE, "w") as f:
                 json.dump({"browser_path": new_path}, f)
-            print(f"[bold green]Path saved: {new_path}[/bold green]")
+            print(f"Path saved: {new_path}")
             return
-        except Exception as e:
-            print(f"[bold red]Error saving path: {e}[/bold red]")
-            return
+        except Exception: return
 
     show_banner()
     mode, last_run_time, custom_hours = get_user_config()
@@ -84,13 +80,11 @@ async def run_scraper():
                 await scroll_feed(page, 100, last_run_time, mode, custom_hours, logger, progression=progress.tasks[0])
             
             links = await extract_links(page, last_run_time, mode, custom_hours, logger)
-            logger.success(f"Detected {len(links)} new stories to process.")
+            logger.success(f"Detected {len(links)} stories.")
             
-            if not links:
-                logger.info("No work to do. Exiting.")
-                return
+            if not links: return
 
-            # Concurrency with Semaphore(5)
+            # Concurrency Phase
             all_content = []
             with create_progress() as progress:
                 scrape_task = progress.add_task("[green]Scraping articles...", total=len(links))
@@ -99,14 +93,13 @@ async def run_scraper():
                 all_content = [r for r in results if r]
             
             if all_content:
-                # Mode 'a' for cumulative database
+                # Append Mode persistence
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
                         ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        clean_text = clean_noise(item['content'])
-                        f.write(f"[NOTICIA_ID: {ts}]\nTITULO: {item['title']}\nURL: {item['url']}\nRESUMEN_LIMPIO: {clean_text}\n--- FIN DE NOTICIA ---\n\n")
+                        f.write(f"[NOTICIA_ID: {ts}]\nTITULO: {item['title']}\nURL: {item['url']}\n\n")
                 
-                # Structured JSON output
+                # Structured JSON Export
                 existing_data = []
                 if os.path.exists(JSON_OUTPUT):
                     try:
@@ -118,19 +111,16 @@ async def run_scraper():
                 with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
                     json.dump(existing_data, f, indent=4, ensure_ascii=False)
                 
-                logger.success(f"Saved {len(all_content)} results to {OUTPUT_FILE} and {JSON_OUTPUT}")
+                logger.success(f"Saved to {OUTPUT_FILE} and {JSON_OUTPUT}")
                 save_last_run_time(start_time)
             
         except Exception as e:
-            logger.error(f"An unexpected error occurred: {e}")
+            logger.error(f"Error: {e}")
         finally:
             if browser: await browser.close()
-            logger.info("Browser closed.")
 
 if __name__ == "__main__":
     try:
         asyncio.run(run_scraper())
-    except KeyboardInterrupt:
-        print("\n[bold red]Interrupted by user.[/bold red]")
-    except Exception as e:
-        print(f"\n[bold red]Fatal error: {e}[/bold red]")
+    except KeyboardInterrupt: pass
+    except Exception as e: print(f"Fatal error: {e}")

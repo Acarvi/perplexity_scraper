@@ -1,4 +1,6 @@
-rich
 playwright
 playwright-stealth
 beautifulsoup4
+pytest
+pytest-asyncio
+rich

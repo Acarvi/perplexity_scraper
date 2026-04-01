@@ -11,11 +11,20 @@ if not exist venv (
 
 call venv\Scripts\activate
 
-echo Checking dependencies...
+echo Installing/Updating dependencies...
 pip install -r requirements.txt
 
+echo Running mandatory tests...
+python tests/run_all_tests.py
+if %ERRORLEVEL% neq 0 (
+    echo.
+    echo [ERROR] Tests failed. Aborting scrape.
+    pause
+    exit /b %ERRORLEVEL%
+)
+
 echo Starting scraper...
-python scraper.py
+python scraper.py %*
 
 if %ERRORLEVEL% neq 0 (
     echo.

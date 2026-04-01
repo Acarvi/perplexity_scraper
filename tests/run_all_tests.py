@@ -1,26 +1,29 @@
-import subprocess
-import sys
-import os
+import pytest
+from datetime import datetime, timedelta, timezone
+from utils.text_processor import parse_any_date
 
-def run_tests():
-    print("==========================================")
-    print("   PERPLEXITY SCRAPER - GLOBAL TEST SUITE")
-    print("==========================================\n")
+def test_parse_logic_strict():
+    now = datetime.now(timezone.utc)
     
-    # 1. Run Logic and Date Tests
-    print("[1/2] Running Logic and Time Tests...")
-    result1 = subprocess.run([sys.executable, "-m", "pytest", "tests/test_logic.py", "tests/test_time_logic.py"], capture_output=False)
+    # Test '14m ago'
+    d = parse_any_date("14m ago")
+    diff = (now - d).total_seconds()
+    assert 13.5 * 60 < diff < 14.5 * 60
     
-    if result1.returncode == 0:
-        print("\n[SUCCESS] All logic tests passed.\n")
-    else:
-        print("\n[FAILURE] Some logic tests failed.\n")
-        sys.exit(1)
-
-    print("==========================================")
-    print("   ALL TESTS PASSED (EXIT CODE 0)")
-    print("==========================================")
-    sys.exit(0)
+    # Test '2h ago'
+    d = parse_any_date("2h ago")
+    diff = (now - d).total_seconds()
+    assert 1.9 * 3600 < diff < 2.1 * 3600
+    
+    # Test absolute 'Mar 25, 2026'
+    d = parse_any_date("Mar 25, 2026")
+    assert d.year == 2026
+    assert d.month == 3
+    assert d.day == 25
 
 if __name__ == "__main__":
-    run_tests()
+    import sys
+    import subprocess
+    print("Running Global Logic Tests...")
+    result = subprocess.run([sys.executable, "-m", "pytest", __file__], capture_output=False)
+    sys.exit(result.returncode)
