@@ -9,15 +9,12 @@ DEFAULT_COMET_PATH = os.path.join(user_home, "AppData", "Local", "Comet", "Appli
 CONFIG_FILE = os.path.join(os.getcwd(), "config.json")
 USER_DATA_DIR = os.path.join(os.getcwd(), "user_data")
 
-def get_real_browser_path():
-    if os.path.exists(CONFIG_FILE):
-        try:
-            with open(CONFIG_FILE, "r") as f:
-                cfg = json.load(f)
-                if "browser_path" in cfg and os.path.exists(cfg["browser_path"]):
-                    return cfg["browser_path"]
-        except Exception: pass
-    return DEFAULT_COMET_PATH if os.path.exists(DEFAULT_COMET_PATH) else None
+def open_url_in_comet(url):
+    """
+    Opens a URL in a new tab of the existing Comet session using the 'Magic Command'.
+    """
+    cmd = f'cmd /c start "" "C:\\Users\\Acarvi\\Desktop\\Comet.lnk" "{url}"'
+    subprocess.Popen(cmd, shell=True)
 
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None

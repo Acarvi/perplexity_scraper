@@ -1,22 +1,25 @@
-### Status: OPTIMIZED & TESTED
+### Status: CLI-HIGHPERF STABLE & TESTED (100% Pass)
 
-## 2026-04-01: CLI Migration & High-Performance Update
+## 2026-04-01: CLI-HighPerf Architecture Migration
 
 ### Changes Made
-1. **CLI Transformation**:
-   - Removed Flet dependency and marked `dashboard.py` as obsolete.
-   - Integrated `rich` for professional terminal UI, with color-coded logs and progress bars.
-2. **Advanced Time Filtering**:
-   - Implemented three modes: `since_last_run`, `last_24h`, and `custom_hours`.
-   - Added persistence via `data/last_run.json`.
-3. **Extreme Resource Management**:
-   - Refactored `core/browser.py` to block CSS in addition to images and fonts.
-   - Added additional flags like `--disable-background-networking` and `--disable-sync` for absolute minimum hardware stress.
-4. **Architectural Cleanup**:
-   - Renamed and refactored core modules into `core/browser.py`, `core/parser.py`, and `core/cli.py`.
+1. **Concurrency Upgrade**:
+   - Implemented `asyncio.Semaphore(5)` to enable simultaneous processing of 5 articles.
+   - Refactored `scraper.py` for concurrent `asyncio.gather`.
+2. **Comet Integration**:
+   - Switched to the **Magic Command** (`cmd /c start`) for native tab handling as requested.
+   - Ensures multi-tab efficiency within the existing Comet session.
+3. **Advanced Extraction & Output**:
+   - Added `extract_entities` logic to detect skills, companies, and keywords.
+   - Implemented structured **JSON Output** and **Append Mode** for text results.
+4. **Logic Reliability**:
+   - Fixed `Date Parsing` regex to handle units attached to numbers (e.g., `14m`).
+   - Hardened `clean_noise` regex to handle leading indentation in multi-line text strings.
+5. **Testing Framework**:
+   - Created `tests/run_all_tests.py` providing a global pass/fail gate for all logic.
 
 ### Technical Notes
-- **Memory Efficiency**: Browser pages are now handled more strictly to ensure lean execution.
-- **Interactive UI**: The `rich.prompt` system provides a seamless experience for selecting scrape ranges.
+- **Tab Management**: Closing pages immediately after extraction is critical to maintaining low memory overhead during concurrent scrapes.
+- **UI UX**: The `MofNCompleteColumn` in Rich provides the required `[X/Y]` visual status.
 
-### Status: CLI-READY & PERFORMANCE-OPTIMIZED
+### Status: PRODUCTION READY

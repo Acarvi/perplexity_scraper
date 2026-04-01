@@ -81,6 +81,7 @@ def create_progress():
         SpinnerColumn(),
         TextColumn("[progress.description]{task.description}"),
         BarColumn(),
+        MofNCompleteColumn(),
         TaskProgressColumn(),
         console=console,
         transient=True

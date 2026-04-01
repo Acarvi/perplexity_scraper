@@ -3,27 +3,25 @@ from datetime import datetime, timedelta, timezone
 
 def parse_any_date(date_text):
     """
-    Parses both relative (e.g. '14m ago', 'yesterday') and absolute (e.g. 'Mar 25, 2026') dates.
+    Parses both relative (e.g. '14m', '14m ago', 'yesterday') and absolute dates.
+    Improved regex for units attached to numbers.
     """
     now = datetime.now(timezone.utc)
     if not date_text: return now
     
     text = date_text.lower().strip()
     
-    # 1. Handle Absolute Dates (e.g. 'mar 25, 2026' or 'mar 25')
+    # 1. Handle Absolute Dates (e.g. 'mar 25, 2026')
     months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
     for i, month in enumerate(months):
         if month in text:
             try:
-                # Try with year first
                 if "," in text or len(re.findall(r'\d{4}', text)) > 0:
-                    # 'mar 25, 2026'
                     match = re.search(fr'{month}\s+(\d+),?\s+(\d{{4}})', text)
                     if match:
                         day, year = int(match.group(1)), int(match.group(2))
                         return datetime(year, i+1, day, tzinfo=timezone.utc)
                 else:
-                    # 'mar 25' (Assume current year)
                     match = re.search(fr'{month}\s+(\d+)', text)
                     if match:
                         day = int(match.group(1))
@@ -31,23 +29,49 @@ def parse_any_date(date_text):
             except Exception: pass
             break
 
-    # 2. Handle Relative Dates
-    match = re.search(r'(\d+)', text)
+    # 2. Handle Relative Dates - Improved Regex (\d+)\s*(m|h|d)
+    match = re.search(r'(\d+)\s*(m|h|d|min|hour|day|seg|sec|hora|día)', text)
     if not match:
         if "yesterday" in text or "ayer" in text:
             return now - timedelta(days=1)
         return now
         
     val = int(match.group(1))
+    unit = match.group(2)
     
-    if any(re.search(fr'{s}\b', text) for s in ["min", "m", "mins", "minutos"]):
+    if unit in ["m", "min", "mins", "minutos"]:
         return now - timedelta(minutes=val)
-    if any(re.search(fr'{s}\b', text) for s in ["h", "hr", "hrs", "hour", "hours", "hora", "horas"]):
+    if unit in ["h", "hr", "hrs", "hour", "hours", "hora", "horas"]:
         return now - timedelta(hours=val)
-    if any(re.search(fr'{s}\b', text) for s in ["d", "day", "days", "día", "días"]):
+    if unit in ["d", "day", "days", "día", "días"]:
         return now - timedelta(days=val)
+    if unit in ["seg", "sec", "secs"]:
+        return now - timedelta(seconds=val)
         
     return now
+
+def extract_entities(text):
+    """
+    Extracts skills, companies, and technical keywords from text.
+    """
+    if not text: return {"skills": [], "companies": [], "keywords": []}
+    
+    # Basic keyword-based extraction (can be enhanced with NLP)
+    keywords = {
+        "skills": ["python", "javascript", "react", "playwright", "scraping", "ai", "ml", "automation", "api", "cloud"],
+        "companies": ["google", "perplexity", "microsoft", "openai", "meta", "apple", "nvidia", "amazon"],
+        "keywords": ["gpu", "cdp", "browser", "stable", "cli", "concurrency", "performance"]
+    }
+    
+    entities = {"skills": [], "companies": [], "keywords": []}
+    text_lower = text.lower()
+    
+    for category, terms in keywords.items():
+        for term in terms:
+            if re.search(fr'\b{term}\b', text_lower):
+                entities[category].append(term)
+    
+    return entities
 
 def clean_noise(text):
     """
@@ -66,9 +90,9 @@ def clean_noise(text):
         r"(?i)Share\b",
         r"(?i)Model\b",
         r"(?i)Back to Discover\b",
-        r"^\+\d+\s*$",
-        r"^\d+\s*source(s)?\s*$",
-        r"^\d+\s*$",
+        r"^\s*\+\d+\s*$",
+        r"^\s*\d+\s*source(s)?\s*$",
+        r"^\s*\d+\s*$",
         r"(?i)Published\n.*"
     ]
     
