@@ -1,0 +1,90 @@
+==========================================
+   Perplexity Discover Scraper (HighPerf)
+==========================================
+Installing/Updating dependencies...
+Requirement already satisfied: playwright in .\venv\Lib\site-packages (from -r requirements.txt (line 1)) (1.58.0)
+Requirement already satisfied: playwright-stealth in .\venv\Lib\site-packages (from -r requirements.txt (line 2)) (2.0.2)
+Requirement already satisfied: beautifulsoup4 in .\venv\Lib\site-packages (from -r requirements.txt (line 3)) (4.14.3)
+Requirement already satisfied: pytest in .\venv\Lib\site-packages (from -r requirements.txt (line 4)) (9.0.2)
+Requirement already satisfied: pytest-asyncio in .\venv\Lib\site-packages (from -r requirements.txt (line 5)) (1.3.0)
+Requirement already satisfied: rich in .\venv\Lib\site-packages (from -r requirements.txt (line 6)) (14.3.3)
+Requirement already satisfied: pyee<14,>=13 in .\venv\Lib\site-packages (from playwright->-r requirements.txt (line 1)) (13.0.1)
+Requirement already satisfied: greenlet<4.0.0,>=3.1.1 in .\venv\Lib\site-packages (from playwright->-r requirements.txt (line 1)) (3.3.2)
+Requirement already satisfied: typing-extensions in .\venv\Lib\site-packages (from pyee<14,>=13->playwright->-r requirements.txt (line 1)) (4.15.0)
+Requirement already satisfied: soupsieve>=1.6.1 in .\venv\Lib\site-packages (from beautifulsoup4->-r requirements.txt (line 3)) (2.8.3)
+Requirement already satisfied: colorama>=0.4 in .\venv\Lib\site-packages (from pytest->-r requirements.txt (line 4)) (0.4.6)
+Requirement already satisfied: iniconfig>=1.0.1 in .\venv\Lib\site-packages (from pytest->-r requirements.txt (line 4)) (2.3.0)
+Requirement already satisfied: packaging>=22 in .\venv\Lib\site-packages (from pytest->-r requirements.txt (line 4)) (26.0)
+Requirement already satisfied: pluggy<2,>=1.5 in .\venv\Lib\site-packages (from pytest->-r requirements.txt (line 4)) (1.6.0)
+Requirement already satisfied: pygments>=2.7.2 in .\venv\Lib\site-packages (from pytest->-r requirements.txt (line 4)) (2.20.0)
+Requirement already satisfied: markdown-it-py>=2.2.0 in .\venv\Lib\site-packages (from rich->-r requirements.txt (line 6)) (4.0.0)
+Requirement already satisfied: mdurl~=0.1 in .\venv\Lib\site-packages (from markdown-it-py>=2.2.0->rich->-r requirements.txt (line 6)) (0.1.2)
+Running tests...
+============================= test session starts =============================
+platform win32 -- Python 3.13.5, pytest-9.0.2, pluggy-1.6.0
+rootdir: D:\Scripts\perplexity_scraper
+plugins: anyio-4.13.0, asyncio-1.3.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 6 items
+
+tests\test_logic.py ....                                                 [ 66%]
+tests\test_time_logic.py ..                                              [100%]
+
+============================== 6 passed in 0.02s ==============================
+Running Global Logic Tests...
+Starting scraper...
++------------------------------------+
+|                                    |
+|    PERPLEXITY DISCOVER             |
+|    High-Performance CLI Scraper    |
+|                                    |
++------------------------------------+
+              Select Scrape Range              
+ [1]  Since last run (2026-04-01 11:08:53 UTC) 
+ [2]  Last 24 hours                            
+ [3]  Custom hours                             
+Choose mode [1/2/3] (1): Please select one of the available options
+Choose mode [1/2/3] (1): 
+============================================================
+Traceback (most recent call last):
+  File "D:\Scripts\perplexity_scraper\scraper.py", line 126, in <module>
+    asyncio.run(run_scraper())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Acarvi\anaconda3\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Acarvi\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Acarvi\anaconda3\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "D:\Scripts\perplexity_scraper\scraper.py", line 61, in run_scraper
+    mode, last_run_time, custom_hours = get_user_config()
+                                        ~~~~~~~~~~~~~~~^^
+  File "D:\Scripts\perplexity_scraper\core\cli.py", line 51, in get_user_config
+    choice = Prompt.ask("Choose mode", choices=["1", "2", "3"], default="1")
+  File "D:\Scripts\perplexity_scraper\venv\Lib\site-packages\rich\prompt.py", line 149, in ask
+    return _prompt(default=default, stream=stream)
+  File "D:\Scripts\perplexity_scraper\venv\Lib\site-packages\rich\prompt.py", line 292, in __call__
+    value = self.get_input(self.console, prompt, self.password, stream=stream)
+  File "D:\Scripts\perplexity_scraper\venv\Lib\site-packages\rich\prompt.py", line 211, in get_input
+    return console.input(prompt, password=password, stream=stream)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Scripts\perplexity_scraper\venv\Lib\site-packages\rich\console.py", line 2174, in input
+    result = input()
+EOFError: EOF when reading a line
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Scripts\perplexity_scraper\scraper.py", line 131, in <module>
+    print("\U0001f525 FATAL CRASH REPORT \U0001f525")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Acarvi\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f525' in position 0: character maps to <undefined>
+
+[ERROR] Scraper crashed.
+Press any key to continue . . . 

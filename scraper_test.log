@@ -1,0 +1,17 @@
++------------------------------------+
+|                                    |
+|    PERPLEXITY DISCOVER             |
+|    High-Performance CLI Scraper    |
+|                                    |
++------------------------------------+
+              Select Scrape Range              
+ [1]  Since last run (2026-04-01 11:09:50 UTC) 
+ [2]  Last 24 hours                            
+ [3]  Custom hours                             
+Choose mode [1/2/3] (1): (node:40024) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+INFO Comet not detected. Launching in App-Mode: 
+https://www.perplexity.ai/discover
+ERROR Failed to launch comet.exe: [WinError 2] The system cannot find the file 
+specified
+ERROR Could not initialize browser.

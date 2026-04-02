@@ -5,7 +5,7 @@ import subprocess
 from playwright_stealth import Stealth
 
 user_home = os.path.expanduser("~")
-DEFAULT_COMET_PATH = os.path.join(user_home, "AppData", "Local", "Comet", "Application", "comet.exe")
+DEFAULT_COMET_PATH = os.path.join(user_home, "AppData", "Local", "Perplexity", "Comet", "Application", "comet.exe")
 COMET_LNK = r"C:\Users\Acarvi\Desktop\Comet.lnk"
 CONFIG_FILE = os.path.join(os.getcwd(), "config.json")
 USER_DATA_DIR = os.path.join(os.getcwd(), "user_data")

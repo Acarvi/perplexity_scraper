@@ -128,7 +128,7 @@ if __name__ == "__main__":
         pass
     except Exception:
         print("\n" + "="*60)
-        print("🔥 FATAL CRASH REPORT 🔥")
+        print("!!! FATAL CRASH REPORT !!!")
         print("="*60)
         traceback.print_exc()
         print("="*60)
