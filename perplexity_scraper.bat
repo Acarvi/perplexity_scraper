@@ -12,6 +12,10 @@ if not exist venv (
 call venv\Scripts\activate
 set PYTHONPATH=%~dp0
 
+echo Installing/Updating dependencies...
+pip install -r requirements.txt
+python -m playwright install chromium
+
 echo Running tests...
 python tests\run_all_tests.py
 if %ERRORLEVEL% neq 0 (
