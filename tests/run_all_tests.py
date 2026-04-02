@@ -1,5 +1,12 @@
-import pytest
-from datetime import datetime, timedelta, timezone
+import os
+import sys
+
+# Inject root directory into sys.path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+import subprocess
+
+from datetime import datetime, timezone
 from utils.text_processor import parse_any_date
 
 def test_parse_logic_strict():
@@ -22,8 +29,8 @@ def test_parse_logic_strict():
     assert d.day == 25
 
 if __name__ == "__main__":
-    import sys
-    import subprocess
     print("Running Global Logic Tests...")
-    result = subprocess.run([sys.executable, "-m", "pytest", __file__], capture_output=False)
+    # Run all tests in the tests directory to ensure full coverage
+    tests_dir = os.path.dirname(__file__)
+    result = subprocess.run([sys.executable, "-m", "pytest", tests_dir], capture_output=False)
     sys.exit(result.returncode)

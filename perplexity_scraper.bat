@@ -14,6 +14,8 @@ call venv\Scripts\activate
 echo Installing/Updating dependencies...
 pip install -r requirements.txt
 
+set PYTHONPATH=.
+
 echo Running mandatory tests...
 python tests/run_all_tests.py
 if %ERRORLEVEL% neq 0 (

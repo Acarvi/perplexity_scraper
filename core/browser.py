@@ -21,24 +21,38 @@ def open_url_in_comet(url):
 
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
+    discover_url = "https://www.perplexity.ai/discover"
     try:
         # Try to connect to existing instance on port 9222
         browser_running = await p.chromium.connect_over_cdp(f"http://localhost:{port}", timeout=5000)
         logger.info("Connected to existing Comet session via CDP.")
         context = browser_running.contexts[0]
+        # Force navigation to Discover in the current context if needed, or open new tab via Magic Command
         page = context.pages[0] if context.pages else await context.new_page()
         return browser_running, context, page
     except Exception:
-        # If not running, launch it using the magic command
-        logger.info("Comet not detected. Launching via Magic Command...")
-        open_url_in_comet("about:blank")
+        # Restoration of Comet App-Mode: Launch specifically in clean window
+        logger.info(f"Comet not detected. Launching in App-Mode: {discover_url}")
         
+        # Launch comet.exe directly with --app flag and debugging port
+        try:
+            subprocess.Popen([
+                DEFAULT_COMET_PATH, 
+                f"--app={discover_url}", 
+                f"--remote-debugging-port={port}",
+                "--no-first-run",
+                "--no-default-browser-check"
+            ])
+        except Exception as e:
+            logger.error(f"Failed to launch comet.exe: {e}")
+            return None, None, None
+            
         # Give it time to initialize and open the port
-        await asyncio.sleep(6)
+        await asyncio.sleep(8)
         
         try:
-            browser_running = await p.chromium.connect_over_cdp(f"http://localhost:{port}", timeout=15000)
-            logger.info("Successfully connected to CDP after Magic Launch.")
+            browser_running = await p.chromium.connect_over_cdp(f"http://localhost:{port}", timeout=20000)
+            logger.info("Successfully connected to App-Mode session via CDP.")
             context = browser_running.contexts[0]
             page = context.pages[0] if context.pages else await context.new_page()
             
@@ -50,7 +64,7 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
             
             return browser_running, context, page
         except Exception as e:
-            logger.error(f"CDP connection failed after Magic Launch: {e}")
+            logger.error(f"CDP connection failed after App-Mode Launch: {e}")
             return None, None, None
 
 async def check_for_challenges(page, logger):

@@ -1,6 +1,10 @@
 import asyncio
 import sys
 import os
+
+# Inject root directory into sys.path
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 import json
 from datetime import datetime, timezone
 from playwright.async_api import async_playwright
