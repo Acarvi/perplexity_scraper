@@ -11,6 +11,13 @@ from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
 from utils.text_processor import clean_noise, extract_entities
 
+DEBUG_LOG = "debug_scraper.log"
+
+def log_debug(msg):
+    with open(DEBUG_LOG, "a", encoding="utf-8") as f:
+        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        f.write(f"[{ts}] {msg}\n")
+
 OUTPUT_FILE = "perplexity_discover_content.txt"
 JSON_OUTPUT = "perplexity_data.json"
 DISCOVER_URL = "https://www.perplexity.ai/discover"
@@ -70,28 +77,37 @@ async def run_scraper():
             raise RuntimeError("Browser initialization failed fully. Check comet.exe path and port 9222.")
 
         try:
+            log_debug("START")
             logger.info(f"Navigating to {DISCOVER_URL}...")
             await page.goto(DISCOVER_URL, wait_until="domcontentloaded", timeout=60000)
             await check_for_challenges(page, logger)
             
             with create_progress() as progress:
                 scroll_task = progress.add_task("[cyan]Scrolling feed...", total=100)
+                log_debug("BEGIN SCROLLING")
                 await scroll_feed(page, 100, last_run_time, mode, custom_hours, logger, progress=progress, task_id=scroll_task)
+                log_debug("FINISH SCROLLING")
             
             links = await extract_links(page, last_run_time, mode, custom_hours, logger)
             logger.success(f"Detected {len(links)} stories.")
+            log_debug(f"LINKS DISCOVERED: {len(links)}")
             
-            if not links: return
+            if not links:
+                log_debug("EXIT: NO LINKS")
+                return
 
             # Concurrency Phase
             all_content = []
             with create_progress() as progress:
                 scrape_task = progress.add_task("[green]Scraping articles...", total=len(links))
+                log_debug("BEGIN CONCURRENCY PHASE")
                 tasks = [process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, scrape_task) for link in links]
                 results = await asyncio.gather(*tasks)
                 all_content = [r for r in results if r]
+                log_debug(f"ARTICLE SCRAPING DONE. SUCCESSFUL: {len(all_content)}")
             
             if all_content:
+                log_debug("SAVING RESULTS")
                 # Append Mode persistence
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
@@ -112,10 +128,18 @@ async def run_scraper():
                 
                 logger.success(f"Saved to {OUTPUT_FILE} and {JSON_OUTPUT}")
                 save_last_run_time(start_time)
+                log_debug("WORKSPACE LOGGED AND SAVED")
+            
+            print("\n" + "="*40)
+            print("SCRAPER WORK COMPLETED 100%")
+            print("="*40)
+            input("Press Enter to close the terminal and exit...")
             
         except Exception as e:
+            log_debug(f"FATAL ERROR: {e}")
             logger.error(f"Error: {e}")
         finally:
+            log_debug("CLOSING BROWSER")
             if browser: await browser.close()
 
 if __name__ == "__main__":
