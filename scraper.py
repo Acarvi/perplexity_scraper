@@ -29,20 +29,27 @@ CONFIG_FILE = "config.json"
 
 async def process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, task_id, category):
     async with semaphore:
-        # Mandatory Comet Navigation protocol: open via Magic Command
+        # Launch standalone App-Mode window
         open_url_in_comet(link)
-        await asyncio.sleep(4) # Wait for tab activation
+        await asyncio.sleep(6) # Increased wait for OS window creation and CDP registration
         
-        # Find the page in the context
+        # Identify the new window in the context
         page = None
-        for p in context.pages:
-            if link in p.url or p.url in link:
-                page = p
-                break
+        # Try to find exactly matching URL or a blank page that just opened
+        for _ in range(5): # Retry loop to catch the window
+            for p in context.pages:
+                if link in p.url or p.url in link:
+                    page = p
+                    break
+            if page: break
+            await asyncio.sleep(2)
         
         if not page:
-            # Fallback for robustness
-            page = await context.new_page()
+            # Final fallback: take the newest page if we can't match URL
+            if len(context.pages) > 1:
+                page = context.pages[-1]
+            else:
+                return None # Skip if window didn't register
             
         try:
             article_data = await scrape_article(page, link, last_run_time, mode, custom_hours, logger, category=category)

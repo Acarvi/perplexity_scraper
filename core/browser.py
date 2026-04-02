@@ -12,12 +12,18 @@ USER_DATA_DIR = os.path.join(os.getcwd(), "user_data")
 
 def open_url_in_comet(url):
     """
-    Opens a URL in a new tab of the existing Comet session using the 'Magic Command'.
-    Mandatory per skill_comet_navigation.md.
+    Opens a URL in a new clean App-Mode window using direct executable launch.
+    This mimics a human opening a standalone link and bypasses CF better than tabs.
     """
-    # Exact magic command from directive
-    cmd = f'cmd /c start "" "{COMET_LNK}" "{url}"'
-    os.system(cmd)
+    cmd = [
+        DEFAULT_COMET_PATH,
+        f"--app={url}",
+        f"--user-data-dir={USER_DATA_DIR}",
+        "--no-first-run",
+        "--no-default-browser-check",
+        "--disable-gpu"
+    ]
+    subprocess.Popen(cmd)
 
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
