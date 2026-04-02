@@ -22,7 +22,7 @@ def log_debug(msg):
         ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         f.write(f"[{ts}] {msg}\n")
 
-OUTPUT_FILE = "perplexity_discover_content.txt"
+OUTPUT_FILE = "perplexity_discover_content.md"
 JSON_OUTPUT = "perplexity_data.json"
 DISCOVER_URL = "https://www.perplexity.ai/discover"
 CONFIG_FILE = "config.json"
@@ -34,7 +34,7 @@ async def process_article(context, link, last_run_time, mode, custom_hours, logg
         
         try:
             # Combined Page Scraping Handshake
-            article_data = await scrape_article(page, link, last_run_time, mode, custom_hours, logger, category=category)
+            article_data = await scrape_article(context, page, link, last_run_time, mode, custom_hours, logger, category=category)
             if article_data:
                 # Entity Extraction (Data Enrichment)
                 article_data["entities"] = extract_entities(article_data["content"])
@@ -67,7 +67,7 @@ async def run_scraper():
     all_content = []
     
     async with async_playwright() as p:
-        browser, context, page = await launch_comet(p, headless=False, logger=logger)
+        browser_running, context, page = await launch_comet(p, headless=False, logger=logger)
         if not page:
             raise RuntimeError("Browser initialization failed. Check comet.exe path.")
 
@@ -99,23 +99,22 @@ async def run_scraper():
                     all_content.extend(cat_results)
             
             if all_content:
-                # NotebookLM Structured TXT Export
+                # NotebookLM Structured Markdown Export
                 log_debug("STEP: Formatting for NotebookLM")
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(f"\n{'='*60}\n")
-                        f.write(f"### CATEGORÍA: {item['category']}\n")
-                        f.write(f"## TÍTULO: {item['title']}\n")
-                        f.write(f"FECHA: {item['date']} | URL: {item['url']}\n")
-                        f.write(f"{'-'*40}\n")
-                        f.write(f"CONTENIDO: {item['content']}\n\n")
+                        f.write(f"# CATEGORÍA: [{item['category']}]\n\n")
+                        f.write(f"## TÍTULO: [{item['title']}]\n")
+                        f.write(f"**Fecha:** [{item['date']}] | **URL:** [{item['url']}]\n\n")
+                        f.write(f"### Contenido Principal\n")
+                        f.write(f"{item['content']}\n\n")
                         
                         if item.get('related_stories'):
-                            f.write(f"NOTICIAS RELACIONADAS:\n")
+                            f.write(f"### Noticias Relacionadas y Contexto\n")
                             for rel in item['related_stories']:
-                                f.write(f"- {rel['title']} ({rel['url']})\n")
-                                f.write(f"  RESUMEN: {rel.get('summary', 'Sin resumen.')}\n\n")
-                        f.write(f"{'='*60}\n")
+                                f.write(f"#### [{rel['title']}] ({rel['url']})\n")
+                                f.write(f"{rel.get('content', 'Sin contenido extraído.')}\n\n")
+                        f.write(f"---\n\n")
                 
                 # Structured JSON Export
                 existing_data = []
@@ -141,7 +140,9 @@ async def run_scraper():
             logger.error(f"Global Loop Error: {e}")
             log_debug(f"CRASH: {e}")
         finally:
-            if browser: await browser.close()
+            if browser_running:
+                await browser_running.close()
+                log_debug("STEP: Comet Browser closed successfully.")
 
 if __name__ == "__main__":
     import traceback

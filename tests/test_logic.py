@@ -75,8 +75,8 @@ def test_is_recent_enough():
     assert is_ok is True
 
 def test_notebooklm_hierarchy_labels():
-    labels = ["### CATEGORÍA", "## TÍTULO", "FECHA:", "CONTENIDO:", "NOTICIAS RELACIONADAS:"]
+    labels = ["# CATEGORÍA", "## TÍTULO", "### Contenido Principal", "### Noticias Relacionadas y Contexto"]
     # Mock text logic
-    text = "### CATEGORÍA: Tech\n## TÍTULO: AI Rises"
-    for label in labels[:2]:
+    text = "# CATEGORÍA: [Tech]\n## TÍTULO: [AI Rises]\n### Contenido Principal\nThis is content.\n### Noticias Relacionadas y Contexto\n#### [Rel] (link)"
+    for label in labels:
         assert label in text

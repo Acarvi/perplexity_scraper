@@ -25,3 +25,7 @@ brain/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Project Cleanup
+logs/
+notebooklm_automation_plan.md

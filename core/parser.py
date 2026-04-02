@@ -6,7 +6,7 @@ from utils.text_processor import is_recent_enough, clean_noise
 ARTICLE_WAIT = 3
 BASE_URL = "https://www.perplexity.ai"
 
-async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, category="Uncategorized"):
+async def scrape_article(context, page, url, last_run_time, mode, custom_hours, logger, category="Uncategorized"):
     logger.info(f"Deep Scraping [{category}]: {url}")
     try:
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
@@ -46,19 +46,28 @@ async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, c
         }""")
         
         deep_related = []
-        # Limit to top 3 related for performance
+        # Support deep scraping of related stories in new tabs
         for rel in related_links[:3]:
+            rel_page = None
             try:
-                # Navigate in SAME tab to save memory (we already have parent content)
-                logger.info(f"  -> Deep Dive: {rel['title']}")
-                await page.goto(rel['url'], wait_until="domcontentloaded", timeout=20000)
+                logger.info(f"  -> Deep Related Scraping: {rel['title']}")
+                rel_page = await context.new_page()
+                await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
                 await asyncio.sleep(2)
-                rel_content_loc = page.locator('.prose, [dir="auto"], article, main').first
+                
+                rel_content_loc = rel_page.locator('.prose, [dir="auto"], article, main').first
                 rel_text = await (rel_content_loc.inner_text() if await rel_content_loc.count() > 0 else "No content.")
-                # Basic summarization: take first 2 paragraphs or 500 chars
-                summary = rel_text[:500].strip() + "..."
-                deep_related.append({"title": rel['title'], "url": rel['url'], "summary": summary})
-            except: pass
+                
+                deep_related.append({
+                    "title": rel['title'], 
+                    "url": rel['url'], 
+                    "content": rel_text.strip()
+                })
+            except Exception as e:
+                logger.warning(f"Failed to deep scrape related story: {e}")
+            finally:
+                if rel_page:
+                    await rel_page.close()
         
         return {
             "url": url, 
