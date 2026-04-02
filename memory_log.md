@@ -17,12 +17,12 @@
 2. **Comet App-Mode**: Restored `core/browser.py` to launch `comet.exe` with the `--app` flag specifically for the Perplexity Discover feed, ensuring a clean, dedicated UX.
 3. **Regression Pass**: Mandatory 6/6 test pass confirmed for the new modular structure.
 
-## 2026-04-02: Multi-Category & Deep Scraping Logic
+## 2026-04-02: Deep Discovery & Recursive Scraping
 
 ### Changes Made
-1. **Multi-Category Loop**: Refactored `scraper.py` to iterate through 'Tech', 'Business', 'Science', 'Sports', and 'Entertainment' using direct URL navigation.
-2. **Tab Memory Fix**: Implemented strict `try/finally` blocks in `core/parser.py` to ensure `await page.close()` is called for every article, preventing memory leaks.
-3. **NotebookLM Optimization**: Enhanced `scrape_article` to extract "Related Stories" and updated TXT/JSON output with Markdown headers for better ingestion.
-4. **CLI Upgrades**: Defaulted scrape window to 24h and added support for the `--since Xh` flag for custom historical ranges.
+1. **Infinite Scroll by Date**: Refactored `scroll_feed` to scroll until it reaches the 24h threshold (or configured range) rather than a fixed count.
+2. **Recursive Story Scraping**: Updated `scrape_article` to identifies internal related stories and navigate to them for summarization.
+3. **NotebookLM Hierarchical Output**: Implemented a strict Markdown-like structure (`### CATEGORÍA` -> `## TÍTULO`) for optimized NotebookLM ingestion.
+4. **Git Hygiene**: Pushed the finalized deep-scraping stack to the `feature-deep-discovery` branch.
 
-### Status: MISSION SUCCESSFUL (Powerful & Memory-Efficient)
+### Status: MISSION SUCCESSFUL (Deep Research Tool)

@@ -104,16 +104,17 @@ async def run_scraper():
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
                         f.write(f"\n{'='*60}\n")
-                        f.write(f"### CATEGORY: {item['category']}\n")
-                        f.write(f"TITLE: {item['title']}\n")
-                        f.write(f"DATE: {item['date']}\n")
-                        f.write(f"URL: {item['url']}\n")
-                        f.write(f"{'-'*60}\n")
-                        f.write(f"{item['content']}\n\n")
+                        f.write(f"### CATEGORÍA: {item['category']}\n")
+                        f.write(f"## TÍTULO: {item['title']}\n")
+                        f.write(f"FECHA: {item['date']} | URL: {item['url']}\n")
+                        f.write(f"{'-'*40}\n")
+                        f.write(f"CONTENIDO: {item['content']}\n\n")
+                        
                         if item.get('related_stories'):
-                            f.write(f"#### RELATED LINKS:\n")
+                            f.write(f"NOTICIAS RELACIONADAS:\n")
                             for rel in item['related_stories']:
                                 f.write(f"- {rel['title']} ({rel['url']})\n")
+                                f.write(f"  RESUMEN: {rel.get('summary', 'Sin resumen.')}\n\n")
                         f.write(f"{'='*60}\n")
                 
                 # Structured JSON Export

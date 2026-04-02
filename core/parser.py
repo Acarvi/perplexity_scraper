@@ -7,7 +7,7 @@ ARTICLE_WAIT = 3
 BASE_URL = "https://www.perplexity.ai"
 
 async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, category="Uncategorized"):
-    logger.info(f"Scraping [{category}]: {url}")
+    logger.info(f"Deep Scraping [{category}]: {url}")
     try:
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(ARTICLE_WAIT) 
@@ -36,7 +36,7 @@ async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, c
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
         content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
         
-        # Related Stories extraction
+        # Deep Extraction: Related Stories Summarization
         related_links = await page.evaluate("""() => {
             const links = Array.from(document.querySelectorAll('a[href*="/discover/"]'));
             return links.map(a => ({
@@ -45,13 +45,28 @@ async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, c
             })).filter(l => l.title.length > 5 && !l.url.endsWith('/discover'));
         }""")
         
+        deep_related = []
+        # Limit to top 3 related for performance
+        for rel in related_links[:3]:
+            try:
+                # Navigate in SAME tab to save memory (we already have parent content)
+                logger.info(f"  -> Deep Dive: {rel['title']}")
+                await page.goto(rel['url'], wait_until="domcontentloaded", timeout=20000)
+                await asyncio.sleep(2)
+                rel_content_loc = page.locator('.prose, [dir="auto"], article, main').first
+                rel_text = await (rel_content_loc.inner_text() if await rel_content_loc.count() > 0 else "No content.")
+                # Basic summarization: take first 2 paragraphs or 500 chars
+                summary = rel_text[:500].strip() + "..."
+                deep_related.append({"title": rel['title'], "url": rel['url'], "summary": summary})
+            except: pass
+        
         return {
             "url": url, 
             "title": title_text, 
             "content": content_text, 
             "date": date_text,
             "category": category,
-            "related_stories": related_links[:5] # Limit to top 5
+            "related_stories": deep_related
         }
     except Exception as e:
         logger.error(f"Error scraping {url}: {e}")
@@ -63,7 +78,7 @@ async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, c
         except: pass
 
 async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logger, progress, task_id):
-    logger.info("Discovering new stories...")
+    logger.info("Deep Discovering new stories...")
     scroll_count = 0
     stuck_count = 0
     last_timestamp = None
@@ -73,11 +88,12 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
         scroll_count += 1
         progress.update(task_id, total=max_scrolls, completed=scroll_count, description=f"Scrolling ({scroll_count}/{max_scrolls})")
         
-        await page.evaluate("window.scrollBy(0, 1000)")
-        await asyncio.sleep(1.5)
+        await page.evaluate("window.scrollBy(0, 2000)") # Increased scroll jump
+        await asyncio.sleep(2)
         
+        # Date Check Logic
         current_timestamp = await page.evaluate("""() => {
-            const elements = Array.from(document.querySelectorAll('span, time'));
+            const elements = Array.from(document.querySelectorAll('span, time, div'));
             const timePattern = /\\d+\\s*(m|h|d|min|hour|day|seg|sec|hora|día)|yesterday|ayer|ago|hace/i;
             const matches = elements.filter(el => timePattern.test(el.innerText));
             return matches.length > 0 ? matches[matches.length - 1].innerText.trim() : null;
@@ -93,10 +109,13 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
                 
             is_rec, t_str = is_recent_enough(current_timestamp, last_run_time, mode=mode, custom_hours=custom_hours)
             if not is_rec:
+                logger.info(f"Reached date threshold: {t_str}")
                 reached_end = True
         else:
             stuck_count += 1
             if stuck_count >= 5: break
+    
+    return reached_end
 
 async def extract_links(page, last_run_time, mode, custom_hours, logger):
     story_data = await page.evaluate("""() => {

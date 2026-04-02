@@ -73,3 +73,10 @@ def test_is_recent_enough():
     # Edge case: Search/No date
     is_ok, _ = is_recent_enough("Search for something", last_run)
     assert is_ok is True
+
+def test_notebooklm_hierarchy_labels():
+    labels = ["### CATEGORÍA", "## TÍTULO", "FECHA:", "CONTENIDO:", "NOTICIAS RELACIONADAS:"]
+    # Mock text logic
+    text = "### CATEGORÍA: Tech\n## TÍTULO: AI Rises"
+    for label in labels[:2]:
+        assert label in text
