@@ -22,17 +22,16 @@ def open_url_in_comet(url):
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
     discover_url = "https://www.perplexity.ai/discover"
+    
+    # Pre-check if port 9222 is already open
     try:
-        # Try to connect to existing instance on port 9222
         browser_running = await p.chromium.connect_over_cdp(f"http://localhost:{port}", timeout=5000)
-        logger.info("Connected to existing Comet session via CDP.")
+        logger.success("Connected to existing Comet session via CDP.")
         context = browser_running.contexts[0]
-        # Force navigation to Discover in the current context if needed, or open new tab via Magic Command
         page = context.pages[0] if context.pages else await context.new_page()
         return browser_running, context, page
     except Exception:
-        # Restoration of Comet App-Mode: Launch specifically in clean window
-        logger.info(f"Comet not detected. Launching in App-Mode: {discover_url}")
+        logger.info(f"Comet not detected on port {port}. Launching in App-Mode...")
         
         # Launch comet.exe directly with provided clean UX flags
         try:
@@ -46,29 +45,37 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                 "--disable-gpu"
             ]
             subprocess.Popen(cmd)
+            logger.info("Comet process started. Waiting for initialization...")
         except Exception as e:
             logger.error(f"Failed to launch comet.exe: {e}")
             return None, None, None
             
-        # Give it time to initialize and open the port
-        await asyncio.sleep(8)
-        
-        try:
-            browser_running = await p.chromium.connect_over_cdp(f"http://localhost:{port}", timeout=20000)
-            logger.info("Successfully connected to App-Mode session via CDP.")
-            context = browser_running.contexts[0]
-            page = context.pages[0] if context.pages else await context.new_page()
+        # Retry loop for CDP connection (3 attempts)
+        for attempt in range(1, 4):
+            wait_time = 5 + (attempt * 3) # Jittered wait
+            logger.info(f"Connection attempt {attempt}/3 (Waiting {wait_time}s for port {port})...")
+            await asyncio.sleep(wait_time)
             
-            stealth = Stealth()
-            await stealth.apply_stealth_async(page)
-            
-            # Strict resource blocking
-            await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", lambda route: route.abort())
-            
-            return browser_running, context, page
-        except Exception as e:
-            logger.error(f"CDP connection failed after App-Mode Launch: {e}")
-            return None, None, None
+            try:
+                browser_running = await p.chromium.connect_over_cdp(f"http://localhost:{port}", timeout=15000)
+                logger.success("Successfully connected to App-Mode session via CDP.")
+                context = browser_running.contexts[0]
+                page = context.pages[0] if context.pages else await context.new_page()
+                
+                stealth = Stealth()
+                await stealth.apply_stealth_async(page)
+                
+                # Strict resource blocking
+                await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", lambda route: route.abort())
+                
+                return browser_running, context, page
+            except Exception as e:
+                if attempt == 3:
+                    logger.error(f"CDP connection failed after {attempt} attempts: {e}")
+                else:
+                    logger.warning(f"Attempt {attempt} failed, retrying...")
+                    
+        return None, None, None
 
 async def check_for_challenges(page, logger):
     title = await page.title()

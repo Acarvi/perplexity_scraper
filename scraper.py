@@ -67,8 +67,7 @@ async def run_scraper():
     async with async_playwright() as p:
         browser, context, page = await launch_comet(p, headless=False, logger=logger)
         if not page:
-            logger.error("Could not initialize browser.")
-            return
+            raise RuntimeError("Browser initialization failed fully. Check comet.exe path and port 9222.")
 
         try:
             logger.info(f"Navigating to {DISCOVER_URL}...")
