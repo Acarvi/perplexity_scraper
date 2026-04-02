@@ -1,5 +1,9 @@
 import os
 import sys
+
+# Force the parent directory (project root) into the path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import subprocess
 
 from datetime import datetime, timezone

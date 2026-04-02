@@ -45,7 +45,7 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                 "--disable-gpu"
             ]
             subprocess.Popen(cmd)
-            logger.info("Comet process started. Waiting for initialization...")
+            logger.info("Comet opened in clean App Box mode.")
         except Exception as e:
             logger.error(f"Failed to launch comet.exe: {e}")
             return None, None, None

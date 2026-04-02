@@ -6,8 +6,8 @@ from utils.text_processor import is_recent_enough, clean_noise
 ARTICLE_WAIT = 3
 BASE_URL = "https://www.perplexity.ai"
 
-async def scrape_article(page, url, last_run_time, mode, custom_hours, logger):
-    logger.info(f"Scraping: {url}")
+async def scrape_article(page, url, last_run_time, mode, custom_hours, logger, category="Uncategorized"):
+    logger.info(f"Scraping [{category}]: {url}")
     try:
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(ARTICLE_WAIT) 
@@ -25,20 +25,42 @@ async def scrape_article(page, url, last_run_time, mode, custom_hours, logger):
             if meta_area:
                 date_elem = meta_area.find(string=re.compile(r"(ago|hace|minutes|hours|days|ayer|yesterday|minuto|hora|día)", re.I))
         if date_elem:
-            date_text = date_elem.strip()
+            date_text = date_elem.get_text().strip()
             
         is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
         if not is_ok:
             logger.warning(f"SKIPPING: '{title_text}' is outside range ({p_time}).")
             return None
 
+        # Content extraction
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
         content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
-            
-        return {"url": url, "title": title_text, "content": content_text}
+        
+        # Related Stories extraction
+        related_links = await page.evaluate("""() => {
+            const links = Array.from(document.querySelectorAll('a[href*="/discover/"]'));
+            return links.map(a => ({
+                title: a.innerText.trim(),
+                url: a.href
+            })).filter(l => l.title.length > 5 && !l.url.endsWith('/discover'));
+        }""")
+        
+        return {
+            "url": url, 
+            "title": title_text, 
+            "content": content_text, 
+            "date": date_text,
+            "category": category,
+            "related_stories": related_links[:5] # Limit to top 5
+        }
     except Exception as e:
         logger.error(f"Error scraping {url}: {e}")
         return None
+    finally:
+        # Crucial Memory Fix: Ensure tab closes no matter what
+        try:
+            await page.close()
+        except: pass
 
 async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logger, progress, task_id):
     logger.info("Discovering new stories...")

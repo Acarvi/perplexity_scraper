@@ -1,6 +1,10 @@
 import asyncio
 import sys
 import os
+
+# Force the current directory into the path
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+
 import json
 from datetime import datetime, timezone
 from playwright.async_api import async_playwright
@@ -23,96 +27,105 @@ JSON_OUTPUT = "perplexity_data.json"
 DISCOVER_URL = "https://www.perplexity.ai/discover"
 CONFIG_FILE = "config.json"
 
-async def process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, task_id):
+async def process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, task_id, category):
     async with semaphore:
         # Mandatory Comet Navigation protocol: open via Magic Command
         open_url_in_comet(link)
-        await asyncio.sleep(3) # Wait for tab activation
+        await asyncio.sleep(4) # Wait for tab activation
         
         # Find the page in the context
         page = None
         for p in context.pages:
-            if link in p.url:
+            if link in p.url or p.url in link:
                 page = p
                 break
         
         if not page:
             # Fallback for robustness
             page = await context.new_page()
-            await page.goto(link, wait_until="domcontentloaded")
             
         try:
-            article_data = await scrape_article(page, link, last_run_time, mode, custom_hours, logger)
+            article_data = await scrape_article(page, link, last_run_time, mode, custom_hours, logger, category=category)
             if article_data:
                 # Entity Extraction (Data Enrichment)
                 article_data["entities"] = extract_entities(article_data["content"])
                 return article_data
         finally:
-            if page: await page.close()
             progress.update(task_id, advance=1)
+            # Re-confirm closure in process_article for safety
+            try:
+                await page.close()
+            except: pass
         return None
 
 async def run_scraper():
-    # Flag --set-path handled here
-    if "--set-path" in sys.argv:
-        try:
-            path_idx = sys.argv.index("--set-path") + 1
-            new_path = sys.argv[path_idx]
-            with open(CONFIG_FILE, "w") as f:
-                json.dump({"browser_path": new_path}, f)
-            print(f"Path saved: {new_path}")
-            return
-        except Exception: return
-
     show_banner()
-    mode, last_run_time, custom_hours = get_user_config()
+    mode, start_date, custom_hours = get_user_config()
     
     logger = CLILogger()
     start_time = datetime.now(timezone.utc)
     semaphore = asyncio.Semaphore(5)
     
+    categories = [
+        {"name": "General", "path": "top"},
+        {"name": "Tech", "path": "tech"},
+        {"name": "Business", "path": "business"},
+        {"name": "Science", "path": "science"},
+        {"name": "Sports", "path": "sports"},
+        {"name": "Entertainment", "path": "entertainment"}
+    ]
+    
+    all_content = []
+    
     async with async_playwright() as p:
         browser, context, page = await launch_comet(p, headless=False, logger=logger)
         if not page:
-            raise RuntimeError("Browser initialization failed fully. Check comet.exe path and port 9222.")
+            raise RuntimeError("Browser initialization failed. Check comet.exe path.")
 
         try:
-            log_debug("START")
-            logger.info(f"Navigating to {DISCOVER_URL}...")
-            await page.goto(DISCOVER_URL, wait_until="domcontentloaded", timeout=60000)
-            await check_for_challenges(page, logger)
-            
-            with create_progress() as progress:
-                scroll_task = progress.add_task("[cyan]Scrolling feed...", total=100)
-                log_debug("BEGIN SCROLLING")
-                await scroll_feed(page, 100, last_run_time, mode, custom_hours, logger, progress=progress, task_id=scroll_task)
-                log_debug("FINISH SCROLLING")
-            
-            links = await extract_links(page, last_run_time, mode, custom_hours, logger)
-            logger.success(f"Detected {len(links)} stories.")
-            log_debug(f"LINKS DISCOVERED: {len(links)}")
-            
-            if not links:
-                log_debug("EXIT: NO LINKS")
-                return
+            for cat in categories:
+                cat_name = cat["name"]
+                cat_url = f"https://www.perplexity.ai/discover/{cat.get('path', 'top')}"
+                
+                logger.info(f"--- SCRAPING CATEGORY: {cat_name} ---")
+                log_debug(f"STEP: Navigating to {cat_url}")
+                
+                await page.goto(cat_url, wait_until="domcontentloaded", timeout=60000)
+                await check_for_challenges(page, logger)
+                
+                with create_progress() as progress:
+                    scroll_task = progress.add_task(f"[cyan]Scrolling {cat_name}...", total=100)
+                    await scroll_feed(page, 30, start_date, mode, custom_hours, logger, progress=progress, task_id=scroll_task)
+                
+                links = await extract_links(page, start_date, mode, custom_hours, logger)
+                logger.success(f"Found {len(links)} links in {cat_name}.")
+                
+                if not links: continue
 
-            # Concurrency Phase
-            all_content = []
-            with create_progress() as progress:
-                scrape_task = progress.add_task("[green]Scraping articles...", total=len(links))
-                log_debug("BEGIN CONCURRENCY PHASE")
-                tasks = [process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, scrape_task) for link in links]
-                results = await asyncio.gather(*tasks)
-                all_content = [r for r in results if r]
-                log_debug(f"ARTICLE SCRAPING DONE. SUCCESSFUL: {len(all_content)}")
+                with create_progress() as progress:
+                    scrape_task = progress.add_task(f"[green]Scraping {cat_name}...", total=len(links))
+                    tasks = [process_article(context, link, start_date, mode, custom_hours, logger, semaphore, progress, scrape_task, cat_name) for link in links]
+                    results = await asyncio.gather(*tasks)
+                    cat_results = [r for r in results if r]
+                    all_content.extend(cat_results)
             
             if all_content:
-                log_debug("SAVING RESULTS")
-                # Append Mode persistence
+                # NotebookLM Structured TXT Export
+                log_debug("STEP: Formatting for NotebookLM")
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        f.write(f"[NOTICIA_ID: {ts}]\nTITULO: {item['title']}\nURL: {item['url']}\n\n")
+                        f.write(f"\n{'='*60}\n")
+                        f.write(f"### CATEGORY: {item['category']}\n")
+                        f.write(f"TITLE: {item['title']}\n")
+                        f.write(f"DATE: {item['date']}\n")
+                        f.write(f"URL: {item['url']}\n")
+                        f.write(f"{'-'*60}\n")
+                        f.write(f"{item['content']}\n\n")
+                        if item.get('related_stories'):
+                            f.write(f"#### RELATED LINKS:\n")
+                            for rel in item['related_stories']:
+                                f.write(f"- {rel['title']} ({rel['url']})\n")
+                        f.write(f"{'='*60}\n")
                 
                 # Structured JSON Export
                 existing_data = []
@@ -126,20 +139,18 @@ async def run_scraper():
                 with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
                     json.dump(existing_data, f, indent=4, ensure_ascii=False)
                 
-                logger.success(f"Saved to {OUTPUT_FILE} and {JSON_OUTPUT}")
+                logger.success(f"Total Stories Scraped: {len(all_content)}")
                 save_last_run_time(start_time)
-                log_debug("WORKSPACE LOGGED AND SAVED")
             
             print("\n" + "="*40)
-            print("SCRAPER WORK COMPLETED 100%")
+            print("MULTICATEGORY SCRAPE COMPLETE!")
             print("="*40)
-            input("Press Enter to close the terminal and exit...")
+            input("Press Enter to close results...")
             
         except Exception as e:
-            log_debug(f"FATAL ERROR: {e}")
-            logger.error(f"Error: {e}")
+            logger.error(f"Global Loop Error: {e}")
+            log_debug(f"CRASH: {e}")
         finally:
-            log_debug("CLOSING BROWSER")
             if browser: await browser.close()
 
 if __name__ == "__main__":
