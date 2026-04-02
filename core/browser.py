@@ -34,15 +34,18 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
         # Restoration of Comet App-Mode: Launch specifically in clean window
         logger.info(f"Comet not detected. Launching in App-Mode: {discover_url}")
         
-        # Launch comet.exe directly with --app flag and debugging port
+        # Launch comet.exe directly with provided clean UX flags
         try:
-            subprocess.Popen([
-                DEFAULT_COMET_PATH, 
-                f"--app={discover_url}", 
+            cmd = [
+                DEFAULT_COMET_PATH,
+                f"--app={discover_url}", # CLEAN UX BOX
                 f"--remote-debugging-port={port}",
+                f"--user-data-dir={USER_DATA_DIR}",
                 "--no-first-run",
-                "--no-default-browser-check"
-            ])
+                "--no-default-browser-check",
+                "--disable-gpu"
+            ]
+            subprocess.Popen(cmd)
         except Exception as e:
             logger.error(f"Failed to launch comet.exe: {e}")
             return None, None, None

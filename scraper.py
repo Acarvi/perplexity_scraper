@@ -2,8 +2,8 @@ import asyncio
 import sys
 import os
 
-# Inject root directory into sys.path
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+# Force the current directory into the path
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
 import json
 from datetime import datetime, timezone
@@ -124,7 +124,15 @@ async def run_scraper():
             if browser: await browser.close()
 
 if __name__ == "__main__":
+    import traceback
     try:
         asyncio.run(run_scraper())
-    except KeyboardInterrupt: pass
-    except Exception as e: print(f"Fatal error: {e}")
+    except KeyboardInterrupt:
+        pass
+    except Exception:
+        print("\n" + "="*50)
+        print("CRITICAL SYSTEM ERROR (Traceback below)")
+        print("="*50)
+        traceback.print_exc()
+        print("="*50 + "\n")
+        sys.exit(1)
