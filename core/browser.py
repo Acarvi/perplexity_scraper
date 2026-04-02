@@ -10,20 +10,13 @@ COMET_LNK = r"C:\Users\Acarvi\Desktop\Comet.lnk"
 CONFIG_FILE = os.path.join(os.getcwd(), "config.json")
 USER_DATA_DIR = os.path.join(os.getcwd(), "user_data")
 
-def open_url_in_comet(url):
+def open_url_in_comet(url, logger=None):
     """
-    Opens a URL in a new clean App-Mode window using direct executable launch.
-    This mimics a human opening a standalone link and bypasses CF better than tabs.
+    Deprecated: Using internal Playwright tabs for stability.
+    Standalone windows previously caused process-level crashes.
     """
-    cmd = [
-        DEFAULT_COMET_PATH,
-        f"--app={url}",
-        f"--user-data-dir={USER_DATA_DIR}",
-        "--no-first-run",
-        "--no-default-browser-check",
-        "--disable-gpu"
-    ]
-    subprocess.Popen(cmd)
+    if logger:
+        logger.info(f"Opening internal tab for: {url}")
 
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None

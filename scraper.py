@@ -29,29 +29,11 @@ CONFIG_FILE = "config.json"
 
 async def process_article(context, link, last_run_time, mode, custom_hours, logger, semaphore, progress, task_id, category):
     async with semaphore:
-        # Launch standalone App-Mode window
-        open_url_in_comet(link)
-        await asyncio.sleep(6) # Increased wait for OS window creation and CDP registration
+        # Open internal tab for stability
+        page = await context.new_page()
         
-        # Identify the new window in the context
-        page = None
-        # Try to find exactly matching URL or a blank page that just opened
-        for _ in range(5): # Retry loop to catch the window
-            for p in context.pages:
-                if link in p.url or p.url in link:
-                    page = p
-                    break
-            if page: break
-            await asyncio.sleep(2)
-        
-        if not page:
-            # Final fallback: take the newest page if we can't match URL
-            if len(context.pages) > 1:
-                page = context.pages[-1]
-            else:
-                return None # Skip if window didn't register
-            
         try:
+            # Combined Page Scraping Handshake
             article_data = await scrape_article(page, link, last_run_time, mode, custom_hours, logger, category=category)
             if article_data:
                 # Entity Extraction (Data Enrichment)
@@ -59,7 +41,7 @@ async def process_article(context, link, last_run_time, mode, custom_hours, logg
                 return article_data
         finally:
             progress.update(task_id, advance=1)
-            # Re-confirm closure in process_article for safety
+            # Mandatory closure for memory health
             try:
                 await page.close()
             except: pass

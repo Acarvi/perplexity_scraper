@@ -1,1 +1,8 @@
 [2026-04-02 15:03:48] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-02 15:12:44] CRASH: Page.title: Target page, context or browser has been closed
+[2026-04-02 15:12:49] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-02 15:13:21] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-02 15:15:06] CRASH: Page.title: Target page, context or browser has been closed
+[2026-04-02 15:15:21] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-02 15:16:07] STEP: Navigating to https://www.perplexity.ai/discover/tech
+[2026-04-02 15:16:07] CRASH: Page.goto: Target page, context or browser has been closed
