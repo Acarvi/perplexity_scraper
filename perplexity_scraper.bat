@@ -10,27 +10,22 @@ if not exist venv (
 )
 
 call venv\Scripts\activate
+set PYTHONPATH=%~dp0
 
-echo Installing/Updating dependencies...
-pip install -r requirements.txt
-
-set PYTHONPATH=.
-
-echo Running mandatory tests...
-python tests/run_all_tests.py
+echo Running tests...
+python tests\run_all_tests.py
 if %ERRORLEVEL% neq 0 (
     echo.
-    echo [ERROR] Tests failed. Aborting scrape.
+    echo [ERROR] Tests failed.
     pause
     exit /b %ERRORLEVEL%
 )
 
 echo Starting scraper...
 python scraper.py %*
-
 if %ERRORLEVEL% neq 0 (
     echo.
-    echo Scraper closed with error %ERRORLEVEL%.
+    echo [ERROR] Scraper crashed.
     pause
 )
 

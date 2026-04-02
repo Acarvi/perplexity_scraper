@@ -1,10 +1,6 @@
 import asyncio
 import sys
 import os
-
-# Force the current directory into the path
-sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
-
 import json
 from datetime import datetime, timezone
 from playwright.async_api import async_playwright
@@ -125,14 +121,16 @@ async def run_scraper():
 
 if __name__ == "__main__":
     import traceback
+    import sys
     try:
         asyncio.run(run_scraper())
     except KeyboardInterrupt:
         pass
     except Exception:
-        print("\n" + "="*50)
-        print("CRITICAL SYSTEM ERROR (Traceback below)")
-        print("="*50)
+        print("\n" + "="*60)
+        print("🔥 FATAL CRASH REPORT 🔥")
+        print("="*60)
         traceback.print_exc()
-        print("="*50 + "\n")
+        print("="*60)
+        input("Press Enter to exit and check the logs...")
         sys.exit(1)
