@@ -30,7 +30,10 @@ python scraper.py %*
 if %ERRORLEVEL% neq 0 (
     echo.
     echo [ERROR] Scraper crashed.
-    pause
+) else (
+    echo.
+    echo Scraper finished successfully.
 )
 
 deactivate
+pause

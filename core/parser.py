@@ -40,8 +40,7 @@ async def scrape_article(page, url, last_run_time, mode, custom_hours, logger):
         logger.error(f"Error scraping {url}: {e}")
         return None
 
-async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logger, progression):
-    # progression is a rich Progress task
+async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logger, progress, task_id):
     logger.info("Discovering new stories...")
     scroll_count = 0
     stuck_count = 0
@@ -50,7 +49,7 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
     
     while scroll_count < max_scrolls and not reached_end:
         scroll_count += 1
-        progression.update(total=max_scrolls, completed=scroll_count, description=f"Scrolling ({scroll_count}/{max_scrolls})")
+        progress.update(task_id, total=max_scrolls, completed=scroll_count, description=f"Scrolling ({scroll_count}/{max_scrolls})")
         
         await page.evaluate("window.scrollBy(0, 1000)")
         await asyncio.sleep(1.5)

@@ -1,0 +1,56 @@
++------------------------------------+
+|                                    |
+|    PERPLEXITY DISCOVER             |
+|    High-Performance CLI Scraper    |
+|                                    |
++------------------------------------+
+              Select Scrape Range              
+ [1]  Since last run (2026-04-01 11:29:53 UTC) 
+ [2]  Last 24 hours                            
+ [3]  Custom hours                             
+Choose mode [1/2/3] (1): (node:27124) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+SUCCESS Connected to existing Comet session via CDP.
+INFO Navigating to https://www.perplexity.ai/discover...
+INFO Discovering new stories...
+
+SUCCESS Detected 20 stories.
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/gulf-nations-warn-trump-agains-z8SM5DXnQ
+mmt.b3vbAx8rA
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/palantir-says-militaries-not-t-vcsKSnXLR
+KaYs0Kd5_e6jA
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/iran-war-tests-petrodollar-sys-i5_0smU6S
+j.IImFNQuWXAw
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/trump-claims-iran-war-nearing-2umZRCYtQN
+CIbZA7kia6vA
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/tim-cook-reveals-unseen-apple-lDox54l5TS
+2otMpDewYNew
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/angel-simon-sustituye-a-escrib-QvJyo1aVS
+MmXnRBmbHmtJA
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/trump-briefs-saudi-crown-princ-PyMUMtNaR
+qOLgQbxWjXCDg
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/record-977m-bet-against-oil-ba-JPDeawElT
+5yYl42DabMTQw
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/artemis-ii-toilet-reports-faul-659eckOZT
+jmH1vPRZG05Hw
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/el-supremo-anula-las-hipotecas-7aP8hef5S
+fSv3ezC69G1bQ
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/ai-models-lie-and-defy-command-7b8Zb52eQ
+9GP8yx6viiYBw
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/trump-mocks-macron-s-marriage-eq0NY0cuSQ
+CmieOD0X6nLw
+INFO Scraping: 
+https://www.perplexity.ai/discover/you/ee-uu-levanta-sanciones-contra-rLfI2vVfT
+O6.evXFMzev3w

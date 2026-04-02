@@ -76,7 +76,7 @@ async def run_scraper():
             
             with create_progress() as progress:
                 scroll_task = progress.add_task("[cyan]Scrolling feed...", total=100)
-                await scroll_feed(page, 100, last_run_time, mode, custom_hours, logger, progression=progress.tasks[0])
+                await scroll_feed(page, 100, last_run_time, mode, custom_hours, logger, progress=progress, task_id=scroll_task)
             
             links = await extract_links(page, last_run_time, mode, custom_hours, logger)
             logger.success(f"Detected {len(links)} stories.")
