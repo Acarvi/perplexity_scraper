@@ -87,13 +87,19 @@ def clean_noise(text):
         r"(?i)Discover more\b",
         r"(?i)Related stories\b",
         r"(?i)Copy link\b",
+        r"(?i)Copy\b",
         r"(?i)Share\b",
         r"(?i)Model\b",
         r"(?i)Back to Discover\b",
+        r"(?i)View original\b",
+        r"(?i)Read more\b",
         r"^\s*\+\d+\s*$",
         r"^\s*\d+\s*source(s)?\s*$",
         r"^\s*\d+\s*$",
-        r"(?i)Published\n.*"
+        r"(?i)Published\n.*",
+        r"(?i)Search for anything\b",
+        r"(?i)Explore Discover\b",
+        r"(?i)Ask anything\.\.\.\b"
     ]
     
     cleaned = text

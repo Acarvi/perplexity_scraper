@@ -13,6 +13,7 @@ from playwright.async_api import async_playwright
 from core.cli import show_banner, get_user_config, CLILogger, create_progress, save_last_run_time
 from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
+from core.notebooklm import automate_notebooklm_upload
 from utils.text_processor import clean_noise, extract_entities
 
 DEBUG_LOG = "debug_scraper.log"
@@ -103,16 +104,17 @@ async def run_scraper():
                 log_debug("STEP: Formatting for NotebookLM")
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(f"# CATEGORÍA: [{item['category']}]\n\n")
-                        f.write(f"## TÍTULO: [{item['title']}]\n")
-                        f.write(f"**Fecha:** [{item['date']}] | **URL:** [{item['url']}]\n\n")
-                        f.write(f"### Contenido Principal\n")
+                        f.write(f"# CATEGORÍA: {item['category']}\n\n")
+                        f.write(f"## {item['title']}\n")
+                        f.write(f"**Fecha:** {item['date']} | **URL:** {item['url']}\n\n")
+                        f.write(f"### Contenido\n")
                         f.write(f"{item['content']}\n\n")
                         
                         if item.get('related_stories'):
-                            f.write(f"### Noticias Relacionadas y Contexto\n")
+                            f.write(f"### Noticias Relacionadas\n")
                             for rel in item['related_stories']:
-                                f.write(f"#### [{rel['title']}] ({rel['url']})\n")
+                                f.write(f"#### {rel['title']}\n")
+                                f.write(f"**URL:** {rel['url']}\n")
                                 f.write(f"{rel.get('content', 'Sin contenido extraído.')}\n\n")
                         f.write(f"---\n\n")
                 
@@ -130,6 +132,17 @@ async def run_scraper():
                 
                 logger.success(f"Total Stories Scraped: {len(all_content)}")
                 save_last_run_time(start_time)
+                
+                # Phase 4: NotebookLM Automation (Paso 2)
+                # This opens a new tab in the same CDP session to automate the upload
+                try:
+                    success = await automate_notebooklm_upload(context, os.path.abspath(OUTPUT_FILE), logger)
+                    if success:
+                        logger.success("NotebookLM Automation: Upload successful.")
+                    else:
+                        logger.warning("NotebookLM Automation: Completed with warnings (check browser).")
+                except Exception as e:
+                    logger.error(f"NotebookLM Automation failed: {e}")
             
             print("\n" + "="*40)
             print("MULTICATEGORY SCRAPE COMPLETE!")

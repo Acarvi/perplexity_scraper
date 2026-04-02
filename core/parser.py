@@ -32,9 +32,9 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
             logger.warning(f"SKIPPING: '{title_text}' is outside range ({p_time}).")
             return None
 
-        # Content extraction
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
         content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
+        content_text = clean_noise(content_text)
         
         # Deep Extraction: Related Stories Summarization
         related_links = await page.evaluate("""() => {
@@ -57,6 +57,7 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                 
                 rel_content_loc = rel_page.locator('.prose, [dir="auto"], article, main').first
                 rel_text = await (rel_content_loc.inner_text() if await rel_content_loc.count() > 0 else "No content.")
+                rel_text = clean_noise(rel_text)
                 
                 deep_related.append({
                     "title": rel['title'], 
