@@ -1,42 +1,29 @@
 import pytest
-from utils.formatter import generate_premium_markdown
+from utils.formatter import format_to_markdown
 
-def test_generate_premium_markdown_full_data():
+def test_format_to_markdown_full_data():
     category = 'Tech'
-    real_title = 'AI Breakthrough'
-    parsed_date = '2026-04-04 10:00:00'
-    url = 'https://www.perplexity.ai/page/ai-breakthrough'
-    main_content = 'This is the main content.'
-    external_sources = [
-        {'title': 'Reuters', 'url': 'https://reuters.com/ai', 'content': 'Reuters content.'}
-    ]
+    title = 'AI Breakthrough'
+    date = '2026-04-04'
+    url = 'https://perplexity.ai/page/ai'
+    content = 'This is the main content.'
+    external_sources = [{'title': 'Reuters', 'url': 'https://reuters.com', 'content': 'Source content.'}]
+    related_news = [{'title': 'Old Story', 'url': 'https://old.com', 'content': 'Related content.'}]
     
-    result = generate_premium_markdown(
-        category, real_title, parsed_date, url, main_content, external_sources
-    )
+    result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
     
-    assert "# 📂 CATEGORÍA: Tech" in result
     assert "## 📰 AI Breakthrough" in result
-    assert "> 🕒 **Publicado:** 2026-04-04 10:00:00" in result
-    assert "### 📝 Resumen Ejecutivo (Perplexity)" in result
+    assert "> 📂 **Categoría:** Tech" in result
+    assert "🕒 **Publicado:** 2026-04-04" in result
+    assert "### 📝 Resumen del Artículo" in result
     assert "This is the main content." in result
-    assert "#### 📌 FUENTE: Reuters" in result
-    assert "Reuters content." in result
+    assert "#### 📌 FUENTE EXTERNA: Reuters" in result
+    assert "#### 📌 NOTICIA RELACIONADA: Old Story" in result
+    assert "="*40 in result
 
-def test_generate_premium_markdown_missing_sources():
-    result = generate_premium_markdown(
-        'Business', 'Market Surge', '1h ago', 'https://url.com', 'Market is up.', []
-    )
+def test_format_to_markdown_no_extras():
+    result = format_to_markdown('Business', 'Market', 'today', 'https://url.com', 'Content.', [], [])
     
-    assert "### 🔍 PROFUNDIZACIÓN" in result
-    # In the new forced version, it just doesn't add any source blocks if empty.
-    assert "#### 📌 FUENTE:" not in result
-
-def test_generate_premium_markdown_defaults():
-    result = generate_premium_markdown(
-        'Uncategorized', 'Sin Título', 'Desconocida', '#', '', []
-    )
-    
-    assert "# 📂 CATEGORÍA: Uncategorized" in result
-    assert "## 📰 Sin Título" in result
-    assert "> 🕒 **Publicado:** Desconocida" in result
+    assert "### 🔍 CONTEXTO Y FUENTES" not in result
+    assert "FUENTE EXTERNA" not in result
+    assert "NOTICIA RELACIONADA" not in result

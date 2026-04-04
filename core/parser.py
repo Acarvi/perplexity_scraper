@@ -12,19 +12,22 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(ARTICLE_WAIT) 
         
-        # TÍTULO REAL: Buscar el H1 (ignorando el page.title())
+        # 1. TÍTULO REAL: Buscar H1, si falla, coger el elemento con el texto más grande.
         try:
             real_title = await page.locator("h1").first.inner_text(timeout=5000)
         except:
-            real_title = "Sin Título Extraído"
+            # Fallback: Quitar " - Perplexity" del título de la pestaña
+            raw_title = await page.title()
+            real_title = raw_title.replace(" - Perplexity", "").strip()
         
         content = await page.content()
         soup = BeautifulSoup(content, "html.parser")
         
-        # FECHA REAL: Buscar elementos de tiempo
+        # 2. FECHA REAL: Fuerza bruta buscando "ago" o "Published"
         try:
-            date_text = await page.locator('text=ago').first.inner_text(timeout=5000)
-            # Pásalo por tu parse_any_date(date_text)
+            # Buscar cualquier elemento que contenga "ago" (ej: "2 hours ago")
+            date_element = page.locator('*:has-text(" ago")').last
+            date_text = await date_element.inner_text(timeout=5000)
         except:
             date_text = "Unknown"
             

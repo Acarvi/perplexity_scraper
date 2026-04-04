@@ -31,3 +31,9 @@ Call log:
 [2026-04-04 16:08:21] STEP: Comet Browser session terminated.
 [2026-04-04 16:15:46] STEP: Enforcing absolute window cleanup
 [2026-04-04 16:15:49] STEP: Comet Browser session terminated.
+[2026-04-04 16:22:12] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-04 16:29:22] STEP: Navigating to https://www.perplexity.ai/discover/tech
+[2026-04-04 16:31:46] STEP: Navigating to https://www.perplexity.ai/discover/business
+[2026-04-04 16:35:11] STEP: Navigating to https://www.perplexity.ai/discover/science
+[2026-04-04 16:37:03] STEP: Navigating to https://www.perplexity.ai/discover/sports
+[2026-04-04 16:42:40] STEP: Navigating to https://www.perplexity.ai/discover/entertainment

@@ -26989,3 +26989,4909 @@ The movie is chock full of references to the games, and here’s where they orig
 
 ====================================================================
 
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:13:34
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/uae-intercepts-79-iranian-proj-llVn9jYER3GOKQPAxgzC6Q
+
+### 📝 Resumen Ejecutivo (Perplexity)
+UAE intercepts 79 Iranian projectiles as strikes batter Gulf infrastructure
+
+The UAE Ministry of Defence said on Saturday that its air defense systems intercepted 23 ballistic missiles and 56 drones launched from Iran on April 4, marking another day of sustained aerial bombardment against the Gulf state. The latest wave brings the total number of projectiles engaged since the conflict began on February 28 to 498 ballistic missiles, 23 cruise missiles, and 2,141 drones.
+arabtimesonline
+
+The attacks, which began after coordinated U.S.-Israeli strikes on Iran in late February, have inflicted mounting damage on the UAE's energy and industrial infrastructure, raising questions about the long-term economic toll even as air defenses continue to neutralize the vast majority of incoming threats.
+wikipedia
+
+wikipedia
+2026 Iranian strikes on the United Arab Emirates - Wikipedia
+bloomberg
+Top Gulf Aluminum Producer EGA Halted Output After Iran Strike
+ega
+EGA Al Taweelah site at KEZAD sustains significant damage
+ega
+Update on EGA's Al Taweelah site
+axios.com
+Aluminium Giant Faces Year-Long Recovery
+
+Among the most consequential strikes so far was a March 28 attack on Emirates Global Aluminium's Al Taweelah complex in Abu Dhabi's Khalifa Economic Zone, one of the largest aluminium production facilities in the world. The site, which produced 1.6 million tonnes of cast metal in 2025, lost power and was forced into an emergency shutdown after Iranian missiles and drones struck the area, causing molten metal to solidify inside smelting circuits.
+bloomberg
+
+In an update issued Friday, EGA said a full recovery of primary aluminium production could take up to 12 months, though its alumina refinery and recycling plant may resume partial operations sooner. "Early indications are that a complete restoration of primary aluminium production could take up to 12 months," the company said. CEO Abdulnasser Bin Kalban said the company was "deeply disturbed by this attack on our people, who come from more than 40 nations". Six employees were injured, though none suffered life-threatening wounds.
+ega
+
+Aluminium prices on the London Metal Exchange have risen more than 10 percent since the conflict began, according to The Deep Dive.
+thedeepdive
+
+Habshan Gas Facility Hit by Falling Debris
+
+In a separate incident on Friday, debris from a successful air defense interception fell on Abu Dhabi National Oil Company's Habshan gas facility, the UAE's largest natural gas processing complex, sparking two fires and forcing a suspension of operations.
+bloomberg
+
+One Egyptian national was killed during the evacuation, and four others — two Pakistani nationals and two Egyptians — sustained minor injuries, the Abu Dhabi Media Office confirmed. The facility has suffered what authorities described as "significant damage," with a full assessment underway. Bloomberg reported that it was the second time operations at Habshan had been halted since the war began.
+aljazeera
+
+Since February 28, the Iranian strikes have killed at least 12 people, including three military personnel, and injured more than 200 across the UAE.
+x
+
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: arabtimesonline
+**Link:** https://www.arabtimesonline.com/news/uae-intercepts-23-ballistic-missiles-and-56-drones/
+> UAE Intercepts 23 Ballistic Missiles and 56 Drones
+
+#### 📌 FUENTE: wikipedia
+**Link:** https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_the_United_Arab_Emirates
+> On 28 February 2026, following the coordinated 2026 Israeli–United States strikes on Iran, the Islamic Republic of Iran launched a multiday series of missile and drone airstrikes on the United Arab Emirates. As of 1 April 2026, the UAE has intercepted and destroyed 438 ballistic missiles, 2,012 drone attacks and 19 cruise missiles fired from Iran using their THAAD and Patriot missile defence systems acquired from the United States.[1] The attacks have killed 12 people, including 3 military personnel, and injured 190 others.[2]
+
+Following the high tensions and military conflict that began during late 2023, the ongoing tensions between Iran and the US, the reinstatement of economic sanctions and Iran and the 2025-2026 Iranian protests and massacres, the US started a military buildup in the Middle East, with the aim for regime change in Iran.[3][4][5][6] In late February, an Israeli American coordinated air strike was launched against Iran, targeting its leaders and main military infrastructures and air defence systems. In retaliation Iran launched ballistic missiles and drones against several countries around the Middle East that included the UAE, Bahrain,[7] Oman,[8] Qatar,[9] Kuwait,[10] Saudi Arabia,[11] and Israel.[12][13][14][15][16]
+
+As of 1 April 2026, Iran had fired a total of 438 ballistic missiles, 2,012 drones, and 19 cruise missiles at targets in the UAE, according to the UAE Ministry of Defence.[17] Most of the missiles and drones were intercepted by UAE air defences.[1][18][19][20][21] Even though most of them were destroyed, interception debris and falling projectiles fell on populated areas in Abu Dhabi and Dubai causing damage to civilian infrastructure and starting fires.[22][10][23][21]
+
+Iran launched the first wave of ballistic missiles and drones toward US bases in Abu Dhabi, including Al Dhafra Air Base. UAE defences intercepted most, but debris fell in a residential area near Zayed International Airport, killing one civilian (a Pakistani national) and injuring seven others from shrapnel and blasts. Loud explosions shook the Corniche, Al Dhafra, and Bateen districts, with smoke rising over the city. This strike targeted US forces at Al Dhafra, causing minor structural damage to base facilities from secondary explosions.[21][24]
+
+The Al Minhad Air Base was also attacked by Iran. The Air Base is operated by the United Arab Emirates Air Force and the Royal Air Force. It is also home to Camp Baird, the Australian Defence Force Headquarters Middle East (HQME).[25][26]
+
+A Shahed-type drone reportedly struck near the Fairmont The Palm Hotel on Palm Jumeirah, causing a large explosion and fire. Four individuals were injured, primarily from debris and blast effects. The attack disrupted the luxurious district, with windows shattering in nearby buildings.[27] The UAE said that it had intercepted a "new wave" of Iranian missiles and that "fragments from the interceptions" had fallen in Abu Dhabi and Dubai, causing damage to Burj Al Arab.[28]
+
+During the morning of 1 March, Dubai International Airport was struck by a suspected air strike, leading to four staff being injured[29] and an evacuation.[30] The airport sustained "minor damage", and emergency teams were deployed immediately during evacuation.[31] The incident was contained as contingency plans were already put in place.[30] Videos were later posted on social media at around 1:30 AM local time, indicating that the airport was struck in Dubai International Terminal 3.[32] A fire also broke out at the Jebel Ali Port, which was attributed to by the Dubai government to debris from "aerial interception" of an Iranian attack.[33] French naval air base Camp de la Paix near Zayed Port in Abu Dhabi was also struck by drones.[34]
+
+AWS reported that, at 4:30 AM Pacific Standard Time (4:30 PM Gulf Standard Time), one of its data centers in mec1-az2 was on fire after being struck by 'objects' and the power was then shut down. Later that day, AWS reported 'localised power is
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:50:52
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/la-generalitat-coloca-293-mill-XKpq.aMQTp6HqiRqV_Po8g
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Catalonia's Regional Government Issues €293 Million in New Debt After 14 Years Away from Markets
+
+The Generalitat of Catalonia has awarded €292.75 million in new long-term debt to three financial institutions, marking its first direct financing operation in the banking markets since 2012. According to the statement released by the Department of Economy and Finance this Saturday, the operation closed at an average rate of 2.331%, with a spread of between 5 and 10 basis points over the Treasury, well below the maximum of 20 basis points that the government had set as its limit.
+europapress
+
+elpais
+La Generalitat logra que tres entidades financieras le presten 293 ...
+europapress
+La Generalitat adjudica 293 millones de deuda nueva a tres ...
+infobae
+Cataluña vuelve al mercado de deuda tras 14 años y coloca 293 ...
+eldebate
+Cataluña vuelve al mercado de deuda tras 14 años bajo ... - El Debate
+larazon.es
+Demand Three Times Higher Than Supply
+
+Up to seven financial institutions submitted proposals totaling over 1 billion euros, more than triple the amount requested, according to Europa Press. This high demand allowed for better terms than initially expected and brought financing costs to levels close to those of the national government—an unusual benchmark for regional issuers, according to El Debate. The loans have a six-year term.
+eldebate
+
+End of Exclusive Reliance on the Regional Liquidity Fund
+
+Since 2012, the Generalitat had financed itself almost exclusively through the Regional Liquidity Fund (FLA), the Spanish government's extraordinary mechanism for autonomous communities with difficulties accessing credit. The opening came after the Government's Delegated Commission for Economic Affairs authorized in December the communities participating in the FLA to finance part of the 2024 deficit deviation through long-term banking operations. In Catalonia's case, that authorization materialized in the 292.75 million euros now awarded.
+infobae
+
+The government of Salvador Illa considers this operation a step toward normalizing relations with financial markets. Already in 2025, the Generalitat refinanced approximately 3.5 billion euros of FLA debt with private entities. The community's total debt amounts to nearly 86 billion euros, according to El País, and the Catalan executive's plan envisions progressively placing a larger percentage of its liabilities on the market: 5% in 2026, 10% in 2027, and up to 20% in 2029.
+ara
+
+The Political Context
+
+The operation takes place while the Generalitat awaits Congress's approval of a 17 billion euro debt forgiveness agreed upon as part of the new financing  negotiated between the central government and ERC, which provides for an additional 4.7 billion euros for Catalonia.
+elpais
+
+EU begins legal prep for €90B Ukraine loan despite Hungary's veto
+Estonian MEP Jaak Madison, speaking to Euromaidan Press, said the impasse is accelerating the EU toward a multi-speed . "Technically, the other 26 countries could proceed without them — Hungary wouldn't sign, wouldn't be responsible for repayments," he said, but warned the political fallout could be severe as voters in countries like Italy or Greece question why they bear costs Hungary...
+Santander plans $3B+ in risk transfers to fund US, UK deals
+Santander is one of the heaviest users of the SRT market in Europe. The bank's UK division has already closed its latest synthetic securitization, Colossus 2026-1, referencing a £1.5 billion portfolio of small and medium-sized enterprise and commercial real estate loans, according to Structured Credit Investor and ratings from Scope. At the group level, Santander has targeted offloading €40...
+EU sends €1.4B in frozen Russian asset profits to Ukraine
+The transfer arrives amid a broader struggle over European financing for Ukraine. EU leaders agreed in December 2025 to provide a €90 billion loan to Kyiv for 2026 and 2027, but the funds have not yet been disbursed due to a procedural veto by Hungary. EU High Representative Kaja Kallas, speaking in Kyiv on March 31 alongside Ukrainian Foreign Minister Andrii Sybiha, announced an additional €80...
+Rodriguez pitches Venezuela to global investors as U.S. eases oil sanctions
+Despite the momentum, obstacles remain. GL 52 does not authorize transactions involving PdVSA bonds or equity interests, a restriction that keeps the timeline for a full debt restructuring uncertain. Sanctions on Rodríguez and other senior officials also remain in place. "There is still a little bit of hesitation in some people about the situation there," said Petar Atanasov, co-head of...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: elpais
+La Generalitat logra que tres entidades financieras le presten 293 ...
+**Link:** https://elpais.com/espana/catalunya/2026-04-04/la-generalitat-logra-que-tres-entidades-financieras-le-presten-293-millones-a-un-tipo-inferior-al-exigido.html
+> El crédito a seis años servirá para cubrir parte del déficit de 2026
+
+El Gobierno catalán sigue tratando de empezar a diversificar sus fuentes de financiación después de casi tres lustros atada al Fondo de Liquidez Autonómico (FLA). A la espera de que el Congreso apruebe la quita de 17.000 millones de euros, la Generalitat busca consolidar su regreso a los mercados. Lo hace con una operación de deuda nueva de 293 millones de euros adjudicada a tres entidades financieras por un coste equivalente al bono del Tesoro y entre cinco y diez puntos básicos más. En concreto, el 2,331%, según ha informado el Departamento de Economía y Finanzas en un comunicado. Eso es menos del máximo exigido por la Generalitat de 20 puntos básicos.
+
+La Generalitat el año pasado ya regresó a los mercados al refinanciar 3.500 millones de euros. Este año piensa hacer lo mismo, si bien ha ralentizado esa operación a la espera de la evolución de los mercados financieros, que ahora atraviesan un momento de turbulencias por las guerras emprendidas por Estados Unidos e Israel. En cambio, sí ha cerrado el préstamo para financiar una parte del déficit en el que espera incurrir este año. La operación se abrió hace unas semanas, pero no se ha cerrado hasta ahora con tres entidades, el nombre de las cuales la Generalitat no ha facilitado.
+
+Según el Ejecutivo, las condiciones para esa financiación han sido mejores que las planteadas. Estas no podían exceder un interés equivalente al que paga el Tesoro y un diferencial de 20 puntos básicos, que al final se ha reducido a entre cinco y diez. “Esta operación supone la normalización de la Generalitat con los mercados financieros, después de más de una década dependiendo casi exclusivamente del FLA”, ha destacado el departamento dirigido por Alícia Romero en un comunicado.
+
+Esta es la primera vez que la Generalitat pide financiación a los mercados para una deuda nueva a largo plazo desde que en 2012 se acogiera al FLA. En concreto, la duración de los préstamos contraídos con las tres entidades es de seis años. Según el Ejecutivo catalán, hasta siete entidades presentaron propuestas para un importe superior a los 1.000 millones. Es decir, la Generalitat podría haber logrado más fondos de los que requería.
+
+Si quieres compartir tu cuenta, cambia tu suscripción a la modalidad Premium, así podrás añadir otro usuario. Cada uno accederá con su propia cuenta de email, lo que os permitirá personalizar vuestra experiencia en EL PAÍS.
+
+¿Tienes una suscripción de empresa? Accede aquí para contratar más cuentas.
+
+En el caso de no saber quién está usando tu cuenta, te recomendamos cambiar tu contraseña aquí.
+
+Si decides continuar compartiendo tu cuenta, este mensaje se mostrará en tu dispositivo y en el de la otra persona que está usando tu cuenta de forma indefinida, afectando a tu experiencia de lectura. Puedes consultar aquí los términos y condiciones de la suscripción digital.
+
+#### 📌 FUENTE: europapress
+La Generalitat adjudica 293 millones de deuda nueva a tres ...
+**Link:** https://www.europapress.es/economia/noticia-generalitat-adjudica-293-millones-deuda-nueva-tres-entidades-financieras-20260404103026.html
+> Con tu consentimiento, nosotros y nuestros 988 colaboradores usamos cookies o tecnologías similares para almacenar, acceder y procesar datos personales, como tus visitas a esta página web, las direcciones IP y los identificadores de cookies. Algunos socios no te piden consentimiento para procesar tus datos y se amparan en su legítimo interés comercial.
+
+RECHAZAR Y SUSCRIBIRSE
+ACEPTAR Y CONTINUAR
+
+Al hacer clic en "Rechazar y suscribirse" y hacer el pago, no permites la instalación de cookies y eliges acceder mediante la suscripción sin cookies. En este caso, solo se instalarán las cookies necesarias para la navegación. Puedes retirar tu consentimiento u oponerte al procesamiento de datos según el interés legítimo en cualquier momento haciendo clic en más información. Para obtener más detalles, visita nuestra Política de Cookies.
+
+Con tu consentimiento, nosotros y nuestros 988 colaboradores usamos cookies o tecnologías similares para almacenar, acceder y procesar datos personales, como tus visitas a esta página web, las direcciones IP y los identificadores de cookies. Algunos socios no te piden consentimiento para procesar tus datos y se amparan en su legítimo interés comercial.
+
+Al hacer clic en "Rechazar y suscribirse" y hacer el pago, no permites la instalación de cookies y eliges acceder mediante la suscripción sin cookies. En este caso, solo se instalarán las cookies necesarias para la navegación. Puedes retirar tu consentimiento u oponerte al procesamiento de datos según el interés legítimo en cualquier momento haciendo clic en más información. Para obtener más detalles, visita nuestra Política de Cookies.
+
+Nosotros y nuestros socios hacemos el siguiente tratamiento de datos:
+Almacenar la información en un dispositivo y/o acceder a ella, Analizar activamente las características del dispositivo para su identificación, Comprender al público a través de estadísticas o a través de la combinación de datos procedentes de diferentes fuentes, Crear perfiles para publicidad personalizada, Crear un perfil para personalizar el contenido, Desarrollo y mejora de los servicios, Medir el rendimiento de la publicidad, Medir el rendimiento del contenido, Uso de datos limitados con el objetivo de seleccionar el contenido, Uso de datos limitados para seleccionar anuncios básicos, Uso de perfiles para la selección de contenido personalizado, Utilizar datos de localización geográfica precisa, Utilizar perfiles para seleccionar la publicidad personalizada
+
+BARCELONA 4 Abr. (EUROPA PRESS) -
+
+La Generalitat ha adjudicado 292,75 millones de euros a tres entidades financieras a un tipo "muy ventajoso" e inferior al máximo fijado inicialmente, con préstamos a un coste entre 5 y 10 puntos básicos por encima del Tesoro, cuando el máximo fijado era el del Tesoro más 20 puntos básicos.
+
+Según ha explicado el Govern en un comunicado este sábado, esta operación supone la normalización de la relación de la Generalitat con los mercados financieros después de "más de una década dependiendo casi exclusivamente" del fondo de liquidez autonómica (FLA).
+
+A principios de año la Generalitat solicitó ofertas al mercado bancario para financiar 292,75 millones de euros de deuda a largo plazo, la primera vez que la administración lo hacía en 14 años.
+
+La duración de los préstamos era de 6 años, con un coste de financiación máximo equivalente al coste del Tesoro más 20 puntos básicos, en cumplimiento del principio de prudencia financiera, y hasta 7 entidades presentaron propuestas por un importe superior a los 1.000 millones de euros.
+
+Finalmente, los préstamos se adjudicaron hace unas semanas a tres entidades que ofrecían el menor diferencial respecto al coste del Tesoro, con un tipo medio del 2,331% en el momento de la formalización.
+
+En los últimos años la Generalitat ha diversificado sus fuentes de financiación con diversos préstamos del Banco Europeo de Inversiones (BEI) y mediante entidades financieras privadas, como en el caso de la refinanciación de 3.500 mill
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:34:24
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/iran-autoriza-paso-de-ayuda-hu-728FtuCTRLilgqh04LZxWg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Iran Authorizes Humanitarian Aid Passage Through Hormuz
+
+Iranian authorities have begun granting navigation permits through the Strait of Hormuz for vessels carrying humanitarian aid and essential goods, marking a partial reopening of this strategic corridor after more than a month of effective blockade. According to the Iranian news agency Tasnim, an outlet linked to the Revolutionary Guard, the decision was approved by Iran's government and armed forces and applies particularly to ships carrying essential supplies and agricultural inputs.
+democrata
+
+aljazeera
+Will force be used to reopen Strait of Hormuz? - Al Jazeera
+windward
+April 2, 2026: Iran War Maritime Intelligence Daily - Windward
+wikipedia
+2026 Strait of Hormuz crisis - Wikipedia
+energypolicy.columbia
+Iran Conflict Brief: What It Will Take to Open Up the Strait of Hormuz
+aljazeera.com
+A Blockade with Global Consequences
+
+The Strait of Hormuz, through which approximately 20% of the world's oil supply and nearly one-third of global fertilizer trade typically transit, was effectively closed to maritime traffic following joint U.S. and Israeli attacks on Iranian targets that began on February 28, 2026. In retaliation, the Islamic Revolutionary Guard Corps (IRGC) established a selective blockade system, directing authorized vessels through a controlled corridor near Larak Island and charging tolls that reportedly reach two million dollars per vessel. As of April 2, some 3,000 ships remained stranded in the area.
+wikipedia
+
+The UN Agreement
+
+The first step toward opening came on March 27, when Iran's ambassador to the UN in Geneva, Ali Bahreini, announced that Tehran had accepted a United Nations request to "facilitate and expedite" the transit of humanitarian aid and agricultural shipments. "This measure reflects Iran's continued commitment to supporting humanitarian efforts and ensuring that essential aid reaches those in need without delay," Bahreini wrote on the social media platform X, according to Associated Press. At the same time, the UN formed a working group led by Under-Secretary-General Jorge Moreira da Silva to develop mechanisms to allow the passage of fertilizers and raw materials needed to prevent an agricultural crisis.
+theindianawaaz
+
+Growing International Pressure
+
+Iran's decision comes amid mounting international pressure. A coalition of 40 countries has demanded that Iran fully reopen the strait to prevent a global economic collapse, while Al Jazeera reported that several states are considering the use of force to unblock the waterway. Although transits have gradually increased—from 11 vessels on March 31 to 16 on April 1, according to maritime intelligence firm Windward—Iran maintains that the strait remains closed to vessels linked to the United States, Israel, and their allies.
+aljazeera
+
+Iran agrees to let humanitarian aid pass through Strait of Hormuz
+The urgency stems from growing alarm over the war's impact on global food systems. According to the UN Food and Agriculture Organization, up to 30 percent of international fertilizer trade passes through the Strait of Hormuz. FAO chief economist Maximo Torero warned Thursday that if the conflict extends beyond another month, "the picture changes," predicting drops in wheat, rice, and corn...
+Iran offers Spain Hormuz access in first such EU overture
+Iran's gesture toward Spain is part of a broader pattern in which Tehran has begun selectively easing its near-total blockade of the strait, which carries roughly one-fifth of the world's oil and liquefied natural gas. A Thai oil tanker owned by Bangchak Corporation safely transited the strait on March 23 after diplomatic coordination between Bangkok and Tehran, with no fees charged. Malaysia's...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: windward
+April 2, 2026: Iran War Maritime Intelligence Daily - Windward
+**Link:** https://windward.ai/blog/april-2-maritime-intelligence-daily/
+> Three of the four bulk carriers that exited on April 1 were Greece-owned and one China-owned. This signals that EU as well as Asia shipowners are negotiating at both diplomatic and commercial levels to use the permission-based system.
+
+Sanctioned, Iran-linked tankers dominated inbound transits on April 1. There were nine inbound transits (7 tankers and 2 cargo vessels) tracked via AIS.
+
+Vessels involved in the transport of containerized goods and dry bulk commodities from Iran dominated outbound transits (4 cargo and 2 tankers), according to AIS signals
+
+62% of transits were on sanctioned vessels with falsely flagged tankers flown by 6 ships. Fraudulent registries used included Madagascar, Botswana and Aruba. Three falsely broadcast they were using Comoros.
+
+All 16 ships used the route via Larak Island, a permission-based, selective blockade imposed by Iran around March 14. The route circumvents the normal channel with vessels hugging Iran’s coastline within territorial waters to go through.
+
+Three Omani-controlled ships – two tankers and one liquefied natural gas carrier – transited the Strait of Hormuz, avoiding the re-routed, IRGC-controlled corridor used for nearly three weeks.
+
+The transits, the first for an LNG carrier since the war began, was observed as representatives from 35 countries held a virtual meeting to discuss how to reopen the crucial energy commodities artery to global maritime traffic.
+
+Iran said it was drafting a protocol with Oman for Hormuz Strait traffic, as the UAE asked the United Nations to authorise measures including the use of force.
+
+The three ships, two Marshall Islands-flagged very large crude carriers and the Panama-flagged LNG carrier all switched off their AIS shortly after beginning the transit over the morning of April 2.
+
+The two VLCCs were signalling via AIS that they were laden, while the LNG carrier appeared to be in ballast.
+
+IRAQ OIL EXPORTS PLUNGE OVER MARCH
+
+While Saudi Arabia and the UAE are ramping up exports of crude via alternative pipelines to offset the Hormuz closure, Iraqi oil shipped via the Turkish Mediterranean port of Ceyhan averaged 135,000 bpd over March, down from 236,000 bpd the prior month, Vortexa data show.
+
+Iraq is said to be accelerating use of the northern pipeline, but this is yet to show in weekly exports data. Exports plunged 3m bpd in March, to 645,000 bpd.
+
+Saudi Arabia ramped up crude exports from the Red Sea port of Yanbu via pipeline to 3.3m bpd in March, the highest monthly pace in records going back to 2017. Crude exports were at 800,000 bpd in February.
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:31:50
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/us-burns-through-critical-weap-65mxCzIjTTifaflDFrwcFw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+US burns through critical weapons stockpiles five weeks into Iran war
+
+Five weeks into Operation Epic Fury, the United States and Israel have unleashed devastating firepower on Iran, striking more than 11,000 targets and claiming a 90% reduction in Tehran's missile and drone attacks. Yet Iran's low-cost, high-disruption approach to the conflict has exposed a stark vulnerability in Western military doctrine: expensive, precision-guided weapons systems are being consumed at unsustainable rates to counter cheap, mass-produced threats.
+aol
+
+theins
+THAAD, Tomahawk, And Arrow Missiles All Running Low In Iran War
+dw
+Iran war: How long can Tehran's asymmetric strategy hold? - DW.com
+foxnews
+Iran's drone swarm attacks unleash 'exponential costs' on US ...
+19fortyfive
+The Asymmetry Trap: Why $20,000 Iranian Drones are Exhausting ...
+defence-industry.eu
+The Cost Asymmetry
+
+Iran's strategy centers on forcing its adversaries to spend disproportionately. Tehran has launched thousands of Shahed drones, which cost between $20,000 and $50,000 each, against U.S., Israeli, and Gulf state positions. The interceptors used to shoot them down cost between $3 million and $12 million apiece. The result is what one defense expert called "exponential costs" imposed on the United States.
+foxnews
+
+The Washington Post reported that the U.S. fired more than 850 Tomahawk cruise missiles in just the first four weeks of the conflict — roughly nine times the number the Pentagon procures annually. CBS News reported that stockpiles in the Middle East were described by officials as "alarmingly low" and nearing "Winchester," military slang for running out of ammunition. Meanwhile, RTX, the maker of Tomahawk missiles, announced a framework agreement to scale production to 1,000 per year, though replenishment will take years.
+cbsnews
+
+Israel's situation is similarly precarious. The Royal United Services Institute estimated that 81% of Israel's pre-war Arrow interceptor stocks had been depleted by mid-March, with full exhaustion projected by the end of that month. The U.S. has also burned through roughly 40% of its available THAAD interceptors, with analysts warning supplies could be exhausted by mid-April.
+theins
+
+Hormuz and the Proxy Network
+
+Beyond the aerial campaign, Iran has leveraged control of the Strait of Hormuz — through which roughly 20% of the world's oil supply normally transits — to inflict economic pain globally. The Islamic Revolutionary Guard Corps declared the strait closed to vessels serving the U.S. and its allies, triggering the largest disruption to energy supply since the 1970s oil crisis. Oil prices surged past $100 per barrel, with Brent crude peaking at $126.
+nytimes
+
+Iran has also struck U.S. bases across the region, with an attack on a facility in Kuwait killing six American service members, and Tehran's forces recently downed two U.S. military aircraft, including an F-15E fighter jet over Iranian territory.
+nytimes
+
+A War of Endurance
+
+Analysts say Iran's calculus is not about winning militarily but about outlasting its adversaries' willingness to fight. Jason H. Campbell of the Stimson Center told DW that while airstrikes have "severely restricted Iran's options for retaliation," the regime "has demonstrated a remarkable capacity for asymmetrical warfare and has had decades to prepare for such a scenario". A RUSI assessment noted that Iran may still retain around 1,000 ballistic missiles and substantial short-range and anti-ship missile stocks, suggesting its "capacity to do damage in the Gulf is likely to be resilient".
+dw
+
+The Foreign Policy Research Institute identified 14 critical U.S. weapons systems that were already dangerously low before the war began and are now at risk of depletion within weeks. As the Soufan Center noted, Tehran recognizes it cannot defeat the U.S. in a conventional fight, but believes that "asymmetric tactics, mosaic defense, and a willingness to pursue a scorched earth approach will only allow for a Pyrrhic victory for Iran's enemies".
+thesoufancenter
+
+BBC analysis says Trump's Iran war strategy is failing one month in
+Bowen concluded that Trump now faces a binary choice: declare a hollow victory that few would believe, or escalate further — potentially by seizing strategic islands in the Gulf or targeting Iran's energy infrastructure. Either path carries enormous risk. A premature withdrawal would leave an embittered Iranian regime in control of the Strait, while escalation could deepen what Bowen described...
+Iran fights like an insurgency one month into war, AP reports
+President Trump on Thursday announced a 10-day extension of his deadline for Iran to reopen the strait, pushing it to April 6 and threatening to bomb Iranian power plants if Tehran does not comply. Trump cited "very good and productive conversations," though Iran has denied direct negotiations. Pakistan said it was relaying indirect messages between Washington and Tehran. Israel's Defense...
+Iran claims Tomahawk interception as US stockpile concerns grow
+The war, now entering its fifth week, shows no signs of abating. President Trump on Thursday postponed planned strikes on Iran's energy facilities by 10 days, pushing the deadline to April 6, saying negotiations were progressing. Iran has denied that any talks are taking place. Meanwhile, the IRGC announced its 83rd wave of retaliatory missile and drone strikes under Operation True Promise 4,...
+Trump-Xi summit pushed to May as Iran war drains Asia forces
+The war's diplomatic fallout became clearer on Wednesday when the White House announced that Trump's summit with Xi, originally set for March 30, has been rescheduled to May 14-15 in Beijing. Trump confirmed the news on Truth Social, calling it a "Monumental Event". White House Press Secretary Karoline Leavitt said Xi "understood" the need to postpone but sidestepped questions about whether...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: dw
+Iran war: How long can Tehran's asymmetric strategy hold? - DW.com
+**Link:** https://www.dw.com/en/iran-war-how-long-can-tehrans-asymmetric-strategy-hold-drones-middle-east-oil-strait-of-hormuz/a-76643523
+> After many years of sanctions and weeks of US-Israeli bombing, the Iranian regime is shaken — but still very much capable of threatening the region.
+
+US President Donald Trump has signaled he wants a quick end to the war in Iran, even as US military assets amass around the Persian Gulf, where Tehran is still choking off a substantial chunk of the world's energy supply by blocking the Strait of Hormuz.
+
+In an address on Wednesday evening, Trump said "regime change has occurred" in Iran, and that the US is "on track to fulfill all its objectives very soon."
+
+"Never in the history of warfare has an enemy suffered such clear and devastating large-scale losses in a matter of weeks," Trump said.
+
+The US and Israel say Iran's conventional navy, air force, large weapons systems and defense production have been heavily degraded by weeks of airstrikes. On Sunday, Trump told the Financial Times that 13,000 targets in Iran have been hit since the strikes were launched on February 28. This weekend, the Israel Defense Forces said 80% of Iranian air defense systems have been destroyed as it continued to hit defense production facilities.
+
+Under this mass of firepower, Iran's regime is battered but continues to hang on, launching counterstrikes and seemingly being able to coordinate its defense strategy. Former supreme leader Ali Khamenei is dead, killed during the first strikes on Tehran. His son Mojtaba has ostensibly taken over, but hasn't been seen in public since the war began, sparking rumors about his condition. Much of the regime's senior leadership and security apparatus have been killed, and continue to be targeted by US and Israeli strikes.
+
+"The persistent degradation of Iranian military capabilities via US and Israeli airstrikes has absolutely limited Iran's retaliatory options. That said, this regime has proven masterful at implementing asymmetric warfare and has had decades to plan for this scenario," Jason H. Campbell, senior fellow at the Middle East Institute in Washington, told DW.
+
+For decades, the Islamic Republic's regime has funded proxies around the Middle East and supressed popular displeasure as sanctions over its nuclear program battered the economy. When Iranians demand civil rights or stand up against the regime, as happened earlier this year, pro-regime forces such as the Basij militia have responded by killing thousands of protesters.
+
+In a recent essay in Foreign Affairs, Iranian-American anthropologist Narges Bajoghli points out that international isolation is part of how Iran's regime developed its survival tactics. Tehran's asymmetric warfare strategy was "borne out of necessity" when the US placed an arms embargo on Iran after the Islamic revolution in 1979.
+
+After fighting a bloody war with Iraq in the 1980s, "what began as improvisation evolved into a coherent doctrine" for Iran's Islamic Revolutionary Guard Corps (IRGC), the regime's praetorian guard.
+
+Iran began developing its own home-grown missiles and drones that could be reproduced quickly and cheaply.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+Today, this asymmetric capacity has grown into a well-oiled combination of attack drones, cyberwarfare and militant proxy networks. These capacities have been heavily funded by oil revenue, which Iran can obtain by selling energy to customers like China while succesfully evading US sanctions even as the war continues.
+
+"Iran seems capable of sustaining a credible asymmetric threat for an extended period of time," Kelly A. Grieco, a strategic analyst at the Stimson Center, a think tank, told DW. She acknowledged that Iran's conventional air force, navy and ballistic missile capacity have been severely degraded, but noted that some residual missile capacity remains.
+
+Iran's drone threat is, however, more sustainable than its ballistic missiles. Tehran's strategy is based around the Shahed, a one-way attack drone costing between $20,000 and $5
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:29:13
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Bangladesh, Thailand impose emergency measures as energy crisis deepens
+
+Bangladesh and Thailand are rolling out emergency measures to combat a worsening energy crisis fueled by conflict in the Middle East, with Dhaka slashing work hours and Bangkok confronting warnings of construction industry collapse as diesel prices nearly triple on global markets.
+
+bernama
+Bangladesh Govt Cuts Office Hours, Outlines Austerity Measures To ...
+thestar
+Thailand faces 'worst energy crisis in history' as diesel prices treble
+nationthailand
+Thailand weighs fuel tax cuts as global oil surge tests fiscal limits
+arabtimesonline
+Bangladesh Announces Sweeping Austerity Measures to Tackle ...
+millichronicle.com
+Bangladesh Cuts Hours, Raises Fuel Prices
+
+Bangladesh's cabinet, meeting Thursday night under Prime Minister Tarique Rahman, approved a sweeping package of austerity measures effective Sunday, according to Reuters. All government and private offices will now operate from 9 a.m. to 4 p.m., while banking hours have been trimmed to 9 a.m. to 3 p.m.. Shops, markets, and malls must close by 6 p.m., with exemptions for hotels, pharmacies, and essential services.
+arabtimesonline
+
+Cabinet Secretary Nasimul Ghani said government spending on fuel, electricity, and gas will be reduced by 30 percent, with unnecessary travel expenses also curtailed by the same margin. Purchases of new vehicles, watercraft, aircraft, and computer equipment have been suspended, foreign training programs halted, and decorative lighting at social events — including weddings — banned.
+bernama
+
+The country, which imports roughly 95 percent of its fuel, also raised prices of liquefied petroleum gas and compressed natural gas by 29 percent on April 1. A 12-kilogram LPG cylinder jumped from 1,341 taka to 1,728 taka, according to the Bangladesh Energy Regulatory Commission. Officials said the government is seeking $2.5 billion in external financing to sustain essential imports and pursuing alternative fuel  from Malaysia, Indonesia, and Kazakhstan.
+millichronicle
+
+Thailand's Construction Sector Sounds the Alarm
+
+In Thailand, the crisis is hammering the construction industry. Liza Ngamtrakulpanit, president of the Thai Contractors Association, warned on April 1 that the sector faces a "terminal crossroads," with operators forced to choose between halting work or continuing at unsustainable losses, according to The Straits Times. Diesel prices have climbed 14.30 baht per litre since early March, triggering cascading cost increases for steel, concrete, and logistics.
+straitstimes
+
+Global diesel prices have surged to nearly $300 per barrel — almost triple the standard rate — according to Prasert Sinsukprasert, Thailand's permanent secretary for energy. The state Fuel Fund faces a deficit of nearly 50 billion baht and could be exhausted within two months.
+nationthailand
+
+Energy expert Panurach warned that the greater danger lies in supply shortages: Thailand consumes roughly one million barrels of crude oil daily, but the government has confirmed only 24 million barrels for April and 9 million for May, leaving a combined shortfall of 27 million barrels over the two months. He urged immediate fuel excise tax cuts, noting that diesel taxes currently stand at 7.44 baht per litre. PTT reported that diesel reached 47.74 baht per litre as of April 3, up from 38.99 baht just days earlier.
+nationthailand
+
+A Region Under Pressure
+
+Both governments are seeking to balance fiscal discipline against economic fallout. Thailand's cabinet approved in principle a study of excise tax reductions on March 26, with scenarios ranging from 3 to 7 baht per litre in cuts that could cost the treasury up to 14 billion baht monthly. A final recommendation on refinery profit redistribution is expected Monday. Bangladesh, meanwhile, has framed its measures as a three-month emergency plan, with the government pledging to introduce duty-free electric bus imports for schools as part of a longer-term pivot away from fossil fuel dependence.
+bernama
+
+France, Thailand unveil emergency aid as Hormuz blockade drives energy crisis
+France's approach — targeted, sector-specific aid rather than broad price cuts — reflects the constraints of a public debt load exceeding 117% of GDP. Across Europe, responses vary widely: Spain has assembled a $5.8 billion support package with VAT reductions on fuel and electricity; Italy has introduced a €0.25-per-liter tax cut on gasoline; Hungary has imposed outright price caps; and Germany...
+Philippines, Thailand escalate emergency responses to fuel crisis
+In Thailand, Prime Minister Anutin Charnvirakul chaired an emergency conference on Friday with the Bangkok governor and all 76 provincial governors to address a crisis driven not by a shortage of crude, but by panic buying. Anutin said daily fuel demand had surged to 87 million litres, far exceeding the nation's refinery capacity of 77 million litres, against a normal consumption level of 67...
+Nations rush to ease fuel costs as Middle East war drives oil shock
+Germany's Bundestag on Thursday passed a package of measures that will restrict gas stations to raising fuel prices only once per day, at noon, while allowing reductions at any time. Violations can trigger fines of up to €100,000. The bill, backed by the CDU/CSU-SPD coalition and the opposition Greens, now moves to the Bundesrat, where a vote is planned for Friday. Economy Minister Katherina...
+Bangladesh warns of nationwide fuel pump shutdowns as Iran war chokes supply
+The International Energy Agency has described the disruption as "the greatest global energy and food security challenge in history," ordering the largest release of government oil reserves ever — roughly 400 million barrels — to calm markets. But for the most vulnerable nations, such measures offer limited relief. The Council on Foreign Relations noted in a March 20 analysis that the crisis has...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: bernama
+Bangladesh Govt Cuts Office Hours, Outlines Austerity Measures To ...
+**Link:** https://bernama.com/en/news.php?id=2540614
+> DHAKA, April 3 (Bernama-UNB) -- The Bangladeshi government has decided to reduce office hours and take a series of austerity measures to cope with the ongoing global energy crisis triggered by instability in West Asia.
+
+According to United News of Bangladesh (UNB), the decisions were taken at a Cabinet meeting chaired by Prime Minister Tarique Rahman on Thursday night. Cabinet Secretary Nasimul Ghani announced the decisions at a briefing after the meeting.
+
+Under the new arrangement, all government and private offices will remain open from 9:00am to 4:00pm from Sunday, instead of the existing schedule.
+
+Banking hours will be from 9:00am to 3:00pm, while banks will close by 4:00pm.
+
+Briefing reporters after the meeting, Cabinet Secretary Nasimul Ghani said the discussion mainly focused on how to tackle fuel and energy price volatility caused by disruptions in global supply chains due to the war in West Asia.
+
+“All offices have reduced working hours by one hour. Both public and private offices will operate from 9:00am to 4:00pm,” he said.
+
+As part of energy-saving measures, the Cabinet Secretary said all shops, markets and shopping malls will have to close by 6:00pm, although hotels, pharmacies, essential service outlets and kitchen markets will remain exempt.
+
+He also said specific directives regarding educational institutions would be issued from Sunday, considering various factors.
+
+The Cabinet Secretary said the government would implement austerity measures for the next three months to cut public expenditure.
+
+“No new vehicles, watercraft, aircraft or computer equipment will be purchased during this period,” he said.
+
+Ghani also said internal training programmes would be reduced by 50 per cent, while all foreign training funded by the government would remain suspended until further notice.
+
+Expenditure on meetings and seminars will also be cut by 50 per cent, he added.
+
+Ghani said government spending on fuel, electricity and gas will be reduced by 30 per cent, while unnecessary travel expenses will also be curtailed by 30 per cent.
+
+Besides, he said decorative lighting at social events, including weddings, has been prohibited as part of the energy-saving drive.
+
+The Cabinet Secretary said that efforts are also underway to increase fuel imports from alternative  to ensure a stable supply. “Initiatives have already been taken to import fuel from Malaysia, Indonesia and Kazakhstan.”
+
+Besides, he said the government has drawn up a plan to introduce electric buses for school-going students instead of private cars. “Educational institutions that take part in the initiative will be able to import buses duty-free. The private sector will also get this facility, although a 20 per cent duty will apply in commercial cases.”
+
+However, Ghani said no used buses will be allowed—only new buses can be imported.
+
+The Cabinet meeting began at around 8:45pm at the Cabinet Room of the Jatiya Sangsad complex and continued till about 11:30pm.
+
+Cabinet meetings are usually held at the Secretariat on Thursdays, but the venue was shifted to the Parliament complex due to the ongoing session of Parliament.
+
+BERNAMA, Pertubuhan Berita Nasional Malaysia merupakan Peneraju dalam perkhidmatan berita dan maklumat mempelawa calon warganegara Malaysia yang layak untuk menyertai kami :
+
+Sila layari portal kerjaya BERNAMA di https://kerjaya.bernama.com untuk maklumat lanjut. Permohonan hendaklah dibuat secara atas talian melalui portal kerjaya BERNAMA.
+
+BERNAMA has never appointed any agent or individual for the purpose of recruiting its staff.
+
+Dimaklumkan bahawa soal selidik ini bertujuan untuk mendapatkan maklum balas pelanggan berhubung tahap pengamalan nilai-nilai murni di jabatan/agensi Kerajaan yang memberikan perkhidmatan kepada tuan/puan.
+
+Berdasarkan pengalaman atau pemerhatian semasa berurusan dengan BERNAMA, sila beri maklum balas kepada pernyataan-pernyataan yang berikut dalam konteks semasa. Kami menghargai maklum balas yang jujur dan rasio
+
+#### 📌 FUENTE: thestar
+Thailand faces 'worst energy crisis in history' as diesel prices treble
+**Link:** https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/03/thailand-faces-039worst-energy-crisis-in-history039-as-diesel-prices-treble
+> BANGKOK: Thailand is grappling with its most severe energy crisis on record, with the government moving to seize "windfall profits" from refineries to prevent a total collapse of the country’s fuel subsidy mechanism.
+
+Prasert Sinsukprasert, permanent secretary for Energy, revealed on April 3,l 2026 that global diesel prices have surged to nearly US$300 per barrel—almost triple the standard rate of $92. The current volatility far outstrips the previous records set during the Russia-Ukraine conflict, which saw prices peak at $150.
+
+The crisis has left the state’s Fuel Fund nearly 50 billion baht in deficit. Although the fund holds a 150-billion-baht credit line, officials warn that at the current rate of depletion, these re will last only another two months.
+
+In response, the Ministry is negotiating with refineries to reclaim excess profits generated by the "War Premium" and inflated refining margins. Authorities are using a five-year average margin of 2.43 baht as a benchmark; any earnings significantly exceeding this are being eyed for redistribution to the public.
+
+While PTT and Bangchak have reportedly offered preliminary cooperation, a final decision on the exact figures and the method of aid is expected this Monday.
+
+The Ministry is considering whether to implement a general price reduction or provide targeted subsidies for the transport sector and vulnerable households.
+
+To maintain market stability, the government has implemented modest price increases over the last 48 hours. Prasert explained that these adjustments are necessary to prevent "price shocks" that could lead to hoarding or fuel smuggling across Thailand’s borders.
+
+Simultaneously, the government continues to spend 30 million baht daily to subsidise Liquefied Petroleum Gas (LPG), a move intended to keep food prices stable and protect the general cost of living.
+
+"This is a moment of unprecedented gravity," Prasert stated. "We are seeking a balance that protects the public interest, and we believe our refineries will stand with the Thai people to navigate this crisis." - The Nation/ANN
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:24:50
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Global services sector contracts for first time in 3 years amid Iran war oil shock
+
+A month into the U.S.-Israeli military campaign against Iran, the economic consequences are cascading across the globe. Maritime traffic through the Strait of Hormuz has collapsed by 95%, according to a United Nations Conference on Trade and Development report released on April 2, choking off roughly a fifth of the world's oil supply and sending energy prices surging. The S&P Global Services PMI fell to 49.8 in March 2026, slipping below the 50.0 threshold that separates expansion from contraction for the first time in more than three years.
+financialcontent
+
+finance.yahoo
+Crude Prices Soar as Iran War Keeps Strait of Hormuz Closed
+cnbc
+Iran war-hit oil prices will soon rise if Hormuz stays shut - CNBC
+cnbc
+Oil price: Brent heads for record monthly gain on Iran war - CNBC
+bloomberg
+Meloni Visits Gulf to Bolster Energy Ties to War-Hit States - Bloomberg
+cnbc.com
+Energy Markets in Crisis
+
+The near-total shutdown of the strait, triggered by Iran's retaliation after coordinated U.S. and Israeli strikes on February 28, has upended global energy markets. Brent crude rose sharply through March, climbing roughly 36% from pre-war levels by month's end. Oil prices have whipsawed on each escalation — surging after President Donald Trump vowed to intensify military action without offering a plan to reopen the waterway, and briefly dipping on reports of Iranian-Omani negotiations over strait access.
+finance.yahoo
+
+CNBC reported that analysts and oil executives warn prices could reach $150 per barrel if the strait is not reopened within weeks. The United States and allies have released 400 million barrels from strategic reserves — the largest coordinated release ever — and temporarily suspended sanctions on select Russian and Iranian oil to ease pressure. OPEC+ had planned to raise output by 206,000 barrels per day in April, but Middle Eastern producers have been forced to cut production as storage fills up.
+cnbc
+
+Ripple Effects Across Continents
+
+The energy shock is reverberating far beyond oil markets. The UN Food and Agriculture Organization reported on April 3 that global food prices rose 2.4% in March, reaching their highest level since December. The Bank of Italy cut its GDP growth forecast for 2026 to 0.5%, down from 0.6%, citing surging energy costs and weakened domestic demand. Italy's government extended a fuel tax cut through May 1 at a cost of roughly €500 million.
+bloomberg
+
+Bangladesh, which imports 95% of its energy, has shut universities, imposed fuel rationing, and ordered civil servants to limit electricity use. Australia has released over 762 million liters from its strategic fuel reserves and relaxed fuel standards as hundreds of service stations reported shortages.
+aljazeera
+
+Industrial Damage Compounds the Outlook
+
+The physical toll of the conflict is compounding longer-term economic risks. Emirates Global Aluminium, the Middle East's largest aluminum producer, said on April 3 that full restoration of primary production at its Al Taweelah smelter could take up to 12 months after Iranian missile and drone strikes forced an emergency shutdown and caused metal to solidify inside smelting circuits. The plant produced 1.6 million tonnes of cast metal in 2025.
+ega
+
+The OECD has shelved plans to upgrade its 2026 global growth forecast, warning that if the conflict extends to June, GDP growth could be "almost eliminated" in developed economies outside the United States. As Dow Jones reported, the outlook now hinges on whether oil and gas prices peak soon — and whether the Strait of Hormuz can be reopened before the damage becomes irreversible.
+dowjones
+
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: finance.yahoo
+Crude Prices Soar as Iran War Keeps Strait of Hormuz Closed
+**Link:** https://finance.yahoo.com/sectors/energy/articles/crude-prices-soar-iran-war-191706908.html
+> Tu privacidad es importante para nosotros
+
+Yahoo forma parte de la familia de marcas de Yahoo.
+
+Si no quieres que nosotros ni nuestros socios utilicemos cookies y datos personales para estos propósitos adicionales, haz clic en «Rechazar todo».
+
+Si quieres personalizar tus opciones, haz clic en «Gestionar configuración de privacidad».
+
+Puedes revocar tu consentimiento o cambiar tus opciones en cualquier momento haciendo clic en el enlace «Configuración de privacidad y cookies» o «Panel de privacidad» de nuestros sitios y aplicaciones. Para obtener más información sobre cómo utilizamos tus datos personales, consulta nuestra Política de privacidad y la Política de cookies.
+
+#### 📌 FUENTE: cnbc
+Iran war-hit oil prices will soon rise if Hormuz stays shut - CNBC
+**Link:** https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html
+> The clock is ticking on the U.S.-Israeli war in Iran. The emerging view from oil industry executives and analysts is that the economic and market fallout from the war could escalate sharply if the Strait of Hormuz isn’t reopened within roughly the next one to three weeks. Even then, enough damage may have been done already to leave energy and many other prices higher for longer.
+
+These risks haven’t been clearly reflected in some widely followed markets, including stocks broadly and the benchmark Brent crude price
+. Stopgap measures to soften the blow of the oil cutoff have kept crude prices relatively low in the U.S. and European markets. But when those measures lose their effectiveness in early-to-mid April, analysts warn there will be little the U.S. or other governments can do to keep energy prices from rising dramatically.
+
+Iran has attacked civilian ships and energy infrastructure in its neighborhood, causing traffic in the narrow Strait of Hormuz to fall to a standstill. Roughly 20% of the global oil supply normally passes through the approximately 100-mile-long waterway bordering Iran. Some oil has been rerouted through pipelines, but they can only carry so much. The U.S. and others are releasing 400 million barrels of oil from strategic reserves — the biggest release on record — and the U.S. has temporarily lifted sanctions on some Russian and Iranian oil to give the market breathing room.
+
+The White House says it believes the president’s military strategy will soon end the Iranian threat, allowing the price worries to fade.
+
+But all agree there is no substitute for reopening the strait. Oil industry executives have in recent days sketched out the risk of growing disruption from the war.
+
+“There are very real, physical manifestations of the closure of the Strait of Hormuz that are working their way around the world,” Chevron CEO Mike Wirth said Monday at S&P Global’s CERAWeek in Houston. Shell CEO Wael Sawan echoed him a few days later at the annual gathering of industry heavyweights. Disruptions that started in South Asia have “moved to Southeast Asia, Northeast Asia and then more so into Europe as we get into April,” Sawan said Wednesday.
+
+The talk of the conference was the difference between so-called paper and physical prices, said Ben Cahill, director for energy markets and policy at the Center for Energy and Environmental Systems Analysis, University of Texas at Austin.
+
+Paper prices reflect trading in financial markets and are often the headline oil prices discussed in the press. They have generally remained lower than prices for physical delivery of oil, especially in Asia, the main buyer of crude from the Middle East.
+
+Brent crude futures prices rose 36% from Feb. 27 — the last day of trading before the war started — through March 27, when they traded above $113 a barrel. But the Dubai price, which tracks physical delivery from certain Middle East sellers, is up 76%, more than twice the paper price, at $126. That price has been especially volatile lately.
+
+One reason paper prices are lower is that they have regularly fallen in reaction to suggestions by President Donald Trump that the war could soon end or otherwise de-escalate. Traders call that “jawboning.”
+
+“In that sense, it’s working, it’s preventing a bigger paper-market reaction,” Cahill said of Trump’s rhetoric. “But the reality of the physical market disruption is really hard to ignore.”
+
+That disruption isn’t limited to oil and its effects on U.S. gas prices. Prices for liquified natural gas are also a worry. LNG prices in Japan and South Korea are up 48%. Jet fuel costs are spiraling, along with those of more esoteric commodities such as helium. Without relief, these prices could continue to rise, driving up global inflation and eating into growth.
+
+Markets have deteriorated over the past few days. The S&P 500 rose half a percent on Tuesday amid optimism that Trump would delay a plan to attack Iranian energy infrastructure, but then fell 3.4% from
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:25:08
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/iran-s-radar-silent-missile-sy-l8NtLsczRDi3OeBrfJT4Ig
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Iran's radar-silent missile systems down US jets, exposing electronic warfare gap
+
+Iran's downing of a U.S. F-15E Strike Eagle and strike on an A-10 Thunderbolt on Friday marked the first loss of manned American aircraft to enemy fire during Operation Epic Fury, exposing what analysts say is a critical vulnerability in U.S. electronic warfare: the inability to counter heat-seeking, radar-silent air defense systems.
+
+indiatoday
+How Iran is suddenly shooting US fighter jets out of the sky
+yahoo
+Iran Blows Up Trump's 'Annihilated' Brag by Downing Two Jets
+wikipedia
+Majid (air defense system) - Wikipedia
+indiatvnews
+Iran's Majid surface-to-air missile system explained: How US lost two ...
+fairbd.net
+The Infrared Advantage
+
+ABC News reported that Iran used passive infrared detection systems to track and target the F-15E without emitting radar signals, meaning the aircraft's warning systems — designed to detect radar locks — likely never alerted the crew. The indigenous Majid (AD-08) surface-to-air missile system, first unveiled in 2021, uses electro-optical sensors to lock onto heat signatures from aircraft engines and airframe friction rather than traditional radar. With a missile range of up to 8 kilometers and infrared sensor detection out to 15 kilometers, the system is integrated with Iran's Kashef-99 phased-array radar to extend tracking to 30 kilometers.
+yahoo
+
+Former U.S. F-15E combat pilot Ryan Bodenheimer warned in an interview with ANI that Iran's approach catches pilots off guard. "If a radar suddenly turns on beneath you, even the best fighter pilots may have no options," he said, adding that "Iran is smart. They're not slouches. They save some of their capability and technology for moments like this".
+youtube
+
+A Layered Kill Zone
+
+The shootdowns reflect Iran's broader shift away from the fixed air defense sites that Israel destroyed during the June 2025 war. According to India Today, Iran has moved most of its air defense systems into underground "missile cities," tunnels, and rugged coastal terrain, deploying mobile launchers that employ "shoot-and-scoot" tactics — firing and relocating before they can be struck. U.S. intelligence estimates that half of Iran's missile launchers remain intact despite weeks of daily strikes, CNN reported.
+indiatoday
+
+Bolstering these mobile systems is a reported €500 million deal signed in December 2025 between Moscow and Tehran for 500 Russian Verba MANPADS and 2,500 missiles, according to the Financial Times. The Verba uses multi-spectral infrared and ultraviolet seekers to track targets amid background heat, making it one of the most capable shoulder-fired systems in existence. Geopolitical analyst Shaiel Ben-Ephraim has also suggested Iran may be fielding the Chinese HQ-9B, which combines radar and infrared guidance to resist electronic jamming.
+abc
+
+Rethinking Air Superiority
+
+The losses have punctured earlier assertions of total air dominance. On Friday, in addition to the F-15E and A-10, two Black Hawk helicopters involved in search-and-rescue operations for the downed F-15E crew were also struck by Iranian fire, though both remained operational. One of the two F-15E crew members was rescued by U.S. special forces inside Iranian territory; the search for the second continued as of Friday evening.
+axios
+
+The incidents underscore a mismatch between U.S. suppression-of-enemy-air-defense doctrine, built around jamming and destroying radar emitters, and an adversary that has learned to fight without them.
+
+Iran shot down US F-15E as intel shows half its arsenal intact
+The disconnect between the intelligence picture and the administration's public statements has drawn scrutiny. Politico noted that Trump's "two to three weeks" refrain echoes similar timelines he offered repeatedly during his efforts to broker a Russia-Ukraine deal — deadlines that passed without resolution. Iran, according to a separate assessment reported by the New York Times, currently sees...
+Viral video shows US F-15 failing to down Iranian drone over Iraq
+Defense analysts have noted that even if the video's precise narrative remains unverified, the broader pattern it illustrates is real: cheap, low-altitude drones flying in swarms are straining conventional air defense systems across the region. The incident in Erbil — where a functioning oil depot was destroyed despite the apparent presence of U.S. air assets — underscores what one analyst on X...
+Analysts say Iran downed F-15E, not F-35 as Tehran claims
+Iran's first claim of hitting an F-35 came on March 18, when a US stealth jet was forced to make an emergency landing at a regional air base after flying a combat mission over Iran. US Central Command confirmed the emergency landing at the time, and CNN reported the aircraft had been struck by suspected Iranian fire. The pilot sustained shrapnel injuries but survived, according to Air & Space...
+Iran shifts to precision strikes on US air assets across Gulf
+The White House said as of March 30 that Iranian ballistic missile and drone launches had dropped roughly 90% from the war's opening days. Defense Secretary Pete Hegseth declared on March 12 that Iranian "missile volume is down 90%" and one-way attack drones were "down 95%". But data compiled by Anadolu Agency from regional defense ministries showed Iran still launched 6,770 missiles and drones...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: indiatoday
+How Iran is suddenly shooting US fighter jets out of the sky
+**Link:** https://www.indiatoday.in/world/story/iran-missiles-shooting-down-us-fighter-jets-helicopters-war-2891484-2026-04-04
+> It seems the days when flying over Iran was a walk in the park are over. Over the past 24 hours, two US military aircraft and two Black Hawk helicopters, which were involved in search efforts, were struck by Iran. While it does not mean that Iran is anywhere close to an equal military footing with the US, what it does is puncture US President Donald Trump's claims of complete dominance over Tehran's skies. On Friday, the sky came falling for Trump. But how did Iran, with its depleted air defence, manage to target such sophisticated warplanes?
+
+The answer is Iran's mastery over asymmetric warfare, using unconventional methods to take the US by surprise. Despite the war now being in its second month, the US still seems to be unaware of Iran's googlies. After shooting down a US F-15E Strike Eagle fighter jet on Friday, Iran's Islamic Revolutionary Guard Corps (IRGC) credited a new, advanced defence system. Hours later, two Black Hawk helicopters, which were involved in search efforts for the F-15 crew, were also hit, but they made it out of Iranian airspace. A second US jet, an A-10 Warthog aircraft, also crashed over Kuwait.
+
+The developments come as a major battlefield setback for the US. It is the first time in more than 20 years that American fighter jets have been shot down by enemy fire. The last time that a US warplane was shot down during active combat was in Iraq during the 2003 invasion.
+
+Crucially, it underlines Iran's continued ability to strike back despite repeated assertions by Trump and his aides of "complete control" over Iran's skies and Tehran having "no anti-aircraft systems".
+
+"We literally have planes flying over Tehran and other parts of their country... They can't do a thing about it," Trump said on March 24. A week later, Iran showed Trump and the world the reality.
+
+While Iran has not revealed what took down the US jets, analysts believe it could be the Majid infrared air defence system or shoulder-fired missiles, which are harder to detect. The two US warplanes shot down by Iran were likely operating at lower altitudes, making them easy targets for these weapons.
+
+In fact, the Majid system, a surface-to-air missile platform, is also believed to be behind the March 19 hit on the US F-35, America's most advanced stealth fighter aircraft.
+
+Why is it so lethal? The Majid system, which Iran started using as recently as 2021, is for defence against low-flying aircraft. What is important to note here is that it doesn't rely on radar. Instead, it uses passive infrared detection combined with a proximity fuse.
+
+As it doesn't emit radar signals, it becomes significantly harder for aircraft to detect before a missile is fired at it. Its range is up to 8 km in distance and up to 6 km in altitude. Thus, it is highly possible that the US jets were operating within this range.
+
+Its detection capabilities hold the key. The infrared sensors have a range of up to 15 km. It is integrated with an external Kashef-99 phased-array system, which extends tracking capability to 30 km. This also allows multiple targets to be monitored simultaneously. The Majid system can carry up to eight ready-to-fire missiles.
+
+Since the missiles use passive infrared guidance rather than radar, it becomes difficult for detection by aircraft warning receivers. This explains how a highly sophisticated aircraft like the F-35 was likely targeted. Moreover, the enormous amount of heat generated by the F-35 is its Achilles' heel. We had analysed in March how Iran could have struck the F-35.
+
+The Majid system is believed to have destroyed multiple US and Israeli high-value UAVs, most notably MQ-9 and Heron drones, since the start of the war on February 28.
+
+"A disabled air defence system is not a destroyed one. We shouldn't be surprised they are still fighting," Behnam Ben Taleblu, director of the Iran program at the Foundation for Defence of Democracies, told AP.
+
+One of the biggest shifts that Iran has made in its strategy is structural. After the b
+
+#### 📌 FUENTE: yahoo
+Iran Blows Up Trump's 'Annihilated' Brag by Downing Two Jets
+**Link:** https://www.yahoo.com/news/articles/iran-blows-trump-annihilated-brag-021256121.html
+> Tu privacidad es importante para nosotros
+
+Yahoo forma parte de la familia de marcas de Yahoo.
+
+Si no quieres que nosotros ni nuestros socios utilicemos cookies y datos personales para estos propósitos adicionales, haz clic en «Rechazar todo».
+
+Si quieres personalizar tus opciones, haz clic en «Gestionar configuración de privacidad».
+
+Puedes revocar tu consentimiento o cambiar tus opciones en cualquier momento haciendo clic en el enlace «Configuración de privacidad y cookies» o «Panel de privacidad» de nuestros sitios y aplicaciones. Para obtener más información sobre cómo utilizamos tus datos personales, consulta nuestra Política de privacidad y la Política de cookies.
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:25:30
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+U.S. Dollar Index hits highest level since May 2025
+
+The US Dollar Index climbed to its highest level since May 2025, crossing the 100.08 mark on April 3, 2026, as a confluence of geopolitical turmoil and shifting Federal Reserve expectations drove investors into the greenback. The rally marks a sharp reversal from late 2025, when the index languished in the mid-90s, and is now reshaping currency markets worldwide.
+markets.financialcontent
+
+e8markets
+USD Dominance in April 2026: Geopolitical Tensions Propel Dollar ...
+oanda
+Five currency pairs to watch in April 2026 and why | Forex - Oanda
+wikipedia
+2026 Strait of Hormuz crisis - Wikipedia
+aljazeera
+After Strait of Hormuz opens, turmoil would still last months, analysts ...
+cnbc.com
+Safe-Haven Demand and the Hormuz Crisis
+
+The Strait of Hormuz crisis, which began on February 28 after joint U.S.-Israeli military strikes on Iran, remains the dominant driver of dollar strength. Iran's Islamic Revolutionary Guard Corps has maintained a partial blockade of the strait, with approximately 2,000 vessels still immobilized in the area, according to the International Maritime Organization. Oil prices have surged above $100 per barrel, a dynamic that structurally favors the United States as a net energy exporter while punishing import-dependent economies in Europe and Asia.
+e8markets
+
+On Thursday, the United Kingdom convened a meeting with representatives from 40 countries to discuss the crisis, though the talks produced no concrete outcomes, according to Al Jazeera. President Trump said on April 2 that the U.S. is "on track to complete all of America's military objectives" in its operation to reopen the strait.
+aljazeera
+
+The Warsh Factor
+
+Adding to dollar momentum is the anticipated policy shift at the Federal Reserve under nominee Kevin Warsh. The White House formally transmitted Warsh's dual nominations — as Fed Chairman and Governor — to the Senate on March 30, with a confirmation hearing tentatively planned for the week of April 13. Warsh's "Sound Money" philosophy, which calls for aggressive balance sheet reduction and an end to the so-called "Fed Put," has prompted markets to reprice long-term interest rate expectations upward. Current Chair Jerome Powell's term expires May 15.
+mexc
+
+Global Ripple Effects
+
+The broad dollar strength is exacting a toll on emerging markets. South Korea's foreign reserves posted their steepest monthly decline in about a year in March, falling $3.97 billion to $423.66 billion, according to Bank of Korea data released on Friday. A BOK official attributed the drop to the stronger dollar reducing the value of non-dollar-denominated assets and to market stabilization measures including foreign exchange swaps with the National Pension Service.
+yna
+
+The euro and British pound have fallen to five-month lows against the dollar, while the Japanese yen is being pushed toward the critical 160 level, raising the prospect of intervention by Japanese authorities. The Mexican peso weakened roughly 5% against the dollar over March. Institutional forecasts suggest the DXY will trade between 99 and 103 through the second quarter, with a meaningful reversal unlikely unless a ceasefire or reopening of the strait unwinds safe-haven flows.
+xe
+
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: e8markets
+USD Dominance in April 2026: Geopolitical Tensions Propel Dollar ...
+**Link:** https://blog.e8markets.com/article/usd-dominance-in-april-2026-geopolitical-tensions-propel-dollar-strength
+> The US dollar strengthens across major pairs as Middle East tensions and yield advantages reshape FX markets through Q2 2026.
+
+The US dollar is staging a powerful comeback across major currency pairs as of April 2026, driven by a complex interplay of geopolitical tensions, structural yield advantages, and surging safe-haven demand. As the Dollar Index (DXY) climbs towards the 100.50 mark, traders are witnessing a significant repricing of currency values that transcends typical seasonal trends. This resurgence follows a period of gradual weakness throughout 2025, marking a pivotal shift for those navigating the foreign exchange markets as we move into the second quarter.
+
+The key driver behind the dollar's newfound strength is the ongoing conflict in the Middle East, specifically Iran's effective closure of the Hormuz Strait. This geopolitical flashpoint has fundamentally altered the global market's risk landscape, prompting a rush towards defensive assets and creating what strategists refer to as "conflict-driven strength" for the dollar, projected to last through at least June 2026. With no clear path to de-escalation, the Federal Reserve is constrained in its ability to implement rate cuts, especially as energy inflation remains high. This policy stance has effectively anchored the Fed's rate range between 3.50% and 3.75% for the foreseeable future.
+
+The dollar stands to gain uniquely from rising oil prices in ways that its major counterparts cannot. As an oil-exporting nation, the United States experiences a terms-of-trade improvement when energy prices surge, unlike energy-importing regions such as New Zealand and the eurozone, which face challenges to both their trade balances and inflation outlooks. This structural imbalance is a key factor underpinning the current dollar strength, explaining why the DXY has climbed 2.13% over the past month alone.
+
+In 2026, the narrative surrounding safe-haven flows has shifted dramatically. Traditionally, the Japanese yen was the go-to for investors seeking protection during geopolitical stress. However, the yield gap between the dollar and the yen has widened so significantly that safe-haven logic has been eclipsed by carry logic. With the yen offering minimal yield compensation, traders are increasingly favoring the dollar, which provides both safety and a substantial yield premium that most competing currencies cannot match.
+
+This yield divergence marks a crucial structural advantage for the US dollar. The combination of policy rate benefits, elevated Treasury yields, and the dollar's entrenched position in global financial markets makes a compelling case for holding dollar-denominated assets. Although the Swiss franc has absorbed some European risk aversion, it lacks the yield advantage the dollar offers. This suggests that dollar strength may persist longer than typical seasonal patterns predict.
+
+The performance of major currency pairs highlights nuanced dynamics within the dollar's broad strength. The EUR/USD has retreated to around 1.1483 as the energy shock heavily impacts the eurozone economy, which relies more on energy imports than the US. While forecasts anticipate a recovery towards 1.36 to 1.40 levels once the conflict premium dissipates, short-term momentum remains in favor of the dollar. GBP/USD, trading around 1.33, presents a different picture. The British pound is holding relatively steady as the Bank of England maintains a hawkish stance amid elevated UK inflation, fostering a competitive dynamic. Nevertheless, sterling's resilience is not enough to counteract broader dollar strength.
+
+USD/JPY illustrates current market dynamics most strikingly. Approaching 160 on the crosses, the pair exemplifies how carry logic has triumphed over safe-haven considerations. Traders are willing to hold yen exposure only when adequately compensated by yields elsewhere, making this pair highly sensitive to rate differentials and risk sentiment. It serves as a critical indicator for w
+
+#### 📌 FUENTE: oanda
+Five currency pairs to watch in April 2026 and why | Forex - Oanda
+**Link:** https://www.oanda.com/us-en/trade-tap-blog/asset-classes/forex/fx-outlook-april-2026/
+> Trade minor and major forex pairs, plus popular cryptos through our partner, Paxos.
+
+Choose between TradingView, MT4, or our award-winning web platform and mobile app.
+
+Build a stronger trading strategy with our range powerful tools.
+
+Discover the difference between our account types and the range of benefits, including institution-grade execution.
+
+Open or log in to your OANDA Trade, Trade Demo or Corporate/Trust account.
+
+April 2026 currency report: Analyzing the Fed's cautious pause, the BOJ's structural shift, and the RBNZ's recovery outlook against a backdrop of geopolitical risk. Includes economic deep-dives and technical analysis for five key FX pairs: USD/JPY, EUR/JPY, NZD/JPY, USD/CAD, and USD/CHF.
+
+The current Middle East war has profoundly impacted currency exchange rates by introducing a dual shock of risk aversion and surging energy costs. The US dollar (USD) has so far emerged as the clear winner, rising against most major peers due to its status as the world's primary safe-haven asset and its structural advantage as a net energy exporter. The conflict-driven rise in oil prices toward $100 per barrel has fueled inflation concerns globally1, prompting markets to price in a "Higher for Longer" interest rate scenario for the Federal Reserve, which is fundamentally supportive of the Greenback. Conversely, currencies tied to energy-importing economies, such as the euro (EUR) and Japanese yen (JPY), have weakened significantly. For Europe, higher energy costs act as a tax on growth, pushing the EUR and GBP to five-month lows against the USD. Similarly, the JPY’s traditional safe-haven status is being tested as the burden of expensive crude imports raises stagflation risks, pushing the yen toward the critical 160 level and raising the possibility of intervention by Japanese authorities.
+
+The US economy remains surprisingly resilient, outperforming many global peers despite high borrowing costs. The Real GDP is expanding at a solid pace, with forecasts for 2026 hovering around 2.4%.2
+
+This growth is being anchored by robust business investment — particularly in AI-related infrastructure — and steady, though slowing, consumer spending.
+
+The labor market has transitioned from "red hot" to "stable but sluggish", the unemployment rate ticked up to 4.4% in February 2026.3 While higher than the 2023 lows, it remains historically healthy. Payroll growth has slowed significantly – February saw a surprising loss of 92,000 jobs, though this was largely attributed to a healthcare sector strike and government downsizing rather than broad economic weakness.
+
+Inflation is "sticky" and hovering just above the Fed’s 2% target. The annual inflation rate, Headline CPI held steady at 2.4% in February, however, the rebounding energy prices following the Middle East war are a major concern. Policy makers are currently "looking through" this energy spike, assuming it is temporary, but they are watching closely to ensure it doesn't bleed into long-term inflation expectations.4
+
+Core inflation (excluding food and energy) sits at 2.5%, reflecting the difficulty in bringing down costs in the service sector.
+
+The Federal Reserve held the federal funds rate steady at 3.50% to 3.75% during its March 18 meeting. After a series of cuts in late 2024 and 2025, the Fed has entered a "wait-and-see" mode. The committee is balancing the risk of cutting too early (reigniting inflation) against the risk of waiting too long (stifling the labor market).
+
+According to the futures market for interest rate futures contracts5, the current market pricing suggests a single 0.25% rate cut is the most likely outcome for the remainder of 2026, likely toward the end of the year.
+
+At the March press conference, Chair Jerome Powell emphasized6 that while the economy is "doing pretty well," the path forward has been clouded by external shocks. The Fed explicitly added language to its policy statement noting that the implications of the Iran-Israel conflict for the US econom
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:25:45
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/five-eu-nations-push-windfall-ZChroxr1QZu6Yql1MZt1cw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Five EU nations push windfall tax on energy firms amid oil surge
+
+From travel bans in West Africa to fuel tax cuts in South Africa and a push for windfall taxes in Europe, governments are deploying an array of emergency measures to cushion the economic blow of oil prices that have surged past $100 a barrel amid the ongoing conflict in Iran.
+
+caliber
+Senegal bans officials' trips as oil crisis hits budget | Caliber.Az
+apnews
+Senegal limits foreign trips for ministers amid energy crisis - AP News
+straitstimes
+Senegal bans government travel as Iran war oil shock hits public ...
+dailymaverick
+R3-per-litre cut to fuel levy softens April's petrol and diesel price shock
+reuters.com
+African Nations Bear the Brunt
+
+Senegal's Prime Minister Ousmane Sonko announced on Friday that all government ministers are banned from non-essential foreign travel, warning of "extremely difficult" times ahead. Speaking at an event in the coastal city of Mbour, Sonko said oil prices had reached roughly $115 per barrel — nearly double the $62 per barrel projected in the country's 2026 budget.
+caliber
+
+"No minister in my administration will travel abroad except for an essential mission," Sonko said, adding that he had already cancelled his own planned trips to Niger, Spain, and France.
+apnews
+
+In South Sudan, where 96 percent of electricity is generated from oil according to the International Energy Agency, the Juba Electricity Distribution Company began rotating power cuts across the capital in late March. South Africa, meanwhile, introduced a temporary reduction of 3 rand per liter in its fuel levy effective April 1, a measure Finance Minister Enoch Godongwana said would cost the government roughly $350 million in foregone revenue. Even with the relief, petrol prices rose more than 3 rand per liter and diesel hit record highs.
+dailymaverick
+
+Europe Eyes Windfall Taxes
+
+In a joint letter dated April 3 addressed to EU Climate Commissioner Wopke Hoekstra, the finance and economy ministers of Spain, Germany, Italy, Austria, and Portugal called on the European Commission to impose a coordinated windfall tax on energy companies profiting from war-driven price surges. The proposal draws on a precedent set in 2022, when the EU introduced a temporary 33 percent solidarity contribution on excess energy profits during the early stages of the Ukraine war. A key question under consideration is whether profits generated abroad by multinational energy firms could be included in the tax base.
+nampa
+
+Taiwan Absorbs Billions in Fuel Costs
+
+In Asia, Taiwan's state-owned CPC Corp. has been absorbing the bulk of global price increases to limit the burden on consumers. Under the island's floating fuel price mechanism, gasoline and diesel should have risen by more than NT$10 per liter in recent weeks, but CPC said it absorbed roughly NT$7 billion in fuel costs through its price stabilization program as of late March. The government has also expanded fuel tax cuts to 50 percent and directed CPC to keep prices at the pump lower than in neighboring countries.
+taiwannews
+
+The measures underscore a shared dilemma: governments can cushion consumers in the short term, but officials from Pretoria to Taipei have warned the relief is not sustainable if prices remain elevated.
+
+Czech Republic caps fuel profits as windfall tax calls mount
+The windfall tax debate echoes the energy crisis of 2022, when European governments imposed similar levies on energy companies profiting from the disruption caused by Russia's invasion of Ukraine. Germany's Finance Ministry is once again examining an excess-profit levy to fund consumer relief.
+Indonesia says it needs $5.9B more for energy subsidies amid Iran war
+In the United States, the average price of regular gasoline crossed $4.02 per gallon on Tuesday, according to AAA — the highest since August 2022 and more than a dollar above pre-war levels, as reported by the Associated Press. CNBC reported that prices have climbed more than 30% since U.S. and Israeli military operations against Iran began in late February. Analysts warn that if the Strait of...
+Nations race to shield consumers as fuel crisis deepens worldwide
+The coordinated global response underscores the severity of a crisis that analysts warn could worsen. Oil executives and analysts have cautioned that if the Strait of Hormuz is not reopened by mid-April, supply disruptions will intensify as strategic petroleum reserves run low. Wood Mackenzie analyst Simon Flowers wrote in a research note that oil at "$200 per barrel is not outside the realms of...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: caliber
+Senegal bans officials' trips as oil crisis hits budget | Caliber.Az
+**Link:** https://caliber.az/en/post/senegal-bans-officials-trips-as-oil-crisis-hits-budget
+> The government of Senegal has ordered an immediate suspension of all non-essential foreign travel for ministers and senior officials, citing “extremely difficult” economic conditions triggered by soaring global oil prices linked to the ongoing US-Israel conflict with Iran.
+
+The disruption comes as Iran’s effective closure of the strategic Strait of Hormuz has destabilised global energy markets, pushing Brent crude prices sharply higher and putting pressure on national budgets worldwide.
+
+Speaking at a youth event in the coastal city of Mbour on Friday evening, April 3, Prime Minister Usman Sonko reported that oil prices have reached approximately $115 per barrel — almost double the $62 per barrel projected in Senegal’s 2026 budget.
+
+“No minister in my government will travel abroad unless it is for an essential mission directly connected to their official duties,” Sonko said. He added that he had already cancelled scheduled trips to Niger, Spain, and France.
+
+Governments in West Africa and around the world are responding to the crisis with measures including fuel price increases, subsidies, and shifting employees to remote work. Sonko described these steps as necessary given Senegal’s existing debt obligations.
+
+Additional measures are expected to be announced next week. The Minister of Energy and Mining is scheduled to address the nation in the coming days, providing details on strategies to alleviate the impact of the oil price surge.
+
+#### 📌 FUENTE: apnews
+Senegal limits foreign trips for ministers amid energy crisis - AP News
+**Link:** https://apnews.com/article/senegal-iran-war-energy-trips-6b9e3c0ec206475fe40b230c3958d8d9
+> Copyright 2026 The Associated Press. All Rights Reserved.
+
+Senegalese opposition leader Ousmane Sonko addresses journalists following his release from police custody in Dakar, Senegal, on March 8, 2021. (AP Photo/Sylvain Cherkaoui, File)
+
+DAKAR, Senegal (AP) — The Senegalese government has banned all but essential foreign trips for government ministers as part of cost-saving measures triggered by the energy crisis linked to the Iran war.
+
+Senegal, like many African countries, imports most of the petroleum products it consumes, leaving its economy vulnerable to supply disruptions such as the closure of the Strait of Hormuz, which has sent the price of crude soaring.
+
+Prime Minister Ousmane Sonko said Friday that his office was taking steps to limit public expenditure, pointing out that the country’s initial budget forecasts were based on an oil price of $62 per barrel, which is now almost double as a result of the Iran war.
+
+“I have taken a number of drastic measures to restrict everything related to government spending, including the cancellation of all nonessential missions abroad,” the government-owned Le Soleil newspaper quoted Sonko as saying.
+
+He added that he canceled several trips, including to Niger, Spain and France.
+
+“No minister in my government will leave the country except for an essential mission,” Sonko said.
+
+For millions in Africa, soaring fuel prices have worsened the hardships they already face in some of the world’s poorest households. That means not being able to commute to work or afford a meal for many in the region.
+
+Copyright 2026 The Associated Press. All Rights Reserved.
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:26:07
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+China pushes five-point peace plan as Iran war nears fifth week
+
+As the US-Israeli war against Iran enters its fifth week with no end in sight, China has emerged as the most active diplomatic player pushing for a ceasefire, while the conflict's disruption of global energy supplies sends shockwaves through economies from Manila to Seoul.
+
+hicginewsagency
+China Steps Into Iran Conflict as Potential Mediator — Challenges ...
+bbc
+China is trying to play peacemaker in the Iran war - will it work? - BBC
+bloomberg
+China's Wang Yi Pushes Iran to Talk With US About Ending War
+wsls
+China aims to show global leadership with Iran war diplomacy. US ...
+aljazeera.com
+Beijing's Peace Push
+
+China and Pakistan have put forward a joint five-point proposal calling for an end to hostilities and the reopening of the Strait of Hormuz, the critical waterway through which roughly 20 percent of the world's oil supply flows. Chinese Foreign Minister Wang Yi has held more than 20 phone calls with regional foreign ministers since the war began on February 28, including multiple conversations with Iranian Foreign Minister Abbas Araghchi. "Talking is always better than fighting," Wang said in a March 24 call with Araghchi, urging Iran to engage in negotiations with the United States "as soon as possible," according to Bloomberg.
+hicginewsagency
+
+Wang has also spoken with counterparts from Russia, Israel, Saudi Arabia, Oman, France, and the UAE, while a Chinese special envoy has visited several countries in the region. Beijing's diplomatic push is driven in part by threats to its own energy security — China is Iran's largest trading partner and a major importer of Iranian crude. The effort comes ahead of a leaders summit and as the BBC reported that China is "positioning itself as a potential peacemaker" in the conflict.
+bbc
+
+The United States has shown little interest in China's mediation. President Donald Trump, asked Friday whether the downing of a US F-15 fighter jet over Iran would affect negotiations, told NBC: "No, not at all. No, it's war. We're in war".
+independent
+
+Global Energy Fallout
+
+Iran declared a full naval blockade of the Strait of Hormuz on March 27, sending Brent crude surging past $110 per barrel. The spot price for physical Brent cargoes hit $141.36 on April 2, the highest since 2008, according to CNBC, citing S&P Global data. Analysts at Goldman Sachs have warned that if the blockade persists through June, Brent could test $150 to $200.
+markets.financialcontent
+
+The Philippines declared a national energy emergency on March 24 after diesel prices more than doubled, surpassing 130 pesos per liter. South Korea proposed a supplementary budget of 26.2 trillion won ($17.1 billion) to cushion households and businesses from soaring energy costs, while Japan's petrochemical plants have halted operations and automakers Toyota and Nissan have cut production as 70 percent of the country's naphtha imports from the Middle East were disrupted.
+chosun
+
+Russia's Windfall
+
+Russia has emerged as an unexpected beneficiary. The Kyiv School of Economics estimated that Moscow is earning roughly $760 million a day from oil exports, with monthly revenues nearly doubling. CNBC reported that the price of Russian Urals crude has surged from $57 per barrel before the war to approximately $115. If prices hold, Russian oil and gas tax receipts could reach $180 billion in 2026, up from $101 billion in 2025. The Financial Times branded Russia the "biggest winner" from the conflict.
+aa
+
+African Union endorses China-Pakistan peace plan for Middle East
+Pakistan's Foreign Ministry spokesperson Tahir Andrabi told reporters on Wednesday that both Washington and Tehran have confidence in Pakistan's capacity as a neutral mediator. As a sign of that trust, Iran has allowed 20 Pakistani-flagged vessels to transit the Strait of Hormuz, a move Andrabi described as "a sign of peace". He did not confirm whether any of those ships had yet made the...
+Oil surges past $111 as China leverages Iran war, trade probes against US
+The dual pressure of war and tariffs is testing Washington's capacity to manage both fronts. Trump, in a national address on Wednesday, threatened to bomb Iran "back to the Stone Ages" while indicating the military campaign could wrap up in two to three weeks. But oil markets are not buying the optimism — Brent crude posted a 60% gain in March, the largest monthly increase since the futures...
+China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'
+Trump's original Saturday ultimatum demanded Iran reopen the strait or face the destruction of its power plants. On Monday, he posted on Truth Social that he had instructed "the Department of War to postpone any and all military strikes against Iranian power plants and energy infrastructure for a five day period". He later told reporters: "If it goes well, we're going to end up with settling...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: hicginewsagency
+China Steps Into Iran Conflict as Potential Mediator — Challenges ...
+**Link:** https://hicginewsagency.com/2026/04/01/china-steps-into-iran-conflict-as-potential-mediator-challenges-ahead/
+> Updated by Faith Barbara N Ruhinda at 1255 EAT on Wednesday 1 April 2026
+
+US President Donald Trump has indicated that military action in Iran could wrap up within “two to three weeks,” though details remain unclear on how the conflict might conclude or what comes next.
+
+China has stepped into the diplomatic effort alongside Pakistan, an unexpected mediator in the US–Israel war against Iran.
+
+Officials in Beijing and Islamabad have outlined a five-point plan aimed at achieving a ceasefire and reopening the strategically critical Strait of Hormuz.
+
+Pakistan, historically a US ally, appears to have gained Trump’s trust to help mediate the crisis.
+
+China’s entry, however, signals a growing challenge to Washington, coming ahead of high-stakes trade talks between President Xi Jinping and Trump next month.
+
+“China’s support in this matter is extremely significant,” said Zhu Yongbiao, Middle East expert and director of the Centre for Afghanistan Studies at Lanzhou University.
+
+“China is offering comprehensive moral, political, and diplomatic backing, hoping that Pakistan can assume a more prominent role.”
+
+The development represents a shift for Beijing, which had maintained a largely muted stance on the conflict until now. So what is prompting China to act at this stage?
+
+The peace plan was drafted after Pakistan’s foreign minister traveled to Beijing to seek Chinese support for Islamabad’s efforts to negotiate an end to the conflict.
+
+His efforts appear to have borne fruit. China’s Foreign Ministry said the two countries were making “new efforts towards advocating for peace.” The joint statement emphasized that dialogue and diplomacy are “the only viable option to resolve conflicts” and called for the protection of key waterways, including the blockaded Strait of Hormuz.
+
+While the plan addresses broader regional stability, oil remains a key concern. As the world’s largest crude importer, China has stockpiles sufficient to meet its needs over the coming months.
+
+Beijing is likely stepping into the peacemaker role because the war in Iran threatens something Xi Jinping highly values: stability. China’s economy depends on a stable global market, as it relies heavily on exporting goods while trying to revive a slowing domestic economy.
+
+“If the rest of the world begins to slow down economically because of an energy shock, that’s going to be tough for China’s factories and exporters,” said Matt Pottinger, chairman of the Foundation for Defense of Democracies’ China Program.
+
+“That’s why I think when China’s foreign minister recently urged Iran to find a way to end this war, there was genuine concern. Beijing is clearly wary of where a prolonged energy crisis could lead.”
+
+As a result, China’s exports to the Middle East grew nearly twice as fast as its exports to the rest of the world last year.
+
+The region has emerged as the fastest-growing market for electric vehicles, and China is also the largest investor in desalination projects, addressing the Middle East’s critical water scarcity.
+
+The Power Construction Corporation of China operates projects across Saudi Arabia, the United Arab Emirates, Oman, and Iraq.
+
+These economic ties have allowed China to cultivate relationships with a wide range of actors in the region, from US allies such as Saudi Arabia to longstanding rivals like Iran.
+
+China and Tehran have maintained a partnership for decades. China is Iran’s top trading partner and purchases around 80% of the country’s oil exports.
+
+The Chinese government has acted as a peacemaker in the Middle East before, with mixed results.
+
+In 2023, Beijing brokered a deal between longtime rivals Saudi Arabia and Iran, who have stood on opposing sides of multiple proxy wars. The two countries severed diplomatic ties in 2016 after Saudi Arabia executed a prominent Shia Muslim cleric, triggering protests in Iran and attacks on the Saudi embassy in Tehran.
+
+After China stepped in as mediator, the rivals agreed to restore diplomatic relations. The mo
+
+#### 📌 FUENTE: bbc
+China is trying to play peacemaker in the Iran war - will it work? - BBC
+**Link:** https://www.bbc.com/news/articles/cze0kz7gr84o
+> As the war in the Middle East enters its second month, choking the world's energy supply and sending oil prices soaring, China is trying to step in as a peacemaker.
+
+It comes as President Donald Trump says US military action in Iran could end in "two to three weeks", but there is no clear sense yet of how that will happen or what comes after.
+
+China joins Pakistan, which has emerged as an unlikely mediator in the US-Israel war against Iran. Officials in Beijing and Islamabad have presented a five-point plan with the aim of bringing about a ceasefire and re-opening the vital Strait of Hormuz.
+
+Pakistan, which has been a US ally in the past, seems to have won over Trump to mediate this conflict.
+
+Beijing, however, is entering the fray as a rival to Washington, ahead of crucial trade talks between Chinese leader Xi Jinping and Trump next month.
+
+China's backing on this is "very important," says Zhu Yongbiao, a Middle East expert and director of the Centre for Afghanistan Studies at Lanzhou University.
+
+"Morally, politically and diplomatically, China is providing comprehensive support with the hope that Pakistan can play a more distinctive role."
+
+It is also a turnaround for Beijing, whose official response to the war has so far been quite muted. So why is China stepping in now?
+
+The peace plan was drafted after Pakistan's foreign minister flew to Beijing to ask for Chinese support for the country's efforts to negotiate an end to this conflict.
+
+His efforts appear to have worked. China's Foreign Ministry said the two were making "new efforts towards advocating for peace." The joint statement agreed that dialogue and diplomacy were "the only viable option to resolve conflicts", and it called for waterways, including the blockaded strait, to be protected.
+
+It's not just about oil, although that will be a concern. China, the biggest importer of crude oil in the world, has enough stockpiled to get it through the next few months.
+
+Beijing will likely have decided to play the role of peacemaker because the war in Iran jeopardises something Xi covets: stability. China needs a stable global economy as it is heavily reliant on selling goods around the world as it tries to revive an ailing domestic economy.
+
+"If the rest of the world begins to slow down economically because of an energy shock, that's going to be tough for China's factories and exporters," says Matt Pottinger, Chairman of the Foundation for Defense of Democracy's China Program.
+
+"That's why I think when I see China's foreign minister just this week advising Iran that we need to find a way to end this war, I think there's some sincerity there. I think that Beijing is a little bit worried about where this could lead if it turns into a real energy shock that is protracted."
+
+There are already fears that China's industrial heartland, which serves as the factory of the world, will be impacted in the long term if this crisis continues.
+
+Paying a higher price for oil affects the whole supply chain, from the plastics needed to make toys and games, to the raw materials for modern synthetic fabrics, to the hundreds of components that go into phones, electric cars and semiconductors.
+
+The US trade war with China during Trump's first term led many business owners across the country to look for new markets around the world.
+
+As a result, China's exports to the Middle East grew nearly twice as fast as its exports to the rest of the world last year. The region has become the fastest growing market for electric cars, and China is also the largest investor in desalination in the Middle East, where potable water is scarce.
+
+The Power Construction Corporation of China has projects in Saudi Arabia, the Emirates, Oman and Iraq.
+
+As a result of its economic ties, China has cultivated relationships across the region with both US allies, such as Saudi Arabia, and foes, such as Iran.
+
+Tehran and Beijing have a partnership dating back decades. China is Iran's leading trade partner and it buys around
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:26:34
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/tanzania-s-rice-surplus-hits-r-SehY4UoZTWihZALdFoQAqQ
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Tanzania's rice surplus hits record as East Africa faces historic drought
+
+Tanzania's paddy rice production reached 2.6 million tonnes in the 2024/2025 season, far exceeding domestic consumption needs and generating a surplus that could prove critical for a region grappling with drought and rising food costs. The bumper harvest comes as nearly 26 million people across Somalia, Ethiopia, and Kenya face extreme hunger driven by failed rains, and as global food prices climb amid the ongoing Middle East conflict.
+streamlinefeed
+
+oxfam
+East Africa Drought Pushes Millions to Crisis - Oxfam Aotearoa
+english.wafa
+Global food prices rise amid Middle East war, FAO warns - WAFA
+riceforafrica
+Tanzania, August 2025 - CARD - Rice For Africa
+linkedin
+Tanzania's Rice Revolution - LinkedIn
+borgenproject.org
+A Regional Breadbasket Emerges
+
+With domestic demand for rice estimated at roughly 1.09 million tonnes annually, Tanzania's latest harvest leaves well over a million tonnes available for export, primarily to neighboring East African Community (EAC) members. In 2024, Tanzania exported approximately $200 million worth of rice, with Uganda, Kenya, Rwanda, and the Democratic Republic of Congo as the top destinations, according to World Bank trade data. Nearly all of Tanzania's rice surplus — about 99 percent — flows to EAC neighbors under zero-tariff arrangements.
+riceforafrica
+
+The milestone builds on a broader trajectory. President Samia Suluhu Hassan announced in late 2024 that Tanzania had achieved 128 percent food self-sufficiency, and the country's average annual paddy output between 2019 and 2024 stood at roughly 2.43 million tonnes. Tanzania's National Rice Development Strategy targets surplus production of 3.3 million tonnes of milled rice by 2030, and the recent opening of a $40 million rice mill in the Kahama district signals growing investment in agro-processing capacity.
+ecofinagency
+
+Timing Amid Regional Crisis
+
+The surplus arrives at a moment of acute need. A historic drought since September 2025 has devastated crops across the Horn of Africa, with Somalia, southeastern Ethiopia, and eastern Kenya hardest hit. In Somalia alone, crop production in some areas has fallen 83 percent below the long-term average, and 6.5 million people face hunger. The UN's Famine Early Warning Systems Network estimated that 20 to 25 million people across the three countries needed humanitarian food assistance as of late 2025.
+joint-research-centre.europa
+
+Global Price Pressures Add Urgency
+
+The FAO reported on April 3 that its Food Price Index rose 2.4 percent in March, driven largely by higher energy costs linked to the Middle East war. FAO Chief Economist Máximo Torero warned that if the conflict persists beyond 40 days and input costs stay elevated, farmers worldwide may reduce planting, with consequences for harvests through 2027. Disruptions to fertilizer shipments through the Strait of Hormuz — a chokepoint for urea and phosphate exports from Qatar and Saudi Arabia — threaten to compound the pressure, according to CNBC reporting.
+thepeninsulaqatar
+
+Against this backdrop, Tanzania's rice surplus positions the country as a stabilizing force in East African food markets, even as the region's longer-term food security remains tied to rainfall patterns and the trajectory of global conflict.
+
+Developing nations impose austerity as oil shock deepens
+The crisis has laid bare what the International Fertilizer Development Center called a "familiar but dangerous cycle." With roughly one-third of global fertilizer trade moving through the Strait of Hormuz, urea prices have surged 59% in a month, from $490 to $780 per metric ton, just as Africa's planting season begins. The World Bank reported a nearly 46% month-on-month spike in fertilizer...
+Four major institutions warn Middle East war could slash Africa's growth
+The AfDB had projected African growth at 4.3 percent for 2026 before the conflict. Chief Economist Kevin Urama warned that a six-month war could cut growth by 1.5 percentage points. "Africa has been hit by too many external shocks not of its making," said Claver Gatete, UN Under-Secretary-General and Executive Secretary of UNECA. "This moment calls for decisive action, to protect people now,...
+Tanzania hits record fuel prices as Iran war roils global oil supply
+The crisis is accelerating demands for energy independence. Fiji's Permanent Secretary for Environment and Climate Change, Dr. Sivendra Michael, said his country's commitment to 100% renewable electricity by 2035 "isn't just about reducing emissions, it's about protecting our economy and delivering long-term energy security. When our energy comes from the sun, wind, and other indigenous ...
+Nations rush to secure food, fertilizer as Hormuz closure drags on
+The UAE's Economy Minister Abdulla bin Touq Al Marri has said the country's strategic stockpile of essential commodities is sufficient for four to six months, calling the food security system "a red line". He toured food manufacturing and distribution facilities to assess supply levels, warning that violations or unjustified price increases would face strict legal action. Qatar's food security...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: oxfam
+East Africa Drought Pushes Millions to Crisis - Oxfam Aotearoa
+**Link:** https://www.oxfam.org.nz/news-media/media-releases/east-africa-drought-crisis-oxfam-warning/
+> Failed October–December rains have pushed nearly 26 million people into extreme hunger in East Africa.
+
+58 million people do not have access to clean drinking water.
+
+Millions of livestock are at risk as drought devastates grazing lands and water , threatening pastoralist livelihoods.
+
+Failure of the last rainy season across Somalia, Kenya and Ethiopia is triggering a food and water emergency for millions of people still trying to recover from the longest and most severe recorded drought spanning from 2020 to 2023 during which five rainy seasons in a row failed. Dry wells, soaring water prices, crop losses and livestock deaths are pushing communities to the brink, warns Oxfam.
+
+Across the three countries, nearly 26 million people are facing extreme hunger as drought conditions worsen, decimating crops before harvest and leaving livestock to die from lack of water and pasture. Deepening water scarcity is also driving displacement with more than 58 million people lacking access to clean water. As rivers and shallow wells dry up, families – most often women and girls – are forced to walk up to 15 kilometers for a single 20‑liter jerrycan while soaring prices put water trucking beyond reach for many families.
+
+In parts of Somalia, Oxfam staff and partners report that the cost of water has increased by more than 2000 percent. Families are now paying between $1 and $1.50 for a single jerrycan of water, compared to $0.06 a year ago. For families who have already lost their crops, livestock and  of income, water is now unaffordable. In Hobyo town, north of the country’s capital, communities are relying on water trucked from Gawaan village, located 30 kilometers away. High transportation costs are driving up prices even further.
+
+Fati N’Zi-Hassane, Oxfam in Africa Director, said: “Water trucking is becoming the last line of defence, but for many families who can’t afford even one meal a day for their children, paying for water is simply impossible. For women and girls, the crisis is particularly severe as they now have to walk longer distances, often in unsafe conditions, to secure what should be a basic human right.”
+
+In Somalia, a new Integrated Food Security Classification (IPC) alert revealed that the number of people facing hunger has nearly doubled since early 2025, rising to 6.5 million people. One in three people in the country are expected to be in crisis level hunger between February and March 2026. Levels of acute malnutrition have more than doubled, with communities struggling to survive as the climate crisis deepens.
+
+In Kenya’s arid and semi‑arid areas, communities are reporting reduced harvests while in Ethiopia, some areas are reporting crop losses due to the failure of the last two rainy seasons, leaving households empty‑handed. FEWSNET estimated that some regions had suffered production losses of 34 to 54 percent due to a severe rainfall deficit.
+
+Livestock, the backbone of pastoralist communities, are dying in large numbers as water and grazing lands completely dry up. In Somalia alone, an estimated 1.4 million livestock died in 2025, with another 2.5 million at risk. In Kenya’s northern counties, animal deaths from starvation and disease are rising while milk production has dropped by more than half, stripping families of their main source of food and income while in Ethiopia, poor rains have weakened livestock.
+
+The deepening crisis is unfolding amid severe humanitarian funding gaps. While needs have surged across East Africa, funding has declined sharply leaving millions of families to fend for themselves. In 2021, Somalia, Kenya and Ethiopia required $2.65 billion in humanitarian aid, with just under 61 percent funded. In 2025, less than one‑third of overall humanitarian requirements were met. In Somalia, the 2025 Humanitarian Response Plan received only 29 percent of the required funding while the 2026 has secured barely 13.4 percent so far.
+
+“The upcoming dry season will not just be difficult – it
+
+#### 📌 FUENTE: english.wafa
+Global food prices rise amid Middle East war, FAO warns - WAFA
+**Link:** https://english.wafa.ps/Pages/Details/168943
+> ROME, April 3, 2026 (WAFA) – The Food and Agriculture Organization said on Friday that global food prices rose in March to their highest level since September 2025 and could increase further if the war in the Middle East continues to drive up energy costs.
+
+FAO Chief Economist Máximo Torero said in a statement that price increases since the start of the war have been moderate, largely driven by rising oil prices, while ample global grain supplies have helped ease the impact.
+
+He warned that if the conflict persists for more than 40 days and input costs remain high, farmers may reduce inputs, cut cultivated areas, or shift to crops less dependent on fertilizers.
+
+“These choices will affect future harvests and determine our food supply and commodity prices for the rest of this year and all of next year,” he added.
+
+The FAO Food Price Index, which tracks changes in a basket of globally traded food commodities, rose by 2.4 percent compared to its revised February level. It is one percent higher than a year ago but remains about 20 percent below its peak in March 2022 following the outbreak of the Russian invasion of Ukraine.
+
+ALL RIGHTS RESERVED TO WAFA © 2020
+
+All Rights Reserved to Wafa WAFA © 2020
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:26:59
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/pakistan-reverses-record-fuel-Xzk5QfJsQ2erh7PT7Ugd8A
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Pakistan reverses record fuel hike as Asia reels from Iran war energy crisis
+
+The blockade of the Strait of Hormuz, triggered by the US-Israeli military campaign against Iran that began on February 28, is sending shockwaves through import-dependent economies across Asia and the developing world. From the Philippines to Pakistan to Vietnam, governments are scrambling to contain fuel shortages, record price spikes, and currency crises that threaten to derail economic growth across the region.
+
+wikipedia
+2026 Philippine energy crisis - Wikipedia
+nytimes
+Philippines Declares National Emergency Over High Fuel Prices
+aa
+Asian countries announce emergency measures after de facto ...
+
+indiatoday.in
+Fuel Shortages and Emergency Measures
+
+The Philippines became the first country to declare a national energy emergency on March 24, after diesel prices more than doubled to exceed ₱130 per liter and gasoline surpassed ₱100 per liter. The country imports roughly 90 percent of its oil, primarily from the Middle East, and the Department of Energy reported reserves had dwindled to approximately 45 days' supply. President Ferdinand Marcos Jr. urged citizens to carpool and shifted government offices to a four-day workweek to conserve energy, while the Department of Budget and Management released ₱20 billion from the Malampaya gas fund to secure emergency fuel supplies.
+wikipedia
+
+The Philippine peso hit a new all-time low of ₱60.748 against the dollar on March 31 — the ninth record low of the month — as surging oil costs and capital flight compounded pressure on the currency.
+cebudailynews.inquirer
+
+In Pakistan, the government on Thursday raised petrol prices by 42.7 percent to a record Rs458.40 per liter, while high-speed diesel surged 55 percent to Rs520.35 per liter. But public backlash was swift: Prime Minister Shehbaz Sharif announced an Rs80 per liter cut in the petroleum levy just one day later, bringing petrol back down to Rs378 per liter effective Saturday. The partial reversal also included subsidies for motorcycle owners, truck operators, and public transport drivers.
+tribune
+
+Economic Drag Spreads Across the Region
+
+Vietnam's first-quarter GDP growth slowed to 7.83 percent year-on-year, down from 8.46 percent the prior quarter, as the country — which imports more than 80 percent of its crude oil from the Middle East — grappled with rising fuel costs and operational cutbacks across its airline and manufacturing sectors, according to Reuters. Economists warn the disruption could knock 1.5 percentage points off Vietnam's full-year growth without government stimulus.
+devdiscourse
+
+The pain extends well beyond individual countries. About 84 percent of oil shipped through the Strait of Hormuz goes to Asian markets, according to the US Energy Information Administration. MUFG's Senior Currency Analyst Lloyd Chan warned that "high-beta and oil-sensitive Asian currencies are likely to remain the first line of pressure whenever energy-related headlines deteriorate," singling out the Indian rupee, Philippine peso, South Korean won, and Thai baht as particularly exposed. In South Korea, the won matched its lowest exchange rate against the dollar since the 2008 financial crisis.
+zerocarbon-analytics
+
+Outlook Hinges on Conflict's Duration
+
+With Brent crude having surged roughly 51 percent in March alone — the largest single-month gain in recorded history — analysts are warning of further escalation. J.P. Morgan said in a note this week that oil could spike to $120–$130 per barrel in the near term, with a risk of exceeding $150 if supply flows through the Strait remain disrupted into mid-May. OCBC has warned that Brent approaching $140 could force central banks in the Philippines, South Korea, Taiwan, and Indonesia into outright rate hikes in the second half of 2026.
+themiddleeastinsider
+
+President Trump's April 6 deadline on Iran strategy looms as the single most consequential near-term catalyst for energy markets. "We're going to finish very fast. We're very close," Trump said Wednesday, without specifying a timeline for concluding the conflict.
+aljazeera
+
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: wikipedia
+2026 Philippine energy crisis - Wikipedia
+**Link:** https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+> Since late February 2026, an energy crisis in the Philippines has occurred as a result of the war in Iran. When the Strait of Hormuz was closed, it disrupted 20% of the world's oil supply. Since the Philippines imports 98% of its oil from the Middle East, the closure endangers the country's energy supply, which is heavily dependent on oil.[1] On March 24, 2026, President Bongbong Marcos declared a state of national energy emergency. He said that the Philippines had enough crude oil supply until June 30.[2] The Philippines is the first country in the world to declare an energy emergency.[1]
+
+Initially, Malacañang Palace downplayed the situation[citation needed]; on March 23, 2026, Palace Press Officer Claire Castro said that the Philippines was facing "price disruption" caused by the conflict in the Middle East and was not yet in crisis. The statement was supported by Energy Secretary Sharon Garin.[3] Later on, President Marcos ordered the creation of a crisis committee to ensure economic stability and stable school supply.[4]
+
+President Bongbong Marcos signed Executive Order No. 110, putting the Philippines under a state of national energy emergency due to the 2026 Iran war. As the Philippines imports 98% of its oil from the Middle East, the country was severely affected by the crisis in the Strait of Hormuz.[1]
+
+The national oil supply of the Philippines continually diminishes, while inflation is at an all-time high.[5] As of March 20, 2026, the Department of Energy (DOE) stated that the Philippines had an average of 45 days' supply of oil, down from 55 to 57 days when the war started a month ago.[6] By March 24, fuel prices were projected to rise sharply, with diesel exceeding ₱130 (US$2.64) per liter and gasoline surpassing ₱100 (US$2.03) per liter, as continued Middle East tensions drove a third week of significant increases. Data from the DOE showed substantial price hikes across fuel types, while oil firms implemented adjustments and officials attributed the increases to global market pressures despite a slight slowdown in per-barrel price growth.[7]
+
+Cebu Pacific and Philippine Airlines, the largest airlines in the Philippines, suspended several domestic and international routes amid the global fuel price surge and also to conserve local oil reserves.[8][9]
+
+As of March 27, 2026, 425 filling stations across the country have closed, out of the 14,485 stations nationwide that were being monitored by the Philippine National Police.[10]
+
+Several shopping malls in the country reduced their operating hours in response to energy crisis in the country.[11]
+
+The Philippine government stated that it was exploring alternative oil suppliers and holding talks with non-traditional , such as China, India, and Russia,[12] to help maintain a stable fuel supply amid global market uncertainty and price volatility.[13]
+
+On March 25, 2026, the Department of Budget and Management approved the release of ₱20 billion (US$406.09 million) from the Malampaya gas fund to the Department of Energy to secure fuel supply and stabilize availability amid global disruptions. The funds were allocated to procure fuel and support emergency energy measures, with procurement initiated by the state-owned Philippine National Oil Company Exploration Corporation to help prevent shortages and maintain essential services.[14]
+
+Petron Corporation ordered 700,000 barrels of oil from Russia, taking advantage of the United States' thirty-day waiver on countries purchasing sanctioned Russian petroleum products already at sea. The U.S. sanctions were in place due to the Russian invasion of Ukraine.[15][16][17] The Philippine government said that it was working to obtain similar waivers from other U.S.-sanctioned countries.[18]
+
+The Department of Agriculture activated ₱1 billion (US$20.3 million) from its quick-response fund following the declaration of a national energy emergency, allocating ₱500 million (US$10.15 million) for fuel subsidies to fisherfolk and anot
+
+#### 📌 FUENTE: nytimes
+Philippines Declares National Emergency Over High Fuel Prices
+**Link:** https://www.nytimes.com/2026/03/24/world/middleeast/philippines-national-emergency-high-fuel-prices.html
+> The Southeast Asian country imports 90 percent of its oil from the Middle East, and the government is under intense pressure to deal with the situation.
+
+President Ferdinand R. Marcos Jr. of the Philippines declared a national energy emergency on Tuesday, saying that high oil prices caused by the war in the Middle East were threatening the country’s energy security.
+
+The Philippines imports 90 percent of its oil from the Middle East, making it one of the Asian countries most vulnerable to supply disruptions there. With the Strait of Hormuz effectively closed by Iran, the Philippines has had to turn to Russia and China, and to other Southeast Asian countries, for fuel.
+
+Earlier on Tuesday, the Philippines’ Department of Energy said it had enough gasoline in reserve to last 53 days, enough diesel for 46 days and enough jet fuel for about 39 days. Diesel prices have doubled since the war began, surpassing 120 pesos, or $2, per liter.
+
+Many government offices have switched to a four-day workweek to save energy, and Mr. Marcos has called on the public to car pool. The government has also been handing out 5,000 pesos each to tens of thousands of autorickshaw and jeepney drivers around Manila who are suffering from the higher prices.
+
+Mr. Marcos is under intense pressure to deal with the situation. A coalition of transportation workers has called for mass protests around Manila, the capital, on Thursday and Friday about the price spike and what they consider inadequate measures by the government. On Tuesday, the Philippine Daily Inquirer, a major newspaper, published a column with the headline, “Nation on brink: This oil crisis may destroy everything we built.”
+
+Since the war began, Mr. Marcos has expressed concern about its economic ramifications for the Philippines. “We are victims of a war that is not of our choosing,” he said earlier this month in a statement. Economists have warned that the fallout could be severe, noting the potential loss of remittances from thousands of Filipinos working in the Middle East.
+
+Many of them have lost their jobs because their workplaces in countries like Saudi Arabia and the United Arab Emirates have shut down. The Philippine economy is heavily dependent on remittances from overseas workers, and in 2024, the Middle East accounted for roughly 18 percent of the total, according to the Philippines’ central bank.
+
+As part of the emergency declaration on Tuesday, Mr. Marcos signed an executive order that would allow the government to “implement responsive and coordinated measures under existing laws to address the risks posed by disruptions in the global energy supply and the domestic economy.” His government has not said what specific actions it might take under the order.
+
+The pain in the Philippines has been mirrored across other parts of Southeast Asia, which is heavily dependent on oil that moves through the Strait of Hormuz. Like the Philippines, many countries in the region have precariously low oil reserves and have imposed energy conservation measures.
+
+Jason Gutierrez contributed reporting.
+
+Sui-Lee Wee is the Southeast Asia bureau chief for The Times, overseeing coverage of 11 countries in the region.
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:27:13
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/interception-debris-strikes-or-yfGPIBU5SNOjoTyvy9Mxyg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Interception debris strikes Oracle building in Dubai amid Iran conflict
+
+Debris from an aerial interception struck the facade of Oracle's building in Dubai Internet City on Saturday morning, according to the Dubai Media Office, in the latest incident highlighting the risks to civilian infrastructure from the ongoing conflict between Iran, the United States, and Israel.
+
+No injuries were reported. "Authorities confirm that they responded to a minor incident caused by debris from an aerial interception that fell on the facade of the Oracle building in Dubai Internet City," the Dubai Media Office wrote on X. The incident was quickly contained, officials said.
+middleeasteye
+
+cnbc
+Debris from interception strikes Oracle building in Dubai, UAE says
+arabnews
+Dubai authorities say no fire or injuries from falling debris in marina ...
+thenationalnews
+Two Dubai buildings hit by falling debris after Iran strikes intercepted
+time
+Iran Threatens to Target U.S. Tech Firms if War Continues to Escalate
+cnbc.com
+Debris Falls Across Dubai
+
+The Oracle building was the second structure in Dubai damaged by falling debris Saturday. Earlier that morning, authorities responded to a similar incident in the Dubai Marina area, where interception fragments struck a building facade without causing fire or injuries. The UAE has been contending with a daily barrage of missile and drone strikes from Iran, with interceptions over populated areas producing debris that occasionally reaches the ground.
+thenationalnews
+
+A CNBC journalist stationed in Dubai reported hearing several interceptions throughout the night.
+cnbc
+
+Oracle on Iran's Target List
+
+The incident carries added weight given that Oracle is among 18 U.S. technology and finance companies that Iran's Islamic Revolutionary Guard Corps declared "legitimate targets" in late March. The IRGC's list also includes Apple, Microsoft, Google, Meta, Nvidia, Tesla, Boeing, Palantir, JPMorgan, and others.
+time
+
+The IRGC accused American technology firms of being "the key element in designing and tracking terror targets" used in U.S. and Israeli operations inside Iran, warning that "for every assassination and terrorist act in Iran, one facility or unit belonging to these companies will face destruction".
+thenextweb
+
+Dubai Pushes Back on Iran's Claims
+
+Days before Saturday's debris incident, the IRGC claimed it had carried out a direct strike on an Oracle data center in Dubai — an assertion that Dubai authorities flatly rejected. The Dubai Media Office issued a "Fake News Alert," calling the reports baseless and urging the public to rely only on official . The Wall Street Journal reported that the UAE had refuted Iran's earlier claims before confirming the separate debris incident on Saturday.
+arnnewscentre
+
+Oracle has not publicly commented on either incident.
+cnbc
+
+Iran threatens to 'annihilate' Stargate AI center in Abu Dhabi
+The conflict, now in its 35th day, began on February 28 when coordinated US-Israeli strikes hit Iran. As of this week, the UAE has intercepted more than 450 ballistic missiles and over 2,000 drones launched from Iran, according to the UAE Ministry of Defence, with attacks killing 12 people and injuring around 190. On Friday, Iran struck Gulf refineries including facilities in Kuwait, while the...
+Iran strikes hit Amazon data center, Kuwait refinery
+The targeting of commercial data centers marks a historic escalation, as experts have noted it is the first time a nation has deliberately struck commercial cloud infrastructure during wartime. The IRGC had threatened in the days prior to target major U.S. technology companies operating in the Middle East, including Amazon, Microsoft, Google, and Apple, warning them to evacuate personnel. As the...
+Iranian drones hit Kuwait airport as IRGC threats against US tech firms take effect
+The U.S. Embassy in Riyadh issued a security alert on March 31 directing all government employees and American citizens in Saudi Arabia to shelter in place until further notice. "We advise US citizens that hotels and other gathering points including US businesses and US educational institutions may be potential targets," the embassy warned, according to the Straits Times. The advisory did not...
+Iran hits 88 waves of strikes on US, Israeli targets across Middle East
+The damage extends well beyond Abu Dhabi. A BBC analysis published in conjunction with the Center for Strategic and International Studies found that Iranian strikes caused an estimated $800 million in damage to U.S. military infrastructure across the Middle East during just the first two weeks of the conflict. Iran has repeatedly targeted radar systems, satellite communications, and air defense...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: cnbc
+Debris from interception strikes Oracle building in Dubai, UAE says
+**Link:** https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html
+> The office of U.S. tech giant Oracle in Dubai was damaged by falling debris, the city’s media office said on Sunday, as Iran continued to fire projectiles at targets around the Middle East in retaliation against U.S. and Israeli strikes.
+
+“Authorities confirm that they responded to a minor incident caused by debris from an aerial interception that fell on the facade of the Oracle building in Dubai Internet City,” the Dubai Media Office said in a post on X. No one was injured in the incident, the media office said.
+
+Oracle didn’t immediately respond to a request for comment emailed by CNBC.
+
+A CNBC journalist in Dubai reported hearing multiple interceptions overnight.
+
+Iran’s Revolutionary Guard has threatened attacks on a swath of U.S. tech companies with operations in the Middle East, including Nvidia, Apple, Microsoft and Google.
+
+The Guard warned on Tuesday that 18 tech companies would be considered as “legitimate targets” in retaliation for U.S. and Israeli strikes on Iran.
+
+“From now on, for every assassination, an American company will be destroyed,” they said in an Guard-affiliated Telegram channel.
+
+The list of companies also included Cisco, HP, Intel, IBM, Dell, Palantir, JPMorgan, Tesla, GE, Spire Solutions, Boeing and UAE-based artificial intelligence company G42.
+
+James Henderson, CEO of risk management firm Healix, said the rise in threats against tech companies is not a flash in the pan, but is a sustained pattern.
+
+“Tech assets are now treated as part of the conflict, not peripheral to it,” Henderson told CNBC.
+
+“It also signals that future crises may target data centers and cloud platforms as much as traditional strategic sites,” he added.
+
+Iran struck Amazon Web Services data centers in the Middle East in early March, causing outages in a number of apps and digital services in the United Arab Emirates.
+
+Got a confidential news tip? We want to hear from you.
+
+Sign up for free newsletters and get more CNBC delivered to your inbox
+
+Get this delivered to your inbox, and more info about our products and services.
+
+© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+
+Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+
+#### 📌 FUENTE: arabnews
+Dubai authorities say no fire or injuries from falling debris in marina ...
+**Link:** https://www.arabnews.com/node/2638723/amp
+> CAIRO: Authorities in Dubai said on Saturday no fire ‌or ‌injuries were ‌reported ⁠from debris falling on ⁠the facade of a ⁠building ‌in the ‌city’s Marina ‌area ‌following an aerial interception, according ‌to a post on ⁠X ⁠by the emirate’s media office.
+There were also no reported injuries after debris fell ‌on ‌the facade ‌of ⁠an Oracle building in ⁠the emirate’s Internet City.
+
+“Authorities confirm that they responded to a minor incident caused by debris from an aerial interception that fell on the facade of the Oracle building in Dubai Internet City. No injuries were reported,” the Dubai Media Office said on X.
+An Egyptian citizen was killed and four people suffered minor injuries after debris from an intercepted attack ‌fell ‌on Abu ‌Dhabi’s ⁠Habshan gas facilities ⁠on Friday, Abu Dhabi’s media office said. Twelve individuals were also injured after debris fell in the emirate’s Ajban area.
+
+Dubai churches announce online shift for mass during Easter weekend for safety
+
+Dubai rolls out $272m economic stimulus package amid Middle East conflict
+
+Top US counterterrorism official Kent resigns over Trump’s Iran war, says Iran posed no imminent threat
+
+Iran war may push 45 million people into acute hunger by June, WFP says
+
+Missile shrapnel kills one in Abu Dhabi, two medics injured in Kuwait
+
+Israel military says killed Iran’s Basij paramilitary chief in strike
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:27:35
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/iran-claims-downing-160-plus-d-uvsKgNeGSYWnbwjzKLRDaA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Iran claims downing 160-plus drones, multiple US jets
+
+Iran's top air defense commander declared on Saturday that the country's forces have destroyed more than 160 enemy drones and downed several advanced fighter jets since the start of the US-Israeli military campaign, which began on February 28. Brigadier General Alireza Elhami, commander of the Khatam al-Anbiya Joint Air Defense Headquarters, said the results were achieved using domestically developed methods and equipment capable of targeting even fifth-generation stealth aircraft — claims that, if verified, would mark a notable shift in the balance of modern aerial warfare.
+wanaen
+
+wanaen
+Capability to Intercept U.S. Fifth-Generation Fighter Jets with ...
+presstv
+Iran's air defense network capable of destroying advanced hostile ...
+presstv
+'Black day for US, Israeli air forces': Iran downs 2 fighter jets, 2 ...
+defensenews
+US F-15E fighter jet shot down over Iran - Defense News
+tribuneindia.com
+Iran Details Interceptions Across Multiple Provinces
+
+Speaking during a visit to air defense positions of the Army and the Islamic Revolutionary Guard Corps, Elhami said Iranian forces intercepted and destroyed drones including MQ-9 Reapers, Israeli-made Hermes models, and LUCAS unmanned aircraft before they could carry out offensive operations. He added that dozens of cruise missiles were also shot down before reaching their targets, an achievement he said has "shattered the hollow propaganda aura of the enemy."
+presstv
+
+In a separate statement released Saturday, the IRGC detailed what it called a "black day" for US and Israeli air forces on Friday, claiming its aerospace defense fighters destroyed two cruise missiles over Khomein and Zanjan, two MQ-9 drones over Isfahan, and one Hermes drone over Bushehr. Iran's Army also claimed it downed a US A-10 Warthog near the Strait of Hormuz, saying the aircraft "was tracked and engaged by the Army Air Defense Force's systems, and subsequently crashed into the waters of the Persian Gulf," according to Iran's state-run Press TV.
+presstv
+
+US Confirms Loss of F-15E but Disputes Other Claims
+
+Many of Iran's claims remain unverified or have been directly disputed by Washington. US Central Command previously denied an IRGC claim of downing a fighter jet near Qeshm Island, stating that "all US fighter aircraft are accounted for" and that "Iran's IRGC has made the same false claim at least half a dozen times."
+defensenews
+
+However, on Thursday, multiple US officials confirmed that a US F-15E Strike Eagle was shot down over Iranian territory — the first confirmed loss of a manned American aircraft during the conflict, which the Pentagon has called Operation Epic Fury. One crew member was rescued, while search operations continued for the second, according to Reuters, as cited by Al Jazeera. Earlier in the conflict, a US F-35 stealth fighter was struck by ground fire during a mission over Iran on March 19 but managed to land safely at a US base in the region, US Central Command confirmed.
+aljazeera
+
+Indigenous Capabilities and Broader Context
+
+Elhami emphasized that the downing of fourth- and fifth-generation jets was "the result of employing modern tactics, utilizing advanced equipment, and implementing operational innovations in defense systems," which he said have caused "confusion for the enemy on the battlefield." Al Jazeera reported that the brigadier general described Iranian forces as "fully capable of tracking and destroying advanced hostile aircraft by means of homegrown capabilities."
+thefinancialexpress
+
+The conflict, now in its fifth week, has seen intensive strikes on both military and civilian infrastructure across Iran, alongside Iranian retaliatory missile and drone operations against US interests in the region and Israeli positions in the occupied territories.
+presstv
+
+US denies Iran's claim it downed warplane near Strait of Hormuz
+The claimed shootdown near Qeshm Island underscores the intensity of fighting around the Strait of Hormuz, through which roughly 20 percent of the world's oil supply typically transits. Iran effectively shut down commercial traffic through the strait in early March, and a senior IRGC official confirmed the closure on March 2, threatening any vessel that attempted passage. The US military...
+Iran denies Trump's ceasefire claim as U.S. tops 12,300 strikes
+The battlefield update came on the same day Trump claimed on Truth Social that Iran's president "has just asked the United States of America for a CEASEFIRE," adding the U.S. would consider the request only "when Hormuz Strait is open, free, and clear". Iran's foreign ministry denied the claim, with a senior Iranian official telling Al Jazeera, "They are denying they've asked for any". At least...
+Iran launches drone strikes on US aircraft at Ben Gurion Airport
+The UAE has borne the heaviest  of Iranian attacks, with its defense ministry reporting the interception of 414 ballistic missiles, 15 cruise missiles, and 1,914 drones since the conflict began. Saudi Arabia, Kuwait, Bahrain, Qatar, Jordan, and Oman have also been struck. According to Iran's state media, retaliatory strikes on US bases across the region have caused an estimated $800...
+Iran's cheap drones draining allied interceptor stockpiles, report warns
+Beyond the Israeli theater, the war's toll on neighboring countries has drawn sharp condemnation. Gulf Cooperation Council Secretary-General Jasem Al-Budaiwi said Thursday in Riyadh that Iran had directed 85 percent of its missiles and drones toward Gulf states, with more than 5,000 projectiles striking the region over the past month. The United Arab Emirates alone has absorbed more than 2,100...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: wanaen
+Capability to Intercept U.S. Fifth-Generation Fighter Jets with ...
+**Link:** https://wanaen.com/capability-to-intercept-u-s-fifth-generation-fighter-jets-with-indigenous-iranian-systems/
+> WANA (Apr 04) – The commander of Iran’s Joint Air Defense Headquarters announced that the country’s air defense forces, relying on modern indigenous methods and equipment, have acquired the capability to counter fifth-generation fighter jets and advanced enemy drones.
+
+Brigadier General Alireza Elhami, commander of the Joint Air Defense Headquarters, made the remarks during a visit to air defense positions of the Army and the Islamic Revolutionary Guard Corps.
+
+Referring to the operational readiness of the country’s air defense units, he stated that these forces are lying in wait for enemy fighter jets and drones, and that the capability to intercept fifth-generation fighters and advanced UAVs has been achieved through the use of modern, domestically developed methods and equipment.
+
+Elhami further pointed to the performance of Iran’s air defense during the “Ramadan War,” stating that air defense personnel successfully destroyed several advanced enemy fighter jets and shot down more than 160 hostile drones—including MQ-9, Hermes, Lucas, and other American and Israeli models—before they could carry out any offensive operations.
+
+According to the commander, dozens of enemy cruise missiles were also intercepted and destroyed before reaching their intended targets, thanks to the timely and precise actions of air defense units—an achievement he said has “shattered the hollow propaganda aura of the enemy.”
+
+He emphasized that targeting, damaging, and downing several advanced fourth- and fifth-generation enemy fighter jets by Army and IRGC air defense units was the result of employing modern tactics, utilizing advanced equipment, and implementing operational innovations in defense systems—factors that, he noted, have caused confusion for the enemy on the battlefield.
+# 📂 CATEGORÍA: General
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:28:32
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/top/analyst-raises-nvidia-target-t-Hv7nP.t.RkGhNTQfFU92GQ
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Analyst raises Nvidia target to $220 amid $1T order pipeline
+
+Nvidia CEO Jensen Huang told a crowd of more than 30,000 at the company's annual GTC developer conference in San Jose on March 16 that the chipmaker now has visibility of more than $1 trillion in orders for its Blackwell and Vera Rubin AI chip platforms through the end of 2027. The figure doubles the $500 billion demand estimate Huang had cited just months earlier, reflecting what he called an "inflection point" in AI inference computing.
+wsj
+
+The disclosure caps a breakout fiscal year for Nvidia. The company reported record revenue of $215.9 billion for fiscal 2026, ended January 25, up 65% from the prior year, according to its earnings release. Fourth-quarter revenue reached $68.1 billion, a 73% year-over-year increase.
+nvidianews.nvidia
+
+finance.yahoo
+Nvidia expects $1 trillion in chip orders through 2027 - Yahoo Finance
+nvidianews.nvidia
+NVIDIA Announces Financial Results for Fourth Quarter and Fiscal ...
+wired
+Jensen Huang Says Nvidia's New Vera Rubin Chips Are in ... - WIRED
+introl
+NVIDIA Rubin Enters Full Production | Introl Blog
+qz.com
+Rubin Arrives Ahead of Expectations
+
+The $1 trillion pipeline rests on two chip architectures: the currently shipping Blackwell platform and the next-generation Vera Rubin system. Huang confirmed at CES 2026 in January that Rubin had entered full production, surprising analysts who had expected availability no earlier than 2027. Built on TSMC's 3-nanometer process, Rubin promises to cut inference costs to roughly one-tenth of Blackwell's, according to Nvidia.
+wired
+
+Small-batch Rubin shipments are expected in the second quarter of 2026, with full-scale deliveries ramping in the third and fourth quarters. Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure are among the first cloud providers set to deploy Vera Rubin-based instances.
+nationaltoday
+
+Wall Street Responds
+
+Analysts have broadly embraced the trillion-dollar outlook. On April 2, DBS Bank analyst Fang Boon Foo raised his price target on Nvidia to $220 from $180, maintaining a buy rating and projecting the company could surpass $200 billion in sales by fiscal 2026. Foo noted that demand for Nvidia's Hopper and Blackwell chips is expected to outstrip supply well into the current fiscal year.
+finance.yahoo
+
+Deutsche Bank separately raised its target to $220 following the February earnings report. Overall, Nvidia carries a consensus "strong buy" rating across Wall Street, with an average 12-month price target well above current levels.
+finance.yahoo
+
+Sixty percent of Nvidia's revenue comes from just five hyperscale computing companies, Huang said at GTC, underscoring the concentrated nature of AI infrastructure spending. Management has guided first-quarter fiscal 2027 revenue to approximately $78 billion, with gross margins near 75%.
+finance.yahoo
+
+Nvidia scales back Rubin Ultra chip design amid TSMC capacity crunch
+The bottleneck is creating an opening for Samsung. At CES 2026 in January, Qualcomm CEO Cristiano Amon confirmed discussions with Samsung's foundry division for 2nm production of its next-generation Snapdragon processors. Samsung also signed a memorandum of understanding with AMD in March to supply HBM4 memory and explore foundry manufacturing for future AMD products. And Tesla has committed to...
+Nvidia builds $7B stake portfolio in Intel and Marvell
+The Intel and Marvell stakes are part of a wider capital deployment spree by Nvidia. CNBC reported that in March alone, Nvidia committed $2 billion each to Lumentum and Coherent, $2 billion to Synopsys, $1 billion to Nokia, and took positions in xAI and OpenAI, in addition to the earlier Intel deal. Marvell CEO Matt Murphy told CNBC that demand remains robust despite geopolitical uncertainty,...
+Nvidia holds $4 trillion valuation, widening lead over Apple
+Nvidia commands roughly 81 percent of the data center chip market by revenue, according to International Data Corporation research cited by CNN. Capital spending on data centers by major technology companies is projected to approach $1 trillion within the next few years, a trend that positions Nvidia's core business for continued expansion even as its stock has pulled back from its October peak....
+Analyst flags math behind Huang's 200-pods-a-week claim
+Huang's ambitious rhetoric comes against the backdrop of equally ambitious financial projections. At GTC, he declared that he expects at least $1 trillion in cumulative revenue from Blackwell and Vera Rubin platforms through 2027, doubling a $500 billion forecast made just five months earlier. Nvidia reported fiscal year 2026 revenue of $215.9 billion and guided for approximately $78 billion in...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: finance.yahoo
+Nvidia expects $1 trillion in chip orders through 2027 - Yahoo Finance
+**Link:** https://finance.yahoo.com/news/nvidia-expects-1-trillion-chip-230950658.html
+> Tu privacidad es importante para nosotros
+
+Yahoo forma parte de la familia de marcas de Yahoo.
+
+Si no quieres que nosotros ni nuestros socios utilicemos cookies y datos personales para estos propósitos adicionales, haz clic en «Rechazar todo».
+
+Si quieres personalizar tus opciones, haz clic en «Gestionar configuración de privacidad».
+
+Puedes revocar tu consentimiento o cambiar tus opciones en cualquier momento haciendo clic en el enlace «Configuración de privacidad y cookies» o «Panel de privacidad» de nuestros sitios y aplicaciones. Para obtener más información sobre cómo utilizamos tus datos personales, consulta nuestra Política de privacidad y la Política de cookies.
+# 📂 CATEGORÍA: Tech
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:29:33
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/tech/node-js-maintainers-confirm-no-MZ_Arz0.TlO1V_6PvgLHGA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Node.js maintainers confirm North Korean social engineering campaign
+
+A wave of high-profile Node.js and npm maintainers have come forward to confirm they were targeted by the same social engineering campaign that led to the compromise of the Axios JavaScript library late last month, revealing a coordinated effort by North Korean state-linked hackers to infiltrate the open-source software supply chain.
+
+socket
+Attackers Are Hunting High-Impact Node.js Maintainers in a C...
+thehackernews
+UNC1069 Social Engineering of Axios Maintainer Led to npm ...
+securitylabs.datadoghq
+Compromised axios npm package delivers cross-platform RAT
+huntress
+Supply Chain Compromise of axios npm Package - Huntress
+bbc.com
+From Axios Compromise to Ecosystem-Wide Threat
+
+The campaign came to light after attackers hijacked the npm account of Axios maintainer Jason Saayman on March 31 and published two malicious package versions that deployed a cross-platform remote access trojan, affecting systems running Windows, macOS, and Linux. The poisoned packages were live for roughly three hours before npm removed them, but the damage rippled across automated build pipelines worldwide. Microsoft attributed the attack infrastructure to Sapphire Sleet, a North Korean state actor, while Google's Mandiant tracks the group as UNC1069.
+thehackernews
+
+In a report published on April 3, supply chain security firm Socket revealed that the Axios incident was not isolated. Maintainers of some of the most depended-upon packages in the npm registry — including Lodash creator John-David Dalton, TC39 member Jordan Harband, Fastify lead Matteo Collina, dotenv creator Scott Motte, and mocha maintainer Pelle Wessman — all confirmed they had been approached using nearly identical tactics.
+socket
+
+A Patient, Professional Playbook
+
+The attackers operated under fabricated company personas, most notably one called "Openfort," and spent weeks building rapport with targets before moving toward a scheduled video call. The meetings used spoofed versions of platforms like Microsoft Teams, built with real SDKs and CSS to appear authentic. Once on the call, the victim's audio would "fail," prompting them to install a supposed fix — which was actually malware.
+securitylabs.datadoghq
+
+"The attack chain: build rapport over weeks, schedule a video call, fake an audio error, prompt the target to install a 'fix,'" Socket CEO Feross Aboukhadijeh said. "That fix is a RAT".
+thehackernews
+
+Security researcher Tay, who has tracked these campaigns across the cryptocurrency sector, noted that two-factor authentication offers no protection once a RAT is installed, as the malware captures post-authentication tokens, browser sessions, and npm credentials directly from the machine.
+socket
+
+Open Source as a Force Multiplier
+
+The pivot from targeting cryptocurrency executives to open-source maintainers represents a strategic escalation. A single compromised maintainer account provides a direct write path to packages installed across millions of applications. "Why have calls one by one to eventually get the one rich dude when you can get 1 million+ dudes at once?" Tay wrote in the Axios post-mortem thread.
+socket
+
+Wes Todd, an Express technical committee member who was also targeted, cautioned that even OIDC-based publishing workflows do not protect against a fully compromised machine and warned against treating them "as a cure-all".
+socket
+
+Tay urged maintainers not to stay silent: "Do not be embarrassed. Defend each other from people who call you stupid for 'falling for phishing.' You're not stupid. You are busy, you are trusting, you were tired".
+socket
+
+Google removes 50 apps carrying rootkit that infected 2.3M Android devices
+Google confirmed that all offending apps have been removed and associated developer accounts banned. A Google spokesperson told BleepingComputer that Google Play Protect "automatically removes these apps and blocks new installs," adding that users "should always install the latest security updates available for their device". McAfee, a member of Google's App Defense Alliance, recommended that...
+Analysts link $286M Drift Protocol hack to North Korea's Lazarus Group
+The hack sent Drift's total value locked plummeting from roughly $550 million to under $250 million within an hour, according to data cited by Elliptic. The DRIFT token fell more than 40% after reports surfaced. Approximately 11 interconnected DeFi projects, including Ranger Finance and Reflect Money, reported secondary exposure from shared integrations with Drift. Drift's team suspended all...
+Cisco Talos exposes mass credential theft targeting Next.js apps
+Cisco Talos and security researchers recommend that organizations immediately patch vulnerable Next.js and React deployments, enforce least-privilege access policies, enable secret scanning in CI/CD pipelines, and implement IMDSv2 on AWS EC2 instances to block unauthenticated metadata queries. Any credentials that may have been exposed should be rotated without delay.
+Open source malware surged 14x in two years, Endor Labs reports
+Mandiant CTO Charles Carmakal warned that secrets stolen in the recent string of supply chain attacks "will enable more software supply chain attacks, SaaS environment compromises, ransomware and extortion events, and crypto heists over the next several days, weeks, and months". Sonatype's own analysis described 2025 as "the moment when isolated incidents became an integrated campaign, and bad...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: socket
+Attackers Are Hunting High-Impact Node.js Maintainers in a C...
+**Link:** https://socket.dev/blog/attackers-hunting-high-impact-nodejs-maintainers
+> Axios compromise traced to social engineering, showing how attacks on maintainers can bypass controls and expose the broader software supply chain.
+# 📂 CATEGORÍA: Tech
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:30:05
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/tech/uchicago-undergrads-discover-o-a9D3r.MKQ0aEA6SRtGArIw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+UChicago undergrads discover oldest known star in the universe
+
+A class of undergraduate students at the University of Chicago has discovered the most chemically pristine star yet known in the universe, a finding that offers a rare window into the earliest era of star formation. The study was published April 3 in Nature Astronomy.
+eurekalert
+
+eurekalert
+"Ancient Immigrant" star puzzles, delights astronomers - EurekAlert!
+news.uchicago
+Scientists discover 'most chemically pristine' star yet found in the ...
+sciencedaily
+Students found a star from the dawn of the universe drifting into the ...
+
+youtube.com
+A Spring Break Discovery
+
+The star, named SDSS J0715-7334, contains just 0.005 percent of the metals found in our Sun — more than twice as metal-poor as the previous record holder. In astronomy, "metals" refers to any elements heavier than hydrogen and helium, and stars with fewer of these elements must have formed before most supernovae had occurred, placing them among the earliest generations of stars.
+sciencedaily
+
+The discovery emerged from the university's "Field Course in Astrophysics," taught by assistant professor Alexander Ji, in which ten undergraduates combed data from the Sloan Digital Sky Survey for anomalous stars. After identifying 77 candidates, the class traveled to Carnegie Science's Las Campanas Observatory in Chile over spring break in March 2025 to observe them with the Magellan Telescopes.
+news.uchicago
+
+On their first night, March 21, 2025, the second star they observed changed everything. "She started making these little noises, and then, 'This is nuts, could it be a mistake?'" recalled fourth-year student Natalie Orrantia, describing the reaction of teaching assistant Hillary Diane Andales as she ran preliminary analysis. "You could feel the energy in the room," added fellow student Ha Do.
+news.uchicago
+
+An Immigrant From Another Galaxy
+
+Using astrometric data from the European Space Agency's Gaia mission, the team traced the star's orbit backward through billions of years and pinpointed its birthplace in the Large Magellanic Cloud, the Milky Way's largest companion galaxy. The star was gravitationally captured by the Milky Way, earning it the label "ancient immigrant" from Ji.
+scienmag
+
+"This ancient immigrant gives us an unprecedented look at conditions in the early universe," Ji said.
+eurekalert
+
+The star's carbon content proved so low as to be undetectable, which points to cosmic dust rather than heavy elements as the mechanism that caused early gas clouds to fragment into the smaller, longer-lived stars common today. "It seems the transition was much more likely caused by that cosmic dust," said graduate student and co-author Pierre Thibodeaux. Ji noted that this dust-driven formation pathway "has only been seen once before".
+news.uchicago
+
+'Above and Beyond'
+
+Over the following academic quarter, the students divided into groups to analyze the data and write the paper. "I expected great things from the students, but this is above and beyond," Ji said. Juna Kollmeier, the director of SDSS-V, said the students "have discovered their inalienable right to physics".
+news.uchicago
+
+The star resides roughly 80,000 light-years from Earth. With this benchmark in hand, Orrantia said, researchers can now narrow searches for similar ancient stars: "The more you find, the stronger the claims you make about these early stars and how our universe evolved".
+news.uchicago
+
+Study proposes gravitational waves created dark matter
+Together, the two lines of research illustrate a broader trend in astrophysics: using high-energy cosmic phenomena as laboratories for fundamental physics. Whether gravitational waves can seed dark matter or neutrino behavior can reshape the chemical makeup of the universe, both studies push at the boundaries of established particle physics models — and both point to future experiments that...
+Lab recreates neutron star reaction, unlocking secrets of element formation
+The measurement provides the strongest experimental constraints to date on the reaction that governs the NiCu cycle, according to the research team's paper. By pinpointing the temperatures at which recycling through nickel-56 becomes relevant and those at which breakout toward heavier elements proceeds, the data allow astrophysicists to build more accurate models of nucleosynthesis in extreme...
+Webb Telescope reveals thousands of hidden stars in W51 nebula
+The findings highlight how different telescopes working in tandem can build a fuller picture of star formation. While JWST excels at resolving warm dust and ionized gas, ALMA detects the coldest, most deeply buried objects that remain invisible even to Webb's powerful infrared instruments. "They are not the first photos of this region, but they are the best," Ginsburg said. "Every time we look...
+Astronomers spot two planets forming around a young star like our sun
+The discovery provides scientists with what co-author Christian Ginski of the University of Galway called "a critical laboratory not just to observe the formation of a single planet but an entire planetary system". By studying how these infant worlds interact with their surrounding disk, astronomers hope to understand the processes that ultimately shaped mature systems like our own — and why so...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: eurekalert
+"Ancient Immigrant" star puzzles, delights astronomers - EurekAlert!
+**Link:** https://www.eurekalert.org/news-releases/1122774
+> AN IMAGE OF OUR MILKY WAY GALAXY WITH THE POSITION OF THE ANCIENT IMMIGRANT STAR (SDSS J0715-7334) MARKED WITH A STAR SYMBOL. THE SOLID RED LINE SHOWS THE PATH THE ANCIENT IMMIGRANT HAS TAKEN THROUGH OUR GALAXY; THE DASHED BLUE LINE SHOWS THE PATH EXPECTED FOR A STAR BORN IN THE LARGE MAGELLANIC CLOUD.
+
+CREDIT: IMAGE CREDIT: VEDANT CHANDRA AND THE SDSS COLLABORATION BACKGROUND ESA/GAIA IMAGE, A. MOITINHO, A. F. SILVA, M. BARROS, C. BARATA, UNIVERSITY OF LISBON; H. SAVIETTO, FORK RESEARCH, UNDER A CREATIVE COMMONS LICENSE CC BY‐SA 3.0 IGO.
+
+A class of undergraduate students at University of Chicago has used data from the Sloan Digital Sky Survey (SDSS) to discover one of the oldest stars in the universe, a star that formed in a companion galaxy and migrated to the Milky Way.
+
+The ten students found the star as part of their “Field Course in Astrophysics” course at the University of Chicago, led by Professor Alex Ji, the deputy Project Scientist for SDSS-V, and graduate teaching assistants Hillary Andales and Pierre Thibodeaux.
+
+SDSS, an international collaboration of over 75 scientific institutions across the globe, has been operating for 25 years with a commitment to make data from its survey publicly available and broadly usable to all.  In its latest phase, it uses robots to rapidly acquire spectra of millions of objects across the sky with the aim of improving our understanding of how stars, black holes and galaxies grow and evolve over cosmic time.
+
+In Professor Ji’s class, SDSS is embedded into the curriculum.  The students spent the first several weeks looking through data from the newest phase of the SDSS, searching for interesting stars. After examining several thousand, they made a list of 77 to further observe on a field trip to Las Campanas Observatory.
+
+They then spent their Spring Break at Carnegie Science’s Las Campanas Observatory in Chile, using the Magellan Inamori Kyocera Echelle (MIKE) instrument on the Magellan telescopes. The night of March 21st, 2025 was their first night on the telescope. The second star they observed, named SDSSJ0715-7334, turned out to be the one that justified the trip.
+
+“We found it the first night, and it completely changed our plans for the course,” Ji said.
+
+The plan was to observe each star for 10 minutes, but the second night the students observed it for three hours. “I was looking at that camera the whole night to make sure it was working,” said Natalie Orrantia, one of the students who made the discovery.
+
+The star turned out to be the most pristine ever found, composed almost completely of hydrogen and helium. This composition suggests it is one of the oldest stars ever seen. Analysis of its orbit shows it formed in the Large Magellanic Cloud and migrated into the Milky Way billions of years ago. These two facts led Alex Ji, the students’ Professor at University of Chicago, to call the star an “ancient immigrant.”
+
+“This ancient immigrant gives us an unprecedented look at conditions in the early universe,” said Ji. “Big data projects like SDSS make it possible for students to get directly involved in these important discoveries.”
+
+Astronomers refer to any elements heavier than hydrogen and helium as “metals,” and the amount of those elements present in a star is known as its “metallicity.” With only 0.005 percent of the metals found in our Sun, SDSSJ0715-7334 has the lowest metallicity of any star yet observed in the Universe – more than twice as metal-poor as the previous record holder.
+
+“We analyzed the star for a large swath of elements, and the abundances are quite low for all of them,” said Ha Do, another of the students who discovered the star.
+
+What does it mean for a star to have low metallicity? Because elements heavier than hydrogen and helium can only be produced in supernova explosions, stars with few of these elements must have formed from gas before most of the supernovae in the Universe ever occurred. In other words, the star must be ancient, from the first few
+
+#### 📌 FUENTE: news.uchicago
+Scientists discover 'most chemically pristine' star yet found in the ...
+**Link:** https://news.uchicago.edu/story/scientists-discover-most-chemically-pristine-star-yet-found-universe
+> A group of scientists, including a class of undergraduate students at the University of Chicago, has discovered the most chemically pristine star yet known in the universe.
+
+This star dates back to the early ages of the universe, formed long before our sun or Earth in the first several billion years after the Big Bang. The finding gives scientists a rare look into the evolution of the earliest stars in the universe—particularly how they transitioned from the first generation of massive stars into the smaller ones common today.
+
+“These pristine stars are windows into the dawn of stars and galaxies in the universe,” said Alexander Ji, an assistant professor of astronomy and astrophysics at UChicago and the first author on the study, published April 3 in Nature Astronomy. “I expected great things from the students, but this is above and beyond.”
+
+In the beginning, just after the Big Bang, stars began to form.
+
+These stars were big—made up of just helium and hydrogen, they burned hot and died early. But inside their cores, atoms had fused into heavier elements. When those huge stars exploded, new stars formed out of the debris. As this happened over and over, we got more heavy elements, until there was enough to make up the iron in our blood and the oxygen we breathe.
+
+Scientists know this much, but are still investigating how the following generation of stars became smaller and longer-lived.
+
+The most direct way to learn more would be to locate some of these ancient stars. This is what Ji’s research focuses on—so when it was his turn to teach an undergraduate astronomy field course focused on making actual scientific observations, he set the students to the problem.
+
+The class combed star catalogs made by the Sloan Digital Sky Survey, looking for stars with hints of anomalous readings. Because it takes time to build up an accumulation of heavy elements, the less of them a star has, the older it must be.
+
+The students identified a handful of candidate stars. Then, over spring break of 2025, the class journeyed down to the Magellan Telescopes at Carnegie Science's Las Campanas Observatory, located in the remote mountains of Chile. These powerful telescopes can make more detailed measurements of the elements present in stars.
+
+On the first night there, the students began scanning the candidate stars they’d identified. In the early hours of the morning, they got an inkling that something was up.
+
+“I think we still had one or two stars left on the observing run, but meanwhile [teaching assistant Hillary Diane Andales] was doing some preliminary analysis on what we’d collected so far,” said Natalie Orrantia, a fourth-year College student. “She started making these little noises, and then, ‘This is nuts, could it be a mistake?’ But the more we looked at it the more it looked like it was real.”
+
+“You could feel the energy in the room,” added Ha Do, a fourth-year student. “I think Professor Ji was doing mental backflips.”
+
+The team allotted multiple hours the next night to observing the star, gathering all the data they could to get a clear reading. Then, on the flight home, Ji said, “I sat there just scrapping and rewriting the entire curriculum I had planned for the next quarter. Instead, we were going to throw everything into analyzing this star.”
+
+Over the course of the next quarter, the class divided into small groups and set to work analyzing the data and writing the scientific paper, which would eventually be accepted to Nature Astronomy. They also presented their findings to the entire Sloan Digital Sky Survey collaboration.
+
+The star, named SDSS J0715−7334, resides about 80,000 light-years away from us. According to the team’s analysis, it had just half the amount of heavy elements measured in the previous record-holder, making it the oldest-known star by a wide margin. They also found it is a galactic immigrant, originally formed elsewhere but currently being pulled into the Milky Way.
+
+The finding also sheds light on why later
+# 📂 CATEGORÍA: Business
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:31:58
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/ex-us-combat-pilot-warns-groun-y0qowGoHSp2SzRWdSA3HxA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Ex-US combat pilot warns ground invasion of Iran 'not a good plan'
+
+Former US F-15E Strike Eagle combat pilot Ryan Bodenheimer has publicly cautioned against a ground invasion of Iran, calling it "not a good plan" and warning that such an operation would demand an unsustainable military commitment amid the now five-week-old US-Iran conflict.
+
+aljazeera
+Pentagon readies 'for weeks of US ground operations' in Iran
+youtube
+Promo | EP-31 with Former US F-15E Combat Pilot Ryan ... - YouTube
+tribuneindia
+"Isn't a good plan": Ex-US F-15E combat pilot Bodenheimer on ...
+facebook
+Premiering now: https://youtu.be/I5UXDWoZuiY Iran Hits 4 US Air ...
+militarytimes.com
+A Combat Veteran's Warning
+
+Bodenheimer, who flew 70 combat missions over Afghanistan and is the creator of the Max Afterburner military analysis channel, made the remarks in an interview with ANI Broadcast that aired on Friday. Drawing on lessons from the US experiences in Afghanistan and Iraq, he argued that Iran's size, terrain, and military capabilities — including an estimated 200,000 Islamic Revolutionary Guard Corps personnel — would require a force of up to one to two million troops, a commitment he described as untenable. Instead, Bodenheimer advocated for special forces operations, surgical strikes, and efforts to empower internal Iranian resistance movements.
+youtube
+tribuneindia
+
+"Iran is smart. They're not slouches. They save some of their capability and technology for moments like this," Bodenheimer said in the interview, adding that even the best fighter pilots face grave risks when hidden air defenses activate beneath them.
+youtube
+
+Growing Ground Invasion Speculation
+
+His comments arrive as debate intensifies over the next phase of Operation Epic Fury, the joint US-Israeli air campaign launched on February 28 that has targeted Iranian military and nuclear assets for over a month. The Washington Post reported late last month that the Pentagon had prepared for weeks of limited ground operations in Iran, including potential raids on Kharg Island, a key oil export hub, and coastal areas near the Strait of Hormuz. White House spokeswoman Karoline Leavitt said the preparations give the commander in chief "maximum optionality" but do not indicate a final decision.
+aljazeera
+
+The US now has roughly 50,000 troops in the broader Middle East region, bolstered by the recent arrival of approximately 3,500 Marines and sailors aboard the USS Tripoli, elements of the 82nd Airborne Division, and two Marine Expeditionary Units. Thirteen US service members have been killed and more than 300 wounded since the conflict began, according to officials cited by Anadolu Agency.
+aa
+
+Tehran Promises Fierce Resistance
+
+Iran has met the buildup with escalating rhetoric. State-run Tasnim News Agency reported that over one million fighters have been mobilized to repel any ground incursion. Iran's army commander-in-chief Amir Hatami declared that "not a single" enemy soldier would survive a ground operation, while parliament speaker Mohammad Bagher Ghalibaf warned that Iranian forces are "waiting for the arrival of American troops on the ground to set them on fire".
+aljazeera
+
+The warning from Bodenheimer — a veteran of the very type of aircraft recently lost over Iran, after an F-15E was shot down earlier this week with one crew member rescued and another still missing — underscores the risks facing Washington as it weighs its next move in a conflict with no clear endgame.
+eurasiantimes
+
+Iran's army chief warns no soldier will survive a US ground invasion
+China and Pakistan on Tuesday put forward a five-point peace initiative calling for an immediate ceasefire, civilian protection, and restoration of navigation through the Strait of Hormuz. Germany on Thursday urged Beijing to use its influence to press Tehran into negotiations. NATO, meanwhile, has distanced itself from the conflict, with Spain closing its airspace to U.S. military flights and...
+Iran threatens to 'set on fire' U.S. troops as Pentagon readies ground plans
+The military planning unfolds alongside diplomatic efforts. Representatives from Egypt, Turkey, Saudi Arabia, and Pakistan convened in Islamabad on Sunday to explore avenues for de-escalation. Secretary of State Marco Rubio said on Friday that the U.S. "can achieve all of our objectives without our ground troops," describing the war as on track to conclude "in a matter of weeks, not months"....
+US sends 2,000 more troops to Mideast as Iran air campaign nears fourth week
+Diplomatic efforts remain fragile. The U.S. sent Iran a 15-point peace plan, but Tehran dismissed it as "maximalist" and "unreasonable," according to Al Jazeera. Iran issued its own counterproposal with five conditions. President Trump has claimed negotiations are underway, while Iran publicly denies any direct talks. Meanwhile, the Pentagon ordered 2,000 airborne troops to the Middle East this...
+Iran's Ghalibaf warns US not to test 'resolve' as troops deploy
+The US-Israeli military campaign against Iran, dubbed Operation Epic Fury, began on February 28 and has involved more than 9,000 combat flights striking military targets across the country. Iran has responded with retaliatory missile and drone strikes on US bases and Israeli positions across the region. Reports that Ghalibaf himself might serve as an interlocutor with Washington have triggered a...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: aljazeera
+Pentagon readies 'for weeks of US ground operations' in Iran
+**Link:** https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report
+> The plans, which fall short of a full invasion, could involve raids by special operations and conventional infantry troops, The Washington Post reported.
+
+The Pentagon is preparing for weeks of limited ground operations in Iran, potentially including raids on Kharg Island and coastal sites near the Strait of Hormuz, according to United States officials quoted by The Washington Post newspaper.
+
+The plans, which fall short of a full invasion, could involve raids by special operations and conventional infantry troops, the Post reported on Saturday, exposing US personnel to Iranian drones and missiles, ground fire, and improvised explosives.
+
+Whether President Donald Trump would approve any of those plans remains uncertain, according to the report.
+
+“It’s the job of the Pentagon to make preparations in order to give the Commander in Chief maximum optionality. It does not mean the president has made a decision,” White House press secretary Karoline Leavitt said in a statement, responding to questions over the Post report.
+
+The Trump administration has deployed US Marines to the Middle East as the war in Iran stretches into its fifth week, and has also been planning to send thousands of soldiers from the army’s 82nd Airborne to the region.
+
+On Saturday, the US Central Command (CENTCOM) said about 3,500 additional soldiers arrived in the Middle East on board the USS Tripoli.
+
+The sailors and marines are with the 31st Marine Expeditionary Unit and arrived in the region on March 27, along with “transport and strike fighter aircraft, as well as amphibious assault and tactical assets”, according to CENTCOM.
+
+Officials speaking to The Washington Post said discussions within the administration over the past month have touched upon the possible seizure of Kharg Island, a key Iranian oil export hub in the Gulf, and raids into other coastal areas near the Strait of Hormuz to find and destroy weapons that can target commercial and military shipping.
+
+According to the report, one person said the objectives under consideration would probably take “weeks, not months” to complete, while another put the potential timeline at “a couple of months”.
+
+The Pentagon had not responded on Saturday to the Post’s requests for comment. Iran has yet to respond to the report.
+
+The report comes as Pakistan, which shares a 900km-long (559-mile) border with Iran, mediates between Washington ‌and Tehran, hosting two days of talks starting on Sunday with the foreign ministers of Saudi Arabia, Turkiye and Egypt.
+
+The Iranian parliament speaker, Mohammad Bagher Ghalibaf, said on Sunday the “enemy openly sends messages of negotiation and dialogue and secretly plans a ground attack”.
+
+“Unaware that our men are waiting for the arrival of American soldiers on the ground to set fire to them and punish their regional partners forever. Our firing continues. Our missiles are in place,” the Tasnim news agency reported, quoting Ghalibaf.
+
+“Our determination and faith have increased. We are aware of the enemy’s weaknesses, and we clearly see the effects of fear and terror in the enemy’s army.”
+
+It was not clear whether Ghalibaf was responding to the Post report.
+
+On Wednesday, Ghalibaf had warned that intelligence reports suggested that “Iran’s enemies” ⁠were planning to occupy an Iranian island with support ‌from an unnamed country in the region.
+
+He said any such attempt would be met with targeted attacks on the “vital infrastructure” of the regional country – which he did not name – that assists in the operation.
+
+Meanwhile, Iran’s navy chief Shahram Irani said on Sunday that the USS Abraham Lincoln aircraft carrier would be targeted if it comes within range.
+
+“As soon as the USS Abraham Lincoln carrier strike group comes within firing range, we will avenge the blood of the martyrs of the Dena warship by launching various types of sea-to-sea missiles,” Irani was quoted as saying by state TV, referring to an Iranian frigate sunk by the US on March 4.
+
+On Wednesday, Tasnim quot
+# 📂 CATEGORÍA: Business
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:32:25
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/irgc-strikes-israel-linked-shi-hZxrg5jHSh.xvwZJPC8brQ
+
+### 📝 Resumen Ejecutivo (Perplexity)
+IRGC strikes Israel-linked ship in Strait of Hormuz
+
+Iran's Islamic Revolutionary Guard Corps on Saturday targeted a container ship it identified as linked to Israeli interests, setting the vessel on fire in a drone attack in the Strait of Hormuz, according to multiple reports. The strike on the vessel — referred to as MCS Ishika by Iran's WANA news agency — was part of the 95th wave of Operation True Promise 4, the sprawling retaliatory campaign Iran has waged since the U.S.-Israeli coalition struck Iran on February 28.
+apa
+
+apa
+Iran Guards say they targeted an Israel-linked ship in Strait of Hormuz
+wanaen
+Attack on U.S. Patriot System in 95th Wave of IRGC “True Promise 4 ...
+caliber
+Iran opens Strait of Hormuz to humanitarian, strategic cargo - Urgent
+report
+Iran allows passage of humanitarian cargo ships through Strait of ...
+maritimeoptima.com
+A Widening Wave of Strikes
+
+The IRGC said the operation, carried out under the code name "Ya Hasan ibn Ali," involved both its naval and aerospace units and targeted multiple U.S. and Israeli assets across the region. According to the IRGC statement, the strikes hit HIMARS artillery positions belonging to U.S. forces on Bubiyan Island in Kuwait, a U.S. Patriot missile defense system in northern Bahrain, missile launcher concentrations and senior commanders in the UAE's Seil Baneh area, and Oracle facilities in the UAE.
+wanaen
+
+The IRGC also claimed it struck several locations in central Israel — including Bnei Brak, Petah Tikva, Tel Aviv, Ramat Gan, and Kiryat Shmona — using Qadr multi-warhead missiles. Iran described the commercial vessel as registered under a third-country flag and located at Khalifa bin Salman Port in Bahrain, though other reports placed the attack in the Strait of Hormuz itself.
+apa
+
+Selective Passage Through the Strait
+
+The strike came as Iran moved to partially ease its blockade of one of the world's most strategically vital waterways. On April 4, reports confirmed that Iran had authorized the passage of vessels carrying humanitarian aid and essential goods through the Strait of Hormuz, provided they coordinate with Iranian authorities in advance. Ships heading to Iranian ports or anchored in the Gulf of Oman may transit the waterway under compliance with Iranian-set protocols, according to documents obtained by Iran's Tasnim news agency.
+caliber
+
+The decision reflected a shift toward a more selective approach after weeks of near-total closure. Since the conflict began, maritime traffic through the strait has fallen from an average of 138 daily transits to roughly six per day, according to marine tracking data cited by Australia's ABC. The UN confirmed at least 17 incidents of damage to commercial vessels between March 1 and 17 alone. Meanwhile, the UN Security Council was expected to vote Saturday on a resolution aimed at restoring commercial shipping through the strait, though divisions among veto-wielding members have cast doubt on its passage.
+hrw
+
+IRGC launches 93rd wave of strikes on Israel
+The conflict's toll on energy markets has intensified. The spot price for Brent crude for physical delivery surged to $141.36 per barrel, its highest since the 2008 financial crisis, according to S&P Global data reported by CNBC, as cited by the Times of India. Iran's effective closure of the Strait of Hormuz, which normally handles roughly a fifth of global oil trade, continues to disrupt...
+IRGC claims destruction of US refueling fleet at Al-Kharj base
+The intensifying exchanges come amid fragile diplomatic signals. Trump announced this week that he would extend a pause on U.S. strikes against Iranian energy infrastructure by 10 days to April 6, saying talks with Tehran were going "very well". Secretary of State Marco Rubio said he expected military operations to conclude in "weeks, not months". But Iran's continued offensive posture — now...
+Human Rights Watch says Iran's attacks on civilian ships amount to war crimes
+Iran's stranglehold on the strait has forced nations into direct negotiations with Tehran for safe passage. According to The New York Times, Iran has allowed ships from China, India, Pakistan, Malaysia, and Iraq to transit, with vessels routed through Iranian waters near Larak Island under IRGC monitoring. Turkey, France, Italy, and Japan have also sought or secured passage through separate...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: apa
+Iran Guards say they targeted an Israel-linked ship in Strait of Hormuz
+**Link:** https://en.apa.az/asia/iran-guards-say-they-targeted-an-israel-linked-ship-in-strait-of-hormuz-499771
+> Iran’s Islamic Revolutionary Guard Corps says it targeted an Israel-linked ship in the Strait of Hormuz in a drone attack, setting it on fire, The Times of Israel.
+
+“A drone struck the vessel … linked to the Israeli regime in the Strait of Hormuz; the ship caught fire,” the Guards naval forces post on X, adding that the ship was called the MSC Ishyka.
+
+Two Iranian missile warheads land near Israeli Defense Ministry complex
+
+Rosatom evacuates Russian specialists from Iran’s Bushehr nuclear power plant
+
+Serzh Sargsyan backs Kocharyan bloc’s success in upcoming elections
+
+Erdoğan holds phone call with NATO Secretary General Mark Rutte
+
+Pashinyan: We pulled Armenia out of a geopolitical trap
+
+Israel strikes mobile missile launcher in Tabriz -VIDEO
+
+India-flagged LPG tanker passes through Strait of Hormuz
+
+Meeting between Erdoğan and Zelenskyy begins
+
+Iran Guards say they targeted an Israel-linked ship in Strait of Hormuz
+
+Economy minister: Armenia may export foil to Azerbaijan
+
+Iran warns Israeli embassies will be targeted if its diplomatic missions are attacked
+
+Agenda of Erdoğan–Zelenskyy talks in Istanbul revealed -UPDATED
+
+Civil Contract party officially nominates Nikol Pashinyan for Prime Minister
+
+Iran's FM says Tehran never refused Islamabad talks
+
+Armenia may withdraw from CSTO and EAEU if Russian gas prices increase – Speaker
+
+Humanitarian aid convoy sent from Azerbaijan crosses border and heads to Iran -PHOTO -VIDEO
+
+Trump: War against Iran was easier than thought
+
+Iranian official says oil exports from Kharg island have increased despite war
+
+Iran allows passage of humanitarian cargo through Strait of Hormuz
+
+Latest situation on evacuation of Azerbaijani citizens from Iran announced
+
+Israel plans to continue military operations against Iran, expects ‘harsh response’ to downing of US jet
+
+Strike hits perimeter of Iran’s Bushehr nuclear power plant, killing one — media
+
+US special forces enter Iran to rescue downed airman
+
+Five killed, 19 injured in Russian drone strike on market in Ukraine’s Nikopol
+
+Footage of bridge connecting Karaj and Tehran bombed by Israel and US
+
+Israeli strikes on Iranian petrochemicals hub reported to wound five
+
+Türkiye says second Turkish-owned ship has crossed Hormuz strait
+
+Pashinyan’s party proposes replacing Catholicos, signals possible EU membership bid
+
+EU provides over €360 million for demining efforts in Ukraine since 2022
+
+Unknown drones hit Russian Tolyatti, two chemical plants erupt in flames
+
+Passenger bus crashes into overpass in Türkiye
+
+ANAMA reveals number of mine victims in Azerbaijan since 2020 -STATISTICS
+
+President Ilham Aliyev congratulates Senegal’s President on Independence Day
+
+Production of computer, electronic and optical products declines in Azerbaijan
+
+Fire reported at foreign oil companies' storage facilities in Iraq after drone strike
+
+Russian army launches drone attack on Ukraine’s Sumy
+
+Iran executes two linked to opposition group, media says
+
+5.2 magnitude earthquake hits Van
+
+Azerbaijan’s trade turnover with Italy decreased by more than 20%
+
+Ambassador: Azerbaijan’s support is very important for Iran at such a time
+
+President Ilham Aliyev: Gratitude by Masoud Pezeshkian to Azerbaijan for support provided is highly appreciated, we will continue to stand by each other
+
+Dubai authorities say no injuries after debris hits Oracle building facade
+
+Official Baku: Azerbaijan remains among the countries most heavily affected by landmine contamination
+
+Saudi crown prince, Italian PM discuss fallout of military escalation in the region
+
+Media: US evacuates troops from Middle East bases
+
+Pentagon: 365 US troops injured in operations against Iran
+
+Iranian media: Iran can control the Strait of Hormuz for several years
+
+WHO chief calls for $30.3 million in aid to five Middle East countries
+
+NATO Secretary General will travel to US from April 8 to 12 to meet with Trump
+
+Dear user for receiving paid news sign up
+
+Dear user for receiving paid videos sign up
+
+Dear user for recei
+
+#### 📌 FUENTE: wanaen
+Attack on U.S. Patriot System in 95th Wave of IRGC “True Promise 4 ...
+**Link:** https://wanaen.com/attack-on-u-s-patriot-system-in-95th-wave-of-irgc-true-promise-4-operations/
+> WANA (Apr 04) – The Islamic Revolutionary Guard Corps (IRGC) announced a major, multi-faceted operation by its Navy and Aerospace units early today, covering the broader West Asia region and Israel as part of the 95th wave of the “True Promise 4” operations.
+
+The operation was carried out under the code “Ya Hasan ibn Ali” and dedicated to Bibi Maryam, Alimardan Khan Bakhtiari, and all the brave men of Luristan, using Qasem, Kheibar Shekan, and Ghadir missiles.
+
+According to the IRGC, the operation targeted multiple strategic U.S. and Israeli assets, including:
+
+In addition, a commercial vessel named MCS Ishika, owned by Israeli interests and registered under a third-country flag at Khalifa bin Salman Port in Bahrain, was targeted by powerful naval projectiles.
+
+Several points in Bnei Brak, Petah Tikva, Tel Aviv, Ramat Gan, and Kiryat Shmona were also struck with continuous heavy attacks using Qadr multi-warhead missiles.
+
+The IRGC stated that the operation is ongoing and that reports of further offensive actions will be shared with the Iranian public.
+# 📂 CATEGORÍA: Business
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:18:13
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/irgc-claims-strikes-on-u-s-pat-jAlCwfiES8qXOgrhzpzqWg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+IRGC claims strikes on U.S. Patriot system, bases in 95th attack wave
+
+Iran's Islamic Revolutionary Guard Corps announced on Friday that its forces struck U.S. military positions on Bubiyan Island in Kuwait and a Patriot air defense system in northern Bahrain as part of the 95th wave of its Operation True Promise 4 campaign, marking the latest escalation in a war now entering its sixth week.
+
+kpbs
+Iran continues strikes across the Persian Gulf despite Trump's warning
+wanaen
+Attack on U.S. Patriot System in 95th Wave of IRGC “True Promise 4 ...
+presstv
+True Promise 4: Iran and resistance axis ops. against US-Israeli ...
+thenationalnews
+Iran strikes critical infrastructure in Kuwait and Bahrain | The National
+presstv.ir
+Expanding Target List
+
+According to the IRGC statement, reported by WANA News Agency, the operation — codenamed "Ya Hasan ibn Ali" — employed Qasem, Kheibar Shekan, and Ghadir missiles against multiple targets. The strikes targeted HIMARS artillery positions on Bubiyan Island, the U.S. Patriot missile system in northern Bahrain, missile launcher concentrations and senior commanders in the Seil Baneh area of the UAE, and an Oracle data center in the UAE. The IRGC also claimed to have struck an Israeli-linked commercial vessel at Khalifa bin Salman Port in Bahrain with naval projectiles.
+wanaen
+
+The wave follows a rapid succession of Iranian attacks across the Gulf since the U.S. and Israel launched Operation Epic Fury on February 28, killing Supreme Leader Ali Khamenei and triggering a sweeping Iranian retaliation campaign. Iranian forces have now carried out nearly 100 waves of strikes targeting U.S. bases and Israeli sites across Kuwait, Bahrain, Saudi Arabia, the UAE, Qatar, Iraq, and Jordan. Gulf states have reported fires at civilian infrastructure, falling debris forcing highway closures, and attacks on fuel depots, including at Kuwait International Airport.
+presstv
+
+Energy Markets Under Pressure
+
+The continuing strikes have compounded a global energy crisis. Iran effectively closed the Strait of Hormuz to commercial shipping shortly after the war began, cutting off a waterway that typically carries roughly 20 percent of the world's daily oil supply. Tanker traffic through the strait dropped to near zero within days, and Brent crude surged past $100 per barrel for the first time in four years before climbing further.
+politico
+
+CNBC parent NBCUniversal reported that analysts at TD Securities warned each additional month of conflict could result in a combined loss of 450 million barrels of crude and refined products. The International Energy Agency's member nations agreed in late March to release 400 million barrels from emergency reserves.
+cnbc
+
+Ceasefire Prospects Remain Dim
+
+President Trump, in a national address on Wednesday, said the U.S. was "on the cusp of ending Iran's sinister threat" but pledged to "hit them extremely hard over the next two to three weeks," extending the campaign beyond his original five-week timeline. U.S. Central Command said it had struck more than 12,300 targets in Iran and destroyed or damaged over 155 Iranian vessels. Iran has shown no signs of halting its campaign, with the IRGC stating that operations "will remain continuous and uninterrupted". Bloomberg reported that Iran's closure of the Strait of Hormuz remains a central sticking point in any potential ceasefire talks.
+cfpublic
+
+Iran launches 83rd missile wave as war enters day 28
+Secretary of State Marco Rubio arrived in France on Friday for the G7 foreign ministers meeting at Vaux-de-Cernay near Paris, where the war in Iran and the blockade of the Strait of Hormuz dominated the agenda. Rubio urged allies to help reopen the strait, saying countries that care about international law "should step up and deal with it". France struck a cautious tone, with Armed Forces...
+Iran claims missile strike on USS Abraham Lincoln as Gulf war widens
+The escalation came as back-channel diplomatic efforts continued behind the scenes, with the United States reportedly working through Pakistan to arrange talks with Tehran. The conflict, which began on February 28 with a joint U.S.-Israeli bombing campaign on Iran that killed Supreme Leader Ayatollah Ali Khamenei among more than 1,340 people, has sent oil prices surging and disrupted global...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: kpbs
+Iran continues strikes across the Persian Gulf despite Trump's warning
+**Link:** https://www.kpbs.org/news/international/2026/04/02/iran-continues-strikes-across-the-persian-gulf-despite-trumps-warning
+> Updated April 3, 2026 at 3:57 AM PDT
+
+U.S. Defense Secretary Pete Hegseth asked Army Chief of Staff Randy George to step down and retire, a U.S. official confirmed to NPR.
+
+The official was speaking on condition of anonymity because they were not authorized to speak about the move publicly. It is unclear who will replace George.
+
+Pentagon spokesperson Sean Parnell later confirmed in a statement that Gen. George was retiring effective immediately.
+
+The move came as the war in the Middle East raged through its fifth week.
+
+Dozens of countries discussed ways to reopen the Strait of Hormuz, while Iran traded attacks and threats with the U.S. and Israel.
+
+In his first address to the nation since launching strikes on Iran on Feb. 28, President Trump said on Wednesday the conflict was "nearing completion," but first the U.S. is intensifying its assault.
+
+"We are going to hit them extremely hard over the next two to three weeks. We're going to bring them back to the Stone Ages, where they belong," Trump said.
+
+Iran said a key bridge connecting the city of Karaj to Tehran was bombed, and President Trump cheered on social media. Iran also said a 100-year-old medical research center in the capital was damaged.
+
+Iran targeted countries in the Gulf region with ballistic missiles and drones. The U.S. Embassy in Baghdad issued a security alert, warning of attacks by Iran-backed militias.
+
+Here are more updates on Day 34 of the Iran war:
+
+U.S. military targets | Strait of Hormuz | Macron responds | Iranian president's letter | Iran strikes Gulf countries | Israel strikes Lebanon
+
+U.S. forces struck more than 12,300 targets in Iran in their efforts to "dismantle the Iranian regime's security apparatus," U.S. Central Command said late Wednesday.
+
+U.S. forces are "prioritizing locations that pose an imminent threat," it said.
+
+It said they destroyed or damaged more than 155 Iranian vessels since the beginning of the war. Other targets included command centers, posts of Iran's Revolutionary Guard, air defense systems, ballistic missile sites, navy ships and submarines as well as anti-ship missiles sites, drone manufacturing and other weapon production facilities.
+
+Britain convened a virtual meeting of representatives from more than 40 countries Thursday to discuss ways to reopen the Strait of Hormuz. The U.S. was not among them.
+
+The narrow waterway off Iran's coast is a vital shipping route through which about a fifth of the world's oil typically transits. Iran's chokehold on the strait during the war has sent prices of oil, gas and fertilizer rising.
+
+British Foreign Secretary Yvette Cooper condemned "Iranian recklessness" for largely closing off the strait. "We have seen Iran hijack an international shipping route to hold the global economy hostage."
+
+During Trump's formal Wednesday address, he sought to distance himself from Iran's chokehold on the Strait of Hormuz.
+
+That's despite his threats to destroy Iran's civilian energy and desalination plants if it refused to open the strait. International law expert Gabor Rona told NPR that's a threat to commit war crimes both under international and U.S. law.
+
+Trump said the U.S. did not use the strait and called on countries that rely on it for fuel to take responsibility for protecting it. "Go to the strait and just take it, protect it, use it for yourselves," Trump said.
+
+French President Emmanuel Macron hit back at President Trump's criticism of France and NATO.
+
+"There's too much talk. And it's all over the place," Macron said while visiting South Korea. "When we're serious, we don't say the opposite of what we said the day before every day, and maybe one shouldn't speak every day." He didn't name Trump.
+
+Speaking at an Easter lunch Wednesday, Trump said Macron's wife "treats him extremely badly" and referred to an incident in which Brigitte Macron appeared to shove her husband.
+
+"We're talking about things that are far too serious. We're talking about war," Macron said when asked about Trump's
+
+#### 📌 FUENTE: wanaen
+Attack on U.S. Patriot System in 95th Wave of IRGC “True Promise 4 ...
+**Link:** https://wanaen.com/attack-on-u-s-patriot-system-in-95th-wave-of-irgc-true-promise-4-operations/
+> WANA (Apr 04) – The Islamic Revolutionary Guard Corps (IRGC) announced a major, multi-faceted operation by its Navy and Aerospace units early today, covering the broader West Asia region and Israel as part of the 95th wave of the “True Promise 4” operations.
+
+The operation was carried out under the code “Ya Hasan ibn Ali” and dedicated to Bibi Maryam, Alimardan Khan Bakhtiari, and all the brave men of Luristan, using Qasem, Kheibar Shekan, and Ghadir missiles.
+
+According to the IRGC, the operation targeted multiple strategic U.S. and Israeli assets, including:
+
+In addition, a commercial vessel named MCS Ishika, owned by Israeli interests and registered under a third-country flag at Khalifa bin Salman Port in Bahrain, was targeted by powerful naval projectiles.
+
+Several points in Bnei Brak, Petah Tikva, Tel Aviv, Ramat Gan, and Kiryat Shmona were also struck with continuous heavy attacks using Qadr multi-warhead missiles.
+
+The IRGC stated that the operation is ongoing and that reports of further offensive actions will be shared with the Iranian public.
+# 📂 CATEGORÍA: Business
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:58:34
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/iran-signals-threat-to-bab-el-TOO_toLkT0i1ryj_Wca4QA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Iran signals threat to Bab el-Mandeb as Hormuz blockade persists
+
+Iran's Parliament Speaker Mohammad Bagher Ghalibaf signaled on Thursday that Tehran may be preparing to extend its maritime pressure campaign to the Bab el-Mandeb Strait, a narrow chokepoint between Yemen and Djibouti that links the Red Sea to the Gulf of Aden. In a post on X, Ghalibaf posed pointed questions about the strait's role in global commerce: "What  of global oil, LNG, wheat, rice, and fertilizer shipments transits the Bab-el-Mandeb Strait? Which countries and companies account for the highest transit volumes through the strait?"
+middleeasteye
+
+The remarks, widely interpreted as a veiled threat, come as Iran's blockade of the Strait of Hormuz has already thrown global energy markets into turmoil. Since the U.S.-Israeli military campaign against Iran began in late February, Iranian forces have effectively shut down most commercial traffic through Hormuz, which carries roughly a fifth of the world's oil supply. Ship transits through the strait have fallen to a trickle, with only vessels from allied nations permitted to pass via an IRGC-controlled corridor hugging Iran's coastline.
+wikipedia
+
+aa
+Bab al-Mandeb Strait faces disruption risk as Iran war escalates
+aa
+Closure of Bab al-Mandeb 'likely' amid Iran-US war: Houthi official
+maritime.dot
+2026-006-Red Sea, Bab el Mandeb Strait, Gulf of Aden, Arabian ...
+politico
+Trump faces new oil shock threat as Iran eyes second strait - Politico
+aljazeera.com
+A Second Chokepoint Under Threat
+
+The Bab el-Mandeb, roughly 32 kilometers wide at its narrowest point, handles about 12 percent of global oil shipments and serves as the only direct sea route connecting Asia and Europe via the Suez Canal. Any disruption there would force vessels to reroute around the Cape of Good Hope, adding weeks to journey times and compounding already elevated freight costs.
+aa
+
+Iran's leverage over the strait runs through its proxy, Yemen's Houthi movement. A senior Houthi official, Mohammed Mansour, said late last month that "the Red Sea, the Gulf of Aden, and Bab al-Mandab will be among the options," adding that closure "can be implemented should the aggression against Iran and Lebanon escalate savagely". The U.S. Maritime Administration has warned that Houthi forces continue to pose a threat to commercial vessels in the region, citing more than 100 separate attacks on shipping between November 2023 and October 2025.
+aa
+
+Energy Markets on Edge
+
+Oil prices have already surged past $110 per barrel, with Brent crude closing near $113 on March 27, a 36 percent increase since the war began, according to CNBC. JPMorgan's chief economist Bruce Kasman warned on April 1 that prices could reach $150 per barrel if the Hormuz blockade persists. The world's two largest shipping companies, MSC and Maersk, are already avoiding the Bab el-Mandeb region.
+politico
+
+The simultaneous disruption of both straits — what analysts have called a "two-strait chokehold" — would sever the main maritime artery connecting the Persian Gulf to Europe end to end. The UN Security Council has postponed until at least Saturday a vote on a Gulf-backed resolution seeking to authorize defensive measures to reopen the Strait of Hormuz, while Iran has signaled it intends to maintain oversight of Hormuz traffic even beyond the current conflict.
+nytimes
+
+Iran tightens grip on Strait of Hormuz a month into war
+President Trump extended his deadline for Iran to fully reopen the strait to April 6, postponing threatened strikes on Iranian power plants. On Saturday, Pakistan secured an agreement for 20 vessels to transit, with two ships permitted daily. Trump also said Iran had agreed to allow 20 ships of oil through as a gesture of willingness to negotiate. Yet analysts remain skeptical. Lloyd's List...
+Houthis warn of military action as Red Sea oil route faces growing threat
+Iran's semi-official Tasnim News Agency reported last week that an IRGC-linked military source warned Tehran has "both the will and the possibility to produce a completely credible threat" against the Bab el-Mandeb. The threat carries weight: during the Gaza war, Houthi attacks on more than 100 commercial vessels forced major shipping lines to reroute around Africa for months. Analysts say the...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: aa
+Bab al-Mandeb Strait faces disruption risk as Iran war escalates
+**Link:** https://www.aa.com.tr/en/middle-east/bab-al-mandeb-strait-faces-disruption-risk-as-iran-war-escalates/3884128
+> The Bab al-Mandeb Strait, a narrow maritime chokepoint linking the Indian Ocean and the Red Sea, faces potential disruption as the US-Israel war against Iran escalates, raising concerns over global energy supplies and trade.
+
+The risk comes as the global oil market is already under strain following the effective closure of the Strait of Hormuz.
+
+Located between Yemen and Djibouti, the Bab al-Mandeb is the only direct sea route connecting Asia and Europe via the Suez Canal. At its narrowest point, it is about 32 kilometers (17 nautical miles) wide.
+
+On Wednesday, Iranian news agency Tasnim quoted an unnamed military official as saying, "If the Americans want to think of a solution for the Strait of Hormuz with stupid measures, they should be careful not to add another strait to their problems and predicaments," adding that "the Bab al-Mandab Strait is considered one of the world’s strategic straits, and Iran has both the will and the ability to create a completely credible threat against it."
+
+The strait handled about 12% of global oil shipments in early 2023, with flows averaging around 4.2 million barrels per day in early 2025.
+
+Any disruption could halt traffic between Europe and Asia, forcing vessels to detour around Africa and significantly increasing transit times and costs.
+
+Its strategic importance has drawn military bases from global powers, including the US, France and China, underscoring its critical role in international trade.
+
+Israeli Settler Attacks in the Occupied West Bank
+
+#### 📌 FUENTE: aa
+Closure of Bab al-Mandeb 'likely' amid Iran-US war: Houthi official
+**Link:** https://www.aa.com.tr/en/middle-east/closure-of-bab-al-mandeb-likely-amid-iran-us-war-houthi-official/3883838
+> A Houthi official in Yemen has not ruled out the closure of the Bab al-Mandeb Strait, which connects the Red Sea and the Gulf of Aden, as part of the ongoing military escalation between Iran, the US and Israel, as war entered its second month.
+
+The Houthi group launched missile strikes toward Israel on Saturday, the first by the Iran-backed Yemeni group since the US and Israel launched a joint offensive against Tehran last month.
+
+"We are in joint coordination with our brothers in Iran, Lebanon, and Iraq," Mohammed Mansour, deputy information minister in the Houthi-run government, told Al-Araby Television on Saturday.
+
+He said the Houthis joined the conflict “to provide support to our brothers in Iran who are fighting epic battles” as well as the Lebanese group Hezbollah.
+
+Mansour said the Houthis' move to join the war “aims to increase pressure on Israel and the US.”
+
+“Every step we take is carefully calculated to be effective and to increase the pressure on Israel and the US,” he said.
+
+Yemen “bears a moral, religious, and humanitarian responsibility toward Iran, Hezbollah, and Iraq’s Popular Mobilization Forces,” the Houthi official said, describing the alliance as “primarily aiming to support Palestine.”
+
+Mansour said the Houthi group has many options to pile pressure on Israel and the US amid the current war with Iran.
+
+"The Red Sea, the Gulf of Aden, and Bab al-Mandab will be among the options,” he said.
+
+The Red Sea is one of the world's most frequently used sea routes for oil and fuel shipments.
+
+“We have extensive experience in naval and land operations, and our previous intervention to support Gaza was one of the important surprises for the world," the Houthi official said.
+
+The Houthi group had launched missile and drone attacks on Israel and Red Sea shipping lanes in response to Israel’s deadly offensive on Gaza, which killed more than 72,000 people since October 2023.
+
+Regarding the possible closure of the strategic strait or attacks on passing ships, Mansour said: “This depends on the Israeli and US escalation, and the American preparations for any ground movement.”
+
+“The Yemeni leadership makes its decisions independently based on military and political assessments, taking into account that any step will be calculated and effective.”
+
+Regional escalation has continued to flare since the US and Israel launched a joint offensive on Iran on Feb. 28, so far killing over 1,340 people, including then-Supreme Leader Ali Khamenei.
+
+Iran has retaliated with drone and missile strikes targeting Israel, along with Jordan, Iraq, and Gulf countries hosting US military assets, causing casualties and damage to infrastructure while disrupting global markets and aviation.
+
+Israeli Settler Attacks in the Occupied West Bank
+# 📂 CATEGORÍA: Business
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:18:55
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/zelensky-meets-erdogan-in-ista-qfv.uW6iSeWWaydSqwkZBw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Zelensky meets Erdogan in Istanbul for ceasefire talks
+
+Ukrainian President Volodymyr Zelensky arrived in Istanbul on Saturday for security talks with Turkish President Recep Tayyip Erdogan, with discussions centered on ceasefire efforts and the broader diplomatic push known as the Istanbul Process. The meeting at the Dolmabahçe Palace comes at a sensitive moment, just one day after Erdogan held a phone call with Russian President Vladimir Putin.
+nampa
+
+dailysabah
+Erdoğan hosts Zelenskyy in Istanbul for security talks - Daily Sabah
+unn
+Putin complained to Erdogan about attacks on gas pipelines and ...
+tass
+IN BRIEF: Attacks on TurkStream, Middle East: what Putin, Erdogan ...
+haberler
+Ukrainian leader Zelensky is in Istanbul! He is meeting with ...
+Anadolu
+·
+gettyimages.com
+Pipeline Tensions and Easter Truce
+
+During his call with Erdogan on Thursday, Putin accused Kyiv of attempting to strike gas transportation infrastructure connecting Russia and Turkey, including the Blue Stream and TurkStream pipelines, as well as merchant ships in the Black Sea. The Kremlin said both leaders stressed "the importance of coordinated measures for the purpose of ensuring comprehensive security in the Black Sea waters". Putin also thanked Erdogan for his "unwavering readiness to facilitate" negotiations on Ukraine.
+unn
+
+Turkey's Communications Director Burhanettin Duran said the Istanbul meeting would address bilateral issues with Ukraine, regional developments, and efforts toward "a ceasefire and a permanent solution, primarily through the Istanbul Process".
+haberler
+
+The visit also carries religious weight. Zelensky was expected to meet Ecumenical Patriarch Bartholomew, the most senior cleric in the Orthodox Church, ahead of Orthodox Easter on April 12. Ukraine has been pushing for a holiday truce that would include a mutual halt to attacks on energy infrastructure. Zelensky told reporters last week that he was "ready for a ceasefire during the Easter holidays" and asked US mediators to relay the proposal to Moscow. The Kremlin has so far been dismissive, with spokesperson Dmitry Peskov saying Russia had "not encountered any clearly outlined proposals for an Easter truce".
+aljazeera
+
+Turkey's Balancing Act
+
+"We are working to strengthen our partnership to ensure real protection of people's lives, advance stability and guarantee security in our Europe, as well as in the Middle East," Zelensky wrote on X upon his arrival. Turkey has positioned itself as one of the few countries maintaining active dialogue with both Kyiv and Moscow, hosting rounds of talks between mid-ranking Russian and Ukrainian officials in 2025 that produced agreements on prisoner exchanges. Ankara is now aiming for a higher-level summit that could bring together the presidents of Turkey, the United States, Russia, and Ukraine.
+newarab
+
+Putin and Erdogan call for immediate ceasefire in Iran war
+The call came one day after Putin met Egyptian Foreign Minister Badr Abdelatty at the Kremlin, where the Russian president said Moscow is "ready to do everything in our power" to help stabilize the region. Putin also pledged to maintain contact with regional leaders, while Kremlin spokesman Dmitry Peskov told reporters that Russia stands ready to contribute to ensuring "peace in the...
+Zelenskyy reports progress on security deal after call with Trump envoys
+Alongside the ceasefire rebuff, the Kremlin intensified its territorial demands. Zelensky revealed that Russia had communicated through the U.S. side a two-month deadline for Ukraine to withdraw forces from the Donbas region, warning that if Kyiv does not comply, "there will be other conditions." Zelensky said he found the claim implausible: "I'm surprised how anyone could believe this," he told...
+Turkey holds back-to-back talks with Hamas, Palestinian, Ukrainian officials
+Turkey's multi-front diplomacy reflects broader strategic calculations. Reuters reported in early March that Fidan told Turkish media Ankara was "carefully undertaking essential initiatives with all our counterparts" to foster peace, noting ongoing communication with European nations, Gulf states, Oman, and the United States. The approach allows Turkey to maintain channels with all sides of...
+Zelenskyy meets UAE leader in Abu Dhabi amid Iranian strikes
+The two leaders also discussed the impact of the conflict on international navigation and the global economy. The Strait of Hormuz, a critical chokepoint for global oil shipments, has been a focal point of the crisis. Abu Dhabi National Oil Company CEO Sultan Ahmed Al Jaber recently described the weaponization of the waterway as "economic terrorism directed at every nation". Zelenskyy and...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: dailysabah
+Erdoğan hosts Zelenskyy in Istanbul for security talks - Daily Sabah
+**Link:** https://www.dailysabah.com/politics/erdogan-hosts-zelenskyy-in-istanbul-for-security-talks/news
+> Cookies are used for the purpose of performing advertising and marketing activities on our sites.
+
+These cookies work by identifying the browsers and devices of the user.
+
+If you allow these cookies, we can provide you with personalized ads and a better advertising experience on our pages. While doing this, we would like to remind you that our aim is to provide you with a better advertising experience and that we make our best efforts to provide you with the best content and that advertising is our only income item to cover our costs.
+
+In any case, if users do not enable these cookies, they will not receive targeted ads.
+
+In order to provide you with a better service, our website uses cookies belonging to us and third parties. Various personal data of yours are processed through these cookies, and necessary cookies are used for the purpose of providing information society services. Other cookies will be used for limited purposes, subject to your explicit consent, to make our website more functional and personal as well as for advertising/marketing activities for you. You can set your cookie preferences through the panel below. To learn more about cookies, you can click on the Settings button and read our Cookie Information Text.
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+Turkish President Recep Tayyip Erdoğan on Saturday received Ukrainian President Volodymyr Zelenskyy for security talks in Istanbul.
+
+Zelenskyy's visit comes a day after Erdoğan spoke with Russian President Vladimir Putin, who accused Kyiv of attempting to target the gas pipeline between Russia and Türkiye that also supplies several European countries.
+
+"Arrived in Istanbul, where important meetings are scheduled. Substantive talks have been prepared with the President of Türkiye, Recep Tayyip Erdoğan," said Zelenskyy on X.
+
+"We are working to strengthen our partnership to ensure real protection of people's lives, advance stability and guarantee security in our Europe, as well as in the Middle East," he added.
+
+The Turkish presidency also confirmed the visit, saying that the meeting will focus on "efforts towards a ceasefire and a lasting solution, particularly within the framework of the Istanbul process."
+
+An AFP correspondent saw a heavy police presence around the lavish Dolmabahçe Palace on the shores of the Bosphorus, which also hosted talks between Moscow in Kyiv in the past.
+
+Zelenskyy will also meet Patriarch Bartholomew, the spiritual leader of most Christian Orthodox churches.
+
+This takes place a week before Orthodox Easter, which is celebrated in both Ukraine and Russia on April 12.
+
+Kyiv has been pushing for a truce over the Orthodox Easter holidays that would include a halt in attacks on energy infrastructure.
+
+Russia, which is seeking a permanent settlement rather than a brief ceasefire, said it had not seen any "clearly formulated" proposals from Kyiv.
+
+Ukraine has struck Russian energy infrastructure throughout the more than four-year war in a bid to weaken Moscow's ability to finance its offensive.
+
+Russian strikes on Ukrainian energy facilities have cut power and heating to millions of people since the beginning the war in 2022.
+
+Cookies are used for the purpose of performing advertising and marketing activities on our sites.
+
+These cookies work by identifying the browsers and devices of the user.
+
+If you allow these cookies, we can provide you with personalized ads and a better advertising experience on our pages. While doing this, we would like to remind you that our aim is to provide you with a better advertising experience and that we make our best efforts to provide you with the best content and that advertising
+
+#### 📌 FUENTE: unn
+Putin complained to Erdogan about attacks on gas pipelines and ...
+**Link:** https://unn.ua/en/news/putin-complained-to-erdogan-about-attacks-on-gas-pipelines-and-ships-in-the-black-sea
+> Information agency «Ukrainian National News»
+
+Subject in the field of online media; media identifier - R40-05926
+
+This resource is intended for persons who have reached the age of 21.
+
+All rights reserved. © 2007 — 2026
+# 📂 CATEGORÍA: Business
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 13:58:00
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/turkey-emerges-as-key-energy-c-E__BPdonT3qV9_BtnE.KoQ
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Turkey emerges as key energy corridor amid Hormuz blockade
+
+As Iran's blockade of the Strait of Hormuz grinds into its second month, disrupting roughly 20% of global oil and liquefied natural gas flows, energy-exporting nations and transit states are accelerating efforts to move hydrocarbons through overland pipelines — with Turkey emerging as a focal point for alternative routes.
+aljazeera
+
+aa
+Pipeline alternatives, including routes via Türkiye, gain relevance ...
+trtworld
+Iraq resumes oil exports through Türkiye as Kirkuk–Ceyhan pipeline ...
+arabnews
+Iraq resumes Kirkuk crude exports via Ceyhan after Baghdad-KRG ...
+thestar
+Iraq resumes Kirkuk crude exports via Ceyhan after Baghdad-KRG ...
+aljazeera.com
+Turkey's Growing Role
+
+The Kirkuk-Ceyhan oil pipeline, which resumed operations on March 17 after a deal between Baghdad and the Kurdistan Regional Government, has begun pumping crude from Iraq's northern fields to Turkey's Mediterranean port of Ceyhan. Iraq's deputy oil minister Basim Mohammed said initial flows stood at 170,000 barrels per day, with plans to ramp up to 250,000 bpd. Oil Minister Hayyan Abdul Ghani said the capacity could eventually be supplemented by an additional 200,000 bpd from the Kurdistan region.
+trtworld
+
+Meanwhile, Gazprom's gas deliveries to Europe via the TurkStream pipeline rose 22% year-on-year in March to an average of 55 million cubic meters per day, according to Reuters calculations, with the trunk line operating at 97% capacity. TurkStream remains the sole pipeline route for Russian gas to Europe after Ukraine halted transit at the start of 2025.
+interfax
+
+Limited Alternatives for the Gulf
+
+Existing bypass infrastructure in the Gulf remains insufficient to offset the scale of Hormuz disruptions. According to Anadolu Agency, alternative pipeline capacities through Saudi Arabia and the United Arab Emirates are limited to between 3.5 million and 5.5 million barrels per day — a fraction of the roughly 20 million barrels that passed through Hormuz daily in 2025, according to IEA data. The UAE's Abu Dhabi-Fujairah pipeline carries about 1.1 million barrels per day with roughly 700,000 barrels of spare capacity, while Saudi Arabia has diverted volumes to its Red Sea port of Yanbu via the East-West pipeline.
+aa
+
+Gulf states are now considering longer-term expansions. The Financial Times reported that new pipeline proposals connecting the Arabian Peninsula to the Mediterranean are under discussion.
+jpost
+
+LNG Remains Vulnerable
+
+While oil can be partially rerouted, LNG shipments face steeper challenges. Claudia Kemfert, head of the energy department at the German Institute for Economic Research, told Anadolu that existing infrastructure limitations prevent Turkey from offsetting major supply disruptions in the short term. Hormuz remains a critical and difficult-to-replace transit point for LNG, she said, adding that prolonged disruption would deepen reliance on strategic reserves and accelerate the shift toward renewable energy and non-Gulf suppliers.
+aa
+
+Over 40 nations met in London on April 3 to discuss reopening the strait, but the talks produced no concrete plan beyond a commitment to further diplomacy.
+aljazeera
+
+Karachi Port matches full year's cargo in 24 days amid Hormuz crisis
+Pakistan's Karachi Port has become an unexpected beneficiary of the rerouting. In just the first 24 days of March, the port processed 8,313 transshipment containers — matching its entire 2025 annual volume, a 1,423% surge. South Asia Pakistan Terminal handled the largest , while a new feeder service launched March 11 now connects Karachi to the UAE ports of Fujairah and Khor Fakkan outside...
+Gulf pipelines can replace only a quarter of Hormuz oil flows
+Even operating at full capacity, the combined bypass infrastructure falls far short of replacing Hormuz flows. Together, the Saudi East-West pipeline and ADCOP can move roughly 4 to 5.5 million barrels per day under optimal conditions — about one quarter of normal Hormuz traffic. Iraq, Kuwait, Qatar, and Bahrain have no bypass options, leaving their oil effectively trapped. "Alternative routes...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: aa
+Pipeline alternatives, including routes via Türkiye, gain relevance ...
+**Link:** https://www.aa.com.tr/en/economy/pipeline-alternatives-including-routes-via-turkiye-gain-relevance-amid-strait-of-hormuz-concerns/3891213
+> The effective closure of the Strait of Hormuz following US and Israeli attacks on Iran, along with disruptions to global energy supply, is bringing Türkiye to the forefront through various pipeline and route alternatives in the search for substitute transit corridors.
+
+Because of the war in the Middle East, maritime traffic and oil transportation through the Strait of Hormuz have been severely disrupted. Although the waterway has not been officially declared closed, Iranian authorities have imposed strict controls and restrictions on crossings.
+
+While only vessels from certain countries are allowed to pass, others can transit only under specific conditions. This has caused maritime traffic in the region to deviate significantly from normal operations.
+
+15M barrels of crude oil transported through Hormuz at risk
+
+Rising tensions in the region have caused disruptions in the Strait of Hormuz, which handles around 20% of global oil trade. Tanker traffic has slowed sharply, with crossings dropping to zero on some days and overall traffic declining by more than 90%.
+
+The daily transport of 15 million barrels of crude oil through Hormuz is now at risk, while rising insurance costs and security concerns are putting additional pressure on shipments.
+
+The developments pushed oil prices from around $70 to $120, marking an increase of nearly 70%. On the natural gas side, the rise has been even sharper. Europe’s benchmark TTF gas contracts climbed from around €30 ($34.56) to the €60 - €70 range.
+
+Although the decision by member countries of the International Energy Agency (IEA) to release 400 million barrels from emergency oil reserves signaled additional supply to the market, volatility continues amid concerns that the war in the region could intensify.
+
+On the natural gas side, measures such as increasing storage use, accelerating spot LNG supply, and managing demand have been introduced, but prices remain elevated due to continuing supply risks.
+
+Alternative routes exist, capacities limited
+
+As concerns about supply security grow and existing measures prove insufficient to limit market volatility, the search for alternative routes that could reduce dependence on the Strait of Hormuz has also gained momentum.
+
+IEA data shows around 20 million barrels of oil per day passed through the Strait of Hormuz in 2025.
+
+Alternative pipeline capacities bypassing Hormuz through Saudi Arabia and the United Arab Emirates remain limited to between 3.5 million and 5.5 million barrels per day.
+
+The UAE exports around 1.1 million barrels daily via the Abu Dhabi-Fujairah pipeline, with an additional spare capacity of approximately 700,000 barrels.
+
+In Saudi Arabia, the East-West crude oil pipeline has a design capacity of 5 million barrels per day. After the current usage of about 2 million barrels, additional available capacity is estimated between 3 million and 5 million barrels per day.
+
+The Abqaiq-Yanbu pipeline, running parallel to the East-West crude oil pipeline and transporting natural gas liquids, is currently operating at full capacity with around 300,000 barrels per day.
+
+- Pipeline proposal from Qatar, Iraq to Türkiye
+
+Turkish Energy and Natural Re Minister Alparslan Bayraktar referred to the status of the Iraq-Türkiye Crude Oil Pipeline extending from Kirkuk to Ceyhan. “This line has a capacity of 1.5 million barrels. We can transport 1.5 million barrels per day through this route,” he told Anadolu.
+
+Bayraktar stated that Türkiye has brought other projects onto the agenda beyond Iraq.
+
+“The arrival of Qatari gas to Türkiye through a pipeline, and perhaps onward to Europe through Türkiye. Imagine your LNG facilities are hit, your LNG exports stop. You already cannot move through Hormuz. Consider a pipeline carrying a certain volume of gas to Türkiye and Europe. This could become an important project,” he said.
+
+Transporting oil re to the Turkish city of Hatay through pipelines as an alternative to shipments through Hormuz, meanwhi
+
+#### 📌 FUENTE: trtworld
+Iraq resumes oil exports through Türkiye as Kirkuk–Ceyhan pipeline ...
+**Link:** https://www.trtworld.com/article/2a59d74606f1
+> Iraq’s North Oil Company said on Wednesday it resumed oil exports through Türkiye’s Ceyhan port, restarting crude flows via the Kirkuk-Ceyhan pipeline, which was shut ​for more than a decade.
+
+In a statement carried by the state news agency INA, the company said operations resumed via the Saralo pumping station, with an initial export capacity of 250,000 barrels per day.
+
+The move follows an agreement between Iraq’s federal government and the Kurdistan Regional Government (KRG) to reactivate a key export route and support Iraq’s oil export system, the agency reported.
+
+The KRG said on Tuesday that it has reached an understanding with Baghdad to resume oil exports through the region to Türkiye’s port of Ceyhan.
+
+The reopening of the Kirkuk-Ceyhan pipeline provides an alternative route to another pipeline from the Kurdistan region.
+
+Exports via the 960 km pipeline, which once handled about 0.5 percent of global supply, were halted in 2014 after repeated attacks by Daesh terrorists, says Reuters.
+
+In a statement on X, KRG Prime Minister Masrour Barzani said the region decided to allow oil to flow again through its pipeline “as soon as possible,” citing “the extraordinary circumstances facing the country and the responsibility we all  to get through this difficult chapter.”
+
+The development comes as the Strait of Hormuz has been at the centre of global energy concerns since Iran’s Islamic Revolutionary Guard Corps announced its closure to most vessels in retaliation for US-Israeli attacks that have killed around 1,300 people in Iran since February 28.
+
+Before the conflict, around 20 million barrels of oil passed through the strait daily. Its disruption has pushed oil prices higher.
+
+On Sunday, Iraq’s oil ministry said in a statement that it was ready to resume crude exports through the northern pipeline toward Ceyhan Port amid disruptions to southern export routes linked to the crisis in the Strait of Hormuz.
+# 📂 CATEGORÍA: Science
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:36:06
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/you/freight-rates-surge-up-to-12x-nyOsQOuPS2.7grPCK2IUOw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Freight rates surge up to 12x as Hormuz blockade deepens
+
+The effective closure of the Strait of Hormuz has thrown global shipping into crisis, with freight rates surging as much as 11 to 12 times normal levels and war-risk insurance premiums reaching figures that would have been unthinkable weeks ago. More than a month after U.S.-Israeli strikes on Iran triggered retaliatory attacks and a near-total blockade of the waterway, the disruption is cascading through supply chains worldwide, trapping thousands of ships and tens of thousands of seafarers in one of the most severe maritime emergencies in modern history.
+cointech2u
+
+aljazeera
+After Strait of Hormuz opens, turmoil would still last months, analysts ...
+gcaptain
+Container Rates Extend Rally as Hormuz Crisis Drives Fuel Costs ...
+tbsnews
+Middle East war raising global shipping costs | The Business Standard
+cointech2u
+Hormuz Strait Shipping Disruption Global Shipping Costs Soar ...
+cnbc.com
+A Strait Under Siege
+
+Traffic through the Strait of Hormuz, which in peacetime carries roughly a fifth of the world's oil and substantial volumes of liquefied natural gas, has collapsed. According to the UN Conference on Trade and Development, daily vessel transits averaged 129 before the war began on February 28 but have since fallen by 95%. On some days in March, as few as three vessels crossed the passage. By April 1, transits had climbed modestly to 16 ships, with more countries negotiating access with Iran, but volumes remain a fraction of pre-war levels.
+windward
+
+The International Maritime Organization reports that approximately 2,000 vessels are stranded in the region, with an estimated 20,000 seafarers trapped near the strait. Iran's Islamic Revolutionary Guard Corps has imposed a selective blockade, rerouting permitted ships through a controlled corridor near Larak Island while denying passage to vessels linked to the United States, Israel, and their allies. Major container lines including Maersk, CMA CGM, and Hapag-Lloyd have suspended all transits indefinitely.
+aa
+
+Costs Spiral Across the Industry
+
+The financial toll is staggering. Industry insiders say freight rates have risen 11 to 12 times above pre-crisis levels, while spot container rates from Asia to the U.S. have climbed roughly 29%, according to FreightWaves. On Asia-Europe routes, Drewry's World Container Index rose to $2,279 per 40-foot container, with Shanghai-to-Genoa rates jumping 12% in a single week.
+freightwaves
+
+War-risk insurance has become a defining pressure point. Some insurers have offered replacement coverage at roughly 60 times pre-crisis rates, according to analysis from the Irregular Warfare Center. Lloyd's List reported premiums reaching as high as 10% of hull value for vessels with American ties, potentially costing $10 million to $14 million for a single voyage. Hapag-Lloyd's chief executive Rolf Habben Jansen estimated the war is adding $40 to $50 million per week in costs for his company alone, driven by surging bunker fuel prices, insurance, and emergency surcharges.
+lloydslist
+
+Global Fallout Mounts
+
+The disruption extends far beyond the Gulf. Bunker fuel prices have nearly doubled since the conflict began, peaking above $1,050 per metric tonne in March. Carriers are rerouting via the Cape of Good Hope, adding 10 to 14 days per shipment, while European ports including Rotterdam and Antwerp are experiencing delays of up to five days. An estimated 200,000 containers remain trapped in and around the Persian Gulf.
+vespertool
+
+Nations dependent on Gulf energy are feeling the squeeze. India relies on the Strait of Hormuz for approximately 50% of its crude oil imports, according to Citi, and has seen Prime Minister Modi reach out directly to Iran. Singapore, a critical global bunkering hub, faces tightening fuel availability as supplies are diverted. Analysts warn that even if the strait reopens soon, the backlog will take months to clear. "Production lines for many products have had to be halted due to insufficient storage capacity," said shipping analyst Ringbakken, as quoted by Al Jazeera. Over 40 nations have joined British-led talks aimed at restoring access to the waterway, but with insurance markets demanding a permanent security guarantee before rates normalize, the path to recovery remains uncertain.
+youtube
+gcaptain
+
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: aljazeera
+After Strait of Hormuz opens, turmoil would still last months, analysts ...
+**Link:** https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say
+> Effective shutdown of key waterway could lead to permanent changes in how shipping industry does business.
+
+Asian governments scramble to contain fuel costs amid Strait of Hormuz crisis
+
+The effective shutdown of the Strait of Hormuz has blocked the flow of a substantial portion of the energy that powers the global economy.
+
+But even if the waterway reopens tomorrow, the disruption to global supply chains will be felt long after ships have been cleared to pass en masse, according to shipping and trade experts.
+
+“When the war is officially over, and the bombardments are stopped, that does not mean that the war is over for logistics, because then the real work starts,” said Nils Haupt, senior director for corporate communications at the German shipping giant Hapag-Lloyd.
+
+“We will see hundreds of ships who want to call in at the key ports in the Persian Gulf. Lots of containers are going into the region, and we will see disruption of supply chains going to and from the Persian Gulf,” Haupt told Al Jazeera, using another name for the Gulf, which is also known as the Arabian Gulf.
+
+At present, some 2,000 ships are stranded in the region amid Iran’s partial blockade of the strait, according to the International Maritime Organization (IMO). It has been allowing passage of only a few vessels from the countries deemed friendly.
+
+Among them, about 400 vessels are in the nearby Gulf of Oman, suggesting that shipping firms are holding position for when the strait reopens, according to maritime intelligence company Windward.
+
+Other ships have been diverted to the Suez Canal or taken the much longer journey around the Cape of Good Hope in Southern Africa to make deliveries to Asia and Europe.
+
+Oil shipments from Saudi Arabia have been diverted through the Red Sea, bypassing the strait.
+
+Svein Ringbakken, managing director of the Norwegian Shipowners’ Mutual War Risks Association, said even with logistics facilities running at full capacity, it would take time to clear the backlog of oil, gas and other goods unloaded from vessels.
+
+Ringbakken said the task has been made even more difficult by attacks that have damaged energy and transport infrastructure across the Middle East.
+
+More than 40 energy assets across the region have been “severely or very severely damaged”, according to the International Energy Agency, with oil and gas companies, including QatarEnergy, the Kuwait Petroleum Company, and Bahrain’s Bapco Energies, declaring force majeure due to production disruptions.
+
+“The short answer is that it would take months to get shipping supply chains back to normal because of the backlog,” Ringbakken told Al Jazeera.
+
+“Production lines have had to be stopped for many products because of a lack of storage capacity,” he added. “Add to this the damage to both production facilities and port infrastructure. This all adds inefficiencies when the strait is opened.”
+
+Iran’s effective closure of the waterway, launched in retaliation for US-Israeli strikes that began on February 28, has disrupted about 20 percent of the world’s crude oil and liquefied natural gas (LNG) supplies, driving up energy prices worldwide.
+
+The blockade has also interrupted the export of large amounts of petrochemicals, fertiliser, and raw materials used in plastic manufacturing.
+
+Beyond the immediate disruption to trade, the effective shutdown of the waterway has raised longer-term questions about how shippers will conduct their business in the future, including calculating risk, said SV Anchan, chairman of the United States-based global shipping and logistics conglomerate Safesea.
+
+The IMO has confirmed at least 18 attacks on vessels across the Gulf since the war began, including the March 11 ramming of a Safesea oil tanker by two unmanned ships, which killed one crew member.
+
+“From an industry standpoint, the issue extends well beyond access. The emergence of asymmetric threats, including unmanned attack capabilities, has fundamentally altered the risk environment,” Anch
+
+#### 📌 FUENTE: gcaptain
+Container Rates Extend Rally as Hormuz Crisis Drives Fuel Costs ...
+**Link:** https://gcaptain.com/container-rates-extend-rally-as-hormuz-crisis-drives-fuel-costs-higher/
+> Essential news coupled with the finest maritime content sourced from across the globe.
+
+Join the leading maritime news network
+
+Container freight rates pushed higher for a fourth straight week, as rising fuel costs and ongoing disruption in the Middle East begin feeding directly into global shipping markets.
+
+Drewry’s World Container Index (WCI) climbed 5% this week to $2,279 per 40-foot container, with gains across both Asia–Europe and Transpacific trades signaling a broad-based tightening in conditions.
+
+The strongest moves were seen on the Asia–Europe corridor, where rates from Shanghai to Genoa jumped 12% to $3,474 per FEU, while Shanghai–Rotterdam rose 3% to $2,552. The uptick comes as carriers continue pushing rate hikes into April, with companies like CMA CGM targeting Freight All Kinds (FAK) levels around $3,500 per FEU.
+
+Despite the price momentum, capacity remains relatively steady for now. Drewry data shows just three blank sailings scheduled next week on the Asia–Europe trade, suggesting carriers are relying more on pricing discipline than capacity cuts—at least for the moment.
+
+On the Transpacific, rates also moved higher, though more modestly. Shanghai–New York climbed 3% to $3,393 per FEU, while Shanghai–Los Angeles rose 4% to $2,686. Six blank sailings have been announced across East and West Coast routes, indicating some supply-side management as carriers balance demand and cost pressures.
+
+The underlying driver remains the escalating crisis in the Strait of Hormuz, where disruptions to a waterway responsible for nearly 20% of global oil flows are tightening bunker fuel availability and pushing prices higher.
+
+Fuel constraints are beginning to show up across major Asian bunkering hubs, including Singapore and China, forcing carriers to adjust operations. Measures such as slow steaming, alternative refueling strategies, and emergency fuel surcharges are increasingly being deployed to offset rising costs.
+
+With energy markets under pressure and supply chain uncertainty persisting, Drewry expects spot rates to continue climbing in the weeks ahead—marking a sharp reversal from the downward trend that dominated much of early 2026.
+
+Editorial Standards · Corrections · About gCaptain
+
+Sign up for gCaptain’s newsletter and never miss an update
+
+Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox
+
+Dive into a sea of curated content with our weekly ‘Dispatch’ email. Your personal maritime briefing awaits!
+
+Hapag-Lloyd delivered solid operational performance in 2025, but a sharp drop in freight rates and rising disruption costs pushed earnings significantly lower as the container shipping market continued to normalize....
+
+The Iranian parliament is working on a draft bill that would impose a fee on vessels seeking safe passage through the Strait of Hormuz, according to the semi-official Fars news agency.
+
+The Iranian commander who spent years threatening—and ultimately executing—Tehran’s campaign to pressure global shipping in the Strait of Hormuz has reportedly been killed, according to the U.S. military. Rear Adm....
+
+Subscribe to gCaptain Daily and stay informed with the latest global maritime and offshore news
+
+Stay informed with the latest maritime and offshore news, delivered daily straight to your inbox
+
+Stay informed with the latest maritime and offshore news, delivered straight to your inbox
+
+For general inquiries and to contact us,
+please email: info@gcaptain.com
+
+To submit a story idea or contact our editors, please email: tips@gcaptain.com
+
+For advertising opportunities contact
+Email: MikeMcDonald@gcaptain.com
+Phone: +1.805.704.2536.
+
+Essential news coupled with the finest maritime content sourced from across the globe.
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:37:38
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/f1-teams-plan-major-upgrades-d-.yNmqHrQQSO3riAUMKPyJw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+F1 teams plan major upgrades during five-week break before Miami GP
+
+Formula 1's unexpected five-week hiatus — created by the cancellation of the Bahrain and Saudi Arabian Grands Prix due to the Middle East conflict — has handed teams a rare mid-season development window, and nearly every outfit on the grid plans to arrive at the Miami Grand Prix on May 1-3 with meaningful car upgrades.
+
+x
+Fiorano - wet-tyre test with Scuderia Ferrari. - 14/15 April: Nürburgring
+motorsport
+Miami will be the start of a "new F1 championship", here's why
+autoracing1
+Ferrari to use April 'mini pre-season' ahead of Miami reset
+the-race
+A key 2026 battleground teams are scrambling to exploit - The Race
+sports.yahoo.com
+Ferrari Eyes Power Unit Gains at Monza
+
+Ferrari has mapped out an intensive April testing schedule headlined by a 200-kilometre filming day at Monza on April 22. The session will allow the Scuderia to evaluate elements of a major upgrade package for the SF-26, with a particular focus on power unit energy management and reducing the effects of super clipping on straights — a harvesting technique that has emerged as a key battleground in the sport's new era of 50-50 hybrid power units. Ferrari has also received FIA approval for an engine upgrade under the sport's ADUO regulations, and will conduct wet-weather testing with Pirelli at Fiorano on April 9-10.
+autoracing1
+
+Ferrari team principal Fred Vasseur set the tone after Suzuka, telling Sky Italy: "Everyone will be rolling out upgrades in Miami, allowing time to refine their software, which is why I mentioned that a new championship will commence."
+motorsport
+
+Grid-Wide Arms Race
+
+McLaren and Mercedes will head to the Nürburgring on April 14-15 for a Pirelli dry-tyre development test, with world champion Lando Norris and Oscar Piastri set to drive, according to GPblog. The test replaces a planned Bahrain session lost to the cancellations.
+gpblog
+
+At Cadillac, the fledgling 11th team is bringing upgrades to every race as it tries to close the gap to the established midfield. Valtteri Bottas has confirmed new parts are coming for Miami — the squad's first home race — while Sergio Perez labelled the Japanese Grand Prix "our strongest race so far" after finishing on the lead lap for the first time.
+sports.yahoo
+
+Red Bull team principal Laurent Mekies acknowledged deeper issues with the RB22 and said the break would be used to "make significant progress," though he cautioned against expecting "miracles" in Miami.
+motorsport
+
+Williams Draws a Line
+
+Perhaps no team feels the urgency more than Williams. Team principal James Vowles described Suzuka — where Carlos Sainz finished 15th and Alex Albon 20th — as "painful" and pledged to use the break as a turning point. "I want to make it a line in the sand and make sure we add performance every race going forward," Vowles wrote on X. "These next five weeks will be some of the hardest for us, purposefully so, as we dig deep and make sure that we come back with a car in Miami that is worthy of scoring points."
+motorsport
+
+F1 teams fill calendar gap with Pirelli tests across Europe
+The testing flurry comes after Formula 1 officially removed the Bahrain and Saudi Arabian rounds from the 2026 schedule in March, citing the ongoing conflict in the Middle East. No replacement races were arranged, reducing the season from 24 to 22 events and leaving teams without competitive action between the Japanese Grand Prix on March 29 and the Miami Grand Prix on May 1-3. For Pirelli, the...
+F1 faces five-week hiatus after Japanese GP as Iran war reshapes calendar
+Aston Martin's woes may be the most alarming. Honda's power unit has produced vibrations so severe that Fernando Alonso reported losing feeling in his limbs during the Chinese Grand Prix, forcing his retirement after 32 laps. Neither Alonso nor Lance Stroll has finished a race this season. Honda trackside chief Shintaro Orihara acknowledged before Suzuka that engineers had yet to identify the...
+F1 teams bring wave of upgrades to Suzuka to chase Mercedes
+Several other teams brought new parts to Suzuka. Aston Martin, which has yet to see either Fernando Alonso or Lance Stroll finish a race this season, introduced a revised front wing and floor. Alpine updated its front air deflector, rear wing actuator, and end-plates, while Williams redesigned its front suspension and Haas simplified its front wing actuator packaging. Cadillac's new F1 operation...
+Ferrari brings modified 'Macarena' wing to Suzuka
+Russell leads the drivers' championship with 51 points, four clear of Antonelli, with Leclerc a further 17 points back in third. Ferrari, still chasing its first grand prix victory since 2024, sees Suzuka as a chance not only to score points but to gather data that will shape development through the mid-season break. The team's ability to extract performance from Suzuka's technical sections...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: motorsport
+Miami will be the start of a "new F1 championship", here's why
+**Link:** https://www.motorsport.com/f1/news/why-miami-will-be-the-start-of-a-new-f1-championship-as-teams-push-like-crazy/10810302/
+> Lando Norris, McLaren, Max Verstappen, Red Bull Racing
+
+Photo by: Glenn Dunbar / Motorsport Images
+
+Ferrari F1 team boss Fred Vasseur believes May's Miami Grand Prix will be the start of a "new championship" as teams "push like crazy" for a first real opportunity to roll out major upgrades.
+
+Some teams had already trickled out upgrades at last weekend's Japanese Grand Prix, but most frontrunners are keeping their powder dry for the Miami Autodrome race on the first weekend of May. In some cases, their hand was forced by the cancellation of the April races in Bahrain and Saudi Arabia, due to the US-Israel war on Iran.
+
+Vasseur had long pointed out that the season opener in Australia would only be the starting point of a long slugfest, and that his team's passionate fans should neither get too over-excited nor downbeat over 2026's early form table.
+
+Ferrari, which has already shown several glimpses of an innovative approach with its early aerodynamic devices - including a highly publicised rotating rear wing, is one of the teams expected to bring a significant package to the Florida race.
+
+"Everyone will bring updates to Miami, they’ll have time to work on the software, and that’s why I said a new championship will begin," Vasseur told Sky Italy in Japan. "We won’t be the only ones working between Japan and Miami, so we need to pay attention to that. It’s true, however, that we have a month available, and that’s not usual in Formula 1. All the teams on the grid are pushing like crazy to improve, and there will be a step forward for everyone — we’ll see what the situation will be.
+
+"We need to keep scoring plenty of points, getting on the podium, and staying close to Mercedes. We’ll need to remain close in the standings. The rate of development in the championship will be very high, so we’ll need to keep pushing hard over these months to accumulate points and results."
+
+Photo by: Sam Bloxham / LAT Images via Getty Images
+
+When asked by Motorsport.com if he sees the Miami weekend the same way, Mercedes team boss Toto Wolff said: "Yeah, it's exciting. I think we would have maybe wished that it continues over into the two Middle Eastern races and we can score a few more points, but I agree.
+
+"The teams have learned, drivers are starting to learn how to optimise these systems to their benefit and we've seen that first indication today [during the Suzuka race]. What looked like a home run in the first two races for us isn't the case, and we've always warned [that would happen].
+
+"For me, Miami is also going to be a restart. How are the upgrades going to work that people are bringing? How have we optimised all the other systems? It's going to be exciting."
+
+Reigning world champion McLaren is also readying its first batch of upgrades, which was always planned for Miami regardless of the events in the Middle East.
+
+The team has a history of using the Miami weekend as a launchpad to success, with the race a major turning point in 2023 as McLaren gradually fought its way to the front of the grid.
+
+But unlike 2023, all of its immediate rivals will now be doing the same thing, so McLaren team principal Andrea Stella isn't expecting the papaya squad to suddenly make a major leap relative to Mercedes and Ferrari.
+
+The 2023 Miami Grand Prix was the starting point of McLaren's journey to the front of the field.
+
+Photo by: Steven Tee / Motorsport Images
+
+"There's good stuff happening in development, so I would expect that the car will be significantly improved in the coming races, especially starting from Miami," Stella said in China. "But obviously, we will have to see what the rate of development is of the other teams, because all cars will be improved. So hopefully, like we were able to do in 2023, we are going to have a faster development rate than our competitors."
+
+The top team that needs upgrades the most is Red Bull Racing, which looked completely lost in Japan with an ill-handling RB22 that appears to harbour fundamental flaws that make
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:38:14
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/italy-miss-third-straight-worl-ecuYoSG4TWef6lekoOd6lw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Italy miss third straight World Cup as 48-team field is set
+
+Four-time champions Italy will miss a third consecutive FIFA World Cup after a devastating penalty shootout loss to Bosnia-Herzegovina on Tuesday, a result that filled the last remaining European berths and completed the 48-team lineup for the expanded tournament set to kick off on June 11 across the United States, Canada, and Mexico.
+
+skysports
+World Cup 2026: Who has qualified? Full list of teams for USA ...
+espn
+Bosnia-Herz 1-1 Italy (Mar 31, 2026) Final Score - ESPN
+espn
+Bosnia-Herz 1-1 Italy (Mar 31, 2026) Game Analysis - ESPN
+
+rte.ie
+Italy's Collapse in Zenica
+
+Italy's campaign ended in agony at Bilino Polje Stadium in Zenica, where a first-half red card to defender Alessandro Bastoni proved fatal. Moise Kean had given the Azzurri an early lead in the 15th minute, but Haris Tabakovic equalized for Bosnia in the 79th, and the match finished 1-1 after extra time. In the shootout, Italian substitutes Pio Esposito and Bryan Cristante both failed from the spot, and Esmir Bajraktarevic converted the winning penalty to seal a 4-1 shootout victory for Bosnia.
+espn
+
+The defeat extends Italy's absence from football's biggest stage to 12 years. The Azzurri have not appeared at a World Cup since Brazil 2014, having failed to qualify for both the 2018 and 2022 editions. Bosnia, meanwhile, will make their second World Cup appearance when they take the field in Group B alongside Canada, Qatar, and Switzerland.
+washingtonpost
+
+All 48 Spots Now Filled
+
+Tuesday's results also settled the final intercontinental playoff places. Iraq secured their first World Cup berth since 1986 by defeating Bolivia 2-1 in Monterrey, Mexico, ending a 40-year wait. DR Congo also qualified by seeing off Jamaica, returning to the tournament for the first time in over five decades.
+gulfnews
+
+The six final qualifiers — Sweden, Turkey, Bosnia-Herzegovina, and the Czech Republic through UEFA playoffs, plus Iraq and DR Congo via the intercontinental route — round out a full field of 48 nations.
+skysports
+
+The Road to MetLife
+
+The tournament will feature 104 matches across 16 stadiums over 39 days, opening on June 11 when Mexico face South Africa at Estadio Azteca in Mexico City. Among the most anticipated group-stage matchups is Group I, where France will meet Senegal at MetLife Stadium on June 14 before facing Norway and Iraq in a group that brings together Kylian Mbappé and Erling Haaland.
+northeasttimes
+
+The final is scheduled for July 19 at MetLife Stadium in East Rutherford, New Jersey. Questions linger over Iran's participation in Group G amid the ongoing conflict in the Persian Gulf, with Iran's sports minister having stated that the national team would not take part, though FIFA has said the team remains welcome.
+nbcsports
+
+Italy football federation chief resigns after nation's third straight World Cup miss
+Gravina took charge of the FIGC in 2018 after Carlo Tavecchio resigned following Italy's failure to reach the 2018 World Cup in Russia. While his tenure included the Euro 2020 triumph, it also encompassed two further World Cup absences — in 2022 and now 2026 — meaning Italy will go 16 years without appearing at the tournament. Names circulating as potential FIGC presidential candidates include...
+All 48 World Cup teams confirmed after playoff drama
+Iraq's qualification was among the tournament's most compelling storylines. The team traveled to Mexico by private plane amid regional conflict, with coach Graham Arnold having called for the match to be postponed due to the escalating situation in the Middle East, according to the BBC. Their victory ensures that Group I, which also features Kylian Mbappé's France and Erling Haaland's Norway,...
+Iraq beats Bolivia 2-1 to clinch final World Cup spot
+The result capped a dramatic final day of World Cup qualifying worldwide. Hours earlier in Zenica, Bosnia and Herzegovina stunned four-time champions Italy on penalties after a 1-1 draw, with Esmir Bajraktarević converting the decisive spot kick to condemn Italy to a third consecutive World Cup absence. As Reuters reported from Monterrey, Iraq "grabbed the last available place" to complete the...
+Turkey qualify for 2026 World Cup, ending 24-year absence
+The day's most dramatic result came in Sarajevo, where Bosnia and Herzegovina stunned Italy in a penalty shootout to eliminate the four-time champions from World Cup contention for the third consecutive cycle. Italy had taken an early lead through Moise Kean but were reduced to ten men after a red card, allowing Bosnia to dominate and eventually prevail from the spot. With all six playoff...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: skysports
+World Cup 2026: Who has qualified? Full list of teams for USA ...
+**Link:** https://www.skysports.com/football/news/12098/13427475/world-cup-2026-who-has-qualified-full-list-of-teams-for-usa-canada-and-mexico-tournament
+> 2026 World Cup takes place from June 11 to July 19 across three host nations; all 48 teams are now known for this summer's expanded tournament; England and Scotland have qualified; final 26-man World Cup squads must be submitted by May 30
+
+Wednesday 1 April 2026 16:57, UK
+
+We now know the 48 teams that will be appearing at the 2026 World Cup.
+
+The final six spots were decided in March, with four European teams qualifying via UEFA's play-offs - Sweden, Turkey, Bosnia & Herzegovina and the Czech Republic.
+
+The other two spots were taken by Iraq and DR Congo, who qualified via the inter-confederation play-offs. DR Congo, who saw off Jamaica, end a 52-year wait, while Iraq, who beat Bolivia in a decider, are back at football's showpiece event for the first time in four decades.
+
+Among those to have booked their place already before the play-offs were Curacao, with the Caribbean island becoming the smallest nation to qualify for a World Cup.
+
+Curacao will join holders Argentina and home nations England and Scotland at the tournament, which is taking place across three host nations - Canada, Mexico and USA - from June 11 to July 19.
+
+It will be the biggest yet, with 48 nations taking part - 16 more than in Qatar 2022. Here are the countries that have qualified for the tournament...
+
+Group A: Mexico, Czech Republic, South Africa, South Korea
+
+Group B: Canada, Bosnia and Herzegovina, Qatar, Switzerland
+
+Group C: Brazil, Haiti, Morocco, Scotland
+
+Group D: United States, Australia, Paraguay, Turkey
+
+Group E: Curacao, Ecuador, Germany Ivory Coast
+
+Group F: Netherlands, Japan, Sweden, Tunisia
+
+Group G: Belgium, Egypt, Iran, New Zealand
+
+Group H: Cape Verde, Saudi Arabia, Spain, Uruguay
+
+Group I: France, Norway, Senegal, Iraq
+
+Group J: Algeria, Argentina, Austria, Jordan
+
+Group K: Colombia, Jamaica, Portugal, Uzbekistan
+
+Group L: Croatia, England, Ghana, Panama
+
+Follow Sky Sports on WhatsApp for the latest sports news, videos, features, analysis and much more
+
+The full World Cup match schedule was released after the draw, with the opening game held in Mexico City.
+
+The final will take place at the New York-New Jersey (MetLife) Stadium - home of the New York Giants and New York Jets.
+
+Third-place play-off ('Bronze final'): July 18
+
+Play Super 6 for a chance to win £250k! Enter for free.
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:38:48
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/all-48-world-cup-teams-confirm-9seKsoBkQY68Fsdsbi2_PA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+All 48 World Cup teams confirmed after playoff drama
+
+The 2026 FIFA World Cup field is set. Following a night of drama on March 31 that saw Italy eliminated for a third consecutive tournament and Iraq return to the world stage for the first time in 40 years, all 48 teams are now confirmed for the expanded edition of the competition, which will run from June 11 to July 19 across 16 host cities in the United States, Canada, and Mexico.
+bbc
+
+The final at MetLife Stadium in East Rutherford, New Jersey, will cap a 39-day, 104-match tournament — the largest World Cup ever staged.
+dazn
+
+sportingnews
+World Cup 2026 Group I draw: Match schedule and fixtures for ...
+dazn
+World Cup 2026 full draw: Every group, all fixtures and knockout ...
+roadtrips
+2026 World Cup Schedule – USA, Canada and Mexico - Roadtrips
+
+english.aawsat.com
+Six Teams Clinch Final Spots
+
+Tuesday's playoffs delivered high stakes across six simultaneous matches. Iraq secured the 48th and final berth with a 2-1 victory over Bolivia at Estadio BBVA in Monterrey, ending a World Cup absence stretching back to Mexico 1986. Iraq will slot into Group I alongside France, Senegal, and Norway, with a group-stage meeting against France scheduled for June 22 at Lincoln Financial Field in Philadelphia.
+sportingnews
+
+DR Congo also punched their ticket through the intercontinental playoffs, beating Jamaica 1-0 in extra time on a goal from former Manchester United defender Axel Tuanzebe to join Group K with Portugal, Colombia, and Uzbekistan.
+aljazeera
+
+In the European playoffs, Türkiye qualified for the first time since their celebrated 2002 semi-final run, winning 1-0 at Kosovo on a Kerem Aktürkoglu goal, according to Reuters. They will face co-hosts the United States, Paraguay, and Australia in Group D. Sweden edged Poland 3-2 thanks to an 88th-minute winner from Viktor Gyökeres to claim a spot in Group F. The Czech Republic beat Denmark on penalties to enter Group A, while Bosnia and Herzegovina stunned four-time champions Italy 4-1 in a shootout in Zenica, as reported by the BBC.
+sports.yahoo
+
+youtube
+
+Key Matchups and Schedule
+
+The tournament opens June 11 with host nation Mexico facing South Africa at Estadio Azteca in Mexico City. The United States begins its campaign the following day against Paraguay at SoFi Stadium in Los Angeles, with further Group D matches against Australia and Türkiye to follow.
+roadtrips
+
+Group C features Brazil paired with Morocco, Haiti, and Scotland, while defending champions Argentina will face Algeria, Austria, and Jordan in Group J. England's path through Group L includes Croatia, Ghana, and Panama, with their final group match set for MetLife Stadium on June 27.
+hudsonriverblue
+
+Iraq's Emotional Return
+
+Iraq's qualification was among the tournament's most compelling storylines. The team traveled to Mexico by private plane amid regional conflict, with coach Graham Arnold having called for the match to be postponed due to the escalating situation in the Middle East, according to the BBC. Their victory ensures that Group I, which also features Kylian Mbappé's France and Erling Haaland's Norway, will be one of the tournament's most closely watched.
+bbc
+
+Japan drawn with Netherlands, Sweden, Tunisia in World Cup Group F
+Japan will open their Group F campaign against the Netherlands on June 14 at AT&T Stadium in Arlington, Texas, before traveling to Monterrey, Mexico, to face Tunisia on June 21. Their final group match against Sweden will be played in Kansas City on June 25. The tournament runs from June 11 to July 19, with the final at MetLife Stadium in East Rutherford, New Jersey.
+Italy miss third straight World Cup as 48-team field is set
+The tournament will feature 104 matches across 16 stadiums over 39 days, opening on June 11 when Mexico face South Africa at Estadio Azteca in Mexico City. Among the most anticipated group-stage matchups is Group I, where France will meet Senegal at MetLife Stadium on June 14 before facing Norway and Iraq in a group that brings together Kylian Mbappé and Erling Haaland. The final is scheduled...
+Turkey qualify for 2026 World Cup, ending 24-year absence
+The day's most dramatic result came in Sarajevo, where Bosnia and Herzegovina stunned Italy in a penalty shootout to eliminate the four-time champions from World Cup contention for the third consecutive cycle. Italy had taken an early lead through Moise Kean but were reduced to ten men after a red card, allowing Bosnia to dominate and eventually prevail from the spot. With all six playoff...
+Iraq and Bolivia meet for final 2026 World Cup spot
+The match is a single-leg knockout tie — if scores are level after 90 minutes, 30 minutes of extra time will follow, with a penalty shootout as a last resort. Iraq midfielder Merchas Doski captured the weight of the occasion in remarks published by FIFA: "Qualification would change a lot. The country has been through so many things during those years, and you can see the excitement of the people...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: sportingnews
+World Cup 2026 Group I draw: Match schedule and fixtures for ...
+**Link:** https://www.sportingnews.com/us/soccer/news/world-cup-2026-group-i-draw-teams-schedule-fixtures/8edb022537d63bdc4a37d8ff
+> If you purchase a product or register for an account through one of the links on our site, we may receive compensation. Learn more >
+
+The 2026 FIFA World Cup is just over two months away and the final preparations are underway for the biggest World Cup in history.
+
+The tournament will quite literally be bigger than ever before, as the field has expanded from 32 teams in 2022 to 48 in 2026. The knockout stage is now made up of 32 teams, and the tournament as a whole features more than 100 matches.
+
+Six of those matches will take place inside Group I, which comprises  France, Senegal, Norway and Iraq, who won the final playoff game. The group will not lack for star power, as global household names such as France's Kylian Mbappe and Norway's Erling Haaland will take center stage.
+
+Here’s a complete guide to Group I’s four teams and match schedule for the 2026 FIFA World Cup.
+
+2026 WORLD CUP HQ: Latest World Cup news | Full World Cup schedule | Buy World Cup tickets
+
+BUY NOW: Get tickets to the 2026 FIFA World Cup on StubHub
+
+France’s bid to become the first nation since Brazil in 1962 to retain the World Cup came up agonizingly short in Qatar, when they lost to Lionel Messi’s Argentina on penalties after a final for the ages. Les Bleus were victorious at Russia 2018, Kylian Mbappe’s breakout tournament on the biggest stage that concluded with a 4-2 final win over Croatia.
+
+Didier Deschamps, France’s World Cup-winning captain in 1998, is back once again as coach for his fourth World Cup — a run that stretches back to 2014 and will end with this tournament. Once again, Deschamps’ natural pragmatism will be offset by a vibrant collection of attacking game-changers to call upon. Mbappe might have lost his old ally Antoine Griezmann, who retired from international football in September 2024, but he now has the likes of Michael Olise, Bradley Barcola and Ballon d’Or winner Ousmane Dembele supporting him in his quest for glory.
+
+During qualification, France breezed to the top spot in their section with five wins out of six to finish six points clear of second-place Ukraine. Deschamps has announced he will not extend his contract when it expires after the 2026 World Cup, so can he sign off a historic tenure on top?
+
+Senegal will once again make their presence felt on football’s biggest platform. They sealed top spot in Group B of African qualifying, finishing the job in style with a commanding 4-0 win over Mauritania that pushed them clear of DR Congo.
+
+Now bound for Canada, Mexico and the USA, Senegal will be aiming to at least recreate the magic of their unforgettable 2002 debut, a campaign that included their famous upset of reigning champions France and a remarkable run to the quarterfinals.
+
+And if there’s anyone who understands the spirit of that golden adventure, it’s head coach Pape Thiaw. A member of that famous 2002 squad, Thiaw delivered the assist for Henri Camara’s extra-time winner against Sweden in the Round of 16, and he has brought that same belief to the touchline.
+
+Since stepping into the role, he has carried on Aliou Cisse’s work without missing a beat, stretching Senegal’s impressive unbeaten run, guiding them smoothly through qualifying, and overseeing standout results such as the 3-1 triumph over England in a June 2025 friendly.
+
+With history behind them and momentum on their side, the Lions of Teranga head to North America ready to roar again.
+
+Iraq are in largely uncharted waters when it comes to their international soccer history.
+
+They finished just a point behind Jordan in Group A of the Asian qualifying section — South Korea were the runaway leaders — before missing out on qualification via the third round after a 0-0 draw with Saudi Arabia last October.
+
+Effectively given a third chance via the intercontinental playoffs, they made sure not to disappoint, defeating Bolivia 2-1 in their pathway final. This win came despite the turbulence in the Middle East caused by the United States and Israel's conflict with
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:39:16
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/italy-miss-third-straight-worl-ahCnnaBeQPmdGMNnxvi7wg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Italy miss third straight World Cup after shootout loss to Bosnia
+
+Four-time world champions Italy were eliminated from the 2026 FIFA World Cup on Tuesday after a 4-1 penalty shootout loss to Bosnia and Herzegovina in Zenica, becoming the first former World Cup winners to miss three consecutive editions of the tournament.
+espn
+
+espn
+Italy miss out on 3rd-straight WC in shootout loss to Bosnia
+cbssports
+World Cup qualifying: Italy fail to qualify for third straight time; Turkiye to face USMNT
+sportingnews
+Italy red card, explained: Why Alessandro Bastoni was sent off vs ...
+
+reuters.com
+A Lead Squandered
+
+Gennaro Gattuso's side took an early lead when Moise Kean capitalized on a mistake by Bosnian goalkeeper Nikola Vasilj, calmly finishing to make it 1-0 in the 15th minute at Bilino Polje Stadium. It was Kean's second goal in as many playoff matches after scoring in last week's semifinal victory over Northern Ireland.
+cbssports
+
+The dynamics of the match shifted before halftime when center-back Alessandro Bastoni was shown a straight red card in the 42nd minute for a last-man tackle on Amar Memic, leaving Italy to play with 10 men for the remainder of the contest. Bosnia pressed relentlessly with the extra man, and substitute Haris Tabakovic finally broke through in the 79th minute to level the score at 1-1. Italy goalkeeper Gianluigi Donnarumma made at least four crucial saves to keep the Azzurri alive through extra time, but neither side could find a winner in the additional 30 minutes.
+espn
+
+Penalties Seal Italy's Fate
+
+In the shootout, Italy's misery was swift. The Azzurri hit the crossbar and skied another attempt, converting just one of their four penalties, while Bosnia were flawless, scoring all four of theirs to clinch a 4-1 victory from the spot.
+espn
+
+The result extends a painful era for Italian football. Italy last appeared at a World Cup in 2014 in Brazil and have not won a knockout-round match at the tournament since the 2006 final, when they beat France to lift the trophy. They were eliminated from qualifying by Sweden ahead of the 2018 tournament and by North Macedonia before the 2022 edition.
+espn
+
+Bosnia Return to the World Stage
+
+For Bosnia and Herzegovina, the victory in Zenica ends a 12-year wait and secures their place at a second World Cup. They will join Group B alongside co-hosts Canada, Switzerland, and Qatar when the tournament kicks off in North America this summer. Bosnia had already shown their nerve in the playoff semifinal, beating Wales on penalties after a 1-1 draw in Cardiff.
+bolavip
+
+Tuesday's other European playoff finals also produced drama: Sweden qualified with a last-gasp 3-2 win over Poland courtesy of a Viktor Gyökeres goal in the 88th minute, Turkey beat Kosovo 1-0, and Czechia overcame Denmark 3-1 on penalties to return to the World Cup for the first time since 2006.
+espn
+
+Italy football federation chief resigns after nation's third straight World Cup miss
+Gravina took charge of the FIGC in 2018 after Carlo Tavecchio resigned following Italy's failure to reach the 2018 World Cup in Russia. While his tenure included the Euro 2020 triumph, it also encompassed two further World Cup absences — in 2022 and now 2026 — meaning Italy will go 16 years without appearing at the tournament. Names circulating as potential FIGC presidential candidates include...
+Brazil score twice late to beat Croatia 3-1 in Orlando friendly
+The victory ended Croatia's nine-game unbeaten run and provided a morale boost for a Brazil side still searching for its best form under Ancelotti. The memory of the 2022 quarterfinal exit — when Marquinhos hit the post on Brazil's final penalty to send Croatia through — loomed over the buildup, and while a friendly is no substitute for tournament knockout drama, the emphatic late finish offered...
+Turkey qualify for 2026 World Cup, ending 24-year absence
+The day's most dramatic result came in Sarajevo, where Bosnia and Herzegovina stunned Italy in a penalty shootout to eliminate the four-time champions from World Cup contention for the third consecutive cycle. Italy had taken an early lead through Moise Kean but were reduced to ten men after a red card, allowing Bosnia to dominate and eventually prevail from the spot. With all six playoff...
+Poland rallies past Albania to set up World Cup decider with Sweden
+Poland will travel to the Strawberry Arena in Solna on Tuesday, March 31, where the winner secures a place in Group F at the 2026 World Cup alongside the Netherlands, Japan, and Tunisia. Sweden enter with momentum from their first competitive victory since November 2024, while Poland carry a perfect record in playoff matches in recent years. Potter cautioned that "the job is not done yet,"...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: cbssports
+World Cup qualifying: Italy fail to qualify for third straight time; Turkiye to face USMNT
+**Link:** https://www.cbssports.com/soccer/news/world-cup-qualifying-italy-sweden-turkiye-czechia/
+> The field for the FIFA World Cup is set as six tickets were punched on Tuesday, and the long-lasting question of whether Italy will be participating has been answered -- it's no. Again.
+
+Italy lost in penalty kicks to Bosnia and Herzegovina on Tuesday, failing to qualify for the World Cup for the third straight edition in the latest disaster for the iconic national team.
+
+Joining Bosnia out of Europe were Sweden, Czechia and Turkiye, while Congo DR beat Jamaica in their playoff final while Iraq topped Bolivia in theirs.
+
+Here are all the teams that have qualified:
+
+Italy hit the crossbar and skied an attempt, allowing Bosnia to cruise in the shootout.
+
+The match was tense from the very start, with the Azzurri struggling to cope with the relentless pressure from the home side. The breakthrough came after a costly mistake by Bosnia-Herzegovina's goalkeeper, Nikola Vasilj, who gave the ball away during the build-up. Italy, led by Gennaro Gattuso, reacted instantly, capitalizing on the error as Moise Kean calmly finished to score the opening goal, his second goal in a row, following his strike in last week's semifinal against Northern Ireland in Bergamo.
+
+Despite falling behind, Bosnia and Herzegovina responded with even greater intensity, pushing forward in search of an equalizer. However, the momentum shifted dramatically just before halftime when Italy's Alessandro Bastoni was shown a red card for a foul on Memic, leaving the visitors with ten men for the remainder of the match.
+
+The second half started like the first one ended, with Italy trying to defend the result but Bosnia pushed and managed to score in the 78th minute with Haris Tabakovic, who made it 1-1. Italy had to rely on at least four crucial saves of Gianluigi Donnarumma, but it was all Bosnia in the penalties.
+
+Czechia blew one-goal leads in both regulation and extra time, leading to the shootout, but they did enough from the spot to qualify for the World Cup.
+
+Pavel Sulc scored a stunning opener for Czechia in the third minute, rifling home a loose ball off a corner kick, but Joachim Andersen's 72nd-minute goal brought things level, creating a tense final 20 minutes or so of regulation with the game going to extra time. Both teams scored in the extra session, but the hosts were far superior from the spot, returning to the World Cup for the first time since 2006.
+
+A goal in the 88th minute from Viktor Gyokeres sent Sweden to the World Cup after defeating Poland 3-2 on Tuesday in the playoffs. A back-and-forth game saw the Polish equalize twice quickly, once in each half, but it was the Arsenal striker who made the difference two minutes from time.
+
+A goal from Kerem Akturkoglu early in the second half saw Turkiye punch their ticket to the 2026 FIFA World Cup, qualifying for the first time in 24 years. The victory means Turkiye will be in Group D, with the U.S. men's national team, Australia and Paraguay.
+
+Congo DR 1, Jamaica 0
+Iraq 2, Bolivia 1
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:39:46
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/fifa-confirms-iran-will-play-w-L5QLyToNQiOHGnRNI4vqZg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+FIFA confirms Iran will play World Cup games in the US as scheduled
+
+FIFA President Gianni Infantino declared on Tuesday that Iran will compete in its 2026 World Cup group-stage matches at venues in the United States as originally scheduled, rejecting proposals to relocate the games to Mexico amid the ongoing military conflict between the US, Israel, and Iran.
+
+hindustantimes
+Iran's World Cup venue shift plea rejected as FIFA chief Gianni ...
+cityam
+World Cup: No Plan B if Iran don't show up, insists Fifa boss Infantino
+rte
+Infantino insists Iran 'will play at the World Cup' - RTE
+trtworld
+Iran will play World Cup games at US venues as scheduled: FIFA's ...
+cbc.ca
+"There Is Only Plan A"
+
+Speaking to AFP at halftime of Iran's 5-0 friendly victory over Costa Rica near Antalya, Turkey, Infantino left no room for ambiguity. "Iran will be at the World Cup. That's why we're here. We're delighted because they're a very, very strong team," he said. "The matches will be played where they are supposed to be, according to the draw."
+trtworld
+
+In a separate interview with Latin American broadcaster N+ Univision, Infantino was more emphatic: "There is no Plan B, C, or D. There is only Plan A." He added that FIFA "cannot resolve geopolitical conflicts" but would use "the power of football to build bridges."
+bluewin
+
+The standoff traces back to February 28, when the US and Israel launched air strikes on Iran, prompting Iranian retaliation against Israel and Middle Eastern nations hosting US military bases. Iranian officials, including the sports minister, subsequently said the national team could not travel to the United States given the conflict. The president of the Iranian Football Federation asked FIFA to move the matches to Mexico, and Mexican President Claudia Sheinbaum said her country would be willing to host. But Infantino has repeatedly refused.
+reuters
+
+Schedule Holds, Tensions Remain
+
+Iran are drawn in Group G and scheduled to open against New Zealand at SoFi Stadium in Los Angeles on June 15, face Belgium at the same venue on June 21, and close against Egypt in Seattle. The World Cup, co-hosted by the US, Mexico, and Canada, begins June 11.
+sports.yahoo
+
+Infantino said he has spoken with US President Donald Trump about ensuring Iran's delegation would be welcomed, though Trump said earlier this month he did not think it would be "appropriate" for Iran to take part "for their own life and safety." Iran face sanctions, including fines and possible bans from future FIFA tournaments, if they withdraw.
+goal
+
+Despite the diplomatic impasse, Iran's team has continued preparing. Infantino, who attended Tuesday's friendly unannounced, said he had met with the players and coaching staff. "Everything is fine," he said.
+hindustantimes
+
+All 48 World Cup teams confirmed after playoff drama
+Iraq's qualification was among the tournament's most compelling storylines. The team traveled to Mexico by private plane amid regional conflict, with coach Graham Arnold having called for the match to be postponed due to the escalating situation in the Middle East, according to the BBC. Their victory ensures that Group I, which also features Kylian Mbappé's France and Erling Haaland's Norway,...
+Iraq and Bolivia meet for final 2026 World Cup spot
+The match is a single-leg knockout tie — if scores are level after 90 minutes, 30 minutes of extra time will follow, with a penalty shootout as a last resort. Iraq midfielder Merchas Doski captured the weight of the occasion in remarks published by FIFA: "Qualification would change a lot. The country has been through so many things during those years, and you can see the excitement of the people...
+Amnesty warns 2026 World Cup risks becoming 'stage for repression'
+Amnesty called on FIFA and host governments to guarantee freedom of expression and peaceful assembly at and around World Cup venues, exclude ICE from enforcement operations near stadiums, lift travel bans on fans from participating nations, and publish transparent human rights strategies for all host cities. A coalition including the ACLU, Human Rights Watch, and Reporters Without Borders issued...
+Iran holds locked-down World Cup training camp in Turkey amid war tensions
+FIFA has so far rejected the request. In a statement to ESPN, the governing body said it is "in regular contact with all participating member associations" but signaled no changes to the match schedule released in December 2025. Moving group-stage matches at this late stage would be unprecedented and could disrupt broadcasting agreements, ticket sales, and tournament logistics. Should Iran's...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: hindustantimes
+Iran's World Cup venue shift plea rejected as FIFA chief Gianni ...
+**Link:** https://www.hindustantimes.com/sports/football/irans-world-cup-venue-shift-plea-rejected-as-fifa-chief-gianni-infantino-stands-firm-on-us-schedule-101774967430622.html
+> Subscribe Now! Get features like
+
+FIFA
+has rejected Iran’s request to shift its
+World Cup
+venues, with president Gianni Infantino confirming that the matches will go ahead in the United States as originally scheduled.
+
+"The matches will be played where they are supposed to be, according to the draw," Infantino said at half-time of Iran's friendly against Costa Rica in Turkey.
+
+Iran are scheduled to play all three of their Group G matches in the United States. Their campaign begins against New Zealand in Los Angeles on June 15, followed by a clash with Belgium at the same venue on June 21, before they face Egypt in Seattle on June 27.
+
+ALSO READ:
+FIFA World Cup 2026 playoffs: Final 6 spots to be decided today, Italy lead teams at risk of missing out
+
+The request to move venues came amid escalating tensions between the Islamic Republic and the United States since late February. The Football Federation of the Islamic Republic of Iran had urged FIFA to shift the matches to Mexico, a co-host of the tournament alongside Canada.
+
+The move was further triggered by comments from U.S. President Donald Trump, who said Iranian players would be allowed to compete in the United States but raised concerns about whether it would be appropriate for their “life and safety.” Although Trump later clarified that players would not be barred from entry, Iran’s football chief Mehdi Taj cited the remarks while pushing for a venue switch.
+
+Mexico’s President Claudia Sheinbaum also indicated that her country would be open to hosting Iran’s matches, adding weight to the request.
+
+However, Infantino ruled out any late changes.
+
+"Iran will be at the World Cup," he added. "That's why we're here. We're delighted because they're a very, very strong team. I'm very happy. I've seen the team, I've spoken to the players and the coach, so everything is fine."
+
+Last Friday, Iran played a friendly against Nigeria in the Turkish town of Belek. The players wore black armbands and posed with school rucksacks during the national anthem to honour victims of a strike on a primary school in Iran on the first day of the Middle East conflict.
+
+The airstrike, which took place on February 28 in the southern city of Minab, reportedly killed at least 170 people, including students and teachers.
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:40:18
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/caster-semenya-plans-class-act-eAbaFCHiTjW_iTX0LJufKQ
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Caster Semenya plans class action suit over IOC trans ban
+
+The International Olympic Committee announced last Thursday that transgender women and most intersex athletes will be barred from competing in women's events at the Olympics, introducing mandatory genetic screening that marks the most sweeping eligibility change in decades. The policy, effective from the 2028 Los Angeles Games onward, limits participation in all female category events to "biological females," determined by a one-time SRY gene test.
+ESPN
+
+aljazeera
+France calls IOC sex testing a 'step backwards' while Trump praises ...
+africa.espn
+Transgender women banned from Olympics by new IOC policy
+olympics
+International Olympic Committee announces new Policy on the ...
+youtube
+New International Olympic Committee policy bans transgender ...
+news.sky.com
+A Reversal Years in the Making
+
+The IOC had long declined to set a universal rule on transgender participation, instead leaving eligibility decisions to individual sports federations. Under the new framework, athletes must undergo screening for the SRY gene, a DNA segment found on the Y chromosome that triggers male sex development. Testing can be done via saliva, cheek swab, or blood sample, and a negative result permanently satisfies the eligibility requirement. Athletes who test positive are disqualified from women's events, with narrow exceptions for those diagnosed with complete androgen insensitivity syndrome.
+olympics
+
+IOC President Kirsty Coventry, the first woman to lead the organization, said the policy was "led by medical experts" and described it as protecting "fairness, safety and integrity in the female category". The 10-page policy document also restricts female athletes with differences in sex development, such as two-time Olympic 800-meter champion Caster Semenya. The IOC noted the policy "is not retroactive and does not apply to any grassroots or recreational sports programs".
+ESPN
+youtube
+espn
+
+Backlash and Support
+
+The decision has drawn sharp criticism. France's sports minister Marina Ferrari called it a "step backwards," saying her government was "greatly concerned" about the broad application of genetic testing, which she said raises "ethical, legal, and medical issues". A coalition of more than 100 human rights organizations warned the testing could inflict "significant harm" on affected athletes and called it an "imprecise measure of both sex and athletic advantage".
+aljazeera
+
+Semenya, speaking on Sunday, expressed disappointment with Coventry and announced she is mounting a class action lawsuit against the IOC. Legal experts have pointed to likely challenges at the Court of Arbitration for Sport and potentially the European Court of Human Rights.
+thecanary
+
+Political Dimensions
+
+Veteran sportscaster Bob Costas voiced support for the ban, saying "common sense is not transphobic" and arguing that allowing biological males to compete in women's events would undermine fair competition. The policy aligns with a February 2025 executive order from President Donald Trump prohibiting transgender athletes from girls' and women's sports, a connection multiple outlets noted ahead of the LA Games being held on American soil. Before the 2024 Paris Olympics, track and field, swimming, and cycling had already adopted similar restrictions, but the IOC's decision now extends them across all Olympic disciplines.
+cnn
+
+Nakamura slams FIDE's anti-cheating protocols at Candidates
+Concerns over cheating in chess have lingered since 2022, when former world champion Magnus Carlsen suggested that Hans Niemann may have cheated during the Sinquefield Cup. Niemann admitted to cheating in online games as a teenager but denied doing so over the board. A $100 million defamation lawsuit he filed against Carlsen, Chess.com, and Nakamura was dismissed in June 2023. A Netflix...
+Ukraine asks IOC to reexamine Russian athletes' neutral status
+Separately, Ukrainian skeleton pilot Vladyslav Heraskevych, who was barred from competing at the Milano Cortina Games in February for refusing to remove a helmet bearing images of Ukrainian athletes killed in Russia's invasion, said he intends to take his case to a human rights court. Speaking on The Ariel Helwani Show on Tuesday, Heraskevych described the Court of Arbitration for Sport...
+Amnesty warns 2026 World Cup risks becoming 'stage for repression'
+Amnesty called on FIFA and host governments to guarantee freedom of expression and peaceful assembly at and around World Cup venues, exclude ICE from enforcement operations near stadiums, lift travel bans on fans from participating nations, and publish transparent human rights strategies for all host cities. A coalition including the ACLU, Human Rights Watch, and Reporters Without Borders issued...
+Tanzanian marathoner banned 10 years after four positive steroid tests
+The ban, which runs from September 17, 2025, through 2035, effectively ends Sakilu's competitive career. The breakdown of the penalty consists of four years for presence and use of a prohibited substance, four years for a second violation, and two additional years for aggravating circumstances. The case adds to a growing list of distance runners sanctioned for steroid use in recent years, with...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: aljazeera
+France calls IOC sex testing a 'step backwards' while Trump praises ...
+**Link:** https://www.aljazeera.com/amp/sports/2026/3/27/france-calls-ioc-sex-testing-a-step-backwards-while-trump-praises-move
+> Lin and Algerian boxer Imane Khelif were embroiled in a dispute over biological sex at the 2024 Paris Olympics.
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:40:47
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/norris-verstappen-blast-f1-pow-W8kZhUdER6Gdq94U0zaNlA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Norris, Verstappen blast F1 power unit rules after Suzuka
+
+Reigning world champion Lando Norris and four-time champion Max Verstappen continued their vocal criticism of Formula 1's 2026 power unit regulations following Sunday's Japanese Grand Prix at Suzuka, with Norris declaring that driver complaints are unlikely to prompt meaningful changes. Norris finished fifth and Verstappen eighth as Mercedes' Kimi Antonelli won his second consecutive race.
+sportingnews
+
+autosport
+'At the mercy of the power unit' – Norris and Verstappen's F1 2026 complaints continue
+planetf1
+Lando Norris Suzuka criticism: 2026 F1 power unit 'hurts the soul ...
+autosport
+Verstappen doubles down on criticism of F1 2026 regulations
+youtube
+Max Verstappen beyond being frustrated + Japanese Grand Prix ...
+espn.com
+'This Is Not Racing'
+
+Norris was blunt in his post-race assessment, describing the uncontrollable energy deployment as fundamentally contrary to racing. "Honestly some of the racing, I didn't even want to overtake Lewis. It's just that my battery deploys, I don't want it to deploy, but I can't control it," Norris told Autosport. "So, I overtake him, and then I have no battery left, so he just flies past. This is not racing, this is yo-yoing."
+Autosport
+
+The McLaren driver said drivers are powerless behind the wheel when the power unit dictates their pace. "When you're just at the mercy of whatever the power unit delivers, the driver should be in control of it at least, and we're not," he said. Norris also lamented the feel of Suzuka under the new rules, saying it "hurts the soul" to watch speeds bleed away through the circuit's famous high-speed corners.
+planetf1
+
+Verstappen, who qualified only 11th and has yet to score a podium in 2026, has been the most persistent critic of the regulations since pre-season testing, when he labelled the new cars "Formula E on steroids". At Suzuka, he said he was "beyond frustrated" with the state of the sport.
+autosport
+youtube
+
+Safety Fears Escalate After Bearman Crash
+
+The debate intensified after Haas driver Oliver Bearman suffered a 50G crash at Spoon corner during the race, caused by the dramatic speed difference between his car and Franco Colapinto's energy-harvesting Alpine ahead of him. Grand Prix Drivers' Association director Carlos Sainz was furious, telling Sky Sports F1 that drivers had warned the FIA this would happen. "Imagine going to Baku or Singapore or Vegas and having these kind of closing speeds next to the walls," Sainz said.
+gpfans
+
+The FIA responded with a statement confirming that "a number of meetings are scheduled in April to assess the operation of the new regulations and to determine whether any refinements are required" before the Miami Grand Prix. Despite this, Norris expressed skepticism that drivers' voices would lead to real change, saying "it doesn't matter what we say".
+gpfans
+
+A Divided Paddock
+
+Not everyone shares Norris and Verstappen's frustration. Lewis Hamilton, who finished sixth for Ferrari, has defended the new rules, describing the increase in overtaking as "real racing". F1 CEO Stefano Domenicali also pushed back against driver criticism before the season, saying "it's wrong to talk bad about an incredible world that is allowing all of us to grow". With a month-long break now before Miami, all eyes will be on whether the FIA's April review produces changes or merely words.
+sports.yahoo
+
+Brundle urges FIA action after Norris says car overtook Hamilton on its own
+The debate has been sharpened by Oliver Bearman's 50G crash at Spoon during the same race, when the Haas driver closed rapidly on Franco Colapinto's Alpine due to dramatic speed differentials created by the energy management systems. The FIA acknowledged the issue in a post-race statement, confirming that meetings will take place in April to evaluate the regulations, with a session between team...
+Mercedes, Ferrari to block F1 2026 rule changes
+Aston Martin ambassador Pedro de la Rosa captured the tension within the paddock, telling Cadena SER: "I hear Fernando and Lance when they get out of the car, and I think, 'Poor guys, they're not enjoying themselves.' And that makes me sad". Whether the London meeting on April 9 produces meaningful compromises or merely cosmetic tweaks may determine not just Verstappen's future but how F1's new...
+Hamilton says F1 drivers 'have no voting rights' in FIA rule talks
+The FIA issued a statement acknowledging the "contribution of high closing speeds" in Bearman's crash but cautioned that "any speculation regarding the nature of potential changes would be premature". A key meeting is now scheduled for April 9, with further discussions planned during an enforced five-week break before the Miami Grand Prix in May — created by the cancellation of the Bahrain and...
+Norris sits sixth in standings as McLaren stumble through F1's new era
+The 2026 regulations have reshaped the competitive order, with Mercedes winning all three races so far. Norris has been candid about the scale of McLaren's task, calling the new cars "probably the worst" he has driven and admitting the energy management systems demand an entirely counterintuitive driving style. McLaren also face a likely FIA penalty after battery issues in China forced them to...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: autosport
+'At the mercy of the power unit' – Norris and Verstappen's F1 2026 complaints continue
+**Link:** https://www.autosport.com/f1/news/at-the-mercy-of-the-power-unit-lando-norris-and-max-verstappens-f1-2026-complaints-continue/10809501/
+> At Suzuka, the yo-yo effect was slightly less extreme than during the season opener in Melbourne, although the overall picture still did not satisfy all of the drivers. Lando Norris ultimately crossed the line in fifth place and saw that – together with Oscar Piastri’s strong showing – as a sign that McLaren is making significant progress.
+
+The racing as a whole, however, left the reigning world champion far from satisfied.
+
+“Honestly some of the racing, I didn't even want to overtake Lewis. It's just that my battery deploys, I don't want it to deploy, but I can't control it,” Norris said when asked by Autosport.
+
+“So, I overtake him, and then I have no battery left, so he just flies past. This is not racing, this is yo-yoing. Even though he [Hamilton] says it's not, it is yo-yoing.”
+
+The fact that overtakes no longer have much value is one factor for Norris, but the McLaren driver finds it even more frustrating that he sometimes feels powerless behind the wheel.
+
+“When you're just at the mercy of whatever the power unit delivers, the driver should be in control of it at least, and we're not.”
+
+According to Norris, this problem mainly occurs when a driver uses overtake mode, so when they are within one second of the car ahead. It led to a moment when Norris overtook Hamilton in the final chicane, after which he was immediately countered again on the main straight.
+
+“Well, the problem is, it deploys into 130R. I have to lift, otherwise I'll drive into him, and then I'm not allowed to go back on throttle. If I go on throttle, my battery deploys, and I don't want it to deploy because it should have cut. But because you lift and you have to go back on [throttle], it redeploys.”
+
+Lando Norris has been frank in his assessment of the 2026 rules
+
+Photo by: Simon Galloway / LAT Images via Getty Images
+
+This meant that the battery drained again and Norris had no energy left at the end of the start-finish straight to defend against the Ferrari driver.
+
+“There's nothing I can do about it. There's just not enough control for a driver, and that's why you're just too much at the mercy of what's behind you. That's just not how it should be.”
+
+Max Verstappen shares that view. According to the Dutchman, the Suzuka layout once again exposed how difficult it is for drivers to time an overtake in such a way that they are not immediately vulnerable to a counterattack with an empty battery.
+
+“In general, you just have to be very careful with how you use your battery. It's a bit tricky,” Verstappen said. “The problem is of course that you have a long straight and then only a little chicane and then a long straight again.”
+
+The Red Bull driver is referring to the long straight before 130R. Drivers can then only recharge the battery in the Casio Triangle and through super clipping in 130R, which also explains why the speeds there dropped so dramatically.
+
+“So, if you deploy in one straight you have nothing on the other. On some other tracks if you have a long straight and then you have maybe a few corners and you have time to charge, here you don't,” Verstappen explained.
+
+“That's basically in a lot of places where you want to go for an overtake, then there's only one corner to charge and then a long straight again. So that makes it basically impossible to use the battery because it's completely inefficient to do that.”
+
+It means that drivers can no longer overtake in places where they normally would, which is why the overall picture at Suzuka certainly does not leave Norris satisfied.
+
+“So yeah, some things can be improved, but the FIA know that, I hope they do it. Yes, the racing can look great on TV, but the racing inside the car is certainly not as authentic as it needs to be.”
+
+Let us know what you would like to see from us in the future.
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:41:37
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/hamilton-says-f1-drivers-have-8.LXPfq6Qra.LBL2W.o6Qw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Hamilton says F1 drivers 'have no voting rights' in FIA rule talks
+
+Lewis Hamilton declared that Formula 1 drivers "have no voting rights" and are being sidelined by the FIA as it navigates growing criticism of the sport's 2026 power unit regulations, following a dangerous crash at Sunday's Japanese Grand Prix that drivers say was a direct product of the new rules.
+reddit
+
+planetf1
+FIA responds after Bearman crash with clear plan to review 2026 rules
+the-race
+FIA's response to 'contribution of closing speeds' in Bearman crash
+reddit
+Lewis Hamilton: F1 drivers “have no voting rights” as FIA ... - Reddit
+
+planetf1.com
+Bearman Crash Sparks Safety Alarm
+
+Haas driver Ollie Bearman suffered a 50G impact with the barriers at Suzuka's Spoon Curve on lap 22 after encountering a dramatic speed differential behind Alpine's Franco Colapinto, who was in an energy-harvesting phase. The closing speed — estimated at 35km/h or more — caught Bearman off guard as he approached in full deployment mode. The 20-year-old lost control on the grass while taking evasive action before slamming into the barriers at high speed. He limped away from the wreckage and was taken to the medical centre, where X-rays confirmed no fractures but revealed a right knee contusion.
+motorsport
+
+"We've, as a group, warned the FIA what can happen," Bearman said after the race. "This has been a really unfortunate result of a massive delta speed that we've never seen before in Formula 1 until these new regulations."
+planetf1
+
+Drivers Challenge FIA and Teams
+
+Hamilton, who finished sixth in the race, said he does not expect much from upcoming talks between the FIA, teams and manufacturers, warning there are "too many chefs in the kitchen" for meaningful reform. According to Crash.net, the seven-time world champion went further, stating that drivers "have no voting rights" and that the FIA is "only listening to teams".
+x
+
+Williams driver Carlos Sainz, who also serves as a GPDA director, echoed those concerns. "I hope it serves as an example, and the teams listen to the drivers, and not so much to the teams and some people who said the racing was okay, because the racing is not okay," Sainz said. He warned that the speed differentials seen at Suzuka could prove far more dangerous at upcoming street circuits. "Imagine going to Baku, or going to Singapore, or going to Vegas, and having these kinds of closing speeds and crashes next to the walls," he added.
+planetf1
+
+McLaren team principal Andrea Stella, who first raised safety concerns about closing speeds during pre-season testing, said after Sunday's race: "We don't want to wait for things to happen to put actions in place. Something happened."
+the-race
+
+FIA Schedules April Review
+
+The FIA issued a statement acknowledging the "contribution of high closing speeds" in Bearman's crash but cautioned that "any speculation regarding the nature of potential changes would be premature". A key meeting is now scheduled for April 9, with further discussions planned during an enforced five-week break before the Miami Grand Prix in May — created by the cancellation of the Bahrain and Saudi Arabian rounds due to the conflict in the Gulf.
+crash
+
+Any changes for the current season require unanimous approval from the F1 Commission, and drivers remain skeptical. "I'm a bit worried the teams will push back," Sainz said. "Some teams will be against changing it too much because they have other interests."
+planetf1
+
+Brundle urges FIA action after Norris says car overtook Hamilton on its own
+The debate has been sharpened by Oliver Bearman's 50G crash at Spoon during the same race, when the Haas driver closed rapidly on Franco Colapinto's Alpine due to dramatic speed differentials created by the energy management systems. The FIA acknowledged the issue in a post-race statement, confirming that meetings will take place in April to evaluate the regulations, with a session between team...
+Mercedes, Ferrari to block F1 2026 rule changes
+Aston Martin ambassador Pedro de la Rosa captured the tension within the paddock, telling Cadena SER: "I hear Fernando and Lance when they get out of the car, and I think, 'Poor guys, they're not enjoying themselves.' And that makes me sad". Whether the London meeting on April 9 produces meaningful compromises or merely cosmetic tweaks may determine not just Verstappen's future but how F1's new...
+Norris, Verstappen blast F1 power unit rules after Suzuka
+Not everyone shares Norris and Verstappen's frustration. Lewis Hamilton, who finished sixth for Ferrari, has defended the new rules, describing the increase in overtaking as "real racing". F1 CEO Stefano Domenicali also pushed back against driver criticism before the season, saying "it's wrong to talk bad about an incredible world that is allowing all of us to grow". With a month-long break now...
+Bearman avoids fractures after 50G crash at Suzuka
+Carlos Sainz led the post-race criticism, accusing the FIA of ignoring driver warnings about dangerous closing speeds created by the 2026 power unit regulations. "We, as the GPDA, have warned the FIA these accidents are going to happen a lot with this set of regulations," Sainz told ESPN. "Here we were lucky there was an escape road. Now imagine going to Baku or going to Singapore or going to...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: the-race
+FIA's response to 'contribution of closing speeds' in Bearman crash
+**Link:** https://www.the-race.com/formula-1/fia-response-to-contribution-of-closing-speeds-in-bearman-crash/
+> The FIA has acknowledged the “contribution of high closing speeds” between cars in Ollie Bearman’s Japanese Grand Prix crash but warned speculation regarding potential changes to assist with this would be “premature”.
+
+Bearman suffered a 50G impact with the barriers at Spoon in the opening stint of the Suzuka race after a 35km/h speed different behind Franco Colapinto on the approach to the corner caught him out.
+
+The Haas driver jinked left in avoidance, lost control over the grass and bruised his knee in the ensuing accident.
+
+It sparked concerned comments from various drivers who had previously warned that the varying battery levels and electric power deployment states of the cars in the 2026 rules increased the possibility of a big crash due to high closing speeds.
+
+The FIA has acknowledged this played a part in the shunt but issued a statement to provide “clarifications”.
+
+Discussions about the rules have been ongoing for weeks now between the FIA, F1 itself, the teams, manufacturers and drivers about how to improve problem areas within the rules.
+
+The FIA says there are “a number of adjustable parameters, particularly in relation to energy management, which allow for optimisation based on real-world data” with a review planned early in the season to discuss how to act on this.
+
+A meeting first planned for after round two in China will now take place on April 9 - the FIA says “a number of meetings” are scheduled “to assess the operation of the new regulations and to determine whether any refinements are required”.
+
+“Any potential adjustments, particularly those related to energy management, require careful simulation and detailed analysis,” the FIA said.
+
+“The FIA will continue to work in close and constructive collaboration with all stakeholders to ensure the best possible outcome for the sport and safety will always remain a core element of the FIA’s mission.
+
+“At this stage, any speculation regarding the nature of potential changes would be premature.”
+
+Colapinto said he was a “sitting duck” in the incident and called for a review of the closing speeds in the new cars.
+
+One of the earliest proponents for changes on safety grounds was McLaren’s Andrea Stella, who raised the issue of closing speeds in pre-season testing.
+
+On Sunday in Japan he said: “It's not a surprise. We said that already in testing. It is in the agenda of the FIA in terms of the aspects of this 2026 regulations that should be improved.
+
+“We don't want to wait for things to happen to put actions in place so something happened.
+
+“Oliver, luckily, it seemed like he got out of it with just some bruises, but nothing too major.
+
+“We have a responsibility to put in place the actions that, especially from a safety point of view should be implemented.”
+# 📂 CATEGORÍA: Sports
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:42:26
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/sports/semenya-calls-ioc-transgender-lte0nwTtTRarA9amC2QPtA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Semenya calls IOC transgender ban 'a lie,' rips Coventry
+
+The International Olympic Committee on Thursday announced a sweeping new policy barring transgender women from competing in women's events at the Olympics and all IOC-sanctioned competitions, effective from the 2028 Los Angeles Games. The decision, which also restricts athletes with differences in sex development, drew sharp criticism from two-time Olympic 800-meter champion Caster Semenya, who on Sunday called the ruling "a lie" and expressed deep disappointment with IOC President Kirsty Coventry.
+
+espn.com
+Transgender women banned from Olympics by new IOC policy - ESPN
+wfmd
+IOC announces new policy to ensure only females compete in women’s competitions
+olympics
+International Olympic Committee announces new Policy on the ...
+essentiallysports
+Caster Semenya Harshly Slams IOC Chief Over Transgender Policy
+citizen.co.za
+A New Era of Genetic Testing
+
+Under the policy, titled "Protection of the Female (Women's) Category in Olympic Sport," eligibility for any female-category event will be determined by a one-time screening for the SRY gene, found on the Y chromosome. Athletes who test positive for the gene will be barred from women's events but may compete in male, mixed, or open categories. The test can be administered via saliva, cheek swab, or blood sample.
+ESPN
+
+"Eligibility for any female category event at the Olympic Games or any other IOC event, including individual and team sports, is now limited to biological females," the IOC stated in its 10-page policy document. Coventry, who was elected as the first female IOC president in June 2025, defended the decision, saying in a video statement that "it would not be fair for biological males to compete in the female category" and that the policy was "based on science and has been led by medical experts".
+essentiallysports
+
+The policy also affects athletes with differences in sex development who test SRY-positive, with narrow exceptions for conditions such as complete androgen insensitivity syndrome. The IOC said the rules are not retroactive and do not apply to grassroots or recreational sports.
+olympics
+
+Semenya Fires Back
+
+Speaking at a press conference in Cape Town on Sunday, Semenya directed her frustration squarely at Coventry, a fellow African and former Olympic swimmer from Zimbabwe. "For her being a woman coming from Africa, knowing how African women or women in the global South are affected by that, of course, it causes harm," Semenya told reporters, according to the Associated Press.
+bastillepost
+
+Semenya, who was assigned female at birth but has naturally elevated testosterone levels, has been barred from her specialist 800-meter event since 2019 after refusing to take medication to lower her hormone levels. She dismissed the IOC's scientific justification outright: "If the science is clear, show us who decided and don't dress that as a lie because it's a lie". In an exclusive Sky News interview, she called the policy "nonsense" and urged women athletes to mount a class-action challenge.
+news.sky
+
+Reaction From All Sides
+
+American middle-distance runner Nikki Hiltz, who is transgender and nonbinary and competed at the 2024 Paris Olympics, wrote on Instagram that the policy "is so f---ing stupid and not solving a problem that exists," noting that no transgender women competed in Paris. France's Sports Minister Marina Ferrari called the return to genetic testing "a step backwards" that raises "ethical, legal, and medical questions".
+sports.yahoo
+
+The White House, meanwhile, celebrated the decision. Press Secretary Karoline Leavitt credited President Donald Trump's executive order on women's sports, writing on X: "President Trump's Executive Order protecting women's sports made this happen!" The IOC made no reference to the U.S. president in its announcement.
+time
+
+Nakamura slams FIDE's anti-cheating protocols at Candidates
+Concerns over cheating in chess have lingered since 2022, when former world champion Magnus Carlsen suggested that Hans Niemann may have cheated during the Sinquefield Cup. Niemann admitted to cheating in online games as a teenager but denied doing so over the board. A $100 million defamation lawsuit he filed against Carlsen, Chess.com, and Nakamura was dismissed in June 2023. A Netflix...
+Ukraine asks IOC to reexamine Russian athletes' neutral status
+Separately, Ukrainian skeleton pilot Vladyslav Heraskevych, who was barred from competing at the Milano Cortina Games in February for refusing to remove a helmet bearing images of Ukrainian athletes killed in Russia's invasion, said he intends to take his case to a human rights court. Speaking on The Ariel Helwani Show on Tuesday, Heraskevych described the Court of Arbitration for Sport...
+Amnesty warns 2026 World Cup risks becoming 'stage for repression'
+Amnesty called on FIFA and host governments to guarantee freedom of expression and peaceful assembly at and around World Cup venues, exclude ICE from enforcement operations near stadiums, lift travel bans on fans from participating nations, and publish transparent human rights strategies for all host cities. A coalition including the ACLU, Human Rights Watch, and Reporters Without Borders issued...
+Tanzanian marathoner banned 10 years after four positive steroid tests
+The ban, which runs from September 17, 2025, through 2035, effectively ends Sakilu's competitive career. The breakdown of the penalty consists of four years for presence and use of a prohibited substance, four years for a second violation, and two additional years for aggravating circumstances. The case adds to a growing list of distance runners sanctioned for steroid use in recent years, with...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: wfmd
+IOC announces new policy to ensure only females compete in women’s competitions
+**Link:** https://www.wfmd.com/2026/03/26/ioc-announces-new-policy-to-ensure-only-females-compete-in-womens-competitions/
+> The International Olympic Committee (IOC) announced Thursday that it is adopting a new policy that will ensure only biological females compete in women’s competitions.
+
+The new policy also employs genetic testing to verify the biological sex of competitors in the women’s section.
+
+CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM
+
+“Eligibility for any female category event at the Olympic Games or any other IOC event, including individual and team sports, is now limited to biological females, determined on the basis of a one‑time SRY gene screening,” the new policy states.
+
+“Evidence‑based and expert‑informed, the policy – applicable for the LA28 Olympic Games onwards – protects fairness, safety and integrity in the female category.”
+
+The testing can be conducted via saliva, cheek swab or blood sample.
+
+The IOC said it came to the decision to implement the policy after consulting with a panel of experts, with the goal of providing equal opportunity for women in sport.
+
+“The policy was developed on the basis that it is universally accepted that providing for a female category is necessary to allow both males and females equal access to elite sport,” the IOC said in an announcement.
+
+“It was guided by the IOC’s modern goals relating to equality (equal opportunities for female athletes in finals, on podiums and in championships); enhancing Olympic value (featuring both women’s and men’s finals in every sport); and visibility and inspiration (celebrating female athletes on the Olympic podium to inspire and represent women and girls worldwide).”
+
+WOMEN’S SPORTS ACTIVISTS REACT AS BOXER IMANE KHELIF MAKES CONFESSION ABOUT BIOLOGICAL SEX
+
+White House press secretary Karoline Leavitt reacted to the IOC’s decision.
+
+“You cannot change your sex,” she said in a statement to Fox News Digital “President Trump’s Executive Order protecting women’s sports made this happen!”
+
+IOC President Kristy Coventry suggested that the continued enabling of males in women’s sports is “not safe” in the announcement.
+
+“As a former athlete, I passionately believe in the rights of all Olympians to take part in fair competition. The policy that we have announced is based on science and has been led by medical experts. At the Olympic Games, even the smallest margins can be the difference between victory and defeat,” Coventry said.
+
+“So, it is absolutely clear that it would not be fair for biological males to compete in the female category. In addition, in some sports it would simply not be safe.”
+
+A presentation at a World Athletics panel in Tokyo in September revealed that 50 to 60 athletes with male biological advantages have been finalists in the female category at global and continental championships since 2000.
+
+The panel was led by the head of the World Athletics Health and Science Department, Dr. Stéphane Bermon, who said sex tests were necessary because of an “over-representation” of DSD (differences of sex development) athletes among finalists, per multiple reports.
+
+Last October, the United Nations said nearly 900 biological females have fallen short of the podium because they were beaten by trans athletes.
+
+The findings were compiled by Reem Alsalem, the U.N.’s rapporteur on violence against women and titled “Violence against women and girls in sports.”
+
+The report said that more than 600 athletes did not medal in more than 400 competitions in 29 sports, totaling over 890 medals, according to information obtained as of March 30.
+
+Follow Fox News Digital’s sports coverage on X, and subscribe to the Fox News Sports Huddle newsletter.
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:42:58
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/super-mario-galaxy-movie-sets-vCk6yezpQmKv6xXD.0q5Rg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Super Mario Galaxy Movie sets 2026 box office record on opening day
+
+As The Super Mario Galaxy Movie smashes box office records in its opening days, Charlie Day is already looking ahead to what could come next for Nintendo's expanding film universe — and he wants Luigi to go ghost hunting.
+
+screenrant
+Charlie Day Addresses Luigi's Mansion Adaptation After Super ...
+ign
+The Super Mario Galaxy Movie Opening Breaks Box Office Records Despite Mixed Critical Response
+deadline
+Box Office: 'Super Mario Galaxy Movie' Opening to $34M First Day, Best Ever April
+
+ign.com
+Day Pitches a Spookier Spinoff
+
+In an exclusive interview with Screen Rant published ahead of the Galaxy Movie's release, Day addressed long-standing fan speculation about a Luigi's Mansion adaptation. His response left little ambiguity about where he stands.
+screenrant
+
+"I would be thrilled to do Luigi's Mansion, just because it's such a fun game," Day said. "And not that you would make it like a horror movie for kids, but it could have some more sort of jump scares in it, which would be fun."
+screenrant
+
+Co-star Keegan-Michael Key chimed in — "Everybody loves a jump scare" — while Anya Taylor-Joy, who voices Princess Peach, offered her support for Day leading a spinoff. Day acknowledged the idea's appeal but tempered expectations: "It does seem like it would make a great movie, but I am not... They don't put me in charge of movie studios and for good reason. I got no idea." He added: "But if they do it, I'm in."
+screenrant
+
+Box Office Momentum Fuels Speculation
+
+Day's comments arrive at a moment when the commercial case for more Nintendo films has never been stronger. The Super Mario Galaxy Movie earned $34 million on its opening day Wednesday, according to Deadline, claiming the best opening day of any film released in 2026 and the best Wednesday opening in April — surpassing The Super Mario Bros. Movie's $31.7 million opening Wednesday in 2023. Forecasts project the sequel could reach $350 million worldwide across the five-day Easter weekend.
+ign
+
+The 2023 original grossed more than $1.36 billion globally, cementing the partnership between Illumination and Nintendo as one of the most lucrative in animated filmmaking.
+darkhorizons
+
+No Official Green Light Yet
+
+Neither Nintendo nor Illumination has announced a Luigi's Mansion film. But the franchise's ghost-hunting premise — following the famously anxious Luigi as he explores haunted mansions armed with his Poltergust vacuum — offers a tonal departure that could distinguish it from the mainline Mario adventures. Rumors of a Luigi-focused spinoff have circulated for years, with reports as early as 2023 pointing to possible development of a side project.
+ign
+
+For now, Day's enthusiasm and the Galaxy Movie's early returns have only amplified the conversation. "If they do it, I'm in," he said — and judging by the box office, the audience might be, too.
+screenrant
+
+Miyamoto says Nintendo can't reach enough players through consoles alone
+The pivot to entertainment comes as Nintendo faces rising hardware costs. Bloomberg reported in February that the company is considering a price increase for the Switch 2, which launched at $449.99, due to a global DRAM shortage driven by surging demand for AI infrastructure. Nintendo president Shuntaro Furukawa has not ruled out a price adjustment, saying only that market conditions remain...
+Super Mario Galaxy Movie opens with scenes teasing Nintendo spinoffs
+Early reviews paint a familiar picture. The film holds a 44% score on Rotten Tomatoes from 66 reviews, down from the first film's 59%. ScreenCrush's review, titled "Lots of Characters, No Stars," gave the film a 4 out of 10, arguing it "seems like it was designed so that the less attention you pay to what's going on, the more you'll enjoy it". Rotten Tomatoes' critical consensus describes the...
+Jack Black hints third Super Mario movie is coming in 2029
+The original Super Mario Bros. Movie earned more than $1.3 billion worldwide, making it the highest-grossing video game adaptation of all time. The Super Mario Galaxy Movie, which premiered in Kyoto on March 28, is projected to bank around $350 million globally in its opening stretch, according to Deadline. Whether that performance greenlit what Black hinted at — or whether the actor was simply...
+How Nintendo built a billion-dollar movie franchise from a 1993 flop
+The Super Mario Galaxy Movie, the franchise's second installment, arrives with a cast that includes Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Brie Larson as Rosalina, and Donald Glover as Yoshi. Nintendo confirmed last week that Star Fox hero Fox McCloud will appear in the film, fueling speculation about further franchise expansions. A Donkey Kong spinoff led by Seth Rogen is...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: screenrant
+Charlie Day Addresses Luigi's Mansion Adaptation After Super ...
+**Link:** https://screenrant.com/super-mario-movies-luigis-mansion-adaptation-potential-charlie-day-response/
+> Charlie Day has responded to the possibility of a Luigi's Mansion adaptation following The Super Mario Galaxy Movie.
+
+After the massive success of The Super Mario Bros. Movie, Nintendo and Illumination are expanding the animated Mario universe with The Super Mario Galaxy Movie. The sequel builds on the original film's momentum by introducing a larger, more cosmic-scale adventure, opening the door to exploring different corners of the game franchise.
+
+In an interview with ScreenRant's Ash Crossan for The Super Mario Galaxy Movie, Day addressed the possibility of a Luigi's Mansion adaptation. When asked about the idea, Day discussed the long-standing fan speculation about the film alongside co-stars Anya Taylor-Joy and Keegan-Michael Key, saying that he "would be thrilled to do Luigi's Mansion."
+
+Read their full comments below:
+
+Charlie Day: Oh? First time hearing. I would be thrilled to do Luigi's Mansion, just because it's such a fun game. And not that you would make it like a horror movie for kids, but it could have some more sort of jump scares in it, which would be fun.
+
+Keegan-Michael Key: Everybody loves a jump scare.
+
+Anya Taylor-Joy: Especially three-year-olds.
+
+Charlie Day: It does seem like it would make a great movie, but I am not... They don't put me in charge of movie studios and for good reason. I got no idea.
+
+Anya Taylor-Joy: I'd support you.
+
+Charlie Day: Thank you. I wouldn't want the job, personally. Don't give me that. Yeah, it'd be a lot of pressure. But if they do it, I'm in.
+
+2023's The Super Mario Bros. Movie became a global phenomenon, starring Chris Pratt as Mario, Taylor-Joy as Princess Peach, Day as Luigi, and Jack Black as Bowser. The film was a massive box office success, earning more than $1.36 billion worldwide and cementing Nintendo and Illumination's partnership as a major force in theatrical animation, suggesting that more films based on the iconic game franchise could be on the horizon.
+
+The audience's continued interest in Luigi's Mansion as an adaptation comes down to how easily it fits into the expanding Mario movie universe. While Mario's stories tend to be bright, large-scale adventures, Luigi's Mansion offers something a lot more contained, following Luigi as he explores haunted mansions and captures ghosts with his Poltergust.
+
+That smaller, spookier setup would give the franchise a chance to switch things up tonally while still feeling connected to the same world audiences already love. A Luigi's Mansion movie would also give Luigi the chance to take center stage. Often portrayed as the more anxious and reluctant counterpart to Mario, Luigi's character arc often revolves around overcoming fear, which makes him an ideal protagonist for a story set in a haunted environment.
+
+Demand for a Luigi-focused story has only grown as the animated franchise continues to develop. Audiences have responded positively to his personality and Day's performance as Luigi, and this spin-off would provide an opportunity to explore his perspective in greater depth while expanding the Mario Cinematic Universe.
+
+In The Super Mario Galaxy Movie, Mario, Luigi, Peach, and Toad will be seen traveling beyond the Mushroom Kingdom through star-filled portals, colorful planetoids, and surreal landscapes from Super Mario Galaxy, along with nods to Super Mario Odyssey and Super Mario Wonder. The film will bring back the original cast, with Brie Larson joining as Princess Rosalina and Benny Safdie as Bowser Jr.
+
+While a Luigi's Mansion movie has yet to be officially announced, Day's comments highlight just how viable the idea has become. His and the fans' enthusiasm, combined with the unique tone of the source material, position it as one of the most promising directions for the franchise moving forward.
+
+If The Super Mario Galaxy Movie continues the series' success, it seems likely that Nintendo and Illumination will look to expand the movie franchise even further, and a haunted adventure led by Luigi could be exactly
+
+#### 📌 FUENTE: ign
+The Super Mario Galaxy Movie Opening Breaks Box Office Records Despite Mixed Critical Response
+**Link:** https://www.ign.com/articles/the-super-mario-galaxy-movie-opening-breaks-box-office-records-despite-mixed-critical-response
+> The Super Mario Galaxy Movie has already begun breaking box office records following its explosive launch into theaters yesterday, despite middling reviews.
+
+Nintendo's blockbuster sequel earned $34 million in the U.S. on Wednesday, Deadline reported, making for the best opening day of any film released in 2026 so far. (Project Hail Mary opened to $33.1 million, so it was close, though the Ryan Gosling film had been helped by opening on a Friday.)
+
+After launching on a Wednesday, The Super Mario Galaxy Movie now holds the record for the best opening on a Wednesday in April ever — beating its predecessor, The Super Mario Bros. Movie, which collected $31.7 million in gold coins back in 2023.
+
+Forecasts show Nintendo's follow-up bringing in slightly less over the course of the film's first week, but only slightly, and with a healthy-looking global box office total also expected.
+
+Nintendo will also likely be cheered by the fact that the movie has opened to a positive response from cinemagoers — demonstrated by its current 91% audience score on Rotten Tomatoes. That figure is far higher than the movie's overall critical consensus, with just 41% of reviewers judged as having recommended the film. Critics were similarly mixed on the first movie, which holds a slightly better 59% approval rating, as well as a better 95% audience score.
+
+IGN's own appraisal was also mixed. "It’s OK, it really is," we wrote in our The Super Mario Galaxy Movie review, rating the film with a 6/10 score. "While it loses points for not engaging in a strong emotional core like its predecessor, The Super Mario Galaxy Movie racks up some extra lives by stuffing Easter eggs into the runtime to the point of bursting. It’s fun seeing all that stuff on screen, but without some kind of relatable story thriving underneath those references, it’s not as effective as it could be."
+
+The Super Mario Bros. Movie ultimately went on to earn more than $1.3 billion, a feat both Nintendo and Minions animation company Illumination will surely hope this follow-up can replicate. And already, there's talk of further sequels — not least from Bowser voice actor Jack Black, who has suggested that a third Mario movie will debut in 2029.
+
+If accurate, this would mean Nintendo will likely have a big movie in theaters every year for the remainder of the decade, with 2027 already reserved for its live-action The Legend of Zelda film. Then there's that leaked Donkey Kong spinoff, which would make sense to arrive in 2028 following a two-year break for Nintendo's big screen animated adventures — and as a lead-up to the third Super Mario Movie.
+
+Where are Mario's big screen adventures headed next? After teaming up with Star Fox hero Fox McCloud, we reported earlier this week that the Galaxy Movie has now established an in-universe excuse for Mario to mix with pretty much any Nintendo character — opening the door to a full Super Smash Bros. Movie in future.
+
+Tom Phillips is IGN's News Editor. You can reach Tom at tom_phillips@ign.com or find him on Bluesky @tomphillipseg.bsky.social
+
+Never miss another deal or preorder. Subscribe to the IGN Deals newsletter and get them delivered to your inbox every single day. By subscribing you confirm that you are 18 years of age or older and you agree to our Terms of Use and Privacy Policy.
+
+Not yet available for streaming.
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:43:27
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/celine-dion-announces-10-show-.4.J3.cOQJO6TaDMdYsf9g
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Celine Dion announces 10-show Paris residency in concert comeback
+
+Celine Dion confirmed her return to the concert stage on Monday, her 58th birthday, announcing a 10-night residency at the Paris La Défense Arena running from September 12 through October 14. The announcement, delivered through an emotional video posted to her Instagram account, caps weeks of mounting speculation fueled by a cryptic poster campaign across the French capital.
+purewow
+
+purewow
+Céline Dion Makes Major Announcement—and Fans Are Freaking Out
+sortiraparis
+Could Celine Dion be returning to perform at Paris La Défense ...
+ew
+Celine Dion sets concert comeback 4 years after stiff-person ...
+instagram
+CELINE DION PARIS 2026 10 unforgettable shows starting this ...
+ew.com
+"The Best Gift of My Life"
+
+"I want to let you know that I'm doing great. Managing my health, feeling good. I'm singing again, even doing a little bit of dancing," Dion told fans in the video. "This year, I'm getting the best gift of my life. I'm getting the chance to see you, to perform for you once again, in Paris. I'm so happy. I'm so ready to do this. I'm feeling good. I'm strong; I'm feeling excited."
+purewow
+
+The residency will feature two performances per week at Europe's largest indoor concert venue, which seats up to 40,000 spectators. Specific dates include September 12, 16, 19, 23, 26, and 30, followed by October 3, 7, 10, and 14. Artist presale registration opens through April 2 at CelineDion.com, with presale tickets available starting April 7.
+sortiraparis
+
+A Long Road Back
+
+The Paris shows will mark Dion's first major concert series since March 8, 2020, when she wrapped the North American leg of her Courage World Tour in Newark, New Jersey. That tour's European dates were first postponed due to the pandemic, then shelved indefinitely after Dion revealed in December 2022 that she had been diagnosed with Stiff Person Syndrome, a rare neurological condition affecting roughly one or two people per million.
+today
+
+The disease causes debilitating muscle stiffness and spasms, particularly impacting the muscles used for singing. Dion's treatment has included intravenous immunoglobulin therapy, vocal rehabilitation, and physical therapy. Her 2024 Prime Video documentary, "I Am: Celine Dion," offered an unflinching look at the toll the condition has taken on her daily life.
+patientworthy
+
+Building Momentum
+
+Dion's path back to performing began publicly at the Paris 2024 Olympics opening ceremony, where she delivered a performance of Edith Piaf's "Hymne à l'amour" from the Eiffel Tower — her first live appearance in over four years. The buzz around her full comeback intensified on March 23, when posters referencing her iconic songs, including "My Heart Will Go On" and "Power of Love," appeared on streets across Paris. French outlet BFMTV captured the Eiffel Tower lit with the message "Céline Dion, Paris, Je Suis Prête" — "I'm Ready". The 10-date schedule represents a deliberately scaled-back approach compared to the original 52-date Courage World Tour, reflecting the careful management of her condition.
+thatgrapejuice
+
+Guns N' Roses launch 2026 world tour without Melissa Reese
+Guns N' Roses marked the tour announcement with the release of two tracks, "Nothin'" and "Atlas," in December, both reworked from the Chinese Democracy sessions with new contributions from Slash and Duff McKagan. Guitarist Slash has said the band is now focused on entirely new material. "The new material that's going to come up from us getting back together is going to be amazing," he told...
+The Killers to reunite, headline Champions League final
+The two finalists have yet to be determined. The quarter-final stage begins in April, with matchups including Real Madrid versus Bayern Munich, Arsenal versus Sporting Lisbon, Barcelona versus Atletico Madrid, and Paris Saint-Germain versus Liverpool. The Puskás Aréna holds approximately 67,000 to 70,000 spectators.
+Kodaline announces global farewell tour and final album
+Beyond Asia, Kodaline will tour Australia in September and wrap up with a European and UK run from late November through mid-December, closing out with shows at London's Roundhouse, Glasgow's Barrowland Ballroom, and Manchester's Albert Hall. The band had previously announced warm-up shows in Ireland, including Virgin Media Park in Cork on June 19 and Malahide Castle in Dublin on June 20. "We...
+BTS performs in the U.S. for first time in 4 years at NYC Spotify event
+BTS will continue their US media blitz with back-to-back appearances on The Tonight Show Starring Jimmy Fallon on March 25 and 26, where they will sit for an in-studio interview and perform two songs across the two episodes. It will be the group's first US late-night appearance together since a Tonight Show takeover in July 2021. A behind-the-scenes documentary, BTS: The Return, premieres on...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: purewow
+Céline Dion Makes Major Announcement—and Fans Are Freaking Out
+**Link:** https://www.purewow.com/news/celine-dion-career-announcement-concert-paris
+> Legendary Canadian songstress Céline Dion is making a return to the stage. The "My Heart Will Go On" singer, who celebrates her 58th birthday today, has made a coinciding Instagram post announcing a major career comeback after being diagnosed with Stiff Person Syndrome in 2022.
+
+A post shared by Céline Dion (@celinedion)
+
+Ahead of the announcement, the Canadian artist changed her profile picture. The updated headshot showed her in clean studio lighting, hair in a slicked-back bun, wearing a billowing top that exposed her shoulders. Then came the announcement.
+
+"I want to let you know that I'm doing great. Managing my health, feeling good. I'm singing again, even doing a little bit of dancing...But I have to tell you something very important," Dion said, addressing her fans. "Over these last few years, every day that's come by—I've felt your prayers and support. Your kindness and love. Even in my most difficult times, you were there for me. You've helped me in ways that I can't even describe. I'm truly so fortunate to have your support. I've missed you so much. And that brings me back to my birthday, actually. This year, I'm getting the best gift of my life. I'm getting the chance to see you, to perform for you once again, in Paris. I'm so happy. I'm so ready to do this. I'm feeling good. I'm strong; I'm feeling excited."
+
+Dion will be performing just ten shows starting in September. Per Deadline, Dion will perform two concerts a week at the La Défense Arena starting September 12, with the last performance on October 14. This is a starkly trim schedule compared to the Courage World Tour, which was originally scheduled for 52 dates across Europe and North America. One thing's for sure, though—I'm glad the queen is back.
+
+The announcement comes on the heels of a week of frenzy in Paris, where some of the singer's best-known songs (including "Pour Que Tu M'Aimes Encore," "My Heart Will Go On" and "Power of Love") have been plastered around town. There was also a clandestine overnight test run on the Eiffel Tower, which lit up with the words "Céline Dion, Paris, Je Suis Prête." ("Céline Dion, Paris, I'm Ready.")
+
+Presale starts April 7. If I were you, I'd set my alarm—the Courage World Tour sold out in 90 minutes.
+
+CÉLINE DION POSTS RARE BLACK-AND-WHITE PHOTOS FROM AGE 16—AND I CAN'T GET OVER HOW DIFFERENT SHE LOOKS
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+These cookies are set by a range of social media services that we have added to the site to enable you to  our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+These cookies enable the website to provide enhanced functionality and personalisati
+
+#### 📌 FUENTE: sortiraparis
+Could Celine Dion be returning to perform at Paris La Défense ...
+**Link:** https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/322040-celine-dion-to-perform-soon-at-la-defense-arena-in-paris-what-we-know-about-her-possible-return
+> It's an announcement the legions of Céline Dion fans have been eagerly waiting for. The Canadian icon has just made it official on her social channels: a major return to the stage with a Paris residency. In a video message posted on Monday, March 30, 2026 at 9 p.m., Céline Dion confirms a run of shows at Paris La Défense Arena this fall in 2026. "I'm really doing well, I feel strong, I'm singing a lot, I'm even dancing a bit. But there's something I have to tell you", the singer says in the clip.
+
+In detail, Céline Dion's residency at Paris La Défense Arena will kick off on September 12, 2026. The Québécois superstar will then perform nine more shows, with a cadence of two performances per week on Wednesdays and Saturdays. So mark your calendars for September 12, 16, 19, 23, 26 and 30, followed by October 3, 7, 10 and 14, 2026.
+
+You can imagine the crowds: fans will be eager to catch one or more of Céline Dion's shows at Paris La Défense Arena. So you’ll need to act quickly and absolutely not miss the ticket sales opening.
+
+The artist's pre-sale is set for Tuesday, April 7 at 10:00 a.m. But beware: access requires registering on the official Céline Dion site before April 2 at 7:00 p.m. Note that an AXS account is required for registration. A draw will then determine who can participate in this pre-sale. Alternatively, the Paris La Défense Arena pre-sale opens on Thursday, April 9 at 10:00 a.m., but you’ll also want to register there to have a chance to access it. The general sale, open to everyone, is scheduled for Friday, April 10, 2026 at 10:00 a.m.
+
+According to Le Parisien and RTL, the ticket prices are expected to range from €89.50 to €298.50.
+
+Céline Dion at Paris La Défense Arena: how much do tickets cost?
+As Céline Dion's pre-sale sign-ups have closed, many fans are wondering about ticket prices. How much does it cost to catch the Québécois star from the upper tiers or from the floor? According to Le Parisien and RTL, prices range from €89.50 to €298.50. []
+
+It bears reminding that many fans had begun to dream again of a potential return from Céline Dion after her rendition of “L’Hymne à l’Amour,” performed from the Eiffel Tower’s first level during the Paris 2024 Olympic opening ceremony. And since March 23, rumors about a possible onstage comeback by the Canadian superstar were in full swing.billboards had crowded the streets of the capital. All of them referenced the Québécois icon’s hits, such as “Pour que tu m’aimes encore,” “My Heart Will Go On,” and “Power of Love.” For her part, Céline Dion had posted on her social networks old photos of herself in Paris, with the enigmatic caption: “I don’t know how to say it.”
+
+The daily La Presse and Le Parisien were then outlining a run of concerts at Paris La Défense Arena. A venue that Céline Dion was set to take on in 2020. The singer of “I’m Alive” and “Pour que tu m’aimes encore” planned six major shows there in June and July 2020. But the artist had no choice but to postpone and ultimately cancel her Courage tour due to Covid, followed by her health troubles. It was in autumn 2022 that Céline Dion was diagnosed with a rare neurological condition, stiff-person syndrome, which has kept her from returning to the stage.
+
+After several years out of the spotlight, Céline Dion is finally gearing up for a dramatic return to the stage. The Quebec superstar will headline a highly anticipated residency in Paris. To experience this live moment in all its glory, catch the run from September 12 to October 14, 2026 at Paris La Défense Arena!
+
+Refer your establishment, click here
+Promote your event, click here
+
+DATES AND OPENING TIME
+From September 12, 2026 to October 14, 2026
+
+LOCATION
+Paris La Défense Arena
+99 Jardin de l'Arche
+92000 Nanterre
+
+OFFICIAL WEBSITE
+paris.celinedion.com
+
+BOOKING
+Check the prices of this ticketing service
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:43:55
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/global-streaming-subscription-L4wm7Q7ISTy5ft9e24N3HA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Global streaming subscription revenue hit $157B in 2025, Ampere says
+
+Global streaming subscription revenue surpassed $150 billion for the first time in 2025, reaching a record $157.1 billion — a 14% year-over-year increase that marks a tripling of the $50 billion recorded during the pandemic year of 2020, according to new research from Ampere Analysis published Sunday.
+mediaplaynews
+
+The findings underscore a streaming industry that has shifted from a growth-at-all-costs subscriber race to a maturing business focused on wringing more revenue from existing audiences through price hikes and ad-supported plans.
+
+mediaplaynews
+Ampere: Global Subscription Streaming Video Revenue Topped ...
+deadline
+Global Streaming Subscription Revenue To Hit $200 Billion By 2030 ...
+todotvnews
+Ampere Analysis: Global Streaming Revenue Exceeds $150 billion
+variety
+U.S. Streaming Video Market to Surge 33% by 2029 to Over $112B
+variety.com
+The U.S. and Netflix Lead the Way
+
+The United States remains the engine of the global streaming economy, accounting for 50% of worldwide subscription revenue in 2025. Netflix is the single largest contributor to the U.S. market, with its revenue rising 14% in 2025 after the company implemented across-the-board price increases at the start of that year.
+deadline
+
+Ampere forecasts that subscription revenue will grow a further 29% over the next five years, surpassing $200 billion globally by 2030. When advertising revenue is included, streaming services generated $177 billion worldwide in 2025, with advertising expected to add another $42 billion in annual revenue by 2030.
+mediaplaynews
+
+Ad-Supported Tiers Reshape the Business
+
+Perhaps the most striking structural change in the industry is the rapid rise of ad-supported subscription tiers. Their  of total streaming subscription revenue climbed from less than 5% in 2020 to 28% in 2025, according to Ampere. In mature, crowded markets such as North America and Western Europe, these hybrid subscription-and-advertising models have become the primary engine of the next phase of expansion.
+todotvnews
+
+"As the streaming market matures, the emphasis is no longer on pure subscriber growth but on extracting greater value from existing audiences," said Lauren Liversedge, senior analyst at Ampere Analysis. "Price optimization and the rise of ad-supported tiers are driving revenue growth, particularly in the most competitive markets."
+mediaplaynews
+
+A Broader Industry Shift
+
+The Ampere data fits within a wider consensus that streaming has entered a new era. Separate research from Omdia last year projected global video streaming revenue of $214.6 billion in 2025 when including all online video categories, with advertising revenue from the five largest U.S. subscription services expected to reach $24.3 billion by 2030. PwC has similarly forecast the U.S. streaming market alone will exceed $112 billion by 2029.
+variety
+
+The question now is how long price increases and ad-tier adoption can sustain double-digit growth before consumer resistance sets in — a tension Ampere's own projections implicitly acknowledge by forecasting a slower 29% gain over the next five years compared with the tripling achieved in the last five.
+
+Short drama apps rank among fastest-growing subscription categories globally
+The report also highlights a divergence in how short drama and traditional streaming apps are monetized. Subscription-only revenue's  of streaming apps like Netflix and Disney+ has grown from 53% to 62%, while short drama apps are moving in the opposite direction, with ad-supported revenue rising to 7.4% of total revenue. Research from Omdia underscores the category's engagement power....
+YouTube nearing 3 billion users as Netflix eyes 1 billion, Omdia forecasts
+The forecasts arrive as both platforms continue rapid expansion. Netflix reported roughly 325 million subscribers at the end of 2025, while the Omdia projection of 1 billion monthly active users by 2027 accounts for the broader universe of viewers accessing the service through shared accounts and its ad-supported tier. YouTube, already operating at a scale Aguete has previously described as...
+Global cloud spending hit $110.9B in Q4 2025, up 29%
+The demand surge is translating into unprecedented capital expenditure plans. Amazon expects to spend roughly $200 billion in 2026, predominantly on AWS, more than 50% above the nearly $132 billion spent in 2025. Alphabet guided 2026 capital expenditure to $175 billion to $185 billion, nearly doubling the $91.4 billion spent in 2025. Microsoft's spending is expected to reach $110 billion to $120...
+Europe's audiovisual sector hit record €142B in revenue in 2024, report finds
+Despite its creative vitality, Europe accounts for just 12% of revenues among the world's largest entertainment companies, far behind the United States at roughly 71%. The Observatory's findings depict a sector that is dynamic but structurally challenged — record production levels and growing investment from global platforms coexist with platform dominance and market concentration that continue...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: mediaplaynews
+Ampere: Global Subscription Streaming Video Revenue Topped ...
+**Link:** https://www.mediaplaynews.com/ampere-global-streaming-subscription-revenue-topped-150-billion-in-2025/
+> Subscription streaming video revenue topped $150 billion worldwide for the first time in 2025, according to new data from Ampere Analysis, marking a major milestone for the direct-to-consumer market.
+
+While international expansion remains an important driver of the SVOD market, platforms are increasingly focusing on monetization through price increases and the rollout of ad-supported tiers, particularly in mature markets. As ad-free subscriber tallies stabilize, hybrid subscription and advertising models are playing an increasingly important role in revenue growth, according to Ampere.
+
+Global streaming subscription revenue grew by 14% in 2025 to reach a record $157.1 billion. The total has tripled in just five years, surpassing $50 billion in 2020 during the height of the pandemic.
+
+Subscription revenue is forecast to grow 29% over the next five
+years, surpassing $200 billion globally by 2030.
+
+The U.S. remains the largest driver of the sector, accounting for 50% of global streaming subscription revenue in 2025. Netflix is the largest contributor in the U.S. market, with revenue up by 14% in 2025 following an across-the-board price increase at the start of the year.
+
+In more-crowded markets such as North America and Western Europe, the next phase of expansion is increasingly driven by ad-tier subscriptions.  of total revenue from these tiers has risen rapidly over the past five years, up from less than 5% in 2020 to 28% in 2025, according to Ampere. This reflects the ongoing shift toward hybrid subscription and advertising business models.
+
+Including advertising revenue, streaming services generated $177 billion globally in 2025. As adoption of ad tiers grows and platforms expand their ad loads, advertising is expected to become an increasingly important revenue stream, adding a further $42 billion in annual revenue by 2030.
+
+“As the streaming market matures, the emphasis is no longer on pure subscriber growth but on extracting greater value from existing audiences,” said Lauren Liversedge, senior analyst at Ampere. “Price optimization and the rise of ad-supported tiers are driving revenue growth, particularly in the most competitive markets.”
+
+Apple Aug. 3 reported record services revenue of $21.2 billion for the third quarter (ended July 1). That was up more than 8% from services revenue of $19.6 billion in the prior-year period. Services revenue includes sales of movies and…
+
+Ad-supported subscription streaming dominated in 2025. The segment's revenue jumped 60.9% in 2025, from 2024 to $10.3 billion, growing more than any other home entertainment segment, according to data from DEG: The Digital Entertainment Group. The growth dwarfed non-ad-supported subscription…
+
+By 2029, paid subscriptions to streaming services will top 2 billion, up from 1.8 billion in 2024, according to projections from Ampere Analysis. This milestone will be achieved by combining U.S. streaming giants’ international expansion and success at minimizing password…
+
+The addition of ad-supported tiers to subscription streaming platforms is projected to help total U.S. SVOD revenue top pay-TV subscription revenue for the first time in the upcoming third quarter, ending Sept. 30, according to analysis from Ampere Analysis. Streaming…
+
+#### 📌 FUENTE: deadline
+Global Streaming Subscription Revenue To Hit $200 Billion By 2030 ...
+**Link:** https://deadline.com/2026/03/global-streaming-subscription-revenue-200-billion-dollars-2030-1236768959/
+> Global streaming subscription revenue surpassed $150 billion for the first time in 2025, with the number on track to hit $200 billion by 2030, according to new research from Ampere Analysis citing price increases and the rollout of ad-supported tiers.
+
+The London-based research firm said global OTC revenue rose 14% last year to $157.1 billion. It’s tripled in five years from about $50 billion in 2020.
+
+The U.S. reps the biggest chunk with 50% of the global 2025 total. Netflix is the largest contributor in the market Stateside, with revenues up by 14% in 2025 following an across-the-board price increase at the start of the year. The streamer hiked prices again last week across its three major tiers. It said the move reflects “improvements to our wide range of entertainment and the quality of our service.”
+
+Meanwhile,  of total revenue from ad tiers has risen rapidly over the past five years, up from less than 5% in 2020 to 28% in 2025, Ampere said. Including advertising revenue, streaming services generated $177 billion globally last year. As adoption of ad tiers grows and platforms expand their ad loads, advertising is expected to add a further $42 billion in annual revenue by 2030.
+
+“As the streaming market matures, the emphasis is no longer on pure subscriber growth but on extracting greater value from existing audiences. Price optimisation and the rise of ad-supported tiers are driving revenue growth, particularly in the most competitive markets,” said Ampere senior analyst Lauren Liversedge.
+
+Get our Breaking News Alerts and Keep your inbox happy.
+
+Comments On Deadline Hollywood are monitored. So don't go off topic, don't impersonate anyone, and don't get your facts wrong.
+
+Δdocument.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+
+Netflix is not worth it. Most of their library is acquired from others. Their original offerings are so few it’s not worth it anymore.
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:44:27
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/tiktok-pulls-fruit-love-island-On0gJSloQHSz0O5RNmFHNw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+TikTok pulls 'Fruit Love Island' after AI series hit 300M views in 10 days
+
+A talking banana named Bananito has become the unlikely star of social media's latest viral obsession. "Fruit Love Island," an entirely AI-generated micro-drama series featuring anthropomorphic fruit characters locked in soap opera-style love triangles, amassed roughly 300 million views and over 3.3 million followers in barely ten days before the original TikTok account was apparently wiped from the platform this week.
+nbcnews
+
+nbcnews
+The AI fruit drama on TikTok that's too juicy to pass up - NBC News
+uniladtech
+AI TikTok account seemingly wiped days after passing world record ...
+netmums
+Entirely AI-generated, TikTok show 'Fruit Love Island' has hit around ...
+yahoo
+Are we doomed? AI slop videos of cheating fruit are taking over ...
+tribune.com.pk
+From Strawberry Scandal to Cultural Phenomenon
+
+The trend traces its origins to late February, when a TikTok account called @trombonechef posted a clip about a strawberry having an affair with her eggplant boss. That seed of absurdity quickly sprouted. On March 14, the anonymous account @ai.cinema021 launched its "Fruit Love Island" series, modeled on the Peacock reality franchise, releasing daily two-minute episodes featuring characters like Bluebella, Strawberina, and Grapenzo competing for romance in a villa setting. The account reportedly became the fastest-growing page in TikTok history, gaining 2.3 million followers in just four days, according to UNILAD Tech.
+yahoo
+
+The format encouraged viewer participation, with fans voting on couples and suggesting storylines in the comments. Former "Love Island USA" contestants Kaylor Martin and JaNa Craig posted reaction videos, while pop star Zara Larsson drew backlash for publicly endorsing the content, later deleting her posts. Knockoff accounts proliferated rapidly, spawning spinoffs like "Too Fruity To Handle" and "Candy Love Island".
+uniladtech
+
+Backlash and Takedown
+
+The frenzy was short-lived on its original platform. As of March 26, all Fruit Love Island content from @ai.cinema021 had been removed from TikTok after being flagged as "low-quality AI content," according to Netmums. The creator's YouTube channel was also reportedly taken down on March 25 following coordinated reporting from animators and anti-AI communities. Copycat accounts continue to surface across TikTok and Instagram Reels.
+Netmums
+
+Critics have raised concerns that go beyond production quality. An investigation by Wired found that female fruit characters are disproportionately depicted as victims of harassment and humiliation, revealing what the outlet described as misogynistic patterns baked into AI video generation tools. Others pointed to the environmental costs of generative AI and the displacement of human creators.
+techbuzz
+
+'The Video Equivalent of Fan Fiction'
+
+Michael Grabowski, a professor of communication at Manhattan University, told NBC News that shows like "Love Island" rely on simple archetypes that are "particularly easy for AI to replicate and remix on a large scale," though he maintained there will always be a place for human storytellers. Jessica Maddox, an associate professor at the University of Georgia, offered a different forecast, telling NBC News she could "1,000%" envision Hollywood adapting a toned-down AI fruit movie for a PG audience.
+nbcnews
+
+On Reddit, skeptics questioned whether the view counts were even real. "If they are desperate enough to post AI, they are desperate enough to use bot views," one user wrote.
+uniladtech
+
+AO3 exits open beta after 17 years and 10 million users
+AO3 remains a nonprofit, volunteer-run project funded entirely by user donations, with no advertising or subscription fees. Recent improvements have included updates to bookmark and collections filtering and more user-friendly buttons for posting and editing works. The organization invited users who were part of the beta era to display a commemorative badge on their profiles, a small memento...
+TikTok ran ads for AI apps that digitally undress people, investigation finds
+The persistence of these ads across platforms underscores the challenge technology companies face in moderating a fast-evolving ecosystem of generative AI tools. A CBS News investigation last year found that new nudify ads appeared on Instagram even after Meta had removed those initially flagged, with a spokesperson acknowledging that "the people behind these exploitative apps constantly evolve...
+Fallout season 2 drew 83 million viewers, Amazon says
+Amazon renewed Fallout for a third season in May 2025, months before Season 2 even debuted. Vernon Sanders, Amazon MGM Studios' global head of television, said at the time: "Together with our amazing partners at Bethesda Games and Bethesda Softworks, we are delighted to announce a third season of Fallout, well ahead of the much-anticipated debut of Season Two". Executive producer Jonathan Nolan...
+WSJ: Sora cost OpenAI $1M a day before shutdown
+OpenAI confirmed that the Sora consumer app will go dark on April 26, with the API following on September 24. The company said the Sora research team will pivot to "world simulation research to advance robotics that will help people solve real-world, physical tasks". Image generation within ChatGPT will remain unaffected. The shutdown comes as OpenAI prepares for a potential initial public...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: nbcnews
+The AI fruit drama on TikTok that's too juicy to pass up - NBC News
+**Link:** https://www.nbcnews.com/pop-culture/viral/ai-fruit-love-island-tiktok-slop-popularity-rcna264946
+> He’s the hottest guy on the latest reality romance show to captivate audiences. But “Bananito” is not your average suitor. He’s AI — and a talking banana.
+
+Subscribe to read this story ad-free
+
+Get unlimited access to ad-free articles and exclusive content.
+
+Within 10 days, these anthropomorphic fruits — the stars of a TikTok series called “Fruit Love Island” (inspired by Peacock’s “Love Island” franchise) — have drawn in more than 3.3 million followers to the AI.Cinema021 account on TikTok.
+
+The episodes, which drop daily, are formatted like microdramas, or bite-size, scripted, made-for-mobile shows. Their popularity comes as creators are capitalizing on “AI slop,” which Merriam-Webster defines as “digital content of low quality that is produced usually in quantity by means of artificial intelligence.”
+
+AI fruit videos have been picking up traction on social media since February, according to the online database Know Your Meme. The TikTok account trombonechef began posting videos about a strawberry and her extramarital affair with her eggplant boss.
+
+Since then, dozens of accounts have made videos with outlandish plots featuring various fruits — apples, mangoes, oranges and more. The most viral videos feature fruits in absurd situations, ranging from scandalous affairs with other fruits to baby fruits thrown off a ship (yes, really). There has also been a riff on the popular teen show “The Summer I Turned Pretty”: “The Summer I Turned Fruity.”
+
+Millions of users have also gravitated toward more PG AI fruit and vegetable videos intended to help educate adults with nutritional tips and kitchen hacks.
+
+The AI fruit videos are so unhinged that some TikTok users have taken to re-creating the AI fruit sagas with human content. Kaylor Martin and JaNa Craig, two alums from the “Love Island USA” franchise, recently made a video reacting to the faux reality series.
+
+But not everyone is a fan. As is the case with other viral AI trends, critics have said the content is problematic because it lacks human creativity. The videos are often choppy, they end abruptly, and they feature nonsensical plotlines.
+
+Pop star Zara Larsson drew backlash after she posted a video on TikTok in which she wrote, “Sorry I can’t hang out today, I gotta see what’s happening with choclatina and strawberto.” Fans accused her of promoting generative AI.
+
+She defended her interest in the AI fruit content, saying in a recent video: “I am just a girl with a phone at the end of the day. And I just actually just want to be funny sometimes and want to connect with people.”
+
+The video has since been removed from Larsson’s social media accounts.
+
+Amaya Espinal, another “Love Island” alum, isn't into the trend.
+
+“That’s too crazy,” she said in a TikTok Live session, a recording of which was shared to her fan base’s X account. “next thing you know you’re going to see a f------ duplicate of yourself walking down the street if you keep up with this Fruit Island s---.”
+
+In the “AntiAI” community on Reddit, a user asked, “How are people genuinely enjoying this AI Fruit Love Island slop?”
+
+“Every video has millions of views,” the user wrote. “Everyone seems to find it so entertaining but I simply can’t wrap my head around why. It’s sloppy, uninteresting, and all around hard to watch. Is this seriously what we’re calling entertainment now? It feels like we’re devolving as a society.”
+
+An X user wrote: “There are billions of incredible stories in the libraries, and thousands of incredible movies and tv shows you can watch at the click of a button, and you’re scrolling AI fruit love island.”
+
+Others have pointed out the impact generative AI has on the environment. As the technology becomes more commonplace, the power demand for data centers increases, The Associated Press reported in August.
+
+“One water bottle is gonna be worth an entire gold bar by 2029 and this is why,” an X user wrote, attaching a screenshot of a TikTok video featuring “cherrita.”
+
+But experts say don't expect s
+
+#### 📌 FUENTE: uniladtech
+AI TikTok account seemingly wiped days after passing world record ...
+**Link:** https://www.uniladtech.com/social-media/fruit-love-island-ai-tiktok-account-wiped-breaking-record-691171-20260325
+> Consider your dreams (and grapes) crushed
+
+TikTok users won't be able to 'crack on' with their favorite account, as one AI giant has gone dark after breaking records on the short-form video platform.
+
+Even those who steer clear of TikTok have likely seen those cartoonish videos of foods performing all sorts of infomercials and looking like a bizarre Sausage Party sequel thanks to their cartoony faces.
+
+Taking the idea even further, one account has merged these AI-generated shorts with one of the most popular shows around. You likely never knew you needed it, but in the aftermath of TikTok pulling the plug on Fruit Love Island, some users can’t help but feel a little (apple) pied off.
+
+There's no more peeling off those banana skins in Casa Avacado, as the Ai Cinema account is no more on TikTok.
+
+It might feel a bit muggy, but with complaints about generative AI taking over the internet and only adding to the dead internet theory, many have cheered the demise of Fruit Love Island and its frankly bizarre fandom.
+
+As filmmakers, actors, and viewers alike lament an increase of 'AI slop' and general AI-generated content, there's been backlash against ideas like OpenAI's Sora (although it's just been axed) and AI actor Tilly Norwood.
+
+We previously covered how so-called 'slop' channels are making a fortune on YouTube, and with Ai Cinema gaining 2.3 million followers in just four days, it apparently shattered records as the platform's fastest-growing account.
+
+TikTok has already faced complaints about allowing AI slop on the platform, although Fruit Love Island is arguably a very different beast from a fictional retirement home with adorable oldies.
+
+On March 22, it was reported that despite only being created nine days earlier, the account behind Fruit Love Island was averaging 15 million views per video.
+
+What goes up must come down, and although these clips get a ridiculous number, critics think it’s down to bots.
+
+When news about its viral status was shared on Reddit, and someone asked, "Who' is watching this sh*t," someone else simply replied saying: "AI bots."
+
+Elsewhere on Reddit, someone vented: "I really can't understand how do people enjoy this. Like how do you enjoy AI fruit talking?"
+
+Another added: "With AI blatantly being a factor, I don’t think view counts can be used to gauge popularity. If they are desperate enough to post Ai, they are desperate enough to use bot views.”
+
+A third groaned: "Can we just shut down the global internet for a month? This crap is getting too annoying."
+
+Even though the OG Fruit Love Island has been lost at sea, others sharing clips, knockoffs, and compilations of the whole 19-episode saga are quickly popping up. We were able to find an account that's only been created in the past couple of days and seems to be doing the exact same thing.
+
+We've also tracked down others that are riding on the coattails of Fruit Love Island with Too Fruity To Handle, while others like I'm a Fruit…Get Me Out of Here! and even Candy Love Island are popping up like veggies in an allotment.
+
+It's not just TikTok under fire, and whether you've noticed or not, Instagram Reels has also been infected by this kind of food-based AI content. While these accounts are likely to keep getting pulled, it looks like an inevitable case that more will simply replace them. Is the end of Bananito's story? Something tells us it's not.
+
+UNILADTech has reached out to TikTok for comment.
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:44:58
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/paul-mccartney-announces-new-s-MAUCoKNqRR.46QwFrR8jHg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Paul McCartney announces new solo album, his first in over five years
+
+Paul McCartney announced on Thursday his first solo album in more than five years, a deeply personal 14-track collection titled "The Boys of Dungeon Lane," set for release on May 29 through MPL/Capitol Records. The 83-year-old former Beatle simultaneously released the album's lead single, "Days We Left Behind," a spare, guitar-driven meditation on his Liverpool childhood.
+hotpress
+
+theguardian
+Paul McCartney announces 18th solo album, The Boys of Dungeon Lane, promising introspection and revelation
+musicradar
+“While playing around on the guitar during the meeting, Paul ...
+hotpress
+Paul McCartney releases new single 'Days We Left Behind' ahead of ...
+showbiz411
+Paul McCartney's New Album Is Produced by Andrew Watt, Who ...
+rollingstone.com
+A Memory Song From Speke
+
+The album draws its name from Dungeon Lane, a road near the Speke neighborhood where McCartney grew up, and the lead single serves as its emotional anchor. "This is very much a memory song for me," McCartney said in a statement. "I was thinking just that, about the days I left behind and I do often wonder if I'm just writing about the past but then I think: how can you write about anything else? It's just a lot of memories of Liverpool".
+musicradar
+
+The track includes a striking passage referencing John Lennon: "We met at Forthlin Road, and wrote a secret code, to never be spoken. I stand by what I said, the promise that I made, will never be broken". McCartney described the song as touching on Lennon and the street where he grew up, with Dungeon Lane situated nearby in the working-class area of Speke.
+hotpress
+
+Born From an Unfamiliar Chord
+
+The album's origins trace back five years to a meeting between McCartney and producer Andrew Watt, known for his work revitalizing legacy acts including the Rolling Stones and Elton John. While idly playing guitar over tea, McCartney stumbled upon a chord he did not recognize. He kept experimenting, changing one note then another, until he had a three-chord sequence that Watt suggested they record. That session produced the album's opening track, "As You Lie There".
+showbiz411
+
+Recording continued during breaks in McCartney's five-year world tour, with sessions split between studios in Los Angeles and Sussex. In keeping with the spirit of his McCartney trilogy, he played the majority of instruments himself across the 14 tracks, which span what the press materials describe as "Wings-style rock, Beatles-style harmonies, McCartney-style grooves, understated intimacy, melody-driven storytelling and character songs".
+musicradar
+
+The Story Before the Story
+
+The album is billed as McCartney's most introspective work, exploring his post-war upbringing, the resilience of his parents, and early adventures shared with George Harrison and Lennon before the world had heard of Beatlemania. "Paul revisits these not as legends or folklore but as his personal memories," the press release states. The announcement follows teaser posters that appeared across Liverpool on Tuesday, spotted and shared by McCartney's brother Mike McGear McCartney, whose son Josh designed the artwork.
+ad-hoc-news
+
+"The Boys of Dungeon Lane" follows McCartney III, released in December 2020, and arrives as McCartney prepares for a broader 2026 that includes the documentary "Man on the Run" and Sam Mendes's forthcoming four-film Beatles cinematic project.
+showbiz411
+
+U2 surprise-drops 'Easter Lily' EP on Good Friday
+Bono was quick to reassure fans that the EPs are not delaying the band's forthcoming studio album, which he described as "a noisy, messy, 'unreasonably colourful' album to play LIVE." Producer Jacknife Lee echoed the optimism, telling Louder, "I think this is an important era for the band. They have not sounded so energised in decades." Like "Days of Ash," the release is accompanied by a...
+Jack Black debuts new Mario ballad as sequel hits theaters
+The Tonight Show clip had already racked up hundreds of thousands of views within hours of posting, and social media commentary has centered on the same question: why leave Black's musical charisma out of the film itself? As one commenter on the show's Facebook page put it, "The only thing missing from the movie was Jack Black singing a song". Whether "The Ballad of Super Mario" follows the...
+Paul McCartney headlines Apple's 50th anniversary concert at Apple Park
+Beyond Apple's own events, the Mimms Museum of Technology and Art in Roswell, Georgia, will open "iNSPIRE: 50 Years of Innovation from Apple" on April 1, featuring more than 2,000 original artifacts, prototypes, and documents spread across 20,000 square feet. The museum describes it as the "world's largest collection of Apple products," offering hands-on experiences with early Apple computers...
+Kanye West's long-delayed album Bully arrives on streaming platforms
+Critical response has been divided. Hotpress called it "a return to the old Kanye," praising vulnerable tracks like "Mama's Favourite" and the soul-sampling production on "Beauty and the Beast". Others were less generous. Shatter the Standards described the album as "a screen saver," arguing that West's lyrics fail to reckon with the personal crises outlined in a full-page Wall Street Journal...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: theguardian
+Paul McCartney announces 18th solo album, The Boys of Dungeon Lane, promising introspection and revelation
+**Link:** https://www.theguardian.com/music/2026/mar/26/paul-mccartney-announces-27th-solo-album-the-boys-of-dungeon-lane-promising-introspection-and-revelation
+> The new album draws from the musician’s early childhood memories of growing up in Liverpool and his relationship with Lennon, with musical styles that span his entire career
+
+Alexis Petridis on single Days We Left Behind: ‘As McCartney-esque as possible’
+
+Paul McCartney has announced his 18th solo album, The Boys of Dungeon Lane – its title a reference to the route from Liverpool to the Speke shoreline, the area where the former Beatle spent his young childhood.
+
+A press release described the 14-track record as McCartney’s most introspective album yet, a “collection of rare and revealing glimpses into memories never-before shared, along with some newly inspired love songs”, presumably about McCartney’s third wife, Nancy Shevell, whom he married in 2011. The musical styles are said to span his entire career, including “Wings-style rock, Beatles-style harmonies, McCartney-style grooves, understated intimacy, melody-driven storytelling, character songs”.
+
+The lead single, Days We Left Behind, references Dungeon Lane. McCartney debuted the song on BBC Radio Merseyside. “I want the people of Merseyside to hear my brand new song,” he said in a message read out by presenter Helen Jones.
+
+In a statement about the song, McCartney, 83, said: “This is very much a memory song for me. The album title comes from a lyric in this track. I was thinking just that, about the days I left behind and I do often wonder if I’m just writing about the past, but then I think: how can you write about anything else? It’s just a lot of memories of Liverpool. It involves a bit in the middle about John [Lennon] and Forthlin Road, which is the street I used to live in. Dungeon Lane is near there.”
+
+McCartney described Speke as “quite working class. We didn’t have much at all but it didn’t matter because all the people were great and you didn’t notice you didn’t have much.”
+
+The Boys of Dungeon Lane is credited solely to McCartney, in the vein of his 1970 solo debut McCartney and its 1980 counterpart McCartney II.
+
+The album was produced by Andrew Watt, the 35-year-old US producer who has become the go-to guy for classic rock acts including the Rolling Stones and Elton John. It came to fruition when McCartney and Watt met five years ago to exchange ideas, during which McCartney played a chord that he didn’t recognise. A song came together that Watt suggested they record: it became the opener to the new album, As You Lie There.
+
+McCartney and Watt made the album in between dates on McCartney’s five-year global tour, in studios in Los Angeles and Sussex.
+
+On the record, McCartney writes “with rare openness” about his postwar childhood, his parents and his formative relationships with Lennon and George Harrison before the birth of the Beatles in 1960.
+
+“These were the years that historians continue to examine, the quiet, unguarded days that unknowingly laid the groundwork for a cultural revolution,” according to the press release. “Paul visits them not as myths or folklore but as his own memories.”
+
+The announcement appeared to reference Danny Boyle’s 2019 film Yesterday, which imagined what the world might have been like had the Beatles never existed. “A world without Paul McCartney is impossible to imagine, yet here listeners can travel to a world that existed before everything changed, offering memories never previously shared and revealing, with extraordinary honesty, the human story behind a global icon.”
+
+McCartney’s last solo release was McCartney III in 2020, continuing the trilogy of McCartney and McCartney II. He will be portrayed by Paul Mescal in director Sam Mendes’s biographical film series, The Beatles: A Four-Film Cinematic Event, due for release in 2028.
+
+As You Lie There
+Lost Horizon
+Days We Left Behind
+Ripples in a Pond
+Mountain Top
+Down South
+We Two
+Come Inside
+Never Know
+Home to Us
+Life Can Be Hard
+First Star of the Night
+Salesman Saint
+Momma Gets By
+
+#### 📌 FUENTE: musicradar
+“While playing around on the guitar during the meeting, Paul ...
+**Link:** https://www.musicradar.com/artists/while-playing-around-on-the-guitar-during-the-meeting-paul-happened-upon-a-chord-that-even-he-didnt-recognise-how-an-unfamiliar-guitar-chord-proved-to-be-the-catalyst-for-paul-mccartneys-new-album-the-boys-of-dungeon-lane
+> The first single, Days We Left Behind, includes a cryptic reference to John Lennon
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+Want all the hottest music and gear news, reviews, deals, features and more, direct to your inbox? Sign up here.
+
+Your newsletter sign-up was successful
+
+Paul McCartney has announced The Boys of Dungeon Lane, his first new album in more than five years. This will be released on 29 May, and the first single, Days We Left Behind, is out today.
+
+As befits a man of his years and experience, The Boys of Dungeon Lane finds McCartney in reflective mood. The record is described as his most introspective to date, as the former Beatles reaches into his almost full memory bank to recall his years spent growing up in post-war Liverpool.
+
+And it seems that his former bandmates - John Lennon in particular – are still in McCartney’s thoughts.
+
+“This is very much a memory song for me,” he says of Days We Left Behind – a song that sounds like it could have been written with the intention of it being covered by a Rick Rubin-era Johnny Cash. “The album title, The Boys of Dungeon Lane, comes from a lyric in this track. I was thinking just that, about the days I left behind and I do often wonder if I’m just writing about the past but then I think: how can you write about anything else?”
+
+“It’s just a lot of memories of Liverpool,” McCartney continues. “It involves a bit in the middle about John and Forthlin Road which is the street I used to live in. Dungeon Lane is near there. I used to live in a place called Speke which is quite working class. We didn’t have much at all but it didn’t matter because all the people were great and you didn’t notice you didn’t have much.”
+
+The Lennon reference is intriguing. “We met at Fortlin Road, and wrote a secret code, to never be spoken” sings McCartney. “I stand by what I said, the promise that I made, will never be broken.”
+
+We’ll leave it to the Beatles cryptologists to pick the bones out of that one.
+
+Want all the hottest music and gear news, reviews, deals, features and more, direct to your inbox? Sign up here.
+
+The new album is produced by who else but Andrew Watt, the current go-to man for ‘vintage’ artists looking for a late career renaissance (see also: Elton John, The Rolling Stones, Iggy Pop and Ozzy Osbourne). That said, the seeds of the record were actually sown five years ago, when McCartney and Watt met up to throw around some initial ideas.
+
+“While playing around on the guitar during the meeting, Paul happened upon a chord that even he – the world’s most successful living songwriter – didn’t recognise,” says a press release. “Undeterred and driven by his experimental nature, Paul carried on changing one note, then another, until he had a three-chord sequence – which Watt suggested they should record.
+
+“This session yielded the album’s opening track, As You Lie There.”
+
+More tracks followed – The Boys of Dungeon Lane contains 14 in total – with McCartney playing the majority of the instruments. We’re told that the album will feature “Wings-style rock, Beatles-style harmonies, McCartney-style grooves, understated intimacy, melody driven storytelling and character songs – the common thread being Paul.”
+
+The Lennon reference is intriguing. “We met at Fortlin Road, and wrote a secret code, to never be spoken” sings McCartney. “I stand by what I said, the promise that I made, will never be broken.”
+
+We’ll leave it to the Beatles cryptologists to pick the bones out of that one.
+
+The new album is produced by who else but Andrew Watt, the current go-to man for ‘vintage’ artists looking for a late career renaissance (see also: Elton John, The Rolling Stones, Iggy Pop and Ozzy Osbourne). That said, the seeds of the record were actually sown five years ago, when McCartney and Watt met up to throw around some initial ideas.
+
+“While playing around on the guitar during the meeting, Paul happened upon a chord that even he – t
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:45:25
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/spotify-launches-tool-letting-B5ijtryNRU2G7Kl3esAEZA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Spotify launches tool letting artists block unauthorized releases
+
+Spotify on Tuesday launched Artist Profile Protection, an optional feature that lets artists review and approve music releases before they appear on their profiles, addressing the escalating problem of misattributed and AI-generated tracks flooding streaming platforms.
+K-Jewel 99.3 FM
+
+kjwl
+Spotify Launches 'Artist Profile Protection' to Guard Against Incorrect ...
+hypebot
+Spotify Adds Two Fixes to Common Fan and Artist Pain Points
+instagram
+Spotify for Artists on Instagram: "We know you've been waiting for ...
+routenote
+Sony removes over 135,000 AI deepfake songs from ... - RouteNote
+musicbusinessworldwide.com
+How It Works
+
+The feature, now available in limited beta, adds a review step to the release process. When music is delivered under an artist's name, the artist can approve or decline it before it goes live. Approved tracks proceed as normal; declined ones are blocked entirely. To keep legitimate releases flowing smoothly, Spotify is also introducing a unique "artist key" that trusted distribution partners can include at delivery for automatic approval, bypassing manual review.
+hypebot
+
+Spotify acknowledged in a blog post that the tool is not for everyone. "It isn't necessary for every artist, but could make sense if you've experienced repeated incorrect releases, have a common artist name, or want more control over what appears on your profile," the company wrote, adding that it "requires you to actively review releases before they go live, so may delay or block your legitimate releases if you forget to take an action". According to Spotify for Artists' Instagram account, the feature will roll out more broadly in the coming weeks and months.
+K-Jewel 99.3 FM
+
+A Growing Crisis
+
+The announcement arrives amid intensifying concern over AI-generated content on streaming services. The issue, known in the industry as "content mismatch," has worsened as generative AI tools make it easier and cheaper to produce convincing vocal deepfakes. Bad actors have exploited open-access distribution channels to upload fake tracks tagged to popular artists, gaming discovery algorithms and diverting royalties.
+K-Jewel 99.3 FM
+
+Just days earlier, Sony Music disclosed that it had requested the removal of more than 135,000 AI deepfake tracks impersonating its artists, including Beyoncé, Queen, and Harry Styles. Dennis Kooker, president of Sony's global digital business, told the BBC that "in the worst cases, the deepfakes potentially damage a release campaign or tarnish the reputation of an artist". Sony identified roughly 60,000 impersonation tracks since March 2025 alone and believes the true scale of the problem is far larger.
+routenote
+
+Building on Earlier Efforts
+
+Spotify laid the groundwork for this feature last September when it announced strengthened impersonation policies and pledged to invest more re in its content mismatch process. In January, the company signaled further action, writing that "AI is being exploited by bad actors to flood streaming services with low-quality slop to game the system" and promising changes to artist verification and identity protection systems. Artist Profile Protection represents the most concrete step yet in that effort, shifting power from a reactive takedown process to one where artists can stop unauthorized releases before they ever reach listeners.
+newsroom.spotify
+
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: kjwl
+Spotify Launches 'Artist Profile Protection' to Guard Against Incorrect ...
+**Link:** https://www.kjwl.com/2026/03/24/spotify-launches-artist-profile-protection-to-guard-against-incorrect-profile-uploads/
+> Saturdays 7am-10am
+Sundays 6am-10am
+
+Nothing could be found at this location. You can search our site using the form provided below
+
+#### 📌 FUENTE: hypebot
+Spotify Adds Two Fixes to Common Fan and Artist Pain Points
+**Link:** https://www.hypebot.com/spotify-adds-two-fixes-to-common-fan-and-artist-pain-points/
+> Spotify has announced two new beta features — Artist Profile Protection (APP) and SongDNA — that tackle long-standing pain points in the streaming ecosystem: misattributed music and shallow discovery.
+
+While very different on the surface, both updates respond to the ways in which streaming platforms are evolving, both for artists (allowing more control over their identity), and fans (giving more context around the music they consume).
+
+With the launch of Artist Profile Protection, Spotify is addressing a persistent issue that has only grown in the AI era: music showing up on the wrong artist profiles.
+
+For years, artists — especially those with common names — have dealt with misattributed releases cluttering their catalogs, skewing their data, and confusing fans. In some cases, bad actors have even intentionally attached their music to more established profiles to game discovery systems.
+
+Spotify’s new optional feature introduces a review step before music appears under an artist’s name. If enabled, artists can approve or reject releases before they go live on their profile. Approved tracks function as normal; declined ones are blocked from appearing altogether.
+
+The addition of a unique “artist key” for trusted collaborators also streamlines legitimate releases, allowing them to bypass manual review.
+
++: "Spotify's "About the Song" Feature Adds Context to Discovery"
+
+At the same time, Spotify is expanding how fans explore music with SongDNA, a new feature embedded in the Now Playing view.
+
+SongDNA surfaces the network behind a track — writers, producers, samples, interpolations, and covers — and lets listeners follow those connections across the platform. It effectively turns every song into a web of clickable relationships, offering a more interactive and layered listening experience.
+
+For creators, it’s another step toward making behind-the-scenes contributions more visible, and potentially more discoverable.
+
+Taken together, these features highlight two areas where independent artists have historically been at a disadvantage: control and context.
+
+For indie artists without label infrastructure, a single misattributed release can do real damage — polluting algorithmic signals like Release Radar, distorting listener data, and undermining brand clarity. Artist Profile Protection introduces something the streaming economy has lacked: proactive control.
+
+Instead of reacting after the fact, artists can now:
+
+Discovery on streaming platforms has long been centered on artist profiles and playlists. SongDNA pushes that  outward, creating new pathways based on relationships between creators. For independent artists, this could help songwriters and producers gain visibility, collaborations become more powerful discovery tools, and niche scenes and cross-genre influences become easier for fans to explore.
+
+Both features rely heavily on accurate metadata and artist input — whether it’s approving releases or managing SongDNA connections. That means that your metadata is working for you in a more front-forward way than ever before. Artists who actively manage their credits, collaborators, and catalog accuracy will be better positioned to show up in new discovery pathways and work the algorithm in their favor more.
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:45:51
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/bts-comeback-album-arirang-top-xk3_DBfjTCayCjHfZAOapA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+BTS comeback album 'Arirang' tops 4M sales, sweeps Spotify charts
+
+BTS has returned to the global stage with force. The K-pop group's fifth studio album, "Arirang," released on March 20, racked up 110 million streams on Spotify globally in its first day, making it the most-streamed album in a single day in 2026 and the most-streamed K-pop album in Spotify history. The figure nearly doubled the year's previous leader — Harry Styles's "Kiss All the Time. Disco, Occasionally," which had logged roughly 63 million opening-day streams, according to Variety.
+thatgrapejuice
+
+On the album's first full day of chart data, all 14 tracks occupied the top 14 positions on Spotify's Daily Top Songs Global chart, with lead single "SWIM" claiming the No. 1 spot at 14.6 million streams. "SWIM" held that position for a second consecutive day, with "Body to Body" locked in at No. 2.
+news.sbs
+
+koreatimes
+BTS' 'SWIM' tops Spotify's global chart for second day in a row
+malaymail
+BTS smash records with nearly four million 'Arirang' sales in 24 hours
+koreatimes
+BTS sets own first-day sales record with 'ARIRANG' - The Korea Times
+thatgrapejuice
+BTS 'ARIRANG' Spotify Debut Breaks 2026 Record With HUGE ...
+billboard.com
+Commercial Juggernaut
+
+Album sales matched the streaming blitz. BigHit Music, the label under BTS's management agency HYBE, reported that "Arirang" sold 3.98 million copies within its first 24 hours, as reported by Reuters. That surpassed the group's own previous first-week record of 3.37 million set by "Map of the Soul: 7" in 2020. By its third day, cumulative sales had crossed 4 million on the Hanteo Chart, according to the Korea Times. The album also topped iTunes Top Albums charts in 88 countries.
+malaymail
+
+A Return Years in the Making
+
+"Arirang" marks BTS's first full-group album since "Be" in 2020, reuniting members RM, Jin, Suga, J-Hope, Jimin, V, and Jung Kook after years of solo projects and mandatory military service. Produced under the direction of HYBE Chairman Bang Si-hyuk, the 14-track project explores the group's Korean identity and themes of resilience.
+koreatimes
+
+International critics have responded warmly. Rolling Stone awarded the album 4.5 out of 5 stars, calling it "the biggest comeback ever," while The Guardian gave it 4 out of 5, writing that BTS "created an album worthy of their status as the world's most popular pop group". BTS kicked off live promotions with a free concert at Seoul's Gwanghwamun Plaza on March 21 and is scheduled to appear on NBC's "The Tonight Show Starring Jimmy Fallon" on March 25 and 26.
+chosun
+
+BTS scores 7th No. 1 on Billboard Hot 100 with 'Swim'
+With seven Hot 100 No. 1 hits, BTS now holds the most chart-toppers among groups in nearly half a century, since the Bee Gees accumulated nine between 1971 and 1979. BTS's previous leaders include "Dynamite," "Savage Love (Laxed – Siren Beat)" with Jawsh 685 and Jason Derulo, "Life Goes On," "Butter," "Permission to Dance," and "My Universe". Produced under the direction of HYBE Chairman Bang...
+Kanye West's 'Bully' hits 33M Spotify streams on day one
+"Bully" is West's first solo studio album since 2022's "Donda 2" and was distributed through the independent label Gamma. The project was first teased in September 2024 and endured numerous delays throughout 2025, cycling through at least half a dozen release dates before finally materializing. West had released a handful of tracks as EPs in mid-2025, but the full album remained elusive until...
+Drake becomes first artist to top 130 billion Spotify streams
+The milestone caps an unusually strong start to 2026. Drake surpassed 4 billion Spotify streams in just 77 days this year, a pace that outstrips even his own previous records. He crossed 1 billion streams only 20 days into the year, at a point when no other rapper had yet reached 500 million. That momentum follows a 2025 in which he reportedly accumulated 17.6 billion streams, the largest annual...
+BTS performs in the U.S. for first time in 4 years at NYC Spotify event
+BTS will continue their US media blitz with back-to-back appearances on The Tonight Show Starring Jimmy Fallon on March 25 and 26, where they will sit for an in-studio interview and perform two songs across the two episodes. It will be the group's first US late-night appearance together since a Tonight Show takeover in July 2021. A behind-the-scenes documentary, BTS: The Return, premieres on...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: koreatimes
+BTS' 'SWIM' tops Spotify's global chart for second day in a row
+**Link:** https://www.koreatimes.co.kr/entertainment/k-pop/20260323/bts-swim-tops-spotifys-global-chart-for-second-day-in-a-row
+> A teaser image of BTS' new song "SWIM" / Courtesy of BigHit Music
+
+K-pop giant BTS has topped Spotify's Daily Top Songs Global chart for the second consecutive day with "SWIM," the lead track from its new album "ARIRANG," released last week.
+
+The track ranked No. 1 on Friday and Saturday, with "Body to Body" placing second, keeping both songs at the top positions globally, Spotify data showed.
+
+Other songs from the 14-track album also entered the chart's upper ranks, including "Hooligan" at No. 4, "Fya" at No. 5, "Normal" at No. 6 and "Aliens" at No. 8.
+
+BTS also dominated domestic charts. As of 11 a.m. Monday, "SWIM" held the No. 1 spot on the Top 100 songs chart of Melon, a leading local music streaming service, with five songs from "ARIRANG" in the top 10.
+
+The album sold around 540,000 copies in Japan on its first day, debuting atop Oricon's daily album chart, and surpassed 4 million sales within three days of release in the country, according to Hanteo Chart.
+
+BTS marked its return as a full seven-member group after nearly four years of a break from group projects by hosting a free concert at Gwanghwamun Square in central Seoul on Saturday, drawing tens of thousands of fans from around the world.
+
+The septet is scheduled to hold a special fan event, "Spotify x BTS: Swimside," in New York on Monday, followed by appearances on NBC's "The Tonight Show Starring Jimmy Fallon" on Wednesday and Thursday.
+
+Korea's new regulation allowing pets in restaurants backfires
+
+Court rejects activist's injunction request against passport return order
+
+2 US aircraft shot down as war in Iran escalates, search underway for crew member
+
+Korea restarts operation of Gori-2 nuclear reactor
+
+Artemis astronauts are halfway to moon: NASA
+
+#### 📌 FUENTE: malaymail
+BTS smash records with nearly four million 'Arirang' sales in 24 hours
+**Link:** https://www.malaymail.com/news/showbiz/2026/03/21/bts-smash-records-with-nearly-four-million-arirang-sales-in-24-hours/213425
+> SEOUL, March 21 — K-pop supergroup BTS has sold nearly 4 million copies of its new album Arirang on the first day of release, marking the band’s highest first-day sales to date, its agency said Saturday.
+
+BigHit Music said the band’s fifth studio album recorded 3.98 million sales within 24 hours of its release on Friday, Yonhap News Agency reported.
+
+The figure surpasses the group’s previous first-week record of 3.37 million copies set by its fourth studio album Map of the Soul: 7 in February 2020.
+
+Arirang has also topped iTunes Top Albums charts in 88 countries and regions, including Italy, Mexico and Sweden, according to the label.
+
+Its lead single Swim reached No. 1 on iTunes Top Songs charts in 90 markets, including the United States, Japan, Britain, Germany and France. In South Korea, the track debuted at No. 1 on local streaming services Melon and Bugs, with all songs from the album entering Melon’s Top 100.
+
+Produced under the direction of Hybe Chairman Bang Si-hyuk, the album explores BTS’ identity as a group that began in Korea and reflects universal feelings conveyed through its musical journey. The lead track carries a message of resilience and moving forward through life’s waves. — Bernama-Yonhap
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:46:20
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/disney-drops-official-trailer-v35mH3mvQEKBP99cJ4JRUA
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Disney drops official trailer for live-action 'Moana' remake
+
+Disney dropped the official trailer for its live-action "Moana" remake on Monday, offering the fullest look yet at Dwayne Johnson's transformation into the demigod Maui and newcomer Catherine Laga'aia stepping into the title role for the reimagined Polynesian adventure set to hit theaters on July 10, 2026.
+goodmorningamerica
+
+goodmorningamerica
+Dwayne Johnson transforms into Maui in official live-action 'Moana ...
+movies.disney
+Moana | Disney Movies
+wdwnt
+First Look at Maui, Trailer Released for Live-Action 'Moana'
+
+y105fm.com
+A First Full Look at the Voyage
+
+The trailer, which follows a teaser released in November 2025, opens with Moana yearning for life beyond the reef of her home island of Motunui as her grandmother, Gramma Tala (Rena Owen), delivers the call to adventure. "Beyond our reef, an evil darkness has found us. Moana, the ocean chose you. Find Maui, restore the heart of Te Fiti, and save us all," Gramma Tala tells her granddaughter. Johnson then appears as Maui, letting out the character's signature "chee-hoo" before shapeshifting into a whale, showcasing the heavy visual effects work that will bring the demigod's powers to life on screen. The trailer closes with Moana declaring, "I'm not a princess. I'm the daughter of the chief, leader of my people," before telling Maui, "Let's go save the world".
+goodmorningamerica
+
+Behind the Camera
+
+The film is directed by Thomas Kail, the Emmy and Tony Award winner behind "Hamilton," making his feature film debut. The screenplay comes from Jared Bush and Dana Ledoux Miller. Lin-Manuel Miranda, who wrote the original songs for the 2016 animated film including "How Far I'll Go," returns as both songwriter and producer. Auli'i Cravalho, who voiced Moana in the 2016 animated original and its 2024 sequel "Moana 2," serves as executive producer, bridging the animated and live-action chapters of the franchise. Johnson also produces alongside Dany Garcia, Beau Flynn, and Hiram Garcia.
+wdwnt
+
+A Proven Franchise Sails On
+
+The original animated "Moana" earned $643 million worldwide at the box office, and its sequel crossed the billion-dollar mark in 2024, establishing the property as one of Disney's most bankable franchises. The live-action version arrives during a crowded 2026 summer movie season, coinciding with the 10th anniversary of the original film. Joining Laga'aia and Johnson in the cast are John Tui as Chief Tui and Frankie Adams as Moana's mother, Sina.
+deadline
+
+Super Mario Galaxy Movie opens with scenes teasing Nintendo spinoffs
+Early reviews paint a familiar picture. The film holds a 44% score on Rotten Tomatoes from 66 reviews, down from the first film's 59%. ScreenCrush's review, titled "Lots of Characters, No Stars," gave the film a 4 out of 10, arguing it "seems like it was designed so that the less attention you pay to what's going on, the more you'll enjoy it". Rotten Tomatoes' critical consensus describes the...
+Disney won't redesign Moana despite mockery of Johnson's wig
+The backlash fits a recurring pattern for Disney's live-action remakes. When Jon M. Chu first revealed images from "Wicked," viewers criticized the dark visuals before seeing the finished product. The "Moana" trailer also drew complaints about its muted color palette compared to the vibrant animated original, with one user writing, "I don't get how they made Polynesia of all places look dull and...
+Glen Powell to voice Fox McCloud in Super Mario Galaxy Movie
+Powell joins a returning ensemble that includes Chris Pratt as Mario, Anya Taylor-Joy as Princess Peach, Charlie Day as Luigi, Jack Black as Bowser, and Keegan-Michael Key as Toad. New additions for the sequel include Brie Larson as Rosalina, Donald Glover as Yoshi, Benny Safdie as Bowser Jr., Issa Rae as the Honey Queen, and Luis Guzmán as Wart. The Super Mario Galaxy Movie, produced by...
+'Ranma 1/2' anime remake renewed for third season in October
+The Ranma 1/2 remake first premiered in October 2024 on Japan's NTV channel, streaming exclusively on Netflix after broadcast. A second season followed in October 2025, maintaining the same annual release schedule that the third season now continues. The series has steadily built a devoted audience, with fans on social media praising MAPPA's escalating production values with each new...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: goodmorningamerica
+Dwayne Johnson transforms into Maui in official live-action 'Moana ...
+**Link:** https://www.goodmorningamerica.com/culture/story/dwayne-johnson-transforms-maui-official-live-action-moana-131330094
+> The official trailer for the upcoming live-action "Moana" film is here.
+
+Disney debuted the trailer for the reimagined "Moana" on Monday, featuring Catherine Laga'aia as the titular Moana and Dwayne Johnson returning in his role from the 2016 animated film and 2024 sequel, the trickster demigod Maui.
+
+Catherine Laga’aia joins Dwayne Johnson as Moana in live-action film slated for July 2026
+
+The trailer opens with Moana longing for more beyond the reef of her home island, Motunui, as her grandmother, Gramma Tala (Rena Owen), shares a story.
+
+"The story has just begun," Gramma Tala tells her. "Beyond our reef, an evil darkness has found us. Moana, the ocean chose you. Find Maui, restore the heart of Te Fiti, and save us all."
+
+Johnson then appears as Maui, meeting Moana for the first time and letting out an iconic "chee-hoo" before transforming into a whale.
+
+The two set sail on a mission aboard a wayfinding boat, encountering a few obstacles along the way.
+
+The trailer ends with Moana telling Maui, "I'm not a princess. I'm the daughter of the chief, leader of my people."
+
+Maui asks her, "Are you ready to be the hero?"
+
+"Let's go save the world," she replies.
+
+The highly anticipated film is directed by Thomas Kail from a screenplay by Jared Bush and Dana Ledoux Miller. Tiana Nonosina Liufau collaborated with filmmakers on the choreography, while Liz McGregor served as costume designer.
+
+The film is produced by Johnson, Dany Garcia, Beau Flynn, Hiram Garcia, and Lin-Manuel Miranda, who served as songwriter on the 2016 animated "Moana" film. It is executive-produced by Kail, Scott Sheldon, Charles Newirth and Auli'i Cravalho, who voiced Moana in the original animated film and sequel.
+
+'Moana' live-action film in development, Dwayne Johnson announces in new video
+
+Starring alongside Laga'aia and Johnson in the film are John Tui as Moana's father Chief Tui and Frankie Adams as Moana's mother Sina.
+
+"Moana" sails into theaters July 10.
+
+Disney is the parent company of ABC News and "Good Morning America."
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:46:53
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/bts-drops-fifth-album-arirang-zMasNLW.TfKRMUxtmcohHw
+
+### 📝 Resumen Ejecutivo (Perplexity)
+BTS drops fifth album ARIRANG, ending nearly four-year hiatus
+
+Global K-pop group BTS released their fifth full-length album, ARIRANG, on Friday, March 20, marking the septet's first collective project in nearly four years after all seven members completed mandatory military service in South Korea. The 14-track album arrives alongside a music video for lead single "SWIM," an upbeat alternative pop track about pressing forward through life's uncertainties.
+koreatimes
+
+koreatimes
+BTS drops music video teaser for 'SWIM' as full-group return nears
+abc.net
+BTS returns from military service. Is its comeback worth the wait?
+ks95
+BTS unveils track listing for new album, featuring co-writes by Ryan ...
+
+hiptv.tv
+A Homecoming Rooted in Korean Identity
+
+The album takes its name from the traditional Korean folk song "Arirang," long associated with themes of connection, distance, and reunion. BigHit Music described the project as "a deeply reflective body of work" that explores the group's "identity and roots" over their 12-year career. In a February interview with GQ, Suga said the album would feature "a diversity of genres" and promised listeners would "see a more mature side of BTS this time around".
+abc
+
+RM, the group's leader, contributed to the writing of 13 of the album's 14 tracks, with all seven members holding songwriting credits across the project. The album was recorded over two months in Los Angeles beginning in July 2025, shortly after the final members were discharged from service. The production roster reads like a who's who of global hitmakers: Diplo is credited on five tracks, Ryan Tedder of OneRepublic on five, and additional contributions come from Kevin Parker of Tame Impala, Flume, Mike WiLL Made-It, El Guincho, and JPEGMAFIA, alongside longtime BTS producer Pdogg.
+koreatimes
+
+SWIM Sets the Tone
+
+The lead single "SWIM" carries the album's central metaphor, interpreting the resolve to keep moving forward amid life's turbulent waves as "a love for life," according to BigHit Music. The cinematic music video was directed by Ukrainian filmmaker Tanu Muino, known for her Grammy-nominated work on Lil Nas X's "Montero" and Harry Styles' "As It Was," as well as BTS member Jungkook's solo hit "Standing Next to You". The Korea Herald reported that American actress Lili Reinhart appears in the video, a casting choice that music critic Lim Hee-yun said signals "a clear intention to target the Western pop market".
+chosun
+
+What Comes Next
+
+The comeback extends well beyond the album. BTS will hold a free concert titled "BTS Comeback Live: ARIRANG" at Seoul's Gwanghwamun Square on Saturday, livestreamed globally on Netflix. A Spotify collaboration event in New York will follow days later. On March 27, Netflix will debut "BTS: The Return," a documentary chronicling the making of the album. The group will then launch a world tour spanning 34 cities and 82 performances, the most dates ever for a K-pop act.
+thehoneypop
+
+BTS scores 7th No. 1 on Billboard Hot 100 with 'Swim'
+With seven Hot 100 No. 1 hits, BTS now holds the most chart-toppers among groups in nearly half a century, since the Bee Gees accumulated nine between 1971 and 1979. BTS's previous leaders include "Dynamite," "Savage Love (Laxed – Siren Beat)" with Jawsh 685 and Jason Derulo, "Life Goes On," "Butter," "Permission to Dance," and "My Universe". Produced under the direction of HYBE Chairman Bang...
+BTS films secret Guggenheim performance for Tonight Show
+The Guggenheim taping and Fallon interview cap a whirlwind promotional stretch in New York that has included a Spotify fan event. BTS last appeared together on The Tonight Show during their "BTS Week" takeover in July 2021, which drew nearly 120 million digital views. Individual members made solo visits to the show between 2022 and 2025 while their bandmates completed military service. The...
+BTS performs in the U.S. for first time in 4 years at NYC Spotify event
+BTS will continue their US media blitz with back-to-back appearances on The Tonight Show Starring Jimmy Fallon on March 25 and 26, where they will sit for an in-studio interview and perform two songs across the two episodes. It will be the group's first US late-night appearance together since a Tonight Show takeover in July 2021. A behind-the-scenes documentary, BTS: The Return, premieres on...
+BTS documentary 'The Return' premieres on Netflix Friday
+"BTS: The Return" arrives as the group prepares to launch the Arirang World Tour, spanning 34 cities and 82 performances from April 2026 through March 2027.
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: abc.net
+BTS returns from military service. Is its comeback worth the wait?
+**Link:** https://www.abc.net.au/news/2026-03-20/bts-2026-album-arirang-comeback-concert-netflix-documentary/106473806
+> BTS has come out of hiatus to reclaim its K-pop throne with comeback album Arirang. (Supplied: Netflix)
+
+It's one of the most anticipated events of the year: the return of K-pop supergroup BTS.
+
+Today marks the release of Arirang, the first new music since all seven members completed their mandatory military service in the South Korean Army.
+
+Named after a centuries-old Korean folk song, Arirang closes the gap since 2022's anthology album Proof and 2020's chart-topping Be, which housed the international hits Dynamite and Life Goes On.
+
+BTS is supporting the album release with a mammoth world tour, spanning 34 regions, including Australian dates scheduled for 2027.
+
+It's a very big deal. So, whether you need to bone up on BTS basics, or this is your first day on the internet (welcome), here's everything you need to know …
+
+BTS, which is short for Bangtan Sonyeondan (translating to Bulletproof Boy Scouts) and later, Beyond the Scene, is the most successful K-pop export of its generation.
+
+It has sold more than 500 million units and breached more than 104 billion streams worldwide, making BTS one of the all-time best-selling groups of any genre and any nation.
+
+RM, J-Hope, Jung Kook, Jimin, Jin, Suga, and V of BTS. (Supplied: BigHit Music)
+
+BTS's career is dotted with historic firsts: the first Korean group to top the Australian ARIA albums chart (in 2019 with Map of the Soul: Persona), as well as topping both the US Billboard 200 album chart and Billboard 100 singles chart six times.
+
+A global cultural force that sells out stadiums worldwide and commands a record-breaking social media following, BTS is the first act to have won the IFPI Global Recording Artist of the Year trophy twice, in 2020 and 2021.
+
+The group has been on a nearly four-year hiatus in order for all seven members — RM, Jung Kook, Suga, Jimin, V, Jin and J-Hope — to undertake Korea's mandatory national service.
+
+The last remaining member of BTS to complete military service has been discharged.
+
+All South Korean men aged 18 to 28 are conscripted for an 18 to 21-month term.
+
+There was debate whether BTS, practically national treasures, would earn the kind of special exemptions given to athletes, classical musicians and dancers.
+
+However, the K-pop stars were not exempt and in December 2022, they staggered each member's service. As some members left for enlistment, others pursued their solo careers.
+
+Eldest member, Jin, enlisted first and was discharged in June, 2024, followed by J-Hope later the same year. RM, V, Jimin, and Jung Kook were discharged in early June 2025, while Suga was the last to complete his service, on 21 June, 2025.
+
+Often Australian fans get a sneaky early listen to albums as midnight rolls around here well before it does in other major markets around the world.
+
+For releases from artists as popular as BTS though, there is usually a worldwide premiere time that ensures everyone gets to hear it at the same time.
+
+So, fans will have to wait a few more excruciating hours to hear the album, which goes live on streaming services at 3pm AEDT, Friday March 20.
+
+BTS means business on the album cover for Arirang. (Supplied: BigHit Music)
+
+Arirang is available on all major platforms from today, including Spotify, Apple Music, YouTube, as well as South Korean subscription services like Melon and Genie Music.
+
+There is also a staggering array of physical releases available on CD and vinyl, with BTS's famously devoted fans able to choose from different colours and bonus extras across different versions.
+
+There are reportedly 16 different physical versions available, with a range of standard copies, member-specific releases, and various deluxe editions ready for their feverish fans.
+
+Besides being pitched as BTS's return to global pop domination following its hiatus, Arirang is described as a "deeply reflective body of work" by label Big Hit Entertainment, which explores the "identity and roots" of the seven-piece more than a decade after its debut.
+
+This w
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:47:19
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/sonic-4-teaser-confirms-jim-ca-7WMnYa3cRoimA7V8uEEcRQ
+
+### 📝 Resumen Ejecutivo (Perplexity)
+Sonic 4 teaser confirms Jim Carrey's return, adds four new cast members
+
+Paramount Pictures dropped a teaser trailer for Sonic the Hedgehog 4 on Wednesday, exactly one year before the film's March 19, 2027 theatrical release, revealing the full cast for what promises to be the biggest entry yet in the billion-dollar franchise.
+
+toonado
+SONIC THE HEDGEHOG 4 Full Cast Revealed - Is Jim Carrey ...
+nordic.ign
+Sonic the Hedgehog 4 Teaser Trailer Confirms Jim Carrey's Return ...
+sonicstadium
+Kristen Bell Cast As Amy Rose in Sonic 4
+
+nordic.ign.com
+The Cast Takes Shape
+
+The teaser confirmed Jim Carrey's return as Dr. Robotnik, a surprise given that the villain appeared to perish in an explosion at the end of Sonic the Hedgehog 3. Keanu Reeves will also reprise his role as Shadow the Hedgehog, whose survival was hinted at in the third film's post-credits scene.
+nordic.ign
+
+Joining the franchise are four newcomers in undisclosed roles: Oscar winner Ben Kingsley, Nick Offerman of The Last of Us, Richard Ayoade of The IT Crowd, and Matt Berry of What We Do in the Shadows. Kristen Bell, previously announced in February as the voice of Amy Rose, rounds out the new additions. The returning voice cast includes Ben Schwartz as Sonic, Idris Elba as Knuckles, and Colleen O'Shaughnessey as Tails, with James Marsden, Tika Sumpter, and Lee Majdoub returning in live-action roles.
+toonado
+
+A Teaser Full of Clues
+
+The brief trailer opens with Amy Rose's hammer smashing through to reveal the Chaos Emeralds, inside which reflections of the film's characters appear, including Metal Sonic — the robotic antagonist first teased in Sonic 3's mid-credits scene. Carrey's voice is heard as Robotnik delivering a warning: "You think your world is safe, but your time is about to run out. The chaos has only just begun". The official Sonic Movie account posted the teaser with the tagline, "The countdown to chaos has begun".
+toonado
+
+A Billion-Dollar Franchise Keeps Running
+
+Director Jeff Fowler, who helmed all three previous installments, is back in the director's chair, with filming having begun in early March in Vancouver. Fowler confirmed production's start by posting a photo of himself holding Amy Rose's Piko Piko hammer alongside a clapperboard, captioned "Ready 4 Action".
+imdb
+
+The franchise has become one of Paramount's most reliable earners. Sonic the Hedgehog 3 grossed $492 million worldwide on a $122 million budget, pushing the series past the $1 billion mark globally. Schwartz has spoken enthusiastically about the team dynamic forming across the films: "Once you figure that out, you could really let everybody have their moment, and then together, like Voltron, come and be even more powerful".
+variety
+
+Andy Serkis confirms Aragorn recast for 'Hunt for Gollum'
+Woodall, 29, has risen quickly as one of British cinema's most in-demand young actors. He broke out in the second season of HBO's The White Lotus and starred opposite Ambika Mod in the Netflix romantic drama One Day. More recently, he appeared alongside Rachel Weisz in the Netflix limited series Vladimir and in the romantic comedy Bridget Jones: Mad About the Boy. The Hunt for Gollum, directed...
+Super Mario Galaxy Movie opens with scenes teasing Nintendo spinoffs
+Early reviews paint a familiar picture. The film holds a 44% score on Rotten Tomatoes from 66 reviews, down from the first film's 59%. ScreenCrush's review, titled "Lots of Characters, No Stars," gave the film a 4 out of 10, arguing it "seems like it was designed so that the less attention you pay to what's going on, the more you'll enjoy it". Rotten Tomatoes' critical consensus describes the...
+Glen Powell to voice Fox McCloud in Super Mario Galaxy Movie
+Powell joins a returning ensemble that includes Chris Pratt as Mario, Anya Taylor-Joy as Princess Peach, Charlie Day as Luigi, Jack Black as Bowser, and Keegan-Michael Key as Toad. New additions for the sequel include Brie Larson as Rosalina, Donald Glover as Yoshi, Benny Safdie as Bowser Jr., Issa Rae as the Honey Queen, and Luis Guzmán as Wart. The Super Mario Galaxy Movie, produced by...
+Gemma Chua-Tran joins Netflix's live-action Gundam film
+Production is set to begin filming in Australia next month, according to Anime News Network, with the shoot expected to run through June. The project has had a winding path to the screen. Legendary Pictures first announced the adaptation at Anime Expo in July 2018, and Netflix confirmed its involvement in 2021 with Kong: Skull Island director Jordan Vogt-Roberts originally attached. Vogt-Roberts...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: toonado
+SONIC THE HEDGEHOG 4 Full Cast Revealed - Is Jim Carrey ...
+**Link:** https://toonado.com/movies/sonic-the-hedgehog-4-full-cast-revealed---is-jim-carrey-returning-as-eggman-a10156
+> A new teaser for Sonic the Hedgehog 4 has been released, confirming that Ben Kingsley (Wonder Man) and Nick Offerman (The Last of Us) are officially joining the Sonic Universe.
+
+Richard Ayoade (The IT Crowd) and Matt Berry (What We Do in the Shadows) have also boarded the movie's cast, along with returning stars Ben Schwartz, Jim Carrey, Idris Elba, Keanu Reeves, James Marsden, Tika Sumpter, Colleen O’Shaughnessey, and Lee Majdoub.
+
+Kristen Bell (Frozen) is playing Amy Rose in Sonic the Hedgehog 4, which was confirmed by Paramount a few weeks ago. Unfortunately, there's no word on who Kingsley, Offerman, Ayoade, and Berry are playing.
+
+The big news here, of course, is that Carrey will reprise his role as the villainous Dr. Robotnik. We're sure many of you will also welcome the news that Reeves is back as Shadow (the character's fate was left ambiguous at the end of Sonic the Hedgehog 3).
+
+Released in 2020, Sonic the Hedgehog grossed $319 million worldwide. The movie's controversial redesign of Sonic very nearly derailed the project. However, Paramount decided to delay its release date to basically redo the character and bring him more in line with the games.
+
+In 2022, Sonic the Hedgehog 2 grossed $405 million worldwide, with the threequel making $492 million globally in 2024. That makes this a $1 billion franchise for Paramount, so this fourth chapter will likely pull out all the stops.
+
+"If you see the end of this film, it teases stuff that would be the coolest thing to bring into our franchise," Schwartz said at the end of 2024. "And I want so badly to play with that storyline. So I am very much into it and very much want to add. And they've found ways to make sure that everybody gets to play a little bit."
+
+"And I think what you're saying is exactly correct, where it's like we're making a team, so we get to play together. It's me, Sonic, if you talk with CG characters. Me, Tails, Knuckles. Do you know what I mean? As a team," the actor continued. "One person's strength with Knuckles, the speed with Sonic, the flight and Gizmos with Tails and us learning how to work as a team."
+
+Schwartz added, "I think about how many great Guardians of the Galaxy, or The Avengers, or Fantastic Four or X-Men. Like once you figure that out, you could really play things. You could really let everybody have their moment, and then together, like Voltron, come and be even more powerful."
+
+Sonic the Hedgehog 4 races into theaters on March 19, 2027.
+
+The countdown to chaos has begun. 💎 #SonicMovie4 - only in theatres March 19, 2027. pic.twitter.com/DE5RevbW9a
+
+This post was submitted by a user who has agreed to our Terms of Service and Community Guidelines. Toonado.com will disable users who knowingly commit plagiarism, piracy, trademark or copyright infringement. Please CONTACT US for expeditious removal of copyrighted/trademarked content. CLICK HERE to learn more about our copyright and trademark policies.
+
+Note that Toonado.com, and/or the user who contributed this post, may earn commissions or revenue through clicks or purchases made through any third-party links contained within the content above.
+
+Home | Index | Site Map | About | Terms Of Service | Community Guidelines | Privacy | Copyright | Trademark Contact | Advertise
+
+© 2026 Toonado.com. All Rights Reserved.
+
+DISCLAIMER: As a user generated site, Toonado.com is protected from liability under the DMCA (Digital Millenium Copyright Act) and "Safe Harbor" provisions. Content herein has been submitted by users who have agreed to our Terms of Service and Community Guidelines. Toonado.com will disable users who knowingly commit plagiarism, piracy, trademark or copyright infringement. Toonado.com and Best Little Sites LLC are not liable for inaccuracies, errors, or omissions.
+
+Learn more about our copyright and trademark policies
+
+Contact Us for removal of copyrighted images, trademarks, or other issues.
+
+#### 📌 FUENTE: nordic.ign
+Sonic the Hedgehog 4 Teaser Trailer Confirms Jim Carrey's Return ...
+**Link:** https://nordic.ign.com/sonic-the-hedgehog-4/105262/news/sonic-the-hedgehog-4-teaser-trailer-confirms-jim-carreys-return-as-dr-robotnik
+> A new teaser trailer for Sonic the Hedgehog 4 has confirmed Jim Carrey’s return as Dr. Robotnik.
+
+The teaser, below, starts with Amy’s hammer breaking through a material to reveal the Chaos Emeralds. We then hear Carrey as Robotnik say: “You think your world is safe, but your time is about to run out. The chaos has only just begun.”
+
+In the emeralds we see images of the various characters set to appear in the movie, including Ben Schwartz’s Sonic, the aforementioned Dr. Robotnik, Idris Elba’s Knuckles, Colleen O'Shaughnessey’s Tails, Keanu Reeves’ Shadow, James Marsden and Tika Sumpter as Tom and Maddie Wachowski, Kristen Bell’s Amy Rose, and Metal Sonic, who was teased at the end of Sonic 3. Fans have already picked up on the Sonic Boom reference.
+
+Sonic 4 will also star Ben Kingsley, Nick Offerman, Richard Ayoade, and Matt Berry in currently undisclosed roles. But Carrey’s return here is of particular interest, given the legendary actor has repeatedly suggested he’s either ready to or has actually retired from acting. And then there was that whole weird Jim Carrey clone business, which went viral earlier this year.
+
+In 2022, the 64-year-old Hollywood legend said he was considering retiring after starring in Sonic the Hedgehog 2. “Well, I’m retiring,” he said. “Yeah, probably. I’m being fairly serious. It depends. If the angels bring some sort of script that’s written in gold ink that says to me that it’s going to be really important for people to see, I might continue down the road, but I’m taking a break.”
+
+“I really like my quiet life and I really like putting paint on canvas,” he added. “I really love my spiritual life and I feel like — and this is something you might never hear another celebrity say as long as time exists — I have enough. I’ve done enough. I am enough.”
+
+Explaining his decision to return for Sonic 3, Carrey said he bought a load of stuff and simply needs the money. "I came back to this universe because, first of all, I get to play a genius, which is a bit of a stretch," Carrey said. "And, you know, it’s just… I bought a lot of stuff and I need the money, frankly."
+
+Sonic the Hedgehog 4 is currently expected to zip into theaters on March 19, 2027. There's a Sonic spinoff movie coming as well in 2028, and fans are speculating it will star Shadow the Hedgehog.
+
+Wesley is Director, News at IGN. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:47:48
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/spider-man-brand-new-day-trail-8N3lF8tVR26qVynGZKk6cg
+
+### 📝 Resumen Ejecutivo (Perplexity)
+'Spider-Man: Brand New Day' trailer tops 500M views in under 24 hours
+
+Sony and Marvel Studios released the first official trailer for Spider-Man: Brand New Day on Wednesday, March 18, drawing more than 500 million views in under 24 hours and shattering the previous record held by the Grand Theft Auto VI trailer. Tom Holland unveiled the full footage from atop the Empire State Building, lighting up the landmark in red and blue to mark what the studio called "a brand new day" for the franchise.
+twistedvoxel
+
+marvel
+Watch the Official Trailer for ‘Spider-Man: Brand New Day’
+ew
+'Spider-Man: Brand New Day' trailer reveals Punisher, Hulk, and Scorpion
+gizmodo
+Breaking Down the Secrets of the ‘Spider-Man: Brand New Day’ Trailer
+
+people.com
+A Darker Chapter for Peter Parker
+
+The trailer picks up four years after the events of 2021's Spider-Man: No Way Home, with Peter Parker now living in total isolation after erasing himself from the memories of everyone he loves. No longer recognized by friends MJ (Zendaya) or Ned (Jacob Batalon), Peter has thrown himself into full-time crime-fighting — but the toll is mounting. The footage reveals that his body is undergoing a startling physical evolution, with his DNA changing to produce organic webs rather than synthetic ones, drawing comparisons to Tobey Maguire's earlier portrayal of the character.
+marvel
+
+youtube
+
+"The pressure sparks a surprising physical evolution that threatens his existence," according to the film's official synopsis, "even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced".
+youtube
+
+New Faces and Familiar Foes
+
+The trailer introduces several characters new to Holland's corner of the Marvel Cinematic Universe. Jon Bernthal reprises his role as Frank Castle, the Punisher, complete with the character's iconic Battle Van from the comics, clashing with Spider-Man in an explosive armored car chase. Michael Mando returns as Mac Gargan — last glimpsed in a Homecoming post-credits scene — now fully suited up as the Scorpion. Mark Ruffalo appears as Bruce Banner, seemingly now a university professor, while Tramell Tillman plays a mysterious new figure whose allegiances remain unclear. Sadie Sink rounds out the cast in an undisclosed role that Marvel is keeping tightly under wraps, though the trailer hints at mind-control abilities.
+ew
+
+Summer Blockbuster Stakes
+
+Directed by Destin Daniel Cretton and written by Chris McKenna and Erik Sommers, Spider-Man: Brand New Day is set to open exclusively in theaters on July 31, 2026. The film arrives just two weeks after Holland and Zendaya co-star in The Odyssey, and is positioned ahead of Avengers: Doomsday later in the year, setting the stage for the next phase of the MCU.
+people
+
+youtube
+
+Super Mario Galaxy Movie opens with scenes teasing Nintendo spinoffs
+Early reviews paint a familiar picture. The film holds a 44% score on Rotten Tomatoes from 66 reviews, down from the first film's 59%. ScreenCrush's review, titled "Lots of Characters, No Stars," gave the film a 4 out of 10, arguing it "seems like it was designed so that the less attention you pay to what's going on, the more you'll enjoy it". Rotten Tomatoes' critical consensus describes the...
+Disney won't redesign Moana despite mockery of Johnson's wig
+The backlash fits a recurring pattern for Disney's live-action remakes. When Jon M. Chu first revealed images from "Wicked," viewers criticized the dark visuals before seeing the finished product. The "Moana" trailer also drew complaints about its muted color palette compared to the vibrant animated original, with one user writing, "I don't get how they made Polynesia of all places look dull and...
+'Daredevil: Born Again' season 2 hits No. 1 on Disney+ worldwide
+The season consists of eight episodes releasing weekly through May, with episodes 2 and 3 both dropping on March 31. The cast expands this season with the return of Krysten Ritter as Jessica Jones and the introduction of Matthew Lillard as the enigmatic Mr. Charles. A third season is already in production, slated for 2027.
+Peaky Blinders film tops Netflix chart with 25.3M views in its first weekend
+While The Immortal Man concludes Tommy Shelby's story — the film ends with the character's death — the Peaky Blinders universe is far from finished. Netflix has commissioned two seasons of a sequel series set in 1953, following a new generation of Shelbys amid Birmingham's postwar reconstruction. Filming has already begun in Stoke-on-Trent, according to Radio Times, with Knight confirming he had...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: marvel
+Watch the Official Trailer for ‘Spider-Man: Brand New Day’
+**Link:** https://www.marvel.com/articles/movies/spider-man-brand-new-day-full-official-trailer-july-2026
+> Access Over 30,000+ Digital Comics
+
+This summer, Peter Parker returns to the big screen in Spider-Man: Brand New Day. Over the course of 24 hours, Spidey fans around the world revealed small snippets of the upcoming film’s trailer. The baton-passing culminated with Tom Holland unveiling the full trailer from atop the Empire State Building at sunrise, ringing in a brand new day for New York City. Following its launch in the Big Apple, the Spider-Man: Brand New Day trailer became the biggest of all time, with fans watching it over 718 million times in its first day alone.
+
+After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man. Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.
+
+Can’t-miss news and updates from across the Marvel Universe!
+
+‘Wonder Man’ Will Return for Season 2
+
+Watch the Official Trailer for ‘Spider-Man: Brand New Day’
+
+‘A Marvel Television Special Presentation: The Punisher: One Last Kill’ Release Date Revealed
+
+Peni Parker Joins ‘MARVEL Tōkon: Fighting Souls’ With the Amazing Guardians Team
+
+April 1's New Marvel Comics: The Full List
+
+Access Over 30,000+ Digital Comics
+
+#### 📌 FUENTE: ew
+'Spider-Man: Brand New Day' trailer reveals Punisher, Hulk, and Scorpion
+**Link:** https://ew.com/spider-man-brand-new-day-trailer-punisher-hulk-scorpion-11928072
+> No more synthetic webs for Peter.
+
+Tom Holland's Peter Parker and the Marvel Cinematic Universe are going through some...changes.
+
+This week's Spider-Man: Brand New Day trailer reveals a major new story point for our friendly neighborhood wall-crawler, plus first looks at familiar characters coming into his orbit.
+
+Jon Bernthal's Frank Castle/Punisher arrives on the scene after his role in Daredevil: Born Again season 1. He's followed close behind by Mark Ruffalo's Bruce Banner/Hulk, who's now a college professor. Then there's Scorpion himself. Michael Mando makes a comeback as the Spidey villain after he made a brief cameo in the Spider-Man: Homecoming post-credits scene.
+
+But the biggest new development is that Peter Parker is mutating. That's right, no more synthetic webs for him. His DNA is evolving, making Holland's character more like the Spider-Man of the Tobey Maguire era, where the webs actually come out of him.
+
+There's lots more to be gleaned from the trailer, including a first glimpse at the main villain. We don't see a face, but we get the sense that there's some kind of mind control. This adversary, whoever it is, can seemingly possess the mind of a victim and telepathically hop from person to person.
+
+This will add more fuel to the fire of speculation around Sadie Sink's role. People have long guessed that the noticeably red-haired Stranger Things star could be playing telekinetic and telepathic mutant Jean Grey, since Marvel is charting a new path for the X-Men on screen. However, the actress once told Entertainment Weekly, "That was happening before I even knew that I would be working on this project. I was like, ‘Wait! What are people talking about?’”
+
+Numerous other theories abound, including one suggesting she could be playing Punisher sidekick Rachel Cole-Alves. Jon Bernthal, after all, reprises his part of Frank Castle in Spider-Man: Brand New Day. “A lot of people forget that hair color can change, but, yeah, I understand all of the theories,” Sink said at the time of the EW interview.
+
+There appears to be way more villains than previously thought. There's the presence of a group of sword-wielding ninjas dressed all in red, which gives the impression of the Hand, a prominent mystical ninja clan and criminal organization from Marvel comics. They were last seen in live-action during the Netflix era of Marvel Television.
+
+Additional scenes include figures that look like Tarantula (the red-and-black-suited character with spikes coming out of their boots) and Boomerang (the white-and-blue masked character hurling metal boomerangs midair).
+
+In anticipation of the trailer release, Sony partnered with a slew of fans and influencers to release snippets of the full preview across social media through a series of posts. "We are doing something that has never been done before," Holland said in a video kicking off the viral marketing stunt.
+
+Spider-Man: Brand New Day picks up four years after the events of 2021's Spider-Man: No Way Home, which ended with the world forgetting about the existence of Holland's Peter Parker, courtesy of a Doctor Strange (Benedict Cumberbatch) spell. It was either that or let the multiverse collapse on itself.
+
+Get your daily dose of entertainment news, celebrity updates, and what to watch with our EW Dispatch newsletter.
+
+Peter is now operating anonymously again as everyone's favorite neighborhood wall-crawler, but a series of unusual crimes pulls him into a larger mystery.
+
+Spidey regulars like Zendaya and Jacob Batalon are back for this next outing, while rapper Marvin "Krondon" Jones will also play comic book villain Tombstone, a role in the 2018 animated film Spider-Man: Into the Spider-Verse.
+
+Destin Daniel Cretton, who directed Shang-Chi and the Legend of the Ten Rings, is back at the helm for this Marvel movie.
+
+The film is set to hit theaters on July 31.
+
+This article has been updated with additional trailer details.
+# 📂 CATEGORÍA: Entertainment
+---
+
+## 📰 Sin Título Extraído
+> 🕒 **Publicado:** 2026-04-04 14:48:17
+> 🔗 **Perplexity URL:** https://www.perplexity.ai/discover/entertainment/spider-man-brand-new-day-trail-Eyrd58fzQouHII7M4Dql5w
+
+### 📝 Resumen Ejecutivo (Perplexity)
+'Spider-Man: Brand New Day' trailer debuts with Punisher, Hulk, and organic web twist
+
+Marvel Studios and Sony Pictures released the first full trailer for Spider-Man: Brand New Day on Wednesday morning, revealing Tom Holland's return as Peter Parker alongside a roster of familiar MCU faces — and a dramatic new twist on the web-slinger's powers. The film, directed by Destin Daniel Cretton, is set for theaters on July 31, 2026.
+ew
+
+ew
+'Spider-Man: Brand New Day' trailer reveals Punisher, Hulk, and Scorpion
+kotaku
+Spider-Man: Brand New Day Trailer Shows Spidey's New Powers
+za.ign
+Spider-Man: Brand New Day Trailer Features MJ, Bruce Banner, Punisher and Scorpion — and a Brief Glimpse at Sadie Sink's Character
+
+imdb.com
+A Spider in Metamorphosis
+
+The trailer picks up years after the events of 2021's Spider-Man: No Way Home, which ended with the world forgetting Peter Parker's identity following a spell cast by Doctor Strange. Peter is once again operating anonymously, but something is changing inside him. His DNA appears to be evolving, granting him the ability to produce organic webs from his body rather than relying on synthetic web-shooters — a shift that echoes Tobey Maguire's portrayal of the character in Sam Raimi's original trilogy.
+kotaku
+
+"We are doing something that has never been done before," Holland said in a video launching the trailer's viral marketing campaign, which saw Sony distribute seconds-long clips to fans and influencers around the globe before the full trailer debuted at sunrise in New York.
+ew
+
+New Allies and Old Enemies
+
+Jon Bernthal reprises his role as Frank Castle, the Punisher, fresh off his appearance in Daredevil: Born Again, and the trailer makes clear the two characters will  substantial screen time — including a moment where Castle plows a van into Spider-Man's side. Mark Ruffalo returns as Bruce Banner, now apparently working as a college professor in his human form rather than as the Smart Hulk hybrid. Michael Mando is back as Scorpion, a character last glimpsed in the post-credits scene of Spider-Man: Homecoming nearly a decade ago.
+ign
+
+The cast also includes Zendaya returning as MJ, Jacob Batalon as Ned Leeds, rapper Marvin "Kr" Jones III as the comic book villain Tombstone, and Liza Colón-Zayas. The trailer hints at the presence of The Hand, the ninja organization from Marvel's Netflix era, according to IGN.
+artthreat
+
+The Sadie Sink Mystery
+
+Perhaps the trailer's biggest question mark is Sadie Sink's unnamed character, shown only from behind in a long coat and seemingly wielding mind-control abilities. Speculation has centered on the possibility that the Stranger Things actress could be playing the mutant telepath Jean Grey, potentially marking the X-Men's entrance into the MCU. Sink herself has deflected the theories. "I love all of the theories," she told Entertainment Weekly, without confirming or denying any of them. She is also expected to appear in Avengers: Secret Wars, suggesting her character will have a lasting role in the franchise.
+gizmodo
+
+Pattinson says Batman Part II starts filming next week
+One key role remains unfilled. According to scooper Jeff Sneider, Robert De Niro was offered the part of Christopher Dent, Harvey's father, and turned it down. Reports indicate that Brad Pitt, Stellan Skarsgård, and Daniel Craig have also declined the role, while Viggo Mortensen has been floated as a potential candidate. Co-writer Tomlin appeared to respond to the casting rumors with a cryptic...
+Fox McCloud confirmed for Super Mario Galaxy Movie
+The Super Mario Galaxy Movie, produced by Illumination and Nintendo and directed by Aaron Horvath and Michael Jelenic, stars Chris Pratt as Mario, Jack Black as Bowser, Brie Larson as Rosalina, and Donald Glover as Yoshi. The first Super Mario Bros. Movie earned more than $1.3 billion at the box office in 2023, and Nintendo already has a live-action Legend of Zelda film in development. Whether...
+HBO drops first Harry Potter trailer, sets Christmas 2026 premiere
+The accelerated premiere date caught many off guard. As recently as this week, fan accounts and even HBO-affiliated posts still referenced a 2027 launch. The move-up to December 25, 2026 positions the series as the centerpiece of Warner Bros. Discovery's holiday streaming strategy. The trailer dropped one day after HBO hosted a splashy London celebration for the launch of HBO Max in the United...
+Spider-Man: Brand New Day trailer tops 1B views, a first for any movie
+The trailer marks Tom Holland's first appearance as Spider-Man in five years, following Spider-Man: No Way Home, which grossed $1.9 billion worldwide for Sony. Brand New Day, set for a July 31, 2026 theatrical release, features returning stars Zendaya, Jacob Batalon, and Michael Mando alongside newcomers Jon Bernthal as the Punisher, Mark Ruffalo as Bruce Banner, and Sadie Sink in an undisclosed...
+Pro
+Free preview of advanced search enabled.
+Learn more
+
+---
+### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES
+*Esta sección contiene el contexto completo de las fuentes citadas:*
+
+#### 📌 FUENTE: ew
+'Spider-Man: Brand New Day' trailer reveals Punisher, Hulk, and Scorpion
+**Link:** https://ew.com/spider-man-brand-new-day-trailer-punisher-hulk-scorpion-11928072
+> No more synthetic webs for Peter.
+
+Tom Holland's Peter Parker and the Marvel Cinematic Universe are going through some...changes.
+
+This week's Spider-Man: Brand New Day trailer reveals a major new story point for our friendly neighborhood wall-crawler, plus first looks at familiar characters coming into his orbit.
+
+Jon Bernthal's Frank Castle/Punisher arrives on the scene after his role in Daredevil: Born Again season 1. He's followed close behind by Mark Ruffalo's Bruce Banner/Hulk, who's now a college professor. Then there's Scorpion himself. Michael Mando makes a comeback as the Spidey villain after he made a brief cameo in the Spider-Man: Homecoming post-credits scene.
+
+But the biggest new development is that Peter Parker is mutating. That's right, no more synthetic webs for him. His DNA is evolving, making Holland's character more like the Spider-Man of the Tobey Maguire era, where the webs actually come out of him.
+
+There's lots more to be gleaned from the trailer, including a first glimpse at the main villain. We don't see a face, but we get the sense that there's some kind of mind control. This adversary, whoever it is, can seemingly possess the mind of a victim and telepathically hop from person to person.
+
+This will add more fuel to the fire of speculation around Sadie Sink's role. People have long guessed that the noticeably red-haired Stranger Things star could be playing telekinetic and telepathic mutant Jean Grey, since Marvel is charting a new path for the X-Men on screen. However, the actress once told Entertainment Weekly, "That was happening before I even knew that I would be working on this project. I was like, ‘Wait! What are people talking about?’”
+
+Numerous other theories abound, including one suggesting she could be playing Punisher sidekick Rachel Cole-Alves. Jon Bernthal, after all, reprises his part of Frank Castle in Spider-Man: Brand New Day. “A lot of people forget that hair color can change, but, yeah, I understand all of the theories,” Sink said at the time of the EW interview.
+
+There appears to be way more villains than previously thought. There's the presence of a group of sword-wielding ninjas dressed all in red, which gives the impression of the Hand, a prominent mystical ninja clan and criminal organization from Marvel comics. They were last seen in live-action during the Netflix era of Marvel Television.
+
+Additional scenes include figures that look like Tarantula (the red-and-black-suited character with spikes coming out of their boots) and Boomerang (the white-and-blue masked character hurling metal boomerangs midair).
+
+In anticipation of the trailer release, Sony partnered with a slew of fans and influencers to release snippets of the full preview across social media through a series of posts. "We are doing something that has never been done before," Holland said in a video kicking off the viral marketing stunt.
+
+Spider-Man: Brand New Day picks up four years after the events of 2021's Spider-Man: No Way Home, which ended with the world forgetting about the existence of Holland's Peter Parker, courtesy of a Doctor Strange (Benedict Cumberbatch) spell. It was either that or let the multiverse collapse on itself.
+
+Get your daily dose of entertainment news, celebrity updates, and what to watch with our EW Dispatch newsletter.
+
+Peter is now operating anonymously again as everyone's favorite neighborhood wall-crawler, but a series of unusual crimes pulls him into a larger mystery.
+
+Spidey regulars like Zendaya and Jacob Batalon are back for this next outing, while rapper Marvin "Krondon" Jones will also play comic book villain Tombstone, a role in the 2018 animated film Spider-Man: Into the Spider-Verse.
+
+Destin Daniel Cretton, who directed Shang-Chi and the Legend of the Ten Rings, is back at the helm for this Marvel movie.
+
+The film is set to hit theaters on July 31.
+
+This article has been updated with additional trailer details.
+
+#### 📌 FUENTE: kotaku
+Spider-Man: Brand New Day Trailer Shows Spidey's New Powers
+**Link:** https://kotaku.com/spider-man-brand-new-day-trailer-shows-peter-in-a-world-thats-forgotten-him-2000679935
+> After leaking in the most incomprehensible form back in December, and then Sony officially releasing it in two-second increments for the last interminable 24 hours, we finally have a sensible version of the trailer for Spider-Man: Brand New Day. The fourth film in Tom Holland’s quadrilogy within the MCU is due out in July, and the young man is joining Tobey Maguire in getting totally gross in-wrist web production.
+
+While we get to see the movie’s villains, heroes, and a fair few stunts, the real focus of the trailer is on Spidey’s sadness at losing all his loved ones (at the end of 2021’s No Way Home, to save the multiverse Peter erased himself from the world’s memory) while simultaneously appearing to enter a sort of Pokémon-like evolutionary phase. It seems Parker is in a form of metamorphosis, becoming something new. And that involves gaining the ability to fire webs not from shooters attached to his wrists, but from his wrists themselves. Yup, he’s going all 2002.
+
+We get to see a lot of the Punisher throughout, a good dose of Dr. Bruce Banner in his non-Hulk form (so not living as a hybrid, which is interesting), and a glimpse of Michael Mando as Scorpion (with the weirdest lip-syncing). And is that the voice of Keith David explaining about a spider’s life-cycles? There’s also a hint that we could be dealing with a Daredevil antagonist, The Hand, and we know Matt Murdock’s in the movie.
+
+It’s believed that Sadie Sink’s unknown character appears in a half-second moment showing a hooded figure from behind, although that’s still speculative. People still don’t know who she’s playing, with the top picks seeming to be Jean Gray or Shathra.
+
+And of course, MJ has a new boyfriend, and thus we must all be distraught. You know what? I hope they’re good for each other and very happy. I think the real focus of this trailer should be that Peter’s growing spiderweb inside himself, which is completely disgusting and also rather brilliant. Oh, and a final thought: he’s in his classic outfit at every point in this trailer, which might be careful editing, or even replacement SFX, but also could suggest a complete detachment from whatever remains of the Avengers.
+
+It’s somewhat extraordinary that it’s been five years since the last Tom Holland Spidey outing. Those MCU movies were coming so thick and fast that it’s bizarre to realize that the cinematic universe has almost ground to a halt. Quite how half a decade has gone by since Dr. Strange and Spider-Man nearly broke the multiverse is something I cannot explain, unless perhaps I was a victim of the Blip? But it’s nice to be looking forward to a new MCU outing for a change, rather than feeling exhausted by the premise.
+
+Don’t miss the latest reviews, news and tips. Sign up for our free newsletter.
+
+It's dreadful quality, but it does tell us something very interesting about next year's movie
+
+Brand New Day is shooting in Glasgow, and fans are taking pics good enough for the Daily Bugle
+
+Footage from the set of Alex Garland's A24 Elden Ring film has made its way online, displaying what appears to be a Church of Marika
+
+The Super Mario Galaxy Movie is giving gay Bowser truthers ammunition
+
+Parents were shocked to find out the cute little star boy had the mouth of a sailor
+
+The Super Mario Galaxy Movie better not awaken anything in me

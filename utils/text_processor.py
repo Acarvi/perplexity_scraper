@@ -29,17 +29,26 @@ def parse_any_date(date_text):
             except Exception: pass
             break
 
-    # 2. Handle Relative Dates - Improved Regex
-    match = re.search(r'(\d+)\s*(m|min|mins|h|hr|d|day|hour|hours|day|days|seg|sec|hora|día)', text)
+    # 2. Handle Relative Dates - FORCED REGEX: (\d+)\s*(min|hour|day)s?\s*ago
+    # Also handle 'Published' noise
+    text = re.sub(r'(?i)Published\s*[:\s]*', '', text).strip()
+    
+    match = re.search(r'(\d+)\s*(min|hour|day)s?\s*ago', text, re.I)
+    if not match:
+        # Fallback for shorthand units (m, h, d, min, hr, etc.)
+        match = re.search(r'(\d+)\s*(m|min|mins|h|hr|d|day|hour|hours|day|days|seg|sec|hora|día)', text, re.I)
+        
     if not match:
         if "yesterday" in text or "ayer" in text:
             return now - timedelta(days=1)
+        if "today" in text or "hoy" in text or "just now" in text:
+            return now
         return now
         
     val = int(match.group(1))
-    unit = match.group(2)
+    unit = match.group(2).lower()
     
-    if unit in ["m", "min", "mins", "minutos"]:
+    if unit in ["m", "min", "mins", "minutos", "minute", "minutes"]:
         return now - timedelta(minutes=val)
     if unit in ["h", "hr", "hrs", "hour", "hours", "hora", "horas"]:
         return now - timedelta(hours=val)

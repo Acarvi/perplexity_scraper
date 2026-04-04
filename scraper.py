@@ -13,9 +13,9 @@ from playwright.async_api import async_playwright
 from core.cli import show_banner, get_user_config, CLILogger, create_progress, save_last_run_time
 from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
-from core.notebooklm import automate_notebooklm_upload
+from core.notebooklm import upload_to_notebooklm
 from utils.text_processor import clean_noise, extract_entities
-from utils.formatter import generate_premium_markdown
+from utils.formatter import format_to_markdown
 
 DEBUG_LOG = "debug_scraper.log"
 
@@ -99,7 +99,7 @@ async def run_scraper():
                     for link in links:
                         result = await process_article(context, link, start_date, mode, custom_hours, logger, semaphore, progress, scrape_task, cat_name)
                         if result == "TOO_OLD":
-                            logger.info(f"Reached old content threshold in {cat_name}. Stopping category.")
+                            logger.info(f"Reached strict date threshold in {cat_name}. STOPPING category.")
                             break
                         if result:
                             cat_results.append(result)
@@ -111,13 +111,14 @@ async def run_scraper():
                 # Premium Editorial Markdown Edition
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(generate_premium_markdown(
+                        f.write(format_to_markdown(
                             item['category'], 
                             item['title'], 
                             item['date'], 
                             item['url'], 
                             item['content'], 
-                            item['external_sources']
+                            item['external_sources'],
+                            item['related_stories']
                         ))
                 
                 # Structured JSON Export
@@ -135,10 +136,10 @@ async def run_scraper():
                 logger.success(f"Total Stories Scraped: {len(all_content)}")
                 save_last_run_time(start_time)
                 
-                # Phase 4: NotebookLM Automation (Paso 2)
+                # 4. NotebookLM Automation (Paso 2)
                 # This opens a new tab in the same CDP session to automate the upload
                 try:
-                    success = await automate_notebooklm_upload(context, os.path.abspath(OUTPUT_FILE), logger)
+                    success = await upload_to_notebooklm(context, os.path.abspath(OUTPUT_FILE), logger)
                     if success:
                         logger.success("NotebookLM Automation: Upload successful.")
                     else:

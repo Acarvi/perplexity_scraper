@@ -74,30 +74,22 @@ def test_is_recent_enough():
     is_ok, _ = is_recent_enough("Search for something", last_run)
     assert is_ok is True
 
-def test_notebooklm_premium_labels():
-    from utils.formatter import generate_premium_markdown
-    item = {
-        'category': 'Tech',
-        'title': 'Test Story',
-        'date': 'Recent',
-        'url': 'https://test.com',
-        'content': 'Main text.',
-        'external_sources': []
-    }
-    result = generate_premium_markdown(
-        item['category'], 
-        item['title'], 
-        item['date'], 
-        item['url'], 
-        item['content'], 
-        item['external_sources']
-    )
+def test_notebooklm_redesign_labels():
+    from utils.formatter import format_to_markdown
+    category = 'Tech'
+    title = 'Test Story'
+    date = 'Recent'
+    url = 'https://test.com'
+    content = 'Main text.'
+    external_sources = []
+    related_news = []
     
-    labels = ["# 📂 CATEGORÍA:", "## 📰", "> 🕒 **Publicado:**", "> 🔗 **Perplexity URL:**", "### 📝 Resumen Ejecutivo", "---", "### 🔍 PROFUNDIZACIÓN"]
+    result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
+    
+    labels = ["## 📰", "> 📂 **Categoría:**", "🕒 **Publicado:**", "### 📝 Resumen del Artículo", "🔗 **Fuente Original:**", "========================================"]
     for label in labels:
         assert label in result
         
-    # Ensure no legacy garbage
-    assert "[NOTICIA_ID]" not in result
-    assert "TÍTULO:" not in result
-    assert "FECHA:" not in result
+    # Ensure no old labels
+    assert "### 📝 Resumen Ejecutivo" not in result
+    assert "### 🔍 PROFUNDIZACIÓN" not in result
