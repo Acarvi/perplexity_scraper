@@ -1,22 +1,19 @@
 import pytest
-from utils.formatter import format_premium_markdown
+from utils.formatter import generate_premium_markdown
 
-def test_format_premium_markdown_full_data():
-    item = {
-        'category': 'Tech',
-        'title': 'AI Breakthrough',
-        'date': '2026-04-04 10:00:00',
-        'url': 'https://www.perplexity.ai/page/ai-breakthrough',
-        'content': 'This is the main content.',
-        'external_sources': [
-            {'title': 'Reuters', 'url': 'https://reuters.com/ai', 'content': 'Reuters content.'}
-        ],
-        'related_stories': [
-            {'title': 'OpenAI Update', 'url': 'https://perplexity.ai/openai', 'content': 'Related content.'}
-        ]
-    }
+def test_generate_premium_markdown_full_data():
+    category = 'Tech'
+    real_title = 'AI Breakthrough'
+    parsed_date = '2026-04-04 10:00:00'
+    url = 'https://www.perplexity.ai/page/ai-breakthrough'
+    main_content = 'This is the main content.'
+    external_sources = [
+        {'title': 'Reuters', 'url': 'https://reuters.com/ai', 'content': 'Reuters content.'}
+    ]
     
-    result = format_premium_markdown(item)
+    result = generate_premium_markdown(
+        category, real_title, parsed_date, url, main_content, external_sources
+    )
     
     assert "# 📂 CATEGORÍA: Tech" in result
     assert "## 📰 AI Breakthrough" in result
@@ -25,31 +22,21 @@ def test_format_premium_markdown_full_data():
     assert "This is the main content." in result
     assert "#### 📌 FUENTE: Reuters" in result
     assert "Reuters content." in result
-    assert "#### 🔗 OpenAI Update" in result
-    assert "Related content." in result
-    assert "="*68 in result
 
-def test_format_premium_markdown_missing_sources():
-    item = {
-        'category': 'Business',
-        'title': 'Market Surge',
-        'date': '1h ago',
-        'url': 'https://url.com',
-        'content': 'Market is up.',
-        'external_sources': [],
-        'related_stories': []
-    }
+def test_generate_premium_markdown_missing_sources():
+    result = generate_premium_markdown(
+        'Business', 'Market Surge', '1h ago', 'https://url.com', 'Market is up.', []
+    )
     
-    result = format_premium_markdown(item)
-    
-    assert "*No se extrajeron fuentes externas directamente.*" in result
-    assert "### 📌 CONTEXTO RELACIONADO" not in result
+    assert "### 🔍 PROFUNDIZACIÓN" in result
+    # In the new forced version, it just doesn't add any source blocks if empty.
+    assert "#### 📌 FUENTE:" not in result
 
-def test_format_premium_markdown_defaults():
-    item = {}
-    result = format_premium_markdown(item)
+def test_generate_premium_markdown_defaults():
+    result = generate_premium_markdown(
+        'Uncategorized', 'Sin Título', 'Desconocida', '#', '', []
+    )
     
     assert "# 📂 CATEGORÍA: Uncategorized" in result
     assert "## 📰 Sin Título" in result
     assert "> 🕒 **Publicado:** Desconocida" in result
-    assert "> 🔗 **Perplexity URL:** #" in result

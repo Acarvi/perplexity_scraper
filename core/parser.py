@@ -12,22 +12,21 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(ARTICLE_WAIT) 
         
-        # Real title from H1 instead of page.title()
-        h1_loc = page.locator('h1').first
-        title_text = await h1_loc.inner_text() if await h1_loc.count() > 0 else await page.title()
-        title_text = title_text.replace(" - Perplexity", "").strip() if title_text else "Sin Título"
+        # TÍTULO REAL: Buscar el H1 (ignorando el page.title())
+        try:
+            real_title = await page.locator("h1").first.inner_text(timeout=5000)
+        except:
+            real_title = "Sin Título Extraído"
         
         content = await page.content()
         soup = BeautifulSoup(content, "html.parser")
         
-        date_text = "Unknown"
-        date_elem = soup.find("time")
-        if not date_elem:
-            meta_area = soup.find(class_=lambda x: x and ("meta" in x or "header" in x or "title" in x))
-            if meta_area:
-                date_elem = meta_area.find(string=re.compile(r"(ago|hace|minutes|hours|days|ayer|yesterday|minuto|hora|día|Published)", re.I))
-        if date_elem:
-            date_text = date_elem.get_text().strip()
+        # FECHA REAL: Buscar elementos de tiempo
+        try:
+            date_text = await page.locator('text=ago').first.inner_text(timeout=5000)
+            # Pásalo por tu parse_any_date(date_text)
+        except:
+            date_text = "Unknown"
             
         is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
         if not is_ok:
@@ -113,7 +112,7 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
 
         return {
             "url": url, 
-            "title": title_text, 
+            "title": real_title, 
             "content": content_text, 
             "date": p_time if p_time != "UNKNOWN_DATE" else date_text,
             "category": category,

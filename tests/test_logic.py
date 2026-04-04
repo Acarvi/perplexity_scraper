@@ -75,15 +75,23 @@ def test_is_recent_enough():
     assert is_ok is True
 
 def test_notebooklm_premium_labels():
-    from utils.formatter import format_premium_markdown
+    from utils.formatter import generate_premium_markdown
     item = {
         'category': 'Tech',
         'title': 'Test Story',
         'date': 'Recent',
         'url': 'https://test.com',
-        'content': 'Main text.'
+        'content': 'Main text.',
+        'external_sources': []
     }
-    result = format_premium_markdown(item)
+    result = generate_premium_markdown(
+        item['category'], 
+        item['title'], 
+        item['date'], 
+        item['url'], 
+        item['content'], 
+        item['external_sources']
+    )
     
     labels = ["# 📂 CATEGORÍA:", "## 📰", "> 🕒 **Publicado:**", "> 🔗 **Perplexity URL:**", "### 📝 Resumen Ejecutivo", "---", "### 🔍 PROFUNDIZACIÓN"]
     for label in labels:

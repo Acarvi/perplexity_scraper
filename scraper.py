@@ -15,7 +15,7 @@ from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
 from core.notebooklm import automate_notebooklm_upload
 from utils.text_processor import clean_noise, extract_entities
-from utils.formatter import format_premium_markdown
+from utils.formatter import generate_premium_markdown
 
 DEBUG_LOG = "debug_scraper.log"
 
@@ -111,7 +111,14 @@ async def run_scraper():
                 # Premium Editorial Markdown Edition
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(format_premium_markdown(item))
+                        f.write(generate_premium_markdown(
+                            item['category'], 
+                            item['title'], 
+                            item['date'], 
+                            item['url'], 
+                            item['content'], 
+                            item['external_sources']
+                        ))
                 
                 # Structured JSON Export
                 existing_data = []
@@ -148,7 +155,7 @@ async def run_scraper():
             logger.error(f"Global Loop Error: {e}")
             log_debug(f"CRASH: {e}")
         finally:
-            log_debug("STEP: Enforcing absolute window cleanup")
+            print("Cerrando navegador y limpiando procesos...")
             try:
                 if context: await context.close()
                 if browser_running: await browser_running.close()
