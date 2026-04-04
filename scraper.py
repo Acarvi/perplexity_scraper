@@ -15,6 +15,7 @@ from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
 from core.notebooklm import automate_notebooklm_upload
 from utils.text_processor import clean_noise, extract_entities
+from utils.formatter import format_premium_markdown
 
 DEBUG_LOG = "debug_scraper.log"
 
@@ -110,36 +111,7 @@ async def run_scraper():
                 # Premium Editorial Markdown Edition
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(f"# 📂 CATEGORÍA: {item['category']}\n")
-                        f.write(f"---\n\n")
-                        f.write(f"## 📰 {item['title']}\n")
-                        f.write(f"> 🕒 **Publicado:** {item['date']}  \n")
-                        f.write(f"> 🔗 **Perplexity URL:** [{item['url']}]({item['url']})\n\n")
-                        
-                        f.write(f"### 📝 Resumen Ejecutivo (Perplexity)\n")
-                        f.write(f"{item['content']}\n\n")
-                        f.write(f"---\n")
-                        
-                        # Section: Deep Analysis and External Sources
-                        if item.get('external_sources') or item.get('related_stories'):
-                            f.write(f"### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES\n")
-                            f.write(f"*Esta sección contiene el contenido íntegro de las fuentes citadas para mayor contexto:*\n\n")
-                            
-                            # 1. External Scraped Sources
-                            if item.get('external_sources'):
-                                for ext in item['external_sources']:
-                                    f.write(f"#### 📌 FUENTE: {ext['title']}\n")
-                                    f.write(f"**Link:** [{ext['url']}]({ext['url']})\n")
-                                    f.write(f"> {ext['content']}\n\n")
-                            
-                            # 2. Perplexity Related (Deep Scraped)
-                            if item.get('related_stories'):
-                                for rel in item['related_stories']:
-                                    f.write(f"#### 📌 RELACIONADA: {rel['title']}\n")
-                                    f.write(f"**Perplexity Link:** [{rel['url']}]({rel['url']})\n")
-                                    f.write(f"{rel.get('content', 'Contenido resumido por sistema.')}\n\n")
-                        
-                        f.write(f"{'='*68}\n\n")
+                        f.write(format_premium_markdown(item))
                 
                 # Structured JSON Export
                 existing_data = []

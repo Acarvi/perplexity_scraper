@@ -12,8 +12,10 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(ARTICLE_WAIT) 
         
-        title_text = await page.title()
-        title_text = title_text.replace(" - Perplexity", "").strip() if title_text else "Untitled"
+        # Real title from H1 instead of page.title()
+        h1_loc = page.locator('h1').first
+        title_text = await h1_loc.inner_text() if await h1_loc.count() > 0 else await page.title()
+        title_text = title_text.replace(" - Perplexity", "").strip() if title_text else "Sin Título"
         
         content = await page.content()
         soup = BeautifulSoup(content, "html.parser")
@@ -49,7 +51,7 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         }""")
         
         deep_related = []
-        # Support deep scraping of related stories in new tabs
+        # Support deep scraping of related stories in new tabs (Hermetic)
         for rel in related_links[:3]:
             rel_page = None
             try:

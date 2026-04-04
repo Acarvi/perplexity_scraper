@@ -74,16 +74,22 @@ def test_is_recent_enough():
     is_ok, _ = is_recent_enough("Search for something", last_run)
     assert is_ok is True
 
-def test_notebooklm_hierarchy_labels():
-    labels = ["# CATEGORÍA", "## ", "### Contenido", "### Noticias Relacionadas", "**Fecha:**", "URL:", "---"]
-    # Mock text logic based on new format
-    text = "# CATEGORÍA: Tech\n\n## Título Real\n**Fecha:** 2026-04-02 | **URL:** https://test.com\n\n### Contenido\nLimpio.\n\n### Noticias Relacionadas\n#### Relacionada\n**URL:** https://rel.com\nTexto.\n---"
+def test_notebooklm_premium_labels():
+    from utils.formatter import format_premium_markdown
+    item = {
+        'category': 'Tech',
+        'title': 'Test Story',
+        'date': 'Recent',
+        'url': 'https://test.com',
+        'content': 'Main text.'
+    }
+    result = format_premium_markdown(item)
     
+    labels = ["# 📂 CATEGORÍA:", "## 📰", "> 🕒 **Publicado:**", "> 🔗 **Perplexity URL:**", "### 📝 Resumen Ejecutivo", "---", "### 🔍 PROFUNDIZACIÓN"]
     for label in labels:
-        assert label in text
+        assert label in result
         
     # Ensure no legacy garbage
-    assert "[NOTICIA_ID]" not in text
-    assert "TÍTULO: [" not in text
-    assert "## TÍTULO:" not in text
-    assert "FECHA:" not in text # We use **Fecha:** now
+    assert "[NOTICIA_ID]" not in result
+    assert "TÍTULO:" not in result
+    assert "FECHA:" not in result
