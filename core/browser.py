@@ -28,11 +28,12 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
         logger.success("Connected to existing Comet session via CDP.")
         context = browser_running.contexts[0]
         page = context.pages[0] if context.pages else await context.new_page()
-        return browser_running, context, page
+        return browser_running, context, page, None # No new process
     except Exception:
         logger.info(f"Comet not detected on port {port}. Launching in App-Mode...")
         
         # Launch comet.exe directly with provided clean UX flags
+        comet_proc = None
         try:
             cmd = [
                 DEFAULT_COMET_PATH,
@@ -43,11 +44,11 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                 "--no-default-browser-check",
                 "--disable-gpu"
             ]
-            subprocess.Popen(cmd)
+            comet_proc = subprocess.Popen(cmd)
             logger.info("Comet opened in clean App Box mode.")
         except Exception as e:
             logger.error(f"Failed to launch comet.exe: {e}")
-            return None, None, None
+            return None, None, None, None
             
         # Retry loop for CDP connection (3 attempts)
         for attempt in range(1, 4):
@@ -67,14 +68,14 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                 # Strict resource blocking
                 await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", lambda route: route.abort())
                 
-                return browser_running, context, page
+                return browser_running, context, page, comet_proc
             except Exception as e:
                 if attempt == 3:
                     logger.error(f"CDP connection failed after {attempt} attempts: {e}")
                 else:
                     logger.warning(f"Attempt {attempt} failed, retrying...")
                     
-        return None, None, None
+        return None, None, None, None
 
 async def check_for_challenges(page, logger):
     title = await page.title()
