@@ -23,14 +23,17 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         if not date_elem:
             meta_area = soup.find(class_=lambda x: x and ("meta" in x or "header" in x or "title" in x))
             if meta_area:
-                date_elem = meta_area.find(string=re.compile(r"(ago|hace|minutes|hours|days|ayer|yesterday|minuto|hora|día)", re.I))
+                date_elem = meta_area.find(string=re.compile(r"(ago|hace|minutes|hours|days|ayer|yesterday|minuto|hora|día|Published)", re.I))
         if date_elem:
             date_text = date_elem.get_text().strip()
             
         is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
         if not is_ok:
-            logger.warning(f"SKIPPING: '{title_text}' is outside range ({p_time}).")
-            return None
+            if p_time == "UNKNOWN_DATE":
+                logger.error(f"FAILURE: Could not extract date for '{title_text}'. Skipping to avoid filter bypass.")
+            else:
+                logger.warning(f"SKIPPING: '{title_text}' is outside range ({p_time}).")
+            return "TOO_OLD" if p_time != "UNKNOWN_DATE" else None
 
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
         content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
@@ -70,13 +73,50 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                 if rel_page:
                     await rel_page.close()
         
+        # 4. External Sources Discovery (Reuters, Bloomberg, etc.)
+        external_links = await page.evaluate("""() => {
+            const links = Array.from(document.querySelectorAll('a[href^="http"]'));
+            return links
+                .map(a => ({ title: a.innerText.trim(), url: a.href }))
+                .filter(l => !l.url.includes('perplexity.ai') && l.url.length > 20)
+                .slice(0, 2); // Limit to top 2 for deep scraping
+        }""")
+        
+        external_sources = []
+        for ext in external_links:
+            ext_page = None
+            try:
+                logger.info(f"  -> Deep External Scraping: {ext['url']}")
+                ext_page = await context.new_page()
+                await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
+                await asyncio.sleep(2)
+                
+                # Robust paragraph extraction
+                ext_content = await ext_page.evaluate("""() => {
+                    const article = document.querySelector('article') || document.body;
+                    const paras = Array.from(article.querySelectorAll('p'));
+                    return paras.map(p => p.innerText.trim()).filter(t => t.length > 30).join('\\n\\n');
+                }""")
+                
+                if ext_content:
+                    external_sources.append({
+                        "title": ext['title'] or "External Source",
+                        "url": ext['url'],
+                        "content": clean_noise(ext_content[:4000])
+                    })
+            except Exception as e:
+                logger.warning(f"Failed to scrape external: {ext['url']}")
+            finally:
+                if ext_page: await ext_page.close()
+
         return {
             "url": url, 
             "title": title_text, 
             "content": content_text, 
-            "date": date_text,
+            "date": p_time if p_time != "UNKNOWN_DATE" else date_text,
             "category": category,
-            "related_stories": deep_related
+            "related_stories": deep_related,
+            "external_sources": external_sources
         }
     except Exception as e:
         logger.error(f"Error scraping {url}: {e}")

@@ -68,7 +68,7 @@ async def run_scraper():
     all_content = []
     
     async with async_playwright() as p:
-        browser_running, context, page = await launch_comet(p, headless=False, logger=logger)
+        browser_running, context, page, comet_proc = await launch_comet(p, headless=False, logger=logger)
         if not page:
             raise RuntimeError("Browser initialization failed. Check comet.exe path.")
 
@@ -94,29 +94,52 @@ async def run_scraper():
 
                 with create_progress() as progress:
                     scrape_task = progress.add_task(f"[green]Scraping {cat_name}...", total=len(links))
-                    tasks = [process_article(context, link, start_date, mode, custom_hours, logger, semaphore, progress, scrape_task, cat_name) for link in links]
-                    results = await asyncio.gather(*tasks)
-                    cat_results = [r for r in results if r]
+                    cat_results = []
+                    for link in links:
+                        result = await process_article(context, link, start_date, mode, custom_hours, logger, semaphore, progress, scrape_task, cat_name)
+                        if result == "TOO_OLD":
+                            logger.info(f"Reached old content threshold in {cat_name}. Stopping category.")
+                            break
+                        if result:
+                            cat_results.append(result)
+                    
                     all_content.extend(cat_results)
             
             if all_content:
                 # NotebookLM Structured Markdown Export
-                log_debug("STEP: Formatting for NotebookLM")
+                # Premium Editorial Markdown Edition
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(f"# CATEGORÍA: {item['category']}\n\n")
-                        f.write(f"## {item['title']}\n")
-                        f.write(f"**Fecha:** {item['date']} | **URL:** {item['url']}\n\n")
-                        f.write(f"### Contenido\n")
-                        f.write(f"{item['content']}\n\n")
-                        
-                        if item.get('related_stories'):
-                            f.write(f"### Noticias Relacionadas\n")
-                            for rel in item['related_stories']:
-                                f.write(f"#### {rel['title']}\n")
-                                f.write(f"**URL:** {rel['url']}\n")
-                                f.write(f"{rel.get('content', 'Sin contenido extraído.')}\n\n")
+                        f.write(f"# 📂 CATEGORÍA: {item['category']}\n")
                         f.write(f"---\n\n")
+                        f.write(f"## 📰 {item['title']}\n")
+                        f.write(f"> 🕒 **Publicado:** {item['date']}  \n")
+                        f.write(f"> 🔗 **Perplexity URL:** [{item['url']}]({item['url']})\n\n")
+                        
+                        f.write(f"### 📝 Resumen Ejecutivo (Perplexity)\n")
+                        f.write(f"{item['content']}\n\n")
+                        f.write(f"---\n")
+                        
+                        # Section: Deep Analysis and External Sources
+                        if item.get('external_sources') or item.get('related_stories'):
+                            f.write(f"### 🔍 PROFUNDIZACIÓN Y FUENTES ORIGINALES\n")
+                            f.write(f"*Esta sección contiene el contenido íntegro de las fuentes citadas para mayor contexto:*\n\n")
+                            
+                            # 1. External Scraped Sources
+                            if item.get('external_sources'):
+                                for ext in item['external_sources']:
+                                    f.write(f"#### 📌 FUENTE: {ext['title']}\n")
+                                    f.write(f"**Link:** [{ext['url']}]({ext['url']})\n")
+                                    f.write(f"> {ext['content']}\n\n")
+                            
+                            # 2. Perplexity Related (Deep Scraped)
+                            if item.get('related_stories'):
+                                for rel in item['related_stories']:
+                                    f.write(f"#### 📌 RELACIONADA: {rel['title']}\n")
+                                    f.write(f"**Perplexity Link:** [{rel['url']}]({rel['url']})\n")
+                                    f.write(f"{rel.get('content', 'Contenido resumido por sistema.')}\n\n")
+                        
+                        f.write(f"{'='*68}\n\n")
                 
                 # Structured JSON Export
                 existing_data = []
@@ -153,9 +176,24 @@ async def run_scraper():
             logger.error(f"Global Loop Error: {e}")
             log_debug(f"CRASH: {e}")
         finally:
-            if browser_running:
-                await browser_running.close()
-                log_debug("STEP: Comet Browser closed successfully.")
+            log_debug("STEP: Enforcing absolute window cleanup")
+            try:
+                if context: await context.close()
+                if browser_running: await browser_running.close()
+            except: pass
+            
+            # Persistent cleanup for comet process
+            if comet_proc:
+                try:
+                    if comet_proc.poll() is None:
+                        logger.info("Forcing termination of Comet process...")
+                        comet_proc.terminate()
+                        await asyncio.sleep(2)
+                        if comet_proc.poll() is None:
+                            comet_proc.kill()
+                except: pass
+            
+            log_debug("STEP: Comet Browser session terminated.")
 
 if __name__ == "__main__":
     import traceback

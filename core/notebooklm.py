@@ -45,20 +45,31 @@ async def automate_notebooklm_upload(context, file_path, logger):
         await asyncio.sleep(5) # Wait for notebook creation
         
         # 2. Rename Notebook
-        today = datetime.now().strftime("%Y-%m-%d")
+        today = datetime.now().strftime("%d/%m/%Y")
         new_name = f"Noticias del día {today}"
         
         logger.info(f"Renaming notebook to: {new_name}")
-        # Click on the title (usually 'Untitled notebook' or similar)
-        title_loc = page.locator("h1, [role='textbox'][aria-label*='title'], [contenteditable='true']").first
-        if await title_loc.is_visible():
-            await title_loc.click()
-            await page.keyboard.press("Control+A")
-            await page.keyboard.press("Backspace")
-            await page.keyboard.type(new_name)
-            await page.keyboard.press("Enter")
-        else:
-            logger.warning("Could not find title field to rename. Skipping rename.")
+        try:
+            # Stable selector for the title input
+            title_input = page.locator("input.title-input").first
+            if await title_input.is_visible():
+                await title_input.click()
+                await page.keyboard.press("Control+A")
+                await page.keyboard.press("Backspace")
+                await title_input.fill(new_name)
+                await page.keyboard.press("Enter")
+                await asyncio.sleep(2)
+            else:
+                # Fallback to general title locators
+                title_loc = page.locator("h1, [role='textbox'][aria-label*='title'], [contenteditable='true']").first
+                if await title_loc.is_visible():
+                    await title_loc.click()
+                    await page.keyboard.press("Control+A")
+                    await page.keyboard.press("Backspace")
+                    await page.keyboard.type(new_name)
+                    await page.keyboard.press("Enter")
+        except Exception as e:
+            logger.warning(f"Could not rename notebook: {e}")
 
         # 3. Upload File
         logger.info(f"Uploading file: {file_path}")
@@ -86,7 +97,41 @@ async def automate_notebooklm_upload(context, file_path, logger):
             
         logger.success("File uploaded successfully to NotebookLM.")
         
-        # 4. Final Wait
+        # 4. Audio Overview Customization (Podcast Prompt)
+        try:
+            logger.info("Initializing Audio Overview Customization...")
+            # Wait for processing to settle
+            await asyncio.sleep(15) 
+            
+            # Find the 'Customize' chevron button
+            customize_btn = page.locator("button:has(mat-icon:has-text('chevron_forward'))").first
+            if not await customize_btn.is_visible():
+                customize_btn = page.locator("button:has-text('Personalizar'), button:has-text('Customize')").first
+                
+            if await customize_btn.is_visible():
+                logger.info("Clicking 'Customize' for Audio Overview...")
+                await customize_btn.click()
+                await asyncio.sleep(3)
+                
+                # In the dialog, find the textarea
+                prompt_textarea = page.locator("mat-dialog-content textarea, textarea[aria-label*='focus'], textarea[aria-label*='centrarse']").first
+                if await prompt_textarea.is_visible():
+                    podcast_prompt = "Generate a professional, long-form podcast in English. Use a deep analytical tone and focus on the connection between the main news and its sources."
+                    logger.info(f"Injecting podcast prompt: {podcast_prompt}")
+                    await prompt_textarea.fill(podcast_prompt)
+                    await asyncio.sleep(1)
+                    
+                    # Click Generate (Generar)
+                    gen_btn = page.locator("button:has-text('Generar'), button:has-text('Generate')").first
+                    if await gen_btn.is_visible():
+                        await gen_btn.click()
+                        logger.success("Audio Overview generation started with custom prompt.")
+            else:
+                logger.warning("Could not find 'Customize' button. Audio Overview might still be processing or disabled.")
+        except Exception as e:
+            logger.error(f"Failed to customize Audio Overview: {e}")
+
+        # 5. Final Wait
         await asyncio.sleep(10) # Let it process
         return True
         
