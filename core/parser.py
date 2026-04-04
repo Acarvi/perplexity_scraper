@@ -23,20 +23,26 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         content = await page.content()
         soup = BeautifulSoup(content, "html.parser")
         
-        # 2. FECHA REAL: Fuerza bruta buscando "ago" o "Published"
-        try:
-            # Buscar cualquier elemento que contenga "ago" (ej: "2 hours ago")
-            date_element = page.locator('*:has-text(" ago")').last
-            date_text = await date_element.inner_text(timeout=5000)
-        except:
+        # 2. FECHA REAL: Brute Force extraction from body text
+        body_text = await page.evaluate("() => document.body.innerText")
+        date_pattern = r"(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago"
+        date_match = re.search(date_pattern, body_text, re.I)
+        
+        if date_match:
+            date_text = date_match.group(0)
+        else:
             date_text = "Unknown"
             
         is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
+        
+        # LOGGING OBLIGATORIO
+        print(f"\n[ANALIZANDO] Noticia: {real_title}")
+        print(f"[FECHA] Publicada hace: {date_text} -> {p_time}")
+        print(f"[FILTRO] ¿Entra en rango?: {'SÍ' if is_ok else 'NO'}")
+        
         if not is_ok:
             if p_time == "UNKNOWN_DATE":
-                logger.error(f"FAILURE: Could not extract date for '{title_text}'. Skipping to avoid filter bypass.")
-            else:
-                logger.warning(f"SKIPPING: '{title_text}' is outside range ({p_time}).")
+                logger.error(f"FAILURE: Could not extract date. Skipping.")
             return "TOO_OLD" if p_time != "UNKNOWN_DATE" else None
 
         content_loc = page.locator('.prose, [dir="auto"], article, main').first

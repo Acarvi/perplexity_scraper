@@ -15,7 +15,7 @@ from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
 from core.notebooklm import upload_to_notebooklm
 from utils.text_processor import clean_noise, extract_entities
-from utils.formatter import format_to_markdown
+from utils.formatter import generate_premium_markdown
 
 DEBUG_LOG = "debug_scraper.log"
 
@@ -37,10 +37,11 @@ async def process_article(context, link, last_run_time, mode, custom_hours, logg
         try:
             # Combined Page Scraping Handshake
             article_data = await scrape_article(context, page, link, last_run_time, mode, custom_hours, logger, category=category)
-            if article_data:
+            if isinstance(article_data, dict):
                 # Entity Extraction (Data Enrichment)
                 article_data["entities"] = extract_entities(article_data["content"])
                 return article_data
+            return article_data # Could be "TOO_OLD"
         finally:
             progress.update(task_id, advance=1)
             # Mandatory closure for memory health
@@ -111,7 +112,7 @@ async def run_scraper():
                 # Premium Editorial Markdown Edition
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(format_to_markdown(
+                        f.write(generate_premium_markdown(
                             item['category'], 
                             item['title'], 
                             item['date'], 
@@ -159,7 +160,9 @@ async def run_scraper():
             print("Cerrando navegador y limpiando procesos...")
             try:
                 if context: await context.close()
-                if browser_running: await browser_running.close()
+                if browser_running: 
+                    logger.info("Cerrando instancia de Playwright...")
+                    await browser_running.close()
             except: pass
             
             # Persistent cleanup for comet process

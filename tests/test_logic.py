@@ -74,8 +74,8 @@ def test_is_recent_enough():
     is_ok, _ = is_recent_enough("Search for something", last_run)
     assert is_ok is True
 
-def test_notebooklm_redesign_labels():
-    from utils.formatter import format_to_markdown
+def test_notebooklm_premium_v2_labels():
+    from utils.formatter import generate_premium_markdown
     category = 'Tech'
     title = 'Test Story'
     date = 'Recent'
@@ -84,12 +84,21 @@ def test_notebooklm_redesign_labels():
     external_sources = []
     related_news = []
     
-    result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
+    result = generate_premium_markdown(category, title, date, url, content, external_sources, related_news)
     
-    labels = ["## 📰", "> 📂 **Categoría:**", "🕒 **Publicado:**", "### 📝 Resumen del Artículo", "🔗 **Fuente Original:**", "========================================"]
+    labels = [
+        "# 📂 CATEGORÍA: TECH", 
+        "# 📰 Test Story", 
+        "> 📅 **FECHA DE PUBLICACIÓN:** Recent", 
+        "### 📋 RESUMEN DEL REPORTE", 
+        "> 🔗 **ENLACE DIRECTO:** [Abrir en Perplexity](https://test.com)",
+        "### 📚 FUENTES Y MATERIAL DE REFERENCIA",
+        "===================================================================="
+    ]
     for label in labels:
         assert label in result
         
     # Ensure no old labels
     assert "### 📝 Resumen Ejecutivo" not in result
     assert "### 🔍 PROFUNDIZACIÓN" not in result
+    assert "### 📝 Resumen del Artículo" not in result

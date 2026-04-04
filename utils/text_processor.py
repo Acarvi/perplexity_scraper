@@ -29,11 +29,11 @@ def parse_any_date(date_text):
             except Exception: pass
             break
 
-    # 2. Handle Relative Dates - FORCED REGEX: (\d+)\s*(min|hour|day)s?\s*ago
+    # 2. Handle Relative Dates - FORCED REGEX: (\d+)\s*(minute|min|hour|hr|day|d)s?\s*ago
     # Also handle 'Published' noise
     text = re.sub(r'(?i)Published\s*[:\s]*', '', text).strip()
     
-    match = re.search(r'(\d+)\s*(min|hour|day)s?\s*ago', text, re.I)
+    match = re.search(r'(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago', text, re.I)
     if not match:
         # Fallback for shorthand units (m, h, d, min, hr, etc.)
         match = re.search(r'(\d+)\s*(m|min|mins|h|hr|d|day|hour|hours|day|days|seg|sec|hora|día)', text, re.I)
@@ -48,11 +48,11 @@ def parse_any_date(date_text):
     val = int(match.group(1))
     unit = match.group(2).lower()
     
-    if unit in ["m", "min", "mins", "minutos", "minute", "minutes"]:
+    if unit in ["m", "min", "mins", "minute", "minutes"]:
         return now - timedelta(minutes=val)
-    if unit in ["h", "hr", "hrs", "hour", "hours", "hora", "horas"]:
+    if unit in ["h", "hr", "hrs", "hour", "hours", "hr", "hrs"]:
         return now - timedelta(hours=val)
-    if unit in ["d", "day", "days", "día", "días"]:
+    if unit in ["d", "day", "days"]:
         return now - timedelta(days=val)
     if unit in ["seg", "sec", "secs"]:
         return now - timedelta(seconds=val)

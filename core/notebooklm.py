@@ -45,44 +45,59 @@ async def upload_to_notebooklm(context, file_path, logger):
                 await btn_crear.wait_for(state="visible", timeout=15000)
                 await btn_crear.click()
 
-        # 2. Automation Flow: Upload File
-        await asyncio.sleep(8)
-        
-        # Rename Notebook
-        today = datetime.now().strftime("%d/%m/%Y")
-        new_name = f"Noticias del día {today}"
-        logger.info(f"Renaming notebook to: {new_name}")
+        # 2. Automation Flow: Handle 'Add Source' Modal and Upload First
+        logger.info("Detectando modal de 'Añadir fuente' en NotebookLM...")
         try:
-            title_input = page.locator("input.title-input, [aria-label*='title' i], [aria-label*='título' i]").first
-            if await title_input.is_visible():
-                await title_input.click()
-                await page.keyboard.press("Control+A")
-                await page.keyboard.press("Backspace")
-                await title_input.fill(new_name)
-                await page.keyboard.press("Enter")
-                await asyncio.sleep(2)
-        except: pass
+            # Esperar a que el modal de añadir fuente aparezca o que el input de archivo esté disponible
+            # Google suelo abrirlo automáticamente al crear un cuaderno vacío
+            modal_locator = page.locator("mat-dialog-container, div[role='dialog']").first
+            await modal_locator.wait_for(state="visible", timeout=15000)
+            logger.info("Modal detectado. Procediendo a la carga de archivo.")
+        except:
+            logger.warning("No se detectó modal automático. Continuando con búsqueda manual de input.")
 
-        # 3. Uploading
-        logger.info(f"Uploading file: {file_path}")
+        # Subida Inmediata mediante el input oculto
+        logger.info(f"Subiendo archivo: {file_path}")
         try:
-            file_input = page.locator("input[type='file']")
-            if await file_input.count() > 0:
-                await file_input.set_input_files(file_path)
-            else:
-                add_source_btn = page.get_by_text("Add source", exact=False).or_(page.get_by_text("Añadir fuente", exact=False))
-                await add_source_btn.first.click()
-                await asyncio.sleep(3)
-                upload_btn = page.get_by_text("Upload", exact=False).or_(page.get_by_text("Subir", exact=False))
-                async with page.expect_file_chooser() as fc_info:
-                    await upload_btn.first.click()
-                file_chooser = await fc_info.value
-                await file_chooser.set_files(file_path)
+            # Encontrar el input de tipo archivo que está dentro del modal o de la página
+            file_input = page.locator("input[type='file']").first
+            await file_input.set_input_files(file_path)
+            
+            # Esperar a que el procesamiento termine (el texto 'Cargando' o similar desaparezca)
+            logger.info("Esperando a que finalice la carga y el procesamiento del archivo...")
+            await asyncio.sleep(10) # Pausa de seguridad para el OCR/Procesamiento inicial
+            
+            # Si hay un botón de cerrar modal o similar, intentar pulsarlo o esperar a que se cierre solo al terminar la carga
+            # Generalmente, al subir el primer archivo, el modal puede ofrecer 'Add more' o simplemente quedarse ahí.
+            # Intentamos pulsar fuera o en el botón de cerrar si existe.
+            try:
+                close_btn = page.locator("button[aria-label*='close' i], button[aria-label*='cerrar' i]").first
+                if await close_btn.is_visible():
+                    await close_btn.click()
+            except: pass
+            
         except Exception as e:
-            logger.error(f"Failed during upload: {e}")
+            logger.error(f"Error durante la subida al modal: {e}")
             return False
             
-        logger.success("File uploaded successfully to NotebookLM.")
+        logger.success("Archivo subido y modal gestionado.")
+
+        # 3. Rename Notebook (Solo DESPUÉS de cerrar el modal de carga)
+        today = datetime.now().strftime("%d/%m/%Y")
+        new_name = f"Noticias del día {today}"
+        logger.info(f"Cambiando nombre del cuaderno a: {new_name}")
+        try:
+            # El título suele estar arriba a la izquierda
+            title_input = page.locator("input.title-input, [aria-label*='title' i], [aria-label*='título' i], button:has-text('Untitled'), button:has-text('Cuaderno sin título')").first
+            await title_input.wait_for(state="visible", timeout=10000)
+            await title_input.click()
+            await page.keyboard.press("Control+A")
+            await page.keyboard.press("Backspace")
+            await title_input.fill(new_name)
+            await page.keyboard.press("Enter")
+            await asyncio.sleep(2)
+        except Exception as e:
+            logger.warning(f"No se pudo renombrar el cuaderno (UI bloqueada?): {e}")
         
         # 4. Prompt Injection (Audio Overview)
         try:
