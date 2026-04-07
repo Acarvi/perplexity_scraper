@@ -15,7 +15,7 @@ from core.browser import launch_comet, check_for_challenges, open_url_in_comet
 from core.parser import scroll_feed, extract_links, scrape_article
 from core.notebooklm import upload_to_notebooklm
 from utils.text_processor import clean_noise, extract_entities
-from utils.formatter import generate_premium_markdown
+from utils.formatter import format_to_markdown
 
 DEBUG_LOG = "debug_scraper.log"
 
@@ -35,8 +35,18 @@ async def process_article(context, link, last_run_time, mode, custom_hours, logg
         page = await context.new_page()
         
         try:
-            # Combined Page Scraping Handshake
-            article_data = await scrape_article(context, page, link, last_run_time, mode, custom_hours, logger, category=category)
+            # Combined Page Scraping Handshake (Phase 4 Sync)
+            article_data = await scrape_article(
+                context=context, 
+                page=page, 
+                url=link, 
+                last_run_time=last_run_time, 
+                mode=mode, 
+                custom_hours=custom_hours, 
+                logger=logger, 
+                semaphore=semaphore, 
+                category=category
+            )
             if isinstance(article_data, dict):
                 # Entity Extraction (Data Enrichment)
                 article_data["entities"] = extract_entities(article_data["content"])
@@ -112,7 +122,7 @@ async def run_scraper():
                 # Premium Editorial Markdown Edition
                 with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                     for item in all_content:
-                        f.write(generate_premium_markdown(
+                        f.write(format_to_markdown(
                             item['category'], 
                             item['title'], 
                             item['date'], 
@@ -152,6 +162,7 @@ async def run_scraper():
             print("MULTICATEGORY SCRAPE COMPLETE!")
             print("="*40)
             input("Press Enter to close results...")
+            logger.info("Scraping and automation sequence complete.")
             
         except Exception as e:
             logger.error(f"Global Loop Error: {e}")

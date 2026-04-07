@@ -6,7 +6,7 @@ from utils.text_processor import is_recent_enough, clean_noise
 ARTICLE_WAIT = 3
 BASE_URL = "https://www.perplexity.ai"
 
-async def scrape_article(context, page, url, last_run_time, mode, custom_hours, logger, category="Uncategorized"):
+async def scrape_article(context, page, url, last_run_time, mode, custom_hours, logger, semaphore, category="Uncategorized"):
     logger.info(f"Deep Scraping [{category}]: {url}")
     try:
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
@@ -23,27 +23,50 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         content = await page.content()
         soup = BeautifulSoup(content, "html.parser")
         
-        # 2. FECHA REAL: Brute Force extraction from body text
-        body_text = await page.evaluate("() => document.body.innerText")
-        date_pattern = r"(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago"
-        date_match = re.search(date_pattern, body_text, re.I)
-        
-        if date_match:
-            date_text = date_match.group(0)
-        else:
-            date_text = "Unknown"
+        # 2. FECHA REAL: Brute Force extraction from body text (NO CSS SELECTORS)
+        try:
+            raw_body_text = await page.evaluate("() => document.body.innerText")
             
-        is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
-        
-        # LOGGING OBLIGATORIO
-        print(f"\n[ANALIZANDO] Noticia: {real_title}")
-        print(f"[FECHA] Publicada hace: {date_text} -> {p_time}")
-        print(f"[FILTRO] ¿Entra en rango?: {'SÍ' if is_ok else 'NO'}")
-        
+            # Robust Patterns:
+            # 1. Standard relative: "14 minutes ago", "2h ago", "1 day ago"
+            # 2. Perplexity Published: "Published\n2 hours ago"
+            patterns = [
+                r'(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
+                r'Published\s*\n\s*(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
+                r'(\d+)\s*(m|h|d|min|hour|day)s?\s*ago',
+                r'(\d+)(min|h|d|m|hr)s?\s*ago'
+            ]
+            
+            date_text = "Unknown"
+            for p in patterns:
+                match = re.search(p, raw_body_text, re.IGNORECASE)
+                if match:
+                    date_text = match.group(0)
+                    break
+            
+            is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
+            
+            # [TIME-DEBUG] Mandatory Technical Logs
+            logger.info(f"   [TIME-DEBUG] Texto encontrado: \"{date_text}\"")
+            logger.info(f"   [TIME-DEBUG] Parsed como: {p_time}")
+            logger.info(f"   [TIME-DEBUG] ¿Dentro de rango?: {is_ok}")
+
+        except Exception as e:
+            logger.error(f"   [TIME-DEBUG] Exception during date extraction: {e}")
+            date_text = "Unknown"
+            is_ok = False
+            p_time = "UNKNOWN_DATE"
+            
+        # LOGGING Y CORTE OBLIGATORIO (RIGOR EXTRA - Phase 2)
         if not is_ok:
-            if p_time == "UNKNOWN_DATE":
-                logger.error(f"FAILURE: Could not extract date. Skipping.")
-            return "TOO_OLD" if p_time != "UNKNOWN_DATE" else None
+            if p_time == "Unknown" or date_text == "Unknown":
+                logger.error(f"FAILURE: Could not extract date (Unknown). Strict Cutoff Triggered.")
+                return "TOO_OLD" # Force break of category
+            else:
+                logger.warning(f"   [FILTRO] ❌ Noticia fuera de rango ({p_time}). Deteniendo categoría.")
+                return "TOO_OLD"
+        
+        logger.info(f"   [FILTRO] ✅ Dentro de rango. Procediendo al Deep Scraping...")
 
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
         content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
@@ -65,8 +88,10 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
             try:
                 logger.info(f"  -> Deep Related Scraping: {rel['title']}")
                 rel_page = await context.new_page()
-                await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
-                await asyncio.sleep(2)
+                # Global Concurrency Control
+                async with semaphore:
+                    await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
+                    await asyncio.sleep(2)
                 
                 rel_content_loc = rel_page.locator('.prose, [dir="auto"], article, main').first
                 rel_text = await (rel_content_loc.inner_text() if await rel_content_loc.count() > 0 else "No content.")
@@ -98,8 +123,10 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
             try:
                 logger.info(f"  -> Deep External Scraping: {ext['url']}")
                 ext_page = await context.new_page()
-                await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
-                await asyncio.sleep(2)
+                # Global Concurrency Control
+                async with semaphore:
+                    await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
+                    await asyncio.sleep(2)
                 
                 # Robust paragraph extraction
                 ext_content = await ext_page.evaluate("""() => {

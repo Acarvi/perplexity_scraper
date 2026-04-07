@@ -7,37 +7,55 @@ def test_parse_relative_dates():
     
     # Test minutes
     d = parse_any_date("14m ago")
+    assert d is not None
     diff = (now - d).total_seconds()
     assert 13.5 * 60 < diff < 14.5 * 60
     
     # Test hours
     d = parse_any_date("2 hours ago")
+    assert d is not None
     diff = (now - d).total_seconds()
     assert 1.9 * 3600 < diff < 2.1 * 3600
     
     # Test days
     d = parse_any_date("3 days ago")
+    assert d is not None
     diff = (now - d).total_seconds()
     assert 2.9 * 86400 < diff < 3.1 * 86400
 
     # Test yesterday
     d = parse_any_date("yesterday")
+    assert d is not None
     diff = (now - d).total_seconds()
     assert 23 * 3600 < diff < 25 * 3600
 
 def test_parse_absolute_dates():
     # Test with year
     d = parse_any_date("Mar 25, 2026")
+    assert d is not None
     assert d.year == 2026
     assert d.month == 3
     assert d.day == 25
     
+    # Test with FULL month name
+    d = parse_any_date("April 4, 2026")
+    assert d is not None
+    assert d.year == 2026
+    assert d.month == 4
+    assert d.day == 4
+    
     # Test without year (assume current year)
     now = datetime.now(timezone.utc)
     d = parse_any_date("Jan 10")
+    assert d is not None
     assert d.year == now.year
     assert d.month == 1
     assert d.day == 10
+
+def test_parse_unknown():
+    # Should return None for garbage
+    d = parse_any_date("Some garbage text")
+    assert d is None
 
 def test_clean_noise():
     text = """
@@ -70,35 +88,24 @@ def test_is_recent_enough():
     is_ok, _ = is_recent_enough("2 hours ago", last_run)
     assert is_ok is False
     
-    # Edge case: Search/No date
-    is_ok, _ = is_recent_enough("Search for something", last_run)
-    assert is_ok is True
+    # Unknown (Strict Abort)
+    is_ok, msg = is_recent_enough("Unknown date text", last_run)
+    assert is_ok is False
+    assert msg == "Unknown"
 
-def test_notebooklm_premium_v2_labels():
-    from utils.formatter import generate_premium_markdown
+def test_premium_newsletter_output():
+    from utils.formatter import format_to_markdown
     category = 'Tech'
     title = 'Test Story'
     date = 'Recent'
     url = 'https://test.com'
     content = 'Main text.'
-    external_sources = []
+    external_sources = [{'title': 'Ref', 'url': 'https://ref.com', 'content': 'Context.'}]
     related_news = []
     
-    result = generate_premium_markdown(category, title, date, url, content, external_sources, related_news)
+    result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
     
-    labels = [
-        "# 📂 CATEGORÍA: TECH", 
-        "# 📰 Test Story", 
-        "> 📅 **FECHA DE PUBLICACIÓN:** Recent", 
-        "### 📋 RESUMEN DEL REPORTE", 
-        "> 🔗 **ENLACE DIRECTO:** [Abrir en Perplexity](https://test.com)",
-        "### 📚 FUENTES Y MATERIAL DE REFERENCIA",
-        "===================================================================="
-    ]
-    for label in labels:
-        assert label in result
-        
-    # Ensure no old labels
-    assert "### 📝 Resumen Ejecutivo" not in result
-    assert "### 🔍 PROFUNDIZACIÓN" not in result
-    assert "### 📝 Resumen del Artículo" not in result
+    assert "## 📰 Test Story" in result
+    assert "> ⚠️ **AVISO DE CONTEXTO:**" in result
+    assert "Test Story" in result
+    assert "Recent" in result

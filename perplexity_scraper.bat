@@ -4,6 +4,8 @@ echo ==========================================
 echo    Perplexity Discover Scraper (HighPerf)
 echo ==========================================
 
+rem GOLD RULE: No taskkill. El cierre de Comet lo gestiona scraper.py via Playwright.
+
 if not exist venv (
     echo Creating virtual environment...
     python -m venv venv
