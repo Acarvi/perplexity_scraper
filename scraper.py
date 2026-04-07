@@ -11,7 +11,7 @@ from playwright.async_api import async_playwright
 
 # Local imports
 from core.cli import show_banner, get_user_config, CLILogger, create_progress, save_last_run_time
-from core.browser import launch_comet, check_for_challenges, open_url_in_comet
+from core.browser import launch_comet, check_for_challenges
 from core.parser import scroll_feed, extract_links, scrape_article
 from core.notebooklm import upload_to_notebooklm
 from utils.text_processor import clean_noise, extract_entities

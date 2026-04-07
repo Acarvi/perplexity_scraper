@@ -56,3 +56,12 @@
 [2026-04-07 14:26:58] STEP: Navigating to https://www.perplexity.ai/discover/entertainment
 [2026-04-07 14:27:09] CRASH: save_last_run_time() takes 0 positional arguments but 1 was given
 [2026-04-07 14:27:11] STEP: Comet Browser session terminated.
+[2026-04-07 18:51:31] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-07 18:51:42] STEP: Navigating to https://www.perplexity.ai/discover/tech
+[2026-04-07 18:55:08] STEP: Navigating to https://www.perplexity.ai/discover/business
+[2026-04-07 18:56:10] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-07 18:56:56] STEP: Navigating to https://www.perplexity.ai/discover/top
+[2026-04-07 18:59:01] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-07 18:59:01] STEP: Comet Browser session terminated.
+[2026-04-07 18:59:04] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-07 18:59:04] STEP: Comet Browser session terminated.

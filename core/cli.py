@@ -45,8 +45,9 @@ def create_progress():
         TimeElapsedColumn()
     )
 
-def save_last_run_time():
-    last_run = {"last_run": datetime.now(timezone.utc).isoformat()}
+def save_last_run_time(start_time=None):
+    ts = start_time if start_time else datetime.now(timezone.utc)
+    last_run = {"last_run": ts.isoformat()}
     with open("last_run.json", "w") as f:
         json.dump(last_run, f)
 
