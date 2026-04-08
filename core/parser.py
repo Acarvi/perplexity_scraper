@@ -6,62 +6,60 @@ from utils.text_processor import is_recent_enough, clean_noise
 ARTICLE_WAIT = 3
 BASE_URL = "https://www.perplexity.ai"
 
+async def extract_date_from_page(page, logger=None):
+    """
+    Brute Force date extraction from page content.
+    """
+    try:
+        raw_body_text = await page.evaluate("() => document.body.innerText")
+        patterns = [
+            r'(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
+            r'Published\s*\n\s*(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
+            r'Publicado\s*\n\s*(\d+)\s*abr', # Specific Spanish absolute match
+            r'Publicado\s*el\s*(\d+.*202\d)', # Robust Spanish absolute
+            r'(\d+)\s*(m|h|d|min|hour|day)s?\s*ago',
+            r'(\d+)(min|h|d|m|hr)s?\s*ago'
+        ]
+        
+        for p in patterns:
+            match = re.search(p, raw_body_text, re.IGNORECASE)
+            if match:
+                return match.group(0)
+        
+        # Last resort: absolute date formats directly
+        abs_date_match = re.search(r'\d{1,2}\s+(?:de\s+)?(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|ene|abr|ago|dic|[a-z]{4,10})\s+(?:de\s+)?202\d', raw_body_text, re.I)
+        if abs_date_match:
+            return abs_date_match.group(0)
+            
+    except Exception as e:
+        if logger: logger.error(f"Error in extract_date_from_page: {e}")
+    return "Unknown"
+
 async def scrape_article(context, page, url, last_run_time, mode, custom_hours, logger, semaphore, category="Uncategorized"):
     logger.info(f"Deep Scraping [{category}]: {url}")
     try:
         await page.goto(url, wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(ARTICLE_WAIT) 
         
-        # 1. TÍTULO REAL: Buscar H1, si falla, coger el elemento con el texto más grande.
+        # 1. TÍTULO REAL
         try:
             real_title = await page.locator("h1").first.inner_text(timeout=5000)
         except:
-            # Fallback: Quitar " - Perplexity" del título de la pestaña
             raw_title = await page.title()
             real_title = raw_title.replace(" - Perplexity", "").strip()
         
-        content = await page.content()
-        soup = BeautifulSoup(content, "html.parser")
+        # 2. FECHA REAL (Main Article)
+        date_text = await extract_date_from_page(page, logger)
+        is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
         
-        # 2. FECHA REAL: Brute Force extraction from body text (NO CSS SELECTORS)
-        try:
-            raw_body_text = await page.evaluate("() => document.body.innerText")
-            
-            # Robust Patterns:
-            # 1. Standard relative: "14 minutes ago", "2h ago", "1 day ago"
-            # 2. Perplexity Published: "Published\n2 hours ago"
-            patterns = [
-                r'(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
-                r'Published\s*\n\s*(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
-                r'(\d+)\s*(m|h|d|min|hour|day)s?\s*ago',
-                r'(\d+)(min|h|d|m|hr)s?\s*ago'
-            ]
-            
-            date_text = "Unknown"
-            for p in patterns:
-                match = re.search(p, raw_body_text, re.IGNORECASE)
-                if match:
-                    date_text = match.group(0)
-                    break
-            
-            is_ok, p_time = is_recent_enough(date_text, last_run_time, mode=mode, custom_hours=custom_hours)
-            
-            # [TIME-DEBUG] Mandatory Technical Logs
-            logger.info(f"   [TIME-DEBUG] Texto encontrado: \"{date_text}\"")
-            logger.info(f"   [TIME-DEBUG] Parsed como: {p_time}")
-            logger.info(f"   [TIME-DEBUG] ¿Dentro de rango?: {is_ok}")
-
-        except Exception as e:
-            logger.error(f"   [TIME-DEBUG] Exception during date extraction: {e}")
-            date_text = "Unknown"
-            is_ok = False
-            p_time = "UNKNOWN_DATE"
-            
-        # LOGGING Y CORTE OBLIGATORIO (RIGOR EXTRA - Phase 2)
+        logger.info(f"   [TIME-DEBUG] Texto encontrado: \"{date_text}\"")
+        logger.info(f"   [TIME-DEBUG] Parsed como: {p_time}")
+        
+        # LOGGING Y CORTE OBLIGATORIO (Main Article Only)
         if not is_ok:
             if p_time == "Unknown" or date_text == "Unknown":
                 logger.error(f"FAILURE: Could not extract date (Unknown). Strict Cutoff Triggered.")
-                return "TOO_OLD" # Force break of category
+                return "TOO_OLD"
             else:
                 logger.warning(f"   [FILTRO] ❌ Noticia fuera de rango ({p_time}). Deteniendo categoría.")
                 return "TOO_OLD"
@@ -82,16 +80,18 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         }""")
         
         deep_related = []
-        # Support deep scraping of related stories in new tabs (Hermetic)
         for rel in related_links[:3]:
             rel_page = None
             try:
                 logger.info(f"  -> Deep Related Scraping: {rel['title']}")
                 rel_page = await context.new_page()
-                # Global Concurrency Control
                 async with semaphore:
                     await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
                     await asyncio.sleep(2)
+                
+                # Extract related date without blocking if too old
+                rel_date_text = await extract_date_from_page(rel_page, logger)
+                _, rel_p_time = is_recent_enough(rel_date_text, last_run_time, mode=mode, custom_hours=custom_hours)
                 
                 rel_content_loc = rel_page.locator('.prose, [dir="auto"], article, main').first
                 rel_text = await (rel_content_loc.inner_text() if await rel_content_loc.count() > 0 else "No content.")
@@ -100,7 +100,8 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                 deep_related.append({
                     "title": rel['title'], 
                     "url": rel['url'], 
-                    "content": rel_text.strip()
+                    "content": rel_text.strip(),
+                    "date": rel_p_time if rel_p_time != "Unknown" else rel_date_text
                 })
             except Exception as e:
                 logger.warning(f"Failed to deep scrape related story: {e}")
@@ -123,12 +124,10 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
             try:
                 logger.info(f"  -> Deep External Scraping: {ext['url']}")
                 ext_page = await context.new_page()
-                # Global Concurrency Control
                 async with semaphore:
                     await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
                     await asyncio.sleep(2)
                 
-                # Robust paragraph extraction
                 ext_content = await ext_page.evaluate("""() => {
                     const article = document.querySelector('article') || document.body;
                     const paras = Array.from(article.querySelectorAll('p'));
@@ -159,7 +158,6 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         logger.error(f"Error scraping {url}: {e}")
         return None
     finally:
-        # Crucial Memory Fix: Ensure tab closes no matter what
         try:
             await page.close()
         except: pass
@@ -175,10 +173,9 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
         scroll_count += 1
         progress.update(task_id, total=max_scrolls, completed=scroll_count, description=f"Scrolling ({scroll_count}/{max_scrolls})")
         
-        await page.evaluate("window.scrollBy(0, 2000)") # Increased scroll jump
+        await page.evaluate("window.scrollBy(0, 2000)") 
         await asyncio.sleep(2)
         
-        # Date Check Logic
         current_timestamp = await page.evaluate("""() => {
             const elements = Array.from(document.querySelectorAll('span, time, div'));
             const timePattern = /\\d+\\s*(m|h|d|min|hour|day|seg|sec|hora|día)|yesterday|ayer|ago|hace/i;

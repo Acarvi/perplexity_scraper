@@ -7,28 +7,32 @@ def test_format_to_markdown_full_data():
     date = '2026-04-04'
     url = 'https://perplexity.ai/page/ai'
     content = 'This is the main content.'
-    external_sources = [{'title': 'Reuters', 'url': 'https://reuters.com', 'content': 'Source content.'}]
-    related_news = [{'title': 'Old Story', 'url': 'https://old.com', 'content': 'Related content.'}]
+    external_sources = [{'title': 'Reuters', 'url': 'https://reuters.com'}]
+    related_news = [{'title': 'Old Story', 'url': 'https://old.com', 'content': 'Related content.', 'date': '2026-04-03'}]
     
     result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
     
     assert "# 📂 CATEGORÍA: TECH" in result
     assert "## 📰 AI Breakthrough" in result
-    assert "> 📅 **FECHA DE PUBLICACIÓN:** 2026-04-04" in result
+    assert "> 📅 **Fecha de publicación:** 2026-04-04" in result
     assert "### 📝 RESUMEN DEL REPORTE" in result
     assert "This is the main content." in result
-    assert "#### 📌 FUENTE EXTERNA: Reuters" in result
-    assert "#### 📌 NOTICIA RELACIONADA: Old Story" in result
     
-    # New Editorial Standard: No blockquote prefix for URL, and mandatory disclaimer
-    assert "**URL:** https://reuters.com" in result
-    assert "> ⚠️ **AVISO DE CONTEXTO:**" in result
-    assert "AI Breakthrough" in result
+    # Check related news block and mandatory disclaimer
+    assert "### 🔍 NOTICIAS RELACIONADAS (CONTEXTO PROFUNDO)" in result
+    assert "#### 📌 Old Story" in result
+    assert "> *\"Esta noticia [Old Story] es noticia auxiliar para la noticia principal [AI Breakthrough], esta noticia es del día [2026-04-03] y por tanto puede tener información desactualizada.\"*" in result
+    assert "**URL:** https://old.com" in result
+    
+    # Check external links
+    assert "### 🌐 LINKS EXTERNOS Y FUENTES DE CONTEXTO" in result
+    assert "- **Reuters**: https://reuters.com" in result
     
     assert "="*70 in result
 
 def test_format_to_markdown_no_extras():
     result = format_to_markdown('Business', 'Market', 'today', 'https://url.com', 'Content.', [], [])
     
-    assert "### 🔍 CONTEXTO Y FUENTES DE INFORMACIÓN" in result
-    assert "*No se extrajeron fuentes adicionales para este reporte.*" in result
+    # No extras should mean these sections are missing
+    assert "### 🔍 NOTICIAS RELACIONADAS" not in result
+    assert "### 🌐 LINKS EXTERNOS" not in result

@@ -100,12 +100,11 @@ def test_premium_newsletter_output():
     date = 'Recent'
     url = 'https://test.com'
     content = 'Main text.'
-    external_sources = [{'title': 'Ref', 'url': 'https://ref.com', 'content': 'Context.'}]
-    related_news = []
+    external_sources = [{'title': 'Ref', 'url': 'https://ref.com'}]
+    related_news = [{'title': 'Rel Story', 'url': 'https://rel.com', 'content': 'Rel content.', 'date': 'Today'}]
     
     result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
     
-    assert "## 📰 Test Story" in result
-    assert "> ⚠️ **AVISO DE CONTEXTO:**" in result
-    assert "Test Story" in result
+    assert "ESTA NOTICIA [REL STORY] ES NOTICIA AUXILIAR PARA LA NOTICIA PRINCIPAL [TEST STORY]" in result.upper()
+    assert "### 🌐 LINKS EXTERNOS Y FUENTES DE CONTEXTO" in result
     assert "Recent" in result
