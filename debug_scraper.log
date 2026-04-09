@@ -131,3 +131,11 @@ Call log:
 [2026-04-09 20:07:44] STEP: Navigating to https://www.perplexity.ai/discover/tech
 [2026-04-09 20:07:54] CRASH: Page.evaluate: Target page, context or browser has been closed
 [2026-04-09 20:07:54] STEP: Comet Browser session terminated.
+[2026-04-09 20:20:10] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-09 20:20:10] STEP: Comet Browser session terminated.
+[2026-04-09 20:20:51] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-09 20:20:51] STEP: Comet Browser session terminated.
+[2026-04-09 20:23:08] STEP: Comet Browser session terminated.
+[2026-04-09 20:24:08] CRASH: BrowserContext.new_page: Target page, context or browser has been closed
+[2026-04-09 20:24:08] STEP: Comet Browser session terminated.
+[2026-04-09 20:29:16] STEP: Comet Browser session terminated.

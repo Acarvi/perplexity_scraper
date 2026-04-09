@@ -177,24 +177,15 @@ async def run_scraper():
             logger.error(f"Global Loop Error: {e}")
             log_debug(f"CRASH: {e}")
         finally:
-            print("Cerrando navegador y limpiando procesos...")
+            print("Cerrando contexto de scraping y desconectando...")
             try:
-                if context: await context.close()
+                if context: 
+                    await context.close()
                 if browser_running: 
-                    logger.info("Cerrando instancia de Playwright...")
+                    # Desconexión limpia. Si lanzamos nosotros el proceso, close() lo cerrará.
+                    # Si nos conectamos a uno existente, close() cerrará la conexión CDP.
                     await browser_running.close()
             except: pass
-            
-            # Persistent cleanup for comet process
-            if comet_proc:
-                try:
-                    if comet_proc.poll() is None:
-                        logger.info("Forcing termination of Comet process...")
-                        comet_proc.terminate()
-                        await asyncio.sleep(2)
-                        if comet_proc.poll() is None:
-                            comet_proc.kill()
-                except: pass
             
             log_debug("STEP: Comet Browser session terminated.")
 

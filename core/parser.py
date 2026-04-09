@@ -1,5 +1,6 @@
 import asyncio
 import re
+import random
 from playwright.async_api import TimeoutError as PlaywrightTimeout, Error as PlaywrightError
 from utils.text_processor import is_recent_enough, clean_noise
 
@@ -36,11 +37,14 @@ async def extract_date_from_page(page, logger=None):
     return "Unknown"
 
 async def scrape_article(context, page, url, last_run_time, mode, custom_hours, logger, semaphore, category="Uncategorized"):
+    # Human-like delay before deep scraping
+    await asyncio.sleep(random.uniform(1.5, 3.5))
     logger.info(f"Deep Scraping [{category}]: {url}")
     try:
         try:
+            # Randomize referer or extra headers could be added here too
             await page.goto(url, wait_until="domcontentloaded", timeout=45000)
-            await asyncio.sleep(ARTICLE_WAIT)
+            await asyncio.sleep(ARTICLE_WAIT + random.uniform(0.5, 1.5))
         except (PlaywrightTimeout, PlaywrightError) as e:
             logger.warning(f"Warning: Página omitida por timeout (Main): {url}")
             return None
@@ -65,10 +69,10 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                 logger.error(f"FAILURE: Could not extract date (Unknown). Strict Cutoff Triggered.")
                 return "TOO_OLD"
             else:
-                logger.warning(f"   [FILTRO] ❌ Noticia fuera de rango ({p_time}). Deteniendo categoría.")
+                logger.warning(f"   [FILTRO] [X] Noticia fuera de rango ({p_time}). Deteniendo categoría.")
                 return "TOO_OLD"
         
-        logger.info(f"   [FILTRO] ✅ Dentro de rango. Procediendo al Deep Scraping...")
+        logger.info(f"   [FILTRO] [OK] Dentro de rango. Procediendo al Deep Scraping...")
 
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
         content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
@@ -191,7 +195,7 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
         progress.update(task_id, total=max_scrolls, completed=scroll_count, description=f"Scrolling ({scroll_count}/{max_scrolls})")
         
         await page.evaluate("window.scrollBy(0, 2000)") 
-        await asyncio.sleep(2)
+        await asyncio.sleep(2 + random.uniform(0.1, 1.0))
         
         try:
             current_timestamp = await page.evaluate("""() => {

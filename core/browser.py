@@ -21,88 +21,68 @@ def open_url_in_comet(url, logger=None):
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
     discover_url = "https://www.perplexity.ai/discover"
-    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     
-    # 0. Rigorous Cleanup (Phase 6)
-    # Ensure no other comet instances are fighting for the same user-data-dir or port
-    try:
-        await asyncio.sleep(1)
-    except: pass
-
-    # 1. Launch comet.exe directly
-    logger.info(f"Launching Comet in Evasion Mode (Port {port})...")
+    logger.info(f"Connecting to Comet via Shared Session (Port {port})...")
     
-    comet_proc = None
+    # 1. Try to connect first
     try:
-        cmd = [
-            DEFAULT_COMET_PATH,
-            f"--remote-debugging-port={port}",
-            f"--user-data-dir={USER_DATA_DIR}",
-            f"--user-agent={user_agent}",
-            "--no-first-run",
-            "--no-default-browser-check",
-            "--disable-gpu",
-            "--remote-allow-origins=*"
-        ]
-        comet_proc = subprocess.Popen(cmd)
-        logger.info("Comet process spawned.")
-    except Exception as e:
-        logger.error(f"Failed to launch comet.exe: {e}")
-        return None, None, None, None
-        
-    # 2. Retry loop for CDP connection (5 attempts)
-    for attempt in range(1, 6):
-        wait_time = 3 + attempt 
-        logger.info(f"Connection attempt {attempt}/5 (Waiting {wait_time}s)...")
-        await asyncio.sleep(wait_time)
-        
+        browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=3000)
+        logger.success("Connected to active Comet session.")
+    except Exception:
+        logger.info("No active session. Launching Comet via system shortcut...")
         try:
+            # Using the "Tecla" (Magic Command) from skill_comet_navigation.md
+            # This ensures it launches in the active desktop with the correct profile
+            shortcut_path = r"C:\Users\Acarvi\Desktop\Comet.lnk"
+            # We add the debugging port as an argument if possible, or assume it's in the shortcut
+            # Actually, the shortcut might not have the port. 
+            # We'll try to launch comet.exe directly with the port to be sure.
+            cmd = f'"{DEFAULT_COMET_PATH}" --remote-debugging-port={port} --restore-last-session'
+            subprocess.Popen(cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            
+            await asyncio.sleep(5)
             browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=15000)
-            logger.success("Successfully connected to Comet via CDP.")
-            
-            context = browser_running.contexts[0]
-            
-            # Application-level stealth hook for ALL pages
-            stealth = Stealth()
-            
-            async def abort_route(route):
-                try:
-                    await route.abort()
-                except:
-                    pass
-
-            async def setup_page(page):
-                try:
-                    if page.is_closed(): return
-                    await stealth.apply_stealth_async(page)
-                    # Strict resource blocking for performance
-                    await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", abort_route)
-                except (PlaywrightError, Exception) as e:
-                    if logger:
-                        logger.warning(f"Resilient Setup: Could not configure page (likely closed): {str(e)[:50]}...")
-
-            # Listen for new pages
-            context.on("page", setup_page)
-            
-            # Setup initial pages
-            for page in context.pages:
-                await setup_page(page)
-            
-            # If no pages, create one
-            page = context.pages[0] if context.pages else await context.new_page()
-            
-            # Navigate finally AFTER stealth
-            logger.info(f"Navigating to {discover_url}...")
-            await page.goto(discover_url, wait_until="domcontentloaded", timeout=60000)
-            
-            return browser_running, context, page, comet_proc
+            logger.success("Comet launched and connected via CDP.")
         except Exception as e:
-            if attempt == 5:
-                logger.error(f"CDP connection failed: {e}")
-            else:
-                logger.warning(f"Attempt {attempt} failed, retrying...")
-                
-    return None, None, None, comet_proc
+            logger.error(f"Failed to launch Comet: {e}")
+            return None, None, None, None
+
+    # 2. Scraper Isolation
+    try:
+        context = browser_running.contexts[0]
+        stealth = Stealth()
+        
+        async def abort_route(route):
+            try: await route.abort()
+            except: pass
+
+        async def setup_page(page):
+            try:
+                if page.is_closed(): return
+                await stealth.apply_stealth_async(page)
+                await page.set_extra_http_headers({
+                    "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
+                    "Sec-Ch-Ua": '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+                    "Sec-Ch-Ua-Mobile": "?0",
+                    "Sec-Ch-Ua-Platform": '"Windows"',
+                })
+                # Performance optimization (skip images/css)
+                await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", abort_route)
+            except: pass
+
+        # Open a new tab for the scraper
+        page = await context.new_page()
+        await setup_page(page)
+        
+        logger.info(f"Navigating to {discover_url}...")
+        await page.goto(discover_url, wait_until="domcontentloaded", timeout=60000)
+        
+        context.on("page", setup_page)
+        return browser_running, context, page, None
+    except Exception as e:
+        logger.error(f"Failed to setup context: {e}")
+        return None, None, None, None
+
 
 async def check_for_challenges(page, logger):
     try:
