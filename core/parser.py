@@ -1,6 +1,6 @@
 import asyncio
-from bs4 import BeautifulSoup
 import re
+from playwright.async_api import TimeoutError as PlaywrightTimeout, Error as PlaywrightError
 from utils.text_processor import is_recent_enough, clean_noise
 
 ARTICLE_WAIT = 3
@@ -38,8 +38,12 @@ async def extract_date_from_page(page, logger=None):
 async def scrape_article(context, page, url, last_run_time, mode, custom_hours, logger, semaphore, category="Uncategorized"):
     logger.info(f"Deep Scraping [{category}]: {url}")
     try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=45000)
-        await asyncio.sleep(ARTICLE_WAIT) 
+        try:
+            await page.goto(url, wait_until="domcontentloaded", timeout=45000)
+            await asyncio.sleep(ARTICLE_WAIT)
+        except (PlaywrightTimeout, PlaywrightError) as e:
+            logger.warning(f"Warning: Página omitida por timeout (Main): {url}")
+            return None
         
         # 1. TÍTULO REAL
         try:
@@ -89,8 +93,8 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                     try:
                         await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
                         await asyncio.sleep(2)
-                    except:
-                        logger.warning(f"  -> Timeout/Error on related: {rel['url'][:40]}...")
+                    except (PlaywrightTimeout, PlaywrightError):
+                        logger.warning(f"Warning: Página omitida por timeout (Related): {rel['url']}")
                         continue
                 
                 # Extract related date without blocking if too old
@@ -134,8 +138,8 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                     try:
                         await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
                         await asyncio.sleep(2)
-                    except:
-                        logger.warning(f"  -> Timeout/Error on external: {ext['url'][:40]}...")
+                    except (PlaywrightTimeout, PlaywrightError):
+                        logger.warning(f"Warning: Página omitida por timeout (External): {ext['url']}")
                         continue
                 
                 ext_content = await ext_page.evaluate("""() => {

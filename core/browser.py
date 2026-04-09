@@ -65,12 +65,18 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
             # Application-level stealth hook for ALL pages
             stealth = Stealth()
             
+            async def abort_route(route):
+                try:
+                    await route.abort()
+                except:
+                    pass
+
             async def setup_page(page):
                 try:
                     if page.is_closed(): return
                     await stealth.apply_stealth_async(page)
                     # Strict resource blocking for performance
-                    await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", lambda route: route.abort())
+                    await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", abort_route)
                 except (PlaywrightError, Exception) as e:
                     if logger:
                         logger.warning(f"Resilient Setup: Could not configure page (likely closed): {str(e)[:50]}...")

@@ -52,9 +52,13 @@ async def upload_to_notebooklm(context, file_path, logger):
             add_source_selectors = [
                 'button:has-text("Añadir fuente")',
                 'button:has-text("Add source")',
+                'button:has-text("Subir archivo")',
+                'button:has-text("Upload file")',
                 '[aria-label*="Add source" i]',
                 '[aria-label*="Añadir fuente" i]',
-                'button:has(mat-icon:has-text("add"))'
+                '[aria-label*="Subir" i]',
+                'button:has(mat-icon:has-text("add"))',
+                '.v-btn--icon'
             ]
             
             add_source_btn = None
@@ -68,27 +72,52 @@ async def upload_to_notebooklm(context, file_path, logger):
 
             if add_source_btn:
                 await add_source_btn.click()
-                await asyncio.sleep(2)
+                await asyncio.sleep(3)
 
-            async with page.expect_file_chooser() as fc_info:
-                # Interceptamos el diálogo al hacer clic en la opción 'Archivo' o 'File'
-                # Google a veces usa divs o spans con el texto, no necesariamente botones
-                file_option = page.locator('*:has-text("Archivo"), *:has-text("File"), [aria-label*="File" i], [aria-label*="Archivo" i]').first
-                await file_option.wait_for(state="visible", timeout=20000)
-                await file_option.click()
-            
-            file_chooser = await fc_info.value
-            await file_chooser.set_files(file_path)
-            logger.success(f"Archivo {os.path.basename(file_path)} subido exitosamente.")
-        except Exception as e:
-            logger.error(f"Error interceptando selector de archivos: {str(e)[:100]}...")
-            # Fallback directo al input oculto si es posible
+            # Estrategia A: Intentar click en el File Option via Interceptor
             try:
-                await page.set_input_files('input[type="file"]', file_path)
-                logger.success("Subida completada via fallback (input).")
-            except:
-                logger.error("Fallo total en la subida de archivo.")
+                # Buscamos el botón de Archivo/File dentro del modal
+                file_option_selectors = [
+                    '*:has-text("Archivo")', 
+                    '*:has-text("File")',
+                    '*:has-text("Subir archivo")',
+                    '[aria-label*="File" i]', 
+                    '[aria-label*="Archivo" i]'
+                ]
+                
+                file_option = None
+                for sel in file_option_selectors:
+                    try:
+                        loc = page.locator(sel).first
+                        if await loc.is_visible():
+                            file_option = loc
+                            break
+                    except: continue
+
+                if file_option:
+                    async with page.expect_file_chooser(timeout=10000) as fc_info:
+                        await file_option.click()
+                    file_chooser = await fc_info.value
+                    await file_chooser.set_files(file_path)
+                    logger.success(f"Archivo {os.path.basename(file_path)} subido via Interceptor.")
+                    return True
+            except Exception as e:
+                logger.warning(f"Fallo en Estrategia A (Interceptor): {str(e)[:50]}...")
+
+            # Estrategia B: Direct input injection (más robusto si el input ya existe o se puede forzar)
+            try:
+                logger.info("Intentando inyección directa en input[type='file']...")
+                input_loc = page.locator('input[type="file"]').first
+                # Si no es visible, intentamos forzarlo o esperamos un poco
+                await input_loc.set_input_files(file_path)
+                logger.success("Subida completada via Estrategia B (Inyección directa).")
+                return True
+            except Exception as e:
+                logger.error(f"Fallo total en la subida de archivo: {str(e)[:50]}...")
                 return False
+        except Exception as e:
+            logger.error(f"Error en bloque de subida: {str(e)[:50]}...")
+            return False
 
         await asyncio.sleep(10) # Esperar al procesamiento inicial
 
