@@ -3,6 +3,7 @@ import json
 import asyncio
 import subprocess
 from playwright_stealth import Stealth
+from playwright.async_api import Error as PlaywrightError
 
 user_home = os.path.expanduser("~")
 DEFAULT_COMET_PATH = os.path.join(user_home, "AppData", "Local", "Perplexity", "Comet", "Application", "comet.exe")
@@ -65,9 +66,14 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
             stealth = Stealth()
             
             async def setup_page(page):
-                await stealth.apply_stealth_async(page)
-                # Strict resource blocking for performance
-                await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", lambda route: route.abort())
+                try:
+                    if page.is_closed(): return
+                    await stealth.apply_stealth_async(page)
+                    # Strict resource blocking for performance
+                    await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", lambda route: route.abort())
+                except (PlaywrightError, Exception) as e:
+                    if logger:
+                        logger.warning(f"Resilient Setup: Could not configure page (likely closed): {str(e)[:50]}...")
 
             # Listen for new pages
             context.on("page", setup_page)

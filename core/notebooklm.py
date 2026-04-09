@@ -13,15 +13,35 @@ async def upload_to_notebooklm(context, file_path, logger):
         await page.goto("https://notebooklm.google.com/", wait_until="networkidle", timeout=60000)
         
         # 1. Crear Nuevo Cuaderno
-        # Buscamos el botón de 'Nuevo cuaderno' o el '+' grande
+        # Buscamos el botón de 'Nuevo cuaderno' con selectores más amplios
         try:
-            new_btn = page.locator('button:has-text("Nuevo cuaderno"), button:has-text("New notebook"), .v-btn--icon').first
+            new_btn_selectors = [
+                'button:has-text("Nuevo cuaderno")', 
+                'button:has-text("New notebook")',
+                '[aria-label="New notebook"]',
+                '[aria-label="Nuevo cuaderno"]',
+                '.v-btn--icon',
+                'button:has(mat-icon:has-text("add"))'
+            ]
+            
+            new_btn = None
+            for selector in new_btn_selectors:
+                try:
+                    loc = page.locator(selector).first
+                    if await loc.is_visible():
+                        new_btn = loc
+                        break
+                except: continue
+            
+            if not new_btn:
+                # Fallback final: buscar por texto plano en cualquier elemento clicable
+                new_btn = page.get_by_text("Nuevo cuaderno", exact=False).first
+            
             await new_btn.wait_for(state="visible", timeout=30000)
             await new_btn.click()
             logger.info("Creando nuevo cuaderno...")
         except Exception as e:
-            logger.warning(f"No se detectó el botón de 'Nuevo cuaderno': {e}")
-            # Si ya estamos en un cuaderno o no carga, procedemos
+            logger.warning(f"No se detectó el botón de 'Nuevo cuaderno' (posiblemente ya dentro de uno): {str(e)[:50]}...")
         
         await asyncio.sleep(5)
         
@@ -29,22 +49,39 @@ async def upload_to_notebooklm(context, file_path, logger):
         logger.info("Detectando modal de 'Añadir fuente' en NotebookLM...")
         try:
             # Primero click en el botón general de 'Añadir fuente' si el modal no está abierto
-            add_source_btn = page.locator('button:has-text("Añadir fuente"), button:has-text("Add source"), .v-btn--icon').first
-            if await add_source_btn.is_visible():
+            add_source_selectors = [
+                'button:has-text("Añadir fuente")',
+                'button:has-text("Add source")',
+                '[aria-label*="Add source" i]',
+                '[aria-label*="Añadir fuente" i]',
+                'button:has(mat-icon:has-text("add"))'
+            ]
+            
+            add_source_btn = None
+            for sel in add_source_selectors:
+                try:
+                    loc = page.locator(sel).first
+                    if await loc.is_visible():
+                        add_source_btn = loc
+                        break
+                except: continue
+
+            if add_source_btn:
                 await add_source_btn.click()
                 await asyncio.sleep(2)
 
             async with page.expect_file_chooser() as fc_info:
                 # Interceptamos el diálogo al hacer clic en la opción 'Archivo' o 'File'
-                file_option = page.locator('*:has-text("Archivo"), *:has-text("File"), [aria-label*="File" i]').first
-                await file_option.wait_for(state="visible", timeout=15000)
+                # Google a veces usa divs o spans con el texto, no necesariamente botones
+                file_option = page.locator('*:has-text("Archivo"), *:has-text("File"), [aria-label*="File" i], [aria-label*="Archivo" i]').first
+                await file_option.wait_for(state="visible", timeout=20000)
                 await file_option.click()
             
             file_chooser = await fc_info.value
             await file_chooser.set_files(file_path)
             logger.success(f"Archivo {os.path.basename(file_path)} subido exitosamente.")
         except Exception as e:
-            logger.error(f"Error interceptando selector de archivos: {e}")
+            logger.error(f"Error interceptando selector de archivos: {str(e)[:100]}...")
             # Fallback directo al input oculto si es posible
             try:
                 await page.set_input_files('input[type="file"]', file_path)

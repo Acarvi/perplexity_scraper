@@ -86,8 +86,12 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                 logger.info(f"  -> Deep Related Scraping: {rel['title']}")
                 rel_page = await context.new_page()
                 async with semaphore:
-                    await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
-                    await asyncio.sleep(2)
+                    try:
+                        await rel_page.goto(rel['url'], wait_until="domcontentloaded", timeout=30000)
+                        await asyncio.sleep(2)
+                    except:
+                        logger.warning(f"  -> Timeout/Error on related: {rel['url'][:40]}...")
+                        continue
                 
                 # Extract related date without blocking if too old
                 rel_date_text = await extract_date_from_page(rel_page, logger)
@@ -104,10 +108,12 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                     "date": rel_p_time if rel_p_time != "Unknown" else rel_date_text
                 })
             except Exception as e:
-                logger.warning(f"Failed to deep scrape related story: {e}")
+                logger.warning(f"  [WARN] Skip related story: {str(e)[:50]}...")
             finally:
                 if rel_page:
-                    await rel_page.close()
+                    try:
+                        await rel_page.close()
+                    except: pass
         
         # 4. External Sources Discovery (Reuters, Bloomberg, etc.)
         external_links = await page.evaluate("""() => {
@@ -125,8 +131,12 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                 logger.info(f"  -> Deep External Scraping: {ext['url']}")
                 ext_page = await context.new_page()
                 async with semaphore:
-                    await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
-                    await asyncio.sleep(2)
+                    try:
+                        await ext_page.goto(ext['url'], wait_until="domcontentloaded", timeout=25000)
+                        await asyncio.sleep(2)
+                    except:
+                        logger.warning(f"  -> Timeout/Error on external: {ext['url'][:40]}...")
+                        continue
                 
                 ext_content = await ext_page.evaluate("""() => {
                     const article = document.querySelector('article') || document.body;
@@ -141,9 +151,12 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
                         "content": clean_noise(ext_content[:4000])
                     })
             except Exception as e:
-                logger.warning(f"Failed to scrape external: {ext['url']}")
+                logger.warning(f"  [WARN] Skip external: {str(e)[:50]}...")
             finally:
-                if ext_page: await ext_page.close()
+                if ext_page: 
+                    try:
+                        await ext_page.close()
+                    except: pass
 
         return {
             "url": url, 
