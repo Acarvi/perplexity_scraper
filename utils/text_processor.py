@@ -24,24 +24,44 @@ def parse_any_date(date_text):
     if "today" in text or "hoy" in text or "just now" in text:
         return now
 
-    # 2. Handle Absolute Dates (e.g. 'April 4, 2026')
+    # 2. Handle Absolute Dates (e.g. 'April 4, 2026' or '6 abr 2026')
     months_map = {
         "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
         "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
-        "ene": 1, "abr": 4, "ago": 8, "dic": 12  # Spanish support
+        "ene": 1, "abr": 4, "ago": 8, "dic": 12, # Short Spanish
+        "enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
+        "julio": 7, "agosto": 8, "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12,
+        "set": 9
     }
     
-    # Pattern: Month Day, Year (optional)
-    abs_pattern = r'([a-z]{3,10})\s+(\d{1,2}),?\s*(\d{4})?'
-    abs_match = re.search(abs_pattern, text, re.I)
-    if abs_match:
-        m_str = abs_match.group(1).lower()[:3]
-        month = months_map.get(m_str)
-        if month:
-            day = int(abs_match.group(2))
-            year = int(abs_match.group(3)) if abs_match.group(3) else now.year
+    # Clean common Spanish date noise
+    text = re.sub(r'(?i)publicado|el|de', ' ', text).strip()
+    text = re.sub(r'\s+', ' ', text)
+    
+    # Pattern 1: Month Day, Year (English style)
+    abs_pattern_en = r'\b([a-z]{3,10})\s+(\d{1,2})(?:,?\s*(\d{4}))?\b'
+    # Pattern 2: Day Month [Year] (Spanish style) - 6 abr 2026 or 6 mayo 2026
+    abs_pattern_es = r'\b(\d{1,2})\s+([a-z]{3,10})(?:\s+(\d{4}))?\b'
+    
+    for pattern in [abs_pattern_en, abs_pattern_es]:
+        abs_match = re.search(pattern, text, re.I)
+        if abs_match:
             try:
-                return datetime(year, month, day, tzinfo=timezone.utc)
+                # Capture depends on pattern
+                if pattern == abs_pattern_en:
+                    m_str = abs_match.group(1).lower()[:3]
+                    day = int(abs_match.group(2))
+                    year = int(abs_match.group(3)) if abs_match.group(3) else now.year
+                else:
+                    day = int(abs_match.group(1))
+                    m_str = abs_match.group(2).lower()[:3]
+                    year = int(abs_match.group(3)) if abs_match.group(3) else now.year
+                
+                # Check for full name match first if short fails
+                month = months_map.get(m_str) or months_map.get(abs_match.group(1) if pattern == abs_pattern_en else abs_match.group(2))
+                
+                if month:
+                    return datetime(year, month, day, tzinfo=timezone.utc)
             except: pass
 
     # 3. Handle Relative Dates - RIGOROUS REGEX

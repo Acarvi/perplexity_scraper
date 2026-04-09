@@ -1,13 +1,14 @@
-import asyncio
 import sys
 import os
+import asyncio
+from playwright.async_api import TimeoutError as PlaywrightTimeout, Error as PlaywrightError
 
 # Force the current directory into the path
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
 import json
 from datetime import datetime, timezone
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError, Error as PlaywrightError
 
 # Local imports
 from core.cli import show_banner, get_user_config, CLILogger, create_progress, save_last_run_time
@@ -52,6 +53,13 @@ async def process_article(context, link, last_run_time, mode, custom_hours, logg
                 article_data["entities"] = extract_entities(article_data["content"])
                 return article_data
             return article_data # Could be "TOO_OLD"
+        except (PlaywrightTimeoutError, PlaywrightError) as e:
+            logger.warning(f"Página omitida por timeout o cierre inesperado: {link}")
+            log_debug(f"ARTICLE_ERROR: {str(e)[:100]}")
+            return None
+        except Exception as e:
+            logger.error(f"Error procesando artículo {link}: {e}")
+            return None
         finally:
             progress.update(task_id, advance=1)
             # Mandatory closure for memory health
@@ -89,12 +97,13 @@ async def run_scraper():
                 cat_name = cat["name"]
                 cat_url = f"https://www.perplexity.ai/discover/{cat.get('path', 'top')}"
                 
-                logger.info(f"--- SCRAPING CATEGORY: {cat_name} ---")
-                log_debug(f"STEP: Navigating to {cat_url}")
-                
-                await page.goto(cat_url, wait_until="domcontentloaded", timeout=60000)
-                await check_for_challenges(page, logger)
-                
+                try:
+                    await page.goto(cat_url, wait_until="domcontentloaded", timeout=60000)
+                    await check_for_challenges(page, logger)
+                except (PlaywrightTimeout, PlaywrightError) as e:
+                    logger.warning(f"Warning: Página omitida por timeout (Categoría {cat_name}): {str(e)[:50]}")
+                    continue
+
                 with create_progress() as progress:
                     scroll_task = progress.add_task(f"[cyan]Scrolling {cat_name}...", total=100)
                     await scroll_feed(page, 30, start_date, mode, custom_hours, logger, progress=progress, task_id=scroll_task)

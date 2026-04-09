@@ -193,12 +193,16 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
         await page.evaluate("window.scrollBy(0, 2000)") 
         await asyncio.sleep(2)
         
-        current_timestamp = await page.evaluate("""() => {
-            const elements = Array.from(document.querySelectorAll('span, time, div'));
-            const timePattern = /\\d+\\s*(m|h|d|min|hour|day|seg|sec|hora|día)|yesterday|ayer|ago|hace/i;
-            const matches = elements.filter(el => timePattern.test(el.innerText));
-            return matches.length > 0 ? matches[matches.length - 1].innerText.trim() : null;
-        }""")
+        try:
+            current_timestamp = await page.evaluate("""() => {
+                const elements = Array.from(document.querySelectorAll('span, time, div'));
+                const timePattern = /\\d+\\s*(m|h|d|min|hour|day|seg|sec|hora|día)|yesterday|ayer|ago|hace/i;
+                const matches = elements.filter(el => timePattern.test(el.innerText));
+                return matches.length > 0 ? matches[matches.length - 1].innerText.trim() : null;
+            }""")
+        except:
+            logger.warning("  [WARN] Lost context during scroll. Attempting recovery...")
+            break 
         
         if current_timestamp:
             if current_timestamp == last_timestamp:
@@ -210,8 +214,11 @@ async def scroll_feed(page, max_scrolls, last_run_time, mode, custom_hours, logg
                 
             is_rec, t_str = is_recent_enough(current_timestamp, last_run_time, mode=mode, custom_hours=custom_hours)
             if not is_rec:
-                logger.info(f"Reached date threshold: {t_str}")
-                reached_end = True
+                if t_str == "Unknown":
+                    logger.warning(f"  [WARN] Unparseable date in feed ({current_timestamp}). Skipping element...")
+                else:
+                    logger.info(f"Reached date threshold: {t_str}")
+                    reached_end = True
         else:
             stuck_count += 1
             if stuck_count >= 5: break

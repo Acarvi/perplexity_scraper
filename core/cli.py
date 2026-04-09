@@ -4,7 +4,7 @@ from datetime import datetime, timezone, timedelta
 from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn, TimeElapsedColumn
 
-console = Console()
+console = Console(force_terminal=True)
 
 class CLILogger:
     @staticmethod
@@ -39,7 +39,7 @@ def get_user_config():
 
 def create_progress():
     return Progress(
-        SpinnerColumn(),
+        SpinnerColumn("line"), # Use a simple ASCII line instead of Braille
         TextColumn("[progress.description]{task.description}"),
         BarColumn(),
         TimeElapsedColumn()
