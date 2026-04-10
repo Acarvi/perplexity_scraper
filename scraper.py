@@ -186,14 +186,10 @@ async def run_scraper():
                 if browser_running: 
                     try: await browser_running.disconnect()
                     except: pass
-                
-                # Si el scraper lanzó su propia ventana (Modo Paralelo), la cerramos al terminar
-                if comet_proc:
-                    try:
-                        comet_proc.terminate()
-                        comet_proc.wait(timeout=5)
-                    except:
-                        pass
+                elif context:
+                    # En Modo Paralelo cerramos el contexto para cerrar la ventana dedicada
+                    try: await context.close()
+                    except: pass
             except Exception as e: 
                 log_debug(f"Error during final cleanup: {e}")
             

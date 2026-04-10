@@ -19,6 +19,22 @@ async def is_comet_running():
     except:
         return False
 
+def cleanup_port(port):
+    """Kills any process using the specified port on Windows."""
+    try:
+        cmd = f'netstat -ano | findstr :{port}'
+        output = subprocess.check_output(cmd, shell=True).decode('utf-8', 'ignore')
+        for line in output.splitlines():
+            if f":{port}" in line and "LISTENING" in line:
+                parts = line.split()
+                pid = parts[-1]
+                if pid and pid != "0":
+                    subprocess.run(f"taskkill /F /PID {pid}", shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    return True
+    except:
+        pass
+    return False
+
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
     browser_context = None
@@ -36,45 +52,48 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
         if await is_comet_running():
             logger.warning("Main Comet is open but 'locked' (no debugging port).")
             logger.info("Entering Parallel Mode: Launching a dedicated scraper window...")
+            
+            # 🧹 LIMPIEZA DE ZOMBIS: Nos aseguramos de que el puerto 9223 esté libre
+            cleanup_port(9223)
+            
             try:
-                # OPTION C: Isolated Parallel Launch (Subprocess + CDP)
-                cmd = [
-                    DEFAULT_COMET_PATH,
-                    "--remote-debugging-port=9223",
-                    f"--user-data-dir={USER_DATA_SCRAPER}",
-                    "--no-first-run",
-                    "--no-default-browser-check",
-                    "--restore-last-session",
-                    "about:blank"
-                ]
-                comet_proc = subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-                
-                await asyncio.sleep(5)
-                browser_running = await p.chromium.connect_over_cdp("http://127.0.0.1:9223", timeout=15000)
-                browser_context = browser_running.contexts[0]
-                
+                # OPTION C: Isolated Parallel Launch (Robust Persistent Context)
+                browser_context = await p.chromium.launch_persistent_context(
+                    user_data_dir=USER_DATA_SCRAPER,
+                    executable_path=DEFAULT_COMET_PATH,
+                    headless=headless,
+                    args=[
+                        "--no-first-run",
+                        "--no-default-browser-check",
+                        "--skip-first-run-ui",
+                        "--disable-search-engine-choice-screen",
+                        "--disable-sync",
+                        "--remote-debugging-port=9223",
+                        f"--app={discover_url}" # Lanzamos como "App" para evitar barras extras y onboarding
+                    ]
+                )
                 logger.success("Dedicated Scraper Window launched (Parallel Mode).")
             except Exception as e:
                 logger.error(f"Failed to launch parallel window: {e}")
                 return None, None, None, None
         else:
-            # Not running, launch standard persistent session via Subprocess
+            # Not running, launch standard persistent context
+            cleanup_port(port)
             logger.info("Launching Comet with debugging port enabled...")
             try:
-                cmd = [
-                    DEFAULT_COMET_PATH,
-                    f"--remote-debugging-port={port}",
-                    f"--user-data-dir={USER_DATA_SCRAPER}",
-                    "--no-first-run",
-                    "--no-default-browser-check",
-                    "--restore-last-session",
-                    "about:blank"
-                ]
-                comet_proc = subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-                
-                await asyncio.sleep(5)
-                browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=15000)
-                browser_context = browser_running.contexts[0]
+                browser_context = await p.chromium.launch_persistent_context(
+                    user_data_dir=USER_DATA_SCRAPER,
+                    executable_path=DEFAULT_COMET_PATH,
+                    headless=headless,
+                    args=[
+                        f"--remote-debugging-port={port}",
+                        "--no-first-run",
+                        "--no-default-browser-check",
+                        "--skip-first-run-ui",
+                        "--disable-search-engine-choice-screen",
+                        f"--app={discover_url}"
+                    ]
+                )
                 logger.success("Comet launched successfully.")
             except Exception as e:
                 logger.error(f"Failed to launch Comet: {e}")
@@ -98,19 +117,26 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                     "Sec-Ch-Ua-Mobile": "?0",
                     "Sec-Ch-Ua-Platform": '"Windows"',
                 })
-                # Performance optimization (skip images/css)
-                await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,woff,woff2,ttf,otf,ico,css,mp4,webm}", abort_route)
+                # ✅ VISUALES PREMIUM: Permitimos CSS e imágenes para que se vea "bonito"
+                # (Se ha eliminado el bloqueo de recursos como pidió el usuario)
+                pass
             except: pass
 
-        # Get/Create the page for the scraper
-        page = browser_context.pages[0] if browser_context.pages else await browser_context.new_page()
+        # Reutilizamos la pestaña existente de forma inteligente
+        if browser_context.pages:
+            page = browser_context.pages[0]
+            curr_url = page.url
+            if "perplexity.ai/discover" not in curr_url:
+                logger.info(f"Navigating the main tab to {discover_url}...")
+                await page.goto(discover_url, wait_until="domcontentloaded", timeout=45000)
+        else:
+            page = await browser_context.new_page()
+            await page.goto(discover_url, wait_until="domcontentloaded", timeout=45000)
+            
         await setup_page(page)
         
-        logger.info(f"Navigating to {discover_url}...")
-        await page.goto(discover_url, wait_until="domcontentloaded", timeout=60000)
-        
         browser_context.on("page", setup_page)
-        return browser_running, browser_context, page, comet_proc
+        return browser_running, browser_context, page, None
     except Exception as e:
         logger.error(f"Failed to setup context: {e}")
         return None, None, None, None
