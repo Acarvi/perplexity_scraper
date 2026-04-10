@@ -90,7 +90,10 @@ async def run_scraper():
     async with async_playwright() as p:
         browser_running, context, page, comet_proc = await launch_comet(p, headless=False, logger=logger)
         if not page:
-            raise RuntimeError("Browser initialization failed. Check comet.exe path.")
+            print("\n[!] ERROR CRÍTICO: No se pudo conectar a la sesión de Comet.")
+            print("[!] CONSEJO: Asegúrate de que Comet esté abierto con el puerto 9222 habilitado.")
+            print("[!] También verifica que el acceso directo 'C:\\Users\\Acarvi\\Desktop\\Comet.lnk' exista.")
+            raise RuntimeError("Browser initialization failed. Connection to Comet refused on port 9222.")
 
         try:
             for cat in categories:

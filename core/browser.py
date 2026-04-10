@@ -31,15 +31,26 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
     except Exception:
         logger.info("No active session. Launching Comet via system shortcut...")
         try:
-            # USANDO LA TECLA: Lanzamos Comet usando el acceso directo y le pasamos la URL de Discover
+            # OPTION A: Launch via Shortcut (The "Tecla" for active session)
             cmd = r'cmd /c start "" "C:\Users\Acarvi\Desktop\Comet.lnk" "https://www.perplexity.ai/discover"'
             subprocess.Popen(cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             
             await asyncio.sleep(5)
-            browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=15000)
-            logger.success("Comet launched and connected via CDP.")
+            try:
+                browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=8000)
+                logger.success("Comet launched and connected via CDP (Shortcut).")
+            except Exception:
+                # OPTION B: Fallback to direct EXE launch with port
+                logger.warning("CDP connection refused. Falling back to direct exe launch with port flag...")
+                cmd_fallback = f'"{DEFAULT_COMET_PATH}" --remote-debugging-port={port} --restore-last-session "{discover_url}"'
+                subprocess.Popen(cmd_fallback, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                
+                await asyncio.sleep(7)
+                browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=15000)
+                logger.success("Comet connected via CDP (EXE Fallback).")
         except Exception as e:
             logger.error(f"Failed to launch Comet: {e}")
+            logger.info("Check if Comet is already running without --remote-debugging-port=9222")
             return None, None, None, None
 
     # 2. Scraper Isolation
