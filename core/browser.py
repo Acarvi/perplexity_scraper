@@ -31,13 +31,8 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
     except Exception:
         logger.info("No active session. Launching Comet via system shortcut...")
         try:
-            # Using the "Tecla" (Magic Command) from skill_comet_navigation.md
-            # This ensures it launches in the active desktop with the correct profile
-            shortcut_path = r"C:\Users\Acarvi\Desktop\Comet.lnk"
-            # We add the debugging port as an argument if possible, or assume it's in the shortcut
-            # Actually, the shortcut might not have the port. 
-            # We'll try to launch comet.exe directly with the port to be sure.
-            cmd = f'"{DEFAULT_COMET_PATH}" --remote-debugging-port={port} --restore-last-session'
+            # USANDO LA TECLA: Lanzamos Comet usando el acceso directo y le pasamos la URL de Discover
+            cmd = r'cmd /c start "" "C:\Users\Acarvi\Desktop\Comet.lnk" "https://www.perplexity.ai/discover"'
             subprocess.Popen(cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             
             await asyncio.sleep(5)
