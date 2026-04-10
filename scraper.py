@@ -181,15 +181,21 @@ async def run_scraper():
             logger.error(f"Global Loop Error: {e}")
             log_debug(f"CRASH: {e}")
         finally:
-            print("Desconectando de la sesión de Comet de forma segura...")
+            print("Limpiando sesión y cerrando ventanas temporales...")
             try:
-                # ❌ ELIMINADO: await context.close() -> Esto cerraba todas tus pestañas personales
-                
                 if browser_running: 
-                    # ✅ CORRECTO: Usamos disconnect() en lugar de close() para no matar el proceso del usuario
-                    await browser_running.disconnect()
+                    try: await browser_running.disconnect()
+                    except: pass
+                
+                # Si el scraper lanzó su propia ventana (Modo Paralelo), la cerramos al terminar
+                if comet_proc:
+                    try:
+                        comet_proc.terminate()
+                        comet_proc.wait(timeout=5)
+                    except:
+                        pass
             except Exception as e: 
-                log_debug(f"Error during disconnect: {e}")
+                log_debug(f"Error during final cleanup: {e}")
             
             log_debug("STEP: Comet Browser session disconnected safely.")
 
