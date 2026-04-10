@@ -18,14 +18,6 @@ async def is_comet_running():
     except:
         return False
 
-async def kill_comet(logger=None):
-    if logger: logger.warning("Force closing existing Comet sessions to enable debugging port...")
-    try:
-        subprocess.run('taskkill /F /IM comet.exe /T', shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        await asyncio.sleep(2)
-    except:
-        pass
-
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
     discover_url = "https://www.perplexity.ai/discover"
@@ -39,10 +31,12 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
     except Exception:
         # Check if already running but refused connection
         if await is_comet_running():
-            logger.warning("Comet is running but CDP connection was refused. A restart is required.")
-            await kill_comet(logger)
+            logger.warning("Comet is already open, but has no Remote Debugging port enabled.")
+            logger.info("TIP: To allow the scraper to connect without closing your tabs,")
+            logger.info("please restart Comet once with: --remote-debugging-port=9222")
+            logger.info("-" * 60)
 
-        logger.info("Launching Comet with debugging port enabled...")
+        logger.info("Launching Comet with non-destructive methods...")
         try:
             # OPTION A: Launch via Shortcut (The "Tecla" for active session)
             cmd = r'cmd /c start "" "C:\Users\Acarvi\Desktop\Comet.lnk" "https://www.perplexity.ai/discover"'
@@ -62,8 +56,9 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                 browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=15000)
                 logger.success("Comet connected via CDP (EXE Fallback).")
         except Exception as e:
-            logger.error(f"Failed to launch Comet: {e}")
-            logger.info("TIP: If it persists, close Comet manually and restart the scraper.")
+            logger.error(f"Failed to establish CDP connection: {e}")
+            logger.info("IMPORTANT: If Comet window is visible but the scraper stops, manually restart")
+            logger.info("Comet using a shortcut that includes: --remote-debugging-port=9222")
             return None, None, None, None
 
     # 2. Scraper Isolation

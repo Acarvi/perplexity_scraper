@@ -90,10 +90,11 @@ async def run_scraper():
     async with async_playwright() as p:
         browser_running, context, page, comet_proc = await launch_comet(p, headless=False, logger=logger)
         if not page:
-            print("\n[!] ERROR CRÍTICO: No se pudo establecer conexión con Comet.")
-            print("[!] Se intentó un reinicio automático, pero la conexión sigue siendo rechazada.")
-            print("[!] CONSEJO: Cierra manualmente TODAS las ventanas de Comet y vuelve a ejecutar el scraper.")
-            raise RuntimeError("Browser initialization failed. Make sure port 9222 is not blocked.")
+            print("\n[!] AVISO: No se pudo conectar a la sesión de Comet.")
+            print("[!] El navegador está abierto pero la automatización está 'bloqueada'.")
+            print("[!] SOLUCIÓN: Cierra Comet y ábrelo usando una 'tecla' o acceso directo")
+            print("[!] que incluya el argumento: --remote-debugging-port=9222")
+            raise RuntimeError("Browser initialization failed. Handshake refused on port 9222.")
 
         try:
             for cat in categories:
