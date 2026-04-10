@@ -11,12 +11,20 @@ COMET_LNK = r"C:\Users\Acarvi\Desktop\Comet.lnk"
 CONFIG_FILE = os.path.join(os.getcwd(), "config.json")
 USER_DATA_DIR = os.path.join(os.getcwd(), "user_data")
 
-def open_url_in_comet(url, logger=None):
-    """
-    Deprecated: Using internal Playwright tabs for stability.
-    """
-    if logger:
-        logger.info(f"Opening internal tab for: {url}")
+async def is_comet_running():
+    try:
+        output = subprocess.check_output('tasklist /FI "IMAGENAME eq comet.exe" /NH', shell=True).decode('utf-8', 'ignore')
+        return "comet.exe" in output.lower()
+    except:
+        return False
+
+async def kill_comet(logger=None):
+    if logger: logger.warning("Force closing existing Comet sessions to enable debugging port...")
+    try:
+        subprocess.run('taskkill /F /IM comet.exe /T', shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        await asyncio.sleep(2)
+    except:
+        pass
 
 async def launch_comet(p, port=9222, headless=False, logger=None):
     browser_running = None
@@ -29,7 +37,12 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
         browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=3000)
         logger.success("Connected to active Comet session.")
     except Exception:
-        logger.info("No active session. Launching Comet via system shortcut...")
+        # Check if already running but refused connection
+        if await is_comet_running():
+            logger.warning("Comet is running but CDP connection was refused. A restart is required.")
+            await kill_comet(logger)
+
+        logger.info("Launching Comet with debugging port enabled...")
         try:
             # OPTION A: Launch via Shortcut (The "Tecla" for active session)
             cmd = r'cmd /c start "" "C:\Users\Acarvi\Desktop\Comet.lnk" "https://www.perplexity.ai/discover"'
@@ -41,16 +54,16 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                 logger.success("Comet launched and connected via CDP (Shortcut).")
             except Exception:
                 # OPTION B: Fallback to direct EXE launch with port
-                logger.warning("CDP connection refused. Falling back to direct exe launch with port flag...")
-                cmd_fallback = f'"{DEFAULT_COMET_PATH}" --remote-debugging-port={port} --restore-last-session "{discover_url}"'
+                logger.warning("CDP connection refused again. Attempting direct exe launch...")
+                cmd_fallback = f'"{DEFAULT_COMET_PATH}" --remote-debugging-port={port} --restore-last-session "https://www.perplexity.ai/discover"'
                 subprocess.Popen(cmd_fallback, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
                 
-                await asyncio.sleep(7)
+                await asyncio.sleep(8)
                 browser_running = await p.chromium.connect_over_cdp(f"http://127.0.0.1:{port}", timeout=15000)
                 logger.success("Comet connected via CDP (EXE Fallback).")
         except Exception as e:
             logger.error(f"Failed to launch Comet: {e}")
-            logger.info("Check if Comet is already running without --remote-debugging-port=9222")
+            logger.info("TIP: If it persists, close Comet manually and restart the scraper.")
             return None, None, None, None
 
     # 2. Scraper Isolation
