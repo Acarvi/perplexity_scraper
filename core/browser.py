@@ -62,6 +62,8 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                     user_data_dir=USER_DATA_SCRAPER,
                     executable_path=DEFAULT_COMET_PATH,
                     headless=headless,
+                    # ✅ MODO SÚPER SIGILO: Eliminamos rastro de automatización y avisos feos
+                    ignore_default_args=["--enable-automation", "--no-sandbox"],
                     args=[
                         "--no-first-run",
                         "--no-default-browser-check",
@@ -69,8 +71,11 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                         "--disable-search-engine-choice-screen",
                         "--disable-sync",
                         "--remote-debugging-port=9223",
-                        f"--app={discover_url}" # Lanzamos como "App" para evitar barras extras y onboarding
-                    ]
+                        "--disable-blink-features=AutomationControlled",
+                        "--test-type",
+                        f"--app={discover_url}"
+                    ],
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
                 )
                 logger.success("Dedicated Scraper Window launched (Parallel Mode).")
             except Exception as e:
@@ -85,14 +90,19 @@ async def launch_comet(p, port=9222, headless=False, logger=None):
                     user_data_dir=USER_DATA_SCRAPER,
                     executable_path=DEFAULT_COMET_PATH,
                     headless=headless,
+                    # ✅ MODO SÚPER SIGILO
+                    ignore_default_args=["--enable-automation", "--no-sandbox"],
                     args=[
                         f"--remote-debugging-port={port}",
                         "--no-first-run",
                         "--no-default-browser-check",
                         "--skip-first-run-ui",
                         "--disable-search-engine-choice-screen",
+                        "--disable-blink-features=AutomationControlled",
+                        "--test-type",
                         f"--app={discover_url}"
-                    ]
+                    ],
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
                 )
                 logger.success("Comet launched successfully.")
             except Exception as e:
