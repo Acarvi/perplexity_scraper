@@ -139,3 +139,11 @@ Call log:
 [2026-04-09 20:24:08] CRASH: BrowserContext.new_page: Target page, context or browser has been closed
 [2026-04-09 20:24:08] STEP: Comet Browser session terminated.
 [2026-04-09 20:29:16] STEP: Comet Browser session terminated.
+[2026-04-10 18:03:58] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-10 18:03:58] STEP: Comet Browser session disconnected safely.
+[2026-04-10 19:06:20] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-10 19:06:20] STEP: Comet Browser session disconnected safely.
+[2026-04-10 19:13:14] CRASH: Page.evaluate: Target page, context or browser has been closed
+[2026-04-10 19:13:14] STEP: Comet Browser session disconnected safely.
+[2026-04-12 10:04:47] CRASH: BrowserContext.new_page: Target page, context or browser has been closed
+[2026-04-12 10:04:47] STEP: Comet Browser session disconnected safely.

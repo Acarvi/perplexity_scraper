@@ -110,41 +110,56 @@ def extract_entities(text):
 def clean_noise(text):
     """
     Removes web noise and repetitive elements for cleaner NotebookLM input.
+    Ensures Markdown structure (lists, bold) is preserved.
     """
     if not text: return ""
     
-    # Remove common Perplexity UI noise
+    # Noise patterns with word boundary protection where possible
     noise_patterns = [
-        r"(?i)Ask follow[- ]*up\b",
-        r"(?i)Sources\b",
-        r"(?i)View more\b",
-        r"(?i)Discover more\b",
-        r"(?i)Related stories\b",
-        r"(?i)Copy link\b",
-        r"(?i)Copy\b",
-        r"(?i)Share\b",
-        r"(?i)Model\b",
-        r"(?i)Back to Discover\b",
-        r"(?i)View original\b",
-        r"(?i)Read more\b",
+        r"(?i)\bAsk follow[- ]*up\b",
+        r"(?i)\bSources\b",
+        r"(?i)\bView more\b",
+        r"(?i)\bDiscover more\b",
+        r"(?i)\bRelated stories\b",
+        r"(?i)\bCopy link\b",
+        r"(?i)\bCopy\b",
+        r"(?i)\bShare\b",
+        r"(?i)\bModel\b",
+        r"(?i)\bBack to Discover\b",
+        r"(?i)\bView original\b",
+        r"(?i)\bRead more\b",
         r"^\s*\+\d+\s*$",
         r"^\s*\d+\s*source(s)?\s*$",
         r"^\s*\d+\s*$",
-        r"(?i)Published\n.*",
+        r"(?i)Published\s+on\s+.*",
         r"(?i)Search for anything\b",
         r"(?i)Explore Discover\b",
-        r"(?i)Ask anything\.\.\.\b"
+        r"(?i)Ask anything\.\.\.\b",
+        r"(?i)Ad\s*$"
     ]
     
     cleaned = text
     for pattern in noise_patterns:
-        cleaned = re.sub(pattern, "", cleaned, flags=re.MULTILINE)
+        # Use flags=re.IGNORECASE in a more controlled way
+        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE | re.MULTILINE)
     
-    # Remove multiple newlines and extra spaces
-    cleaned = re.sub(r'\n\s*\n', '\n\n', cleaned)
-    cleaned = cleaned.strip()
+    # Remove multiple spaces on same line
+    cleaned = re.sub(r'[ \t]+', ' ', cleaned)
     
-    return cleaned
+    # Normalize newlines: Max 2 consecutive newlines, remove leading/trailing spaces on lines
+    lines = [line.strip() for line in cleaned.splitlines()]
+    
+    # Reconstruct while preserving list and header markers
+    final_lines = []
+    for line in lines:
+        if not line:
+            if final_lines and final_lines[-1] != "":
+                final_lines.append("")
+        else:
+            final_lines.append(line)
+            
+    cleaned = "\n".join(final_lines)
+    return cleaned.strip()
 
 def is_recent_enough(date_text, last_run_time, mode="since_last", custom_hours=24):
     """

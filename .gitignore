@@ -10,8 +10,10 @@ __pycache__/
 
 # User Data & Session
 user_data/
+user_data_scraper*/
 last_run.json
 config.json
+debug_scraper.log
 
 # Output Files
 # perplexity_discover_content.txt (Un-ignored to allow Gemini Web access)

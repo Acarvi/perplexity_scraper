@@ -105,6 +105,8 @@ def test_premium_newsletter_output():
     
     result = format_to_markdown(category, title, date, url, content, external_sources, related_news)
     
-    assert "ESTA NOTICIA [REL STORY] ES NOTICIA AUXILIAR PARA LA NOTICIA PRINCIPAL [TEST STORY]" in result.upper()
-    assert "### 🌐 LINKS EXTERNOS Y FUENTES DE CONTEXTO" in result
+    # Check for the updated disclaimer and header structure
+    assert "AVISO DE CONTEXTO" in result.upper()
+    assert "ESTA ES UNA NOTICIA RELACIONADA A LA NOTICIA PRINCIPAL" in result.upper()
+    assert "### [SOURCES] FUENTES EXTERNAS Y LINKS DE REFERENCIA" in result
     assert "Recent" in result

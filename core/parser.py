@@ -9,16 +9,35 @@ BASE_URL = "https://www.perplexity.ai"
 
 async def extract_date_from_page(page, logger=None):
     """
-    Brute Force date extraction from page content.
+    Robust date extraction using specific selectors and scoped brute-force.
     """
     try:
-        raw_body_text = await page.evaluate("() => document.body.innerText")
+        # 1. Try specific semantic selectors first
+        date_selectors = [
+            'time', 
+            'span.truncate', 
+            '[class*="date"]', 
+            '[class*="published"]',
+            'div.flex.items-center.gap-x-2 span'
+        ]
+        
+        for selector in date_selectors:
+            elements = await page.locator(selector).all()
+            for el in elements:
+                text = await el.inner_text()
+                if any(re.search(p, text, re.I) for p in [r'\d+\s*(m|h|d|min|hour|day|ago)', r'\d{4}']):
+                    # Check if it's not a stock widget (usually stock widgets have currency or % near)
+                    parent_text = await el.evaluate("el => el.parentElement.innerText")
+                    if "$" not in parent_text and "%" not in parent_text:
+                        return text.strip()
+
+        # 2. Targeted brute force: first 5000 chars of innerText
+        raw_body_text = await page.evaluate("() => document.body.innerText.substring(0, 5000)")
         patterns = [
-            r'(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
             r'Published\s*\n\s*(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
-            r'Publicado\s*\n\s*(\d+)\s*abr', # Specific Spanish absolute match
-            r'Publicado\s*el\s*(\d+.*202\d)', # Robust Spanish absolute
-            r'(\d+)\s*(m|h|d|min|hour|day)s?\s*ago',
+            r'Publicado\s*\n\s*(\d+)\s*abr',
+            r'Publicado\s*el\s*(\d+.*202\d)',
+            r'(\d+)\s*(minute|min|mins|hour|hr|hrs|day|d)s?\s*ago',
             r'(\d+)(min|h|d|m|hr)s?\s*ago'
         ]
         
@@ -27,7 +46,7 @@ async def extract_date_from_page(page, logger=None):
             if match:
                 return match.group(0)
         
-        # Last resort: absolute date formats directly
+        # 3. Absolute date fallback
         abs_date_match = re.search(r'\d{1,2}\s+(?:de\s+)?(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|ene|abr|ago|dic|[a-z]{4,10})\s+(?:de\s+)?202\d', raw_body_text, re.I)
         if abs_date_match:
             return abs_date_match.group(0)
@@ -50,11 +69,31 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
             return None
         
         # 1. TÍTULO REAL
+        # 1. TÍTULO REAL (Improved Selectors)
         try:
-            real_title = await page.locator("h1").first.inner_text(timeout=5000)
+            # Prioritize semantic headers or large text near the top
+            title_selectors = [
+                 "h1", 
+                 "h1.prose-h1", 
+                 'div[data-testid="article-title"]',
+                 '[class*="title"] h1',
+                 '.prose h1'
+            ]
+            real_title = None
+            for selector in title_selectors:
+                el = page.locator(selector).first
+                if await el.count() > 0:
+                    text = await el.inner_text(timeout=2000)
+                    if text and len(text.strip()) > 5:
+                        real_title = text.strip()
+                        break
+            
+            if not real_title:
+                raw_title = await page.title()
+                real_title = raw_title.replace(" - Perplexity", "").replace("Perplexity", "").strip()
+                if not real_title: real_title = "Noticia Sin Título"
         except:
-            raw_title = await page.title()
-            real_title = raw_title.replace(" - Perplexity", "").strip()
+            real_title = "Noticia Sin Título"
         
         # 2. FECHA REAL (Main Article)
         date_text = await extract_date_from_page(page, logger)
@@ -74,8 +113,47 @@ async def scrape_article(context, page, url, last_run_time, mode, custom_hours, 
         
         logger.info(f"   [FILTRO] [OK] Dentro de rango. Procediendo al Deep Scraping...")
 
+        # 3. CONTENT SCRAPING (Enhanced for Logos/Icons)
         content_loc = page.locator('.prose, [dir="auto"], article, main').first
-        content_text = await (content_loc.inner_text() if await content_loc.count() > 0 else page.evaluate("() => document.body.innerText"))
+        if await content_loc.count() > 0:
+            content_text = await page.evaluate("""(selector) => {
+                const el = document.querySelector(selector);
+                if (!el) return "";
+                
+                // Function to process nodes and preserve alt text for icons/logos
+                const processNode = (node) => {
+                    if (node.nodeType === Node.TEXT_NODE) {
+                        return node.textContent;
+                    }
+                    if (node.nodeType === Node.ELEMENT_NODE) {
+                        // Skip hidden elements
+                        const style = window.getComputedStyle(node);
+                        if (style.display === 'none' || style.visibility === 'hidden') return "";
+
+                        // Handle images/icons that might be logos/names
+                        if (node.tagName === 'IMG' || node.tagName === 'SVG') {
+                            const alt = node.getAttribute('alt') || node.getAttribute('aria-label');
+                            return alt ? ` ${alt} ` : "";
+                        }
+                        
+                        let text = "";
+                        for (const child of node.childNodes) {
+                            text += processNode(child);
+                        }
+                        
+                        // Preserve some structure
+                        if (['P', 'DIV', 'H1', 'H2', 'H3', 'LI'].includes(node.tagName)) {
+                            text += "\\n";
+                        }
+                        return text;
+                    }
+                    return "";
+                };
+                return processNode(el).replace(/\\n\\s*\\n/g, '\\n\\n');
+            }""", '.prose, [dir="auto"], article, main')
+        else:
+            content_text = await page.evaluate("() => document.body.innerText")
+            
         content_text = clean_noise(content_text)
         
         # Deep Extraction: Related Stories Summarization

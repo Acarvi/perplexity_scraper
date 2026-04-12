@@ -125,49 +125,47 @@ async def run_scraper():
                         if result == "TOO_OLD":
                             logger.info(f"Reached strict date threshold in {cat_name}. STOPPING category.")
                             break
-                        if result:
+                        if result and isinstance(result, dict):
                             cat_results.append(result)
+                            # INCREMENTAL SAVING (Markdown - Per Article)
+                            with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+                                f.write(format_to_markdown(
+                                    result['category'], 
+                                    result['title'], 
+                                    result['date'], 
+                                    result['url'], 
+                                    result['content'], 
+                                    result['external_sources'],
+                                    result['related_stories']
+                                ))
                     
-                    all_content.extend(cat_results)
+                    if cat_results:
+                        all_content.extend(cat_results)
+                        # INCREMENTAL SAVING (JSON - Per Category)
+                        existing_data = []
+                        if os.path.exists(JSON_OUTPUT):
+                            try:
+                                with open(JSON_OUTPUT, "r", encoding="utf-8") as f:
+                                    existing_data = json.load(f)
+                            except: pass
+                        
+                        existing_data.extend(cat_results)
+                        with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
+                            json.dump(existing_data, f, indent=4, ensure_ascii=False)
+                        
+                        logger.success(f"Saved {len(cat_results)} stories from {cat_name}.")
             
             if all_content:
-                # NotebookLM Structured Markdown Export
-                # Premium Editorial Markdown Edition
-                with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
-                    for item in all_content:
-                        f.write(format_to_markdown(
-                            item['category'], 
-                            item['title'], 
-                            item['date'], 
-                            item['url'], 
-                            item['content'], 
-                            item['external_sources'],
-                            item['related_stories']
-                        ))
-                
-                # Structured JSON Export
-                existing_data = []
-                if os.path.exists(JSON_OUTPUT):
-                    try:
-                        with open(JSON_OUTPUT, "r", encoding="utf-8") as f:
-                            existing_data = json.load(f)
-                    except: pass
-                
-                existing_data.extend(all_content)
-                with open(JSON_OUTPUT, "w", encoding="utf-8") as f:
-                    json.dump(existing_data, f, indent=4, ensure_ascii=False)
-                
                 logger.success(f"Total Stories Scraped: {len(all_content)}")
                 save_last_run_time(start_time)
                 
-                # 4. NotebookLM Automation (Paso 2)
-                # This opens a new tab in the same CDP session to automate the upload
+                # 4. NotebookLM Automation
                 try:
                     success = await upload_to_notebooklm(context, os.path.abspath(OUTPUT_FILE), logger)
                     if success:
                         logger.success("NotebookLM Automation: Upload successful.")
                     else:
-                        logger.warning("NotebookLM Automation: Completed with warnings (check browser).")
+                        logger.warning("NotebookLM Automation: Completed with warnings.")
                 except Exception as e:
                     logger.error(f"NotebookLM Automation failed: {e}")
             
@@ -187,7 +185,6 @@ async def run_scraper():
                     try: await browser_running.disconnect()
                     except: pass
                 elif context:
-                    # En Modo Paralelo cerramos el contexto para cerrar la ventana dedicada
                     try: await context.close()
                     except: pass
             except Exception as e: 
