@@ -31,3 +31,8 @@ Thumbs.db
 # Project Cleanup
 logs/
 notebooklm_automation_plan.md
+
+# Security & Keys (Controlled by SentinelAPI)
+.env
+client_secrets.json
+*.pickle
